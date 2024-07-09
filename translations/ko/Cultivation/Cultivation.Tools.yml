@@ -1,34 +1,32 @@
 name: Cultivation
 translations:
   CLT_CROP_STICKS:
-    name: '&x&3&2&9&5&A&8Crop Sticks'
+    name: '&x&3&2&9&5&A&8Crop Sticks&7(재배용)'
     lore:
     - ''
-    - '&7Crop sticks must be applied to a'
-    - '&7placed seed in order for it to grow.'
-    - '&7Placing a second set will cross-crop'
-    - '&7the plant allowing it to spread and/or'
-    - '&7breed.'
+    - '&7씨앗이 자라려면 설치된 Cultivation 씨앗에'
+    - '&7이 아이템(Crop Sticks)을 사용해야합니다.'
+    - '&7같은 곳에 두 번 설치하면 교배된 작물이'
+    - '&7형성되어 작물이 확산되거나 번식할 수 있습니다.'
     - ''
     - '&x&E&4&E&D&3&2Tool'
   CLT_PLANT_ANALYSER:
-    name: '&x&3&2&9&5&A&8Plant Analyser'
+    name: '&x&3&2&9&5&A&8Plant Analyser&7(식물 분석기)'
     lore:
     - ''
-    - '&7A very basic tool that allows'
-    - '&7you to see a growing plant''s details'
+    - '&7아주 기본적인 도구로'
+    - '&7성장하는 식물의 세부 정보를 볼 수 있게 해줍니다.'
     - '&7'
-    - '&x&E&4&E&D&3&2Right Click: &7Lets you know the species and growth details of
-      a plant.'
-    - '&x&E&4&E&D&3&2Shift Right Click: &7Displays a plant or bushes name.'
+    - '&x&E&4&E&D&3&2우클릭: &7식물의 종과 성장 세부 정보를 알려줍니다.'
+    - '&x&E&4&E&D&3&2Shift + 우클릭: &7식물이나 덤불의 이름을 표시합니다.'
     - ''
     - '&x&E&4&E&D&3&2Tool'
   CLT_SEED_PACK:
-    name: '&x&3&2&9&5&A&8Seed Pack'
+    name: '&x&3&2&9&5&A&8Seed Pack&7(씨앗 팩)'
     lore:
     - ''
-    - '&7Right click to open this pack.'
+    - '&7우클릭으로 이 팩을 열 수 있습니다.'
     - '&7'
-    - '&x&E&4&E&D&3&2Set to: &7Nothing'
+    - '&x&E&4&E&D&3&2설정 됨: &7Nothing'
     - ''
     - '&x&E&4&E&D&3&2Tool'

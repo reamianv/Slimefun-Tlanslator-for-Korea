@@ -1,108 +1,108 @@
-name: ExtraHeads
+name: Extra머리s
 translations:
   PARROT_HEAD:
-    name: '&fParrot Head'
+    name: '&f앵무서 머리'
   ILLUSIONER_HEAD:
-    name: '&fIllusioner Head'
+    name: '&f환술사 머리'
   DROWNED_HEAD:
-    name: '&fDrowned Head'
+    name: '&f드라운드 머리'
   HORSE_HEAD:
-    name: '&fHorse Head'
+    name: '&f말 머리'
   PIGLIN_HEAD:
-    name: '&fPiglin Head'
+    name: '&f피글린 머리'
   CAMEL_HEAD:
-    name: '&fCamel Head'
+    name: '&f낙타 머리'
   MUSHROOM_COW_HEAD:
-    name: '&fMushroom Cow Head'
+    name: '&f무시룸 머리'
   STRIDER_HEAD:
-    name: '&fStrider Head'
+    name: '&fS스트라이더 머리'
   RABBIT_HEAD:
-    name: '&fRabbit Head'
+    name: '&f토끼 머리'
   LLAMA_HEAD:
-    name: '&fLlama Head'
+    name: '&f라마 머리'
   PIG_HEAD:
-    name: '&fPig Head'
+    name: '&fPig 머리'
   WANDERING_TRADER_HEAD:
-    name: '&fWandering Trader Head'
+    name: '&f행상인 주민 머리'
   PANDA_HEAD:
-    name: '&fPanda Head'
+    name: '&fP판다 머리'
   VINDICATOR_HEAD:
-    name: '&fVindicator Head'
+    name: '&f변명자 머리'
   DOLPHIN_HEAD:
-    name: '&fDolphin Head'
+    name: '&f돌고래 머리'
   AXOLOTL_HEAD:
-    name: '&fAxolotl Head'
+    name: '&f아홀로틀 머리'
   GOAT_HEAD:
-    name: '&fGoat Head'
+    name: '&f영소 머리'
   BLAZE_HEAD:
-    name: '&fBlaze Head'
+    name: '&f블레이드 머리'
   IRON_GOLEM_HEAD:
-    name: '&fIron Golem Head'
+    name: '&f철 골렘 머리'
   SLIME_HEAD:
-    name: '&fSlime Head'
+    name: '&f슬라임 머리'
   SQUID_HEAD:
-    name: '&fSquid Head'
+    name: '&f오징어 머리'
   TURTLE_HEAD:
-    name: '&fTurtle Head'
+    name: '&f거북이 머리'
   CAVE_SPIDER_HEAD:
-    name: '&fCave Spider Head'
+    name: '&f동굴 거미 머리'
   WITCH_HEAD:
-    name: '&fWitch Head'
+    name: '&f마녀 머리'
   POLAR_BEAR_HEAD:
-    name: '&fPolar Bear Head'
+    name: '&f북극곰 머리'
   VILLAGER_HEAD:
-    name: '&fVillager Head'
+    name: '&f주민 머리'
   HUSK_HEAD:
-    name: '&fHusk Head'
+    name: '&f허스크 머리'
   SNIFFER_HEAD:
-    name: '&fSniffer Head'
+    name: '&f스니퍼 머리'
   SPIDER_HEAD:
-    name: '&fSpider Head'
+    name: '&f거미 머리'
   TADPOLE_HEAD:
-    name: '&fTadpole Head'
+    name: '&f올챙이 머리'
   ELDER_GUARDIAN_HEAD:
-    name: '&fElder Guardian Head'
+    name: '&f장로 가디언 머리'
   STRAY_HEAD:
-    name: '&fStray Head'
+    name: '&f스트레이 머리'
   OCELOT_HEAD:
-    name: '&fOcelot Head'
+    name: '&f오셀롯 머리'
   SHEEP_HEAD:
-    name: '&fSheep Head'
+    name: '&f양 머리'
   PILLAGER_HEAD:
-    name: '&fPillager Head'
+    name: '&f약탈자 주민 머리'
   FOX_HEAD:
-    name: '&fFox Head'
+    name: '&f여우 머리'
   ZOMBIE_VILLAGER_HEAD:
-    name: '&fZombie Villager Head'
+    name: '&f좀비 주민 머리'
   BAT_HEAD:
-    name: '&fBat Head'
+    name: '&f박쥐 머리'
   GHAST_HEAD:
-    name: '&fGhast Head'
+    name: '&f가스트 머리'
   SHULKER_HEAD:
-    name: '&fShulker Head'
+    name: '&f셜커 머리'
   ENDERMAN_HEAD:
-    name: '&fEnderman Head'
+    name: '&f엔더맨 머리'
   WITHER_HEAD:
-    name: '&fWither Head'
+    name: '&f위더 머리'
   ALLAY_HEAD:
-    name: '&fAllay Head'
+    name: '&f알레이 머리'
   RAVAGER_HEAD:
-    name: '&fRavager Head'
+    name: '&f파괴수 머리'
   VEX_HEAD:
-    name: '&fVex Head'
+    name: '&f백스 머리'
   CHICKEN_HEAD:
-    name: '&fChicken Head'
+    name: '&f닭 머리'
   ZOMBIFIED_PIGLIN_HEAD:
-    name: '&fZombified Piglin Head'
+    name: '&f좀비 피글린 머리'
   GUARDIAN_HEAD:
-    name: '&fGuardian Head'
+    name: '&f가디언 머리'
   MAGMA_CUBE_HEAD:
-    name: '&fMagma Cube Head'
+    name: '&f마그마 큐브 머리'
   COW_HEAD:
-    name: '&fCow Head'
+    name: '&f소 머리'
   GLOW_SQUID_HEAD:
-    name: '&fGlow Squid Head'
+    name: '&발광 오징어 머리'
   EVOKER_HEAD:
-    name: '&fEvoker Head'
+    name: '&소환사 머리'
   FROG_HEAD:
-    name: '&fFrog Head'
+    name: '&f개구리 머리'

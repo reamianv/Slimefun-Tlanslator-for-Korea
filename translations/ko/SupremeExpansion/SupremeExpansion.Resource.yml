@@ -1,0 +1,272 @@
+name: SupremeExpansion
+translations:
+  RESOURCE_CORE_BEETROOT:
+    name: '&aSupreme Beetroot'
+    lore:
+    - ''
+    - '&7A super beetroot'
+  RESOURCE_CORE_WHEAT:
+    name: '&aSupreme Wheat'
+    lore:
+    - ''
+    - '&7A super wheat'
+  RESOURCE_CORE_COAL:
+    name: '&aSupreme coal'
+    lore:
+    - ''
+    - '&7A super coal'
+  RESOURCE_CORE_ACACIA_LOG:
+    name: '&aAcácia Suprema'
+    lore:
+    - ''
+    - '&7A super acacia'
+  RESOURCE_CORE_GREEN:
+    name: '&aSupreme Green'
+    lore:
+    - ''
+    - '&7A super green'
+  RESOURCE_CORE_BEEF:
+    name: '&aSupreme beef'
+    lore:
+    - ''
+    - '&7A super beef'
+  RESOURCE_CORE_CYAN:
+    name: '&aSupreme Cyan'
+    lore:
+    - ''
+    - '&7A super cyan'
+  RESOURCE_CORE_DARK_OAK_LOG:
+    name: '&aDark Supremo'
+    lore:
+    - ''
+    - '&7A super dark'
+  RESOURCE_CORE_ANDESITE:
+    name: '&aSupreme andesite'
+    lore:
+    - ''
+    - '&7A super andesite'
+  RESOURCE_CORE_PORKCHOP:
+    name: '&aSupreme bacon'
+    lore:
+    - ''
+    - '&7A super bacon'
+  RESOURCE_CORE_POTATO:
+    name: '&aSupreme Potato'
+    lore:
+    - ''
+    - '&7A super potato'
+  RESOURCE_CORE_QUARTZ:
+    name: '&aSupreme quartz'
+    lore:
+    - ''
+    - '&7A super quartz'
+  RESOURCE_CORE_GRAVEL:
+    name: '&aSupreme gravel'
+    lore:
+    - ''
+    - '&7A super gravel'
+  RESOURCE_CORE_ENDSTONE:
+    name: '&aSupreme endstone'
+    lore:
+    - ''
+    - '&7A super endstone'
+  RESOURCE_CORE_EMERALD:
+    name: '&aSupreme emerald'
+    lore:
+    - ''
+    - '&7A super emerald'
+  RESOURCE_CORE_CHICKEN:
+    name: '&aSupreme chicken'
+    lore:
+    - ''
+    - '&7A super chicken'
+  RESOURCE_CORE_APPLE:
+    name: '&aSupreme Apple'
+    lore:
+    - ''
+    - '&7A super apple'
+  RESOURCE_CORE_SUGAR_CANE:
+    name: '&aSupreme Sugar Cane'
+    lore:
+    - ''
+    - '&7A super sugar cane'
+  RESOURCE_CORE_MELON:
+    name: '&aSupreme Melon'
+    lore:
+    - ''
+    - '&7A super melon'
+  RESOURCE_CORE_MUTTON:
+    name: '&aSupreme mutton'
+    lore:
+    - ''
+    - '&7A super mutton'
+  RESOURCE_CORE_REDSTONE:
+    name: '&aSupreme redstone'
+    lore:
+    - ''
+    - '&7A super redstone'
+  RESOURCE_CORE_STONE:
+    name: '&aSupreme cobblestone'
+    lore:
+    - ''
+    - '&7A super cobblestone'
+  RESOURCE_CORE_IRON:
+    name: '&aSupreme iron'
+    lore:
+    - ''
+    - '&7A super iron'
+  RESOURCE_CORE_SALMON:
+    name: '&aSupreme salmon'
+    lore:
+    - ''
+    - '&7A super salmon'
+  RESOURCE_CORE_YELLOW:
+    name: '&aSupreme Yellow'
+    lore:
+    - ''
+    - '&7A super yellow'
+  RESOURCE_CORE_OAK_LOG:
+    name: '&aCarvalho Supremo'
+    lore:
+    - ''
+    - '&7A super oak'
+  RESOURCE_CORE_CRIMSON_STEM:
+    name: '&aCrimson Supremo'
+    lore:
+    - ''
+    - '&7A super crimson'
+  RESOURCE_CORE_RED:
+    name: '&aSupreme Red'
+    lore:
+    - ''
+    - '&7A super red'
+  RESOURCE_CORE_BLACK:
+    name: '&aSupreme Black'
+    lore:
+    - ''
+    - '&7A super black'
+  RESOURCE_CORE_WITHER_ROSE:
+    name: '&aRosa Suprema'
+    lore:
+    - ''
+    - '&7A super rose'
+  RESOURCE_CORE_PURPLE:
+    name: '&aSupreme Purple'
+    lore:
+    - ''
+    - '&7A super purple'
+  RESOURCE_CORE_BLUE:
+    name: '&aSupreme Blue'
+    lore:
+    - ''
+    - '&7A super blue'
+  RESOURCE_CORE_LAPIS:
+    name: '&aSupreme lapis'
+    lore:
+    - ''
+    - '&7A super lapis'
+  RESOURCE_CORE_GOLD:
+    name: '&aSupreme gold'
+    lore:
+    - ''
+    - '&7A super gold'
+  RESOURCE_CORE_WARPED_STEM:
+    name: '&aWarped Supremo'
+    lore:
+    - ''
+    - '&7A super warped'
+  RESOURCE_CORE_SPIDER_EYE:
+    name: '&aSupreme eye'
+    lore:
+    - ''
+    - '&7A super eye'
+  RESOURCE_CORE_GRAY:
+    name: '&aSupreme Gray'
+    lore:
+    - ''
+    - '&7A super gray'
+  RESOURCE_CORE_CLAY:
+    name: '&aSupreme clay'
+    lore:
+    - ''
+    - '&7A super clay'
+  RESOURCE_CORE_TEAR:
+    name: '&aSupreme tear'
+    lore:
+    - ''
+    - '&7A super tear'
+  RESOURCE_CORE_PINK:
+    name: '&aSupreme pink'
+    lore:
+    - ''
+    - '&7A super pink'
+  RESOURCE_CORE_SWEET_BERRIES:
+    name: '&aSupreme Barries'
+    lore:
+    - ''
+    - '&7A super barries'
+  RESOURCE_CORE_DIORITE:
+    name: '&aSupreme diorite'
+    lore:
+    - ''
+    - '&7A super diorite'
+  RESOURCE_CORE_CARROT:
+    name: '&aSupreme Carrot'
+    lore:
+    - ''
+    - '&7A Supreme Carrot'
+  RESOURCE_CORE_BIRCH_LOG:
+    name: '&aBétula Supremo'
+    lore:
+    - ''
+    - '&7A super birch'
+  RESOURCE_CORE_COD:
+    name: '&aSupreme cod'
+    lore:
+    - ''
+    - '&7A super cod'
+  RESOURCE_CORE_SPRUCE_LOG:
+    name: '&aPinheiro Supremo'
+    lore:
+    - ''
+    - '&7A super spruce'
+  RESOURCE_CORE_JUNGLE_LOG:
+    name: '&aJungle Suprema'
+    lore:
+    - ''
+    - '&7A super jungle'
+  RESOURCE_CORE_NETHERITE:
+    name: '&aSupreme netherite'
+    lore:
+    - ''
+    - '&7A super netherite'
+  RESOURCE_CORE_STRING:
+    name: '&aSupreme lead'
+    lore:
+    - ''
+    - '&7A super lead'
+  RESOURCE_CORE_PUMPKIN:
+    name: '&aSupreme Pumpkin'
+    lore:
+    - ''
+    - '&7A super pumpkin'
+  RESOURCE_CORE_SNOW:
+    name: '&aSupreme snow'
+    lore:
+    - ''
+    - '&7A super snow'
+  RESOURCE_CORE_SAND:
+    name: '&aSupreme sand'
+    lore:
+    - ''
+    - '&7A super sand'
+  RESOURCE_CORE_DIAMOND:
+    name: '&aSupreme diamond'
+    lore:
+    - ''
+    - '&7A super diamond'
+  RESOURCE_CORE_GRANITE:
+    name: '&aSupreme granite'
+    lore:
+    - ''
+    - '&7A super granite'

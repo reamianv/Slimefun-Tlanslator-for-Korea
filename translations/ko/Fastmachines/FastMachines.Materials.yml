@@ -1,16 +1,16 @@
 name: FastMachines
 translations:
   FM_ETERNAL_FIRE:
-    name: '&4Eternal Fire'
+    name: '&4Eternal Fire&7(영원한 불)'
     lore:
-    - '&7The fire that never goes out.'
+    - '&7꺼지지 않는 불꽃.'
   FM_STACKED_ANCIENT_PEDESTAL:
-    name: '&6Stacked Ancient Pedestal'
+    name: '&6Stacked Ancient Pedestal&7쌓인 고대 받침대)'
     lore:
-    - '&74 Ancient Pedestals in 1.'
-    - '&eRight click &7to break into'
-    - '&74 Ancient Pedestals.'
+    - '&74개의 Ancient Pedestals 가 있습니다'
+    - '&e우클릭으로 &74개의 Ancient Pedestals'
+    - '&74로 분리 할 수 있습니다.'
   FM_FAST_CORE:
-    name: '&bFast Core'
+    name: '&bFast Core&7(빠른 코어)'
     lore:
-    - '&7The core of a Fast Machine.'
+    - '&7빠른 기계의 핵심.'

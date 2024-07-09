@@ -1,0 +1,284 @@
+name: SupremeExpansion
+translations:
+  ARMOR_TITANIUM_CHESTPLATE:
+    name: '&f&lTitanium Chestplate'
+    lore:
+    - '&f&lA Chestplate of Titanium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  ARMOR_TITANIUM_LEGGINGS:
+    name: '&f&lTitanium Legging'
+    lore:
+    - '&f&lA Legging of Titanium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  ARMOR_THORNIUM_BOOTS_RARE:
+    name: '&b&lRare Boots'
+    lore:
+    - '&f&lA Rare boots of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+    - '&5Dolphins Grace II'
+    - '&5Fire Resistance II'
+  ARMOR_THORNIUM_HELMET:
+    name: '&f&lThornium Helmet'
+    lore:
+    - '&f&lA helmet of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+    - '&5Night Vision I'
+    - '&5Conduit Power I'
+    - '&5Water Breathing I'
+  ARMOR_THORNIUM_LEGGINGS_SUPREME:
+    name: '&4&lSupreme Leggings'
+    lore:
+    - '&f&lA Supreme leggings of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+    - '&5Speed III'
+    - '&5Fast Digging III'
+    - '&5Regeneration III'
+  ARMOR_THORNIUM_BOOTS_LEGENDARY:
+    name: '&6&lLegendary Boots'
+    lore:
+    - '&f&lA Legendary boots of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+    - '&5Dolphins Grace III'
+    - '&5Fire Resistance III'
+  ARMOR_AURUM_HELMET:
+    name: '&f&lAurum Helmet'
+    lore:
+    - '&f&lA Helmet of Aurum'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  ARMOR_THORNIUM_HELMET_LEGENDARY:
+    name: '&6&lLegendary Helmet'
+    lore:
+    - '&f&lA Legendary helmet of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+    - '&5Night Vision III'
+    - '&5Conduit Power III'
+    - '&5Water Breathing III'
+  ARMOR_THORNIUM_LEGGINGS:
+    name: '&f&lThornium Leggings'
+    lore:
+    - '&f&lA leggings of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+    - '&5Speed I'
+    - '&5Fast Digging I'
+    - '&5Regeneration I'
+  ARMOR_AURUM_BOOTS:
+    name: '&f&lAurum Boots'
+    lore:
+    - '&f&lA Boots of Aurum'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  ARMOR_THORNIUM_CHESTPLATE_SUPREME:
+    name: '&4&lSupreme Chestplate'
+    lore:
+    - '&f&lA Supreme chestplate of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+    - '&5Damage Resistance III'
+    - '&5Increase Damage III'
+    - '&5Saturation III'
+  ARMOR_THORNIUM_LEGGINGS_EPIC:
+    name: '&d&lEpic Leggings'
+    lore:
+    - '&f&lA Epic leggings of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+    - '&5Speed II'
+    - '&5Fast Digging II'
+    - '&5Regeneration II'
+  ARMOR_THORNIUM_BOOTS_MAGIC:
+    name: '&a&lMagic Boots'
+    lore:
+    - '&f&lA Magic boots of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+    - '&5Dolphins Grace I'
+    - '&5Fire Resistance I'
+  ARMOR_TITANIUM_BOOTS:
+    name: '&f&lTitanium Boots'
+    lore:
+    - '&f&lA Boots of Titanium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  ARMOR_THORNIUM_HELMET_RARE:
+    name: '&b&lRare Helmet'
+    lore:
+    - '&f&lA Rare helmet of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+    - '&5Night Vision II'
+    - '&5Conduit Power II'
+    - '&5Water Breathing II'
+  ARMOR_THORNIUM_HELMET_SUPREME:
+    name: '&4&lSupreme Helmet'
+    lore:
+    - '&f&lA Supreme helmet of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+    - '&5Night Vision III'
+    - '&5Conduit Power III'
+    - '&5Water Breathing III'
+  ARMOR_AURUM_CHESTPLATE:
+    name: '&f&lAurum Chestplate'
+    lore:
+    - '&f&lA Chestplate of Aurum'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  ARMOR_THORNIUM_LEGGINGS_MAGIC:
+    name: '&a&lMagic Leggings'
+    lore:
+    - '&f&lA Magic leggings of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+    - '&5Speed I'
+    - '&5Fast Digging I'
+    - '&5Regeneration I'
+  ARMOR_ADAMANTIUM_BOOTS:
+    name: '&f&lAdamantium Boots'
+    lore:
+    - '&f&lA Boots of Adamantium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  ARMOR_THORNIUM_LEGGINGS_LEGENDARY:
+    name: '&6&lLegendary Leggings'
+    lore:
+    - '&f&lA Legendary leggings of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+    - '&5Speed III'
+    - '&5Fast Digging III'
+    - '&5Regeneration III'
+  ARMOR_THORNIUM_CHESTPLATE_EPIC:
+    name: '&d&lEpic Chestplate'
+    lore:
+    - '&f&lA Epic chestplate of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+    - '&5Damage Resistance II'
+    - '&5Increase Damage II'
+    - '&5Saturation II'
+  ARMOR_THORNIUM_CHESTPLATE:
+    name: '&f&lThornium Chestplate'
+    lore:
+    - '&f&lA chestplate of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+    - '&5Damage Resistance I'
+    - '&5Increase Damage I'
+    - '&5Saturation I'
+  ARMOR_THORNIUM_CHESTPLATE_MAGIC:
+    name: '&a&lMagic Chestplate'
+    lore:
+    - '&f&lA Magic chestplate of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+    - '&5Damage Resistance I'
+    - '&5Increase Damage I'
+    - '&5Saturation I'
+  ARMOR_THORNIUM_BOOTS_SUPREME:
+    name: '&4&lSupreme Boots'
+    lore:
+    - '&f&lA Supreme boots of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+    - '&5Dolphins Grace III'
+    - '&5Fire Resistance III'
+  ARMOR_THORNIUM_HELMET_MAGIC:
+    name: '&a&lMagic Helmet'
+    lore:
+    - '&f&lA Magic helmet of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+    - '&5Night Vision I'
+    - '&5Conduit Power I'
+    - '&5Water Breathing I'
+  ARMOR_AURUM_LEGGINGS:
+    name: '&f&lAurum Legging'
+    lore:
+    - '&f&lA Legging of Aurum'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  ARMOR_THORNIUM_CHESTPLATE_LEGENDARY:
+    name: '&6&lLegendary Chestplate'
+    lore:
+    - '&f&lA Legendary chestplate of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+    - '&5Damage Resistance III'
+    - '&5Increase Damage III'
+    - '&5Saturation III'
+  ARMOR_THORNIUM_LEGGINGS_RARE:
+    name: '&b&lRare Leggings'
+    lore:
+    - '&f&lA Rare leggings of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+    - '&5Speed II'
+    - '&5Fast Digging II'
+    - '&5Regeneration II'
+  ARMOR_TITANIUM_HELMET:
+    name: '&f&lTitanium Helmet'
+    lore:
+    - '&f&lA Helmet of Titanium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  ARMOR_ADAMANTIUM_CHESTPLATE:
+    name: '&f&lAdamantium Chestplate'
+    lore:
+    - '&f&lA Chestplate of Adamantium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  ARMOR_THORNIUM_BOOTS_EPIC:
+    name: '&d&lEpic Boots'
+    lore:
+    - '&f&lA Epic boots of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+    - '&5Dolphins Grace II'
+    - '&5Fire Resistance II'
+  ARMOR_ADAMANTIUM_HELMET:
+    name: '&f&lAdamantium Helmet'
+    lore:
+    - '&f&lA Helmet of Adamantium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  ARMOR_THORNIUM_CHESTPLATE_RARE:
+    name: '&b&lRare Chestplate'
+    lore:
+    - '&f&lA Rare chestplate of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+    - '&5Damage Resistance II'
+    - '&5Increase Damage II'
+    - '&5Saturation II'
+  ARMOR_THORNIUM_BOOTS:
+    name: '&f&lThornium boots'
+    lore:
+    - '&f&lA boots of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+    - '&5Dolphins Grace I'
+    - '&5Fire Resistance I'
+  ARMOR_ADAMANTIUM_LEGGINGS:
+    name: '&f&lAdamantium Legging'
+    lore:
+    - '&f&lA Legging of Adamantium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  ARMOR_THORNIUM_HELMET_EPIC:
+    name: '&d&lEpic Helmet'
+    lore:
+    - '&f&lA Epic helmet of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+    - '&5Night Vision II'
+    - '&5Conduit Power II'
+    - '&5Water Breathing II'

@@ -1,0 +1,142 @@
+name: SupremeExpansion
+translations:
+  THORNIUM_CAPACITOR:
+    name: '&9Thornium Capacitor'
+    lore:
+    - ''
+    - '&4End-Game Capacitor'
+    - '&8⇨ &e⚡ &7100,000,000.00 J Capacity'
+  BASIC_LUX_GENERATOR:
+    name: '&9Basic Lux Generator'
+    lore:
+    - '&fNeeds to receive sunlight'
+    - '&for moonlight to work'
+    - ''
+    - '&eBasic Generator'
+    - '&8⇨ &e⚡ &75,000.00 J Buffer'
+    - '&8⇨ &b⚡ &72,500.00 J/s'
+  LUMIUM_GENERATOR:
+    name: '&9Lumium Generator'
+    lore:
+    - '&fNeeds to be below ground to work'
+    - ''
+    - ''
+    - '&6Advanced Generator'
+    - '&8⇨ &e⚡ &7500,000.00 J Buffer'
+    - '&8⇨ &b⚡ &775,000.00 J/s'
+  ADAMANTIUM_CAPACITOR:
+    name: '&9Adamantium Capacitor'
+    lore:
+    - ''
+    - '&6Advanced Capacitor'
+    - '&8⇨ &e⚡ &716,000,000.00 J Capacity'
+  TITANIUM_CAPACITOR:
+    name: '&9Titanium Capacitor'
+    lore:
+    - ''
+    - '&6Advanced Capacitor'
+    - '&8⇨ &e⚡ &74,000,000.00 J Capacity'
+  THORNIUM_GENERATOR:
+    name: '&9Thornium Generator'
+    lore:
+    - '&fGenerates energy anywhere'
+    - ''
+    - ''
+    - '&4End-Game Generator'
+    - '&8⇨ &e⚡ &76,000,000.00 J Buffer'
+    - '&8⇨ &b⚡ &71,000,000.00 J/s'
+  AURUM_CAPACITOR:
+    name: '&9Aurum Capacitor'
+    lore:
+    - ''
+    - '&6Advanced Capacitor'
+    - '&8⇨ &e⚡ &71,000,000.00 J Capacity'
+  BASIC_LUMIUM_GENERATOR:
+    name: '&9Basic Lumium Generator'
+    lore:
+    - '&fNeeds to be below ground to work'
+    - ''
+    - ''
+    - '&6Advanced Generator'
+    - '&8⇨ &e⚡ &710,000.00 J Buffer'
+    - '&8⇨ &b⚡ &75,000.00 J/s'
+  BASIC_IGNIS_GENERATOR:
+    name: '&9Basic Ignis Generator'
+    lore:
+    - '&fNeed fire under this block to work'
+    - ''
+    - ''
+    - '&eBasic Generator'
+    - '&8⇨ &e⚡ &75,000.00 J Buffer'
+    - '&8⇨ &b⚡ &72,500.00 J/s'
+  VENTUS_GENERATOR:
+    name: '&9Ventus Generator'
+    lore:
+    - '&fIt needs to be with its faces'
+    - '&fin the wind to work'
+    - ''
+    - '&eBasic Generator'
+    - '&8⇨ &e⚡ &750,000.00 J Buffer'
+    - '&8⇨ &b⚡ &725,000.00 J/s'
+  IGNIS_GENERATOR:
+    name: '&9Ignis Generator'
+    lore:
+    - '&fNeed fire under this block to work'
+    - ''
+    - ''
+    - '&6Advanced Generator'
+    - '&8⇨ &e⚡ &750,000.00 J Buffer'
+    - '&8⇨ &b⚡ &725,000.00 J/s'
+  LUX_GENERATOR:
+    name: '&9Lux Generator'
+    lore:
+    - '&fNeeds to receive sunlight'
+    - '&for moonlight to work'
+    - ''
+    - '&6Advanced Generator'
+    - '&8⇨ &e⚡ &750,000.00 J Buffer'
+    - '&8⇨ &b⚡ &725,000.00 J/s'
+  AQUA_GENERATOR:
+    name: '&9Aqua Generator'
+    lore:
+    - '&fNeed water under this block to work'
+    - ''
+    - ''
+    - '&6Advanced Generator'
+    - '&8⇨ &e⚡ &750,000.00 J Buffer'
+    - '&8⇨ &b⚡ &725,000.00 J/s'
+  BASIC_VENTUS_GENERATOR:
+    name: '&9Basic Ventus Generator'
+    lore:
+    - '&fIt needs to be with its faces'
+    - '&fin the wind to work'
+    - ''
+    - '&eBasic Generator'
+    - '&8⇨ &e⚡ &75,000.00 J Buffer'
+    - '&8⇨ &b⚡ &72,500.00 J/s'
+  BASIC_AQUA_GENERATOR:
+    name: '&9Basic Aqua Generator'
+    lore:
+    - '&fNeed water under this block to work'
+    - ''
+    - ''
+    - '&eBasic Generator'
+    - '&8⇨ &e⚡ &75,000.00 J Buffer'
+    - '&8⇨ &b⚡ &72,500.00 J/s'
+  SUPREME_GENERATOR:
+    name: '&9Supreme Generator'
+    lore:
+    - '&fGenerates energy anywhere'
+    - ''
+    - ''
+    - '&4End-Game Generator'
+    - '&8⇨ &e⚡ &712,000,000.00 J Buffer'
+    - '&8⇨ &b⚡ &72,000,000.00 J/s'
+  SUPREME_CAPACITOR:
+    name: '&9Supreme Capacitor'
+    lore:
+    - '&c&oDo not use more than '
+    - '&c&o1 per energy network'
+    - ''
+    - '&4End-Game Capacitor'
+    - '&8⇨ &e⚡ &7Infinite J Capacity'

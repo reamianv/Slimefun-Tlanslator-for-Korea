@@ -1,18 +1,18 @@
 name: SlimefunLuckyBlocks
 translations:
   LUCKY_BLOCK:
-    name: '&fLucky Block'
+    name: '&fLucky Block&7(운 블록)'
     lore:
-    - '&7Luck: &f0'
+    - '&7운: &f0'
   LUCKY_BLOCK_LUCKY:
-    name: '&fVery lucky Block'
+    name: '&fVery lucky Block&7(행운 블록)'
     lore:
-    - '&7Luck: &a+80'
+    - '&7운: &a+80'
   LUCKY_BLOCK_UNLUCKY:
-    name: '&fVery unlucky Block'
+    name: '&fVery unlucky Block&(불행 블록)'
     lore:
-    - '&7Luck: &c-80'
+    - '&7운: &c-80'
   PANDORAS_BOX:
-    name: '&5Pandora"s Box'
+    name: '&5Pandora"s Box&7(판도라의 상자)'
     lore:
-    - '&7Luck: &c&oERROR'
+    - '&7운: &c&oERROR'

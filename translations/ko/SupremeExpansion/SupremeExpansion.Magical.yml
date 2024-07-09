@@ -1,0 +1,83 @@
+name: SupremeExpansion
+translations:
+  ATTRIBUTE_MAGIC:
+    name: '&aAttribute Magic'
+    lore:
+    - ''
+    - '&7A super magic attribute with special effects'
+  CORE_OF_BLOCK:
+    name: '&aCore of Block'
+    lore:
+    - ''
+    - '&7This core contains several blocks'
+    - '&7that have been collected around the world.'
+  CORE_OF_COLOR:
+    name: '&aCore of Color'
+    lore:
+    - ''
+    - '&7This core contains several colors'
+    - '&7that have been collected around the world.'
+  CETRUS_IGNIS:
+    name: '&aCetrus Ignis'
+    lore:
+    - ''
+    - '&7A super ignis scepter'
+  CETRUS_VENTUS:
+    name: '&aCetrus Ventus'
+    lore:
+    - ''
+    - '&7A super ventus scepter'
+  CORE_OF_ALLOY:
+    name: '&aCore of Alloy'
+    lore:
+    - ''
+    - '&7This core contains several ores'
+    - '&7that have been collected around the world.'
+  ATTRIBUTE_BOMB:
+    name: '&aAttribute Bomb'
+    lore:
+    - ''
+    - '&7A super bomb attribute with special effects'
+  CORE_OF_LIFE:
+    name: '&aCore of Life'
+    lore:
+    - ''
+    - '&7This core contains fragments of life'
+    - '&7that have been collected by the world.'
+  CORE_OF_NATURE:
+    name: '&aCore of Nature'
+    lore:
+    - ''
+    - '&7This core contains several natural'
+    - '&7that have been collected around the world.'
+  CETRUS_AQUA:
+    name: '&aCetrus Aqua'
+    lore:
+    - ''
+    - '&7A super aqua scepter'
+  CORE_OF_DEATH:
+    name: '&aCore of Death'
+    lore:
+    - ''
+    - '&7This core contains the souls of '
+    - '&7various entities that have gone beyond.'
+  CETRUS_LUMIUM:
+    name: '&aCetrus Lumium'
+    lore:
+    - ''
+    - '&7A super lumium scepter'
+  ATTRIBUTE_FORTUNE:
+    name: '&aAttribute Fortune'
+    lore:
+    - ''
+    - '&7A super fortune attribute with special effects'
+  CETRUS_LUX:
+    name: '&aCetrus Lux'
+    lore:
+    - ''
+    - '&7A super lux scepter'
+  ATTRIBUTE_IMPETUS:
+    name: '&aAttribute Impetus'
+    lore:
+    - ''
+    - '&7A super impetus attribute with special effects'

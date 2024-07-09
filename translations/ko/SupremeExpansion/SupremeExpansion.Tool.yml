@@ -1,0 +1,164 @@
+name: SupremeExpansion
+translations:
+  TOOLS_TITANIUM_AXE:
+    name: '&f&lTitanium Axe'
+    lore:
+    - '&f&lA Axe of Titanium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  TOOLS_ADAMANTIUM_PICKAXE:
+    name: '&f&lAdamantium Pickaxe'
+    lore:
+    - '&f&lA Pickaxe of Adamantium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  TOOLS_TITANIUM_PICKAXE:
+    name: '&f&lTitanium Pickaxe'
+    lore:
+    - '&f&lA Pickaxe of Titanium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  TOOLS_THORNIUM_SHOVEL_RARE:
+    name: '&b&lRare Shovel'
+    lore:
+    - '&f&lA Rare Shovel of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  TOOLS_THORNIUM_AXE_LEGENDARY:
+    name: '&6&lLegendary Axe'
+    lore:
+    - '&f&lA Legendary Axe of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  TOOLS_THORNIUM_AXE_MAGIC:
+    name: '&a&lMagic Axe'
+    lore:
+    - '&f&lA Magic Axe of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  TOOLS_THORNIUM_SHOVEL_LEGENDARY:
+    name: '&6&lLegendary Shovel'
+    lore:
+    - '&f&lA Legendary Shovel of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  TOOLS_THORNIUM_PICKAXE_MAGIC:
+    name: '&a&lMagic Pickaxe'
+    lore:
+    - '&f&lA Magic Pickaxe of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  TOOLS_THORNIUM_PICKAXE_SUPREME:
+    name: '&4&lSupreme Pickaxe'
+    lore:
+    - '&f&lA Supreme Pickaxe of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  TOOLS_AURUM_PICKAXE:
+    name: '&f&lAurum Pickaxe'
+    lore:
+    - '&f&lA Pickaxe of Aurum'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  TOOLS_THORNIUM_AXE_RARE:
+    name: '&b&lRare Axe'
+    lore:
+    - '&f&lA Rare Axe of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  TOOLS_THORNIUM_PICKAXE_RARE:
+    name: '&b&lRare Pickaxe'
+    lore:
+    - '&f&lA Rare Pickaxe of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  TOOLS_THORNIUM_AXE_SUPREME:
+    name: '&4&lSupreme Axe'
+    lore:
+    - '&f&lA Supreme Axe of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  TOOLS_THORNIUM_PICKAXE_LEGENDARY:
+    name: '&6&lLegendary Pickaxe'
+    lore:
+    - '&f&lA Legendary Pickaxe of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  TOOLS_ADAMANTIUM_AXE:
+    name: '&f&lAdamantium Axe'
+    lore:
+    - '&f&lA Axe of Adamantium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  TOOLS_ADAMANTIUM_SHOVEL:
+    name: '&f&lAdamantium Shovel'
+    lore:
+    - '&f&lA Shovel of Adamantium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  TOOLS_THORNIUM_SHOVEL_EPIC:
+    name: '&d&lEpic Shovel'
+    lore:
+    - '&f&lA Epic Shovel of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  TOOLS_TITANIUM_SHOVEL:
+    name: '&f&lTitanium Shovel'
+    lore:
+    - '&f&lA Shovel of Titanium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  TOOLS_AURUM_AXE:
+    name: '&f&lAurum Axe'
+    lore:
+    - '&f&lA Axe of Aurum'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  TOOLS_AURUM_SHOVEL:
+    name: '&f&lAurum Shovel'
+    lore:
+    - '&f&lA Shovel of Aurum'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  TOOLS_THORNIUM_SHOVEL_SUPREME:
+    name: '&4&lSupreme Shovel'
+    lore:
+    - '&f&lA Supreme Shovel of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  TOOLS_THORNIUM_SHOVEL:
+    name: '&f&lThornium Shovel'
+    lore:
+    - '&f&lA Shovel of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  TOOLS_THORNIUM_PICKAXE_EPIC:
+    name: '&d&lEpic Pickaxe'
+    lore:
+    - '&f&lA Epic Pickaxe of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  TOOLS_THORNIUM_SHOVEL_MAGIC:
+    name: '&a&lMagic Shovel'
+    lore:
+    - '&f&lA Magic Shovel of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  TOOLS_THORNIUM_AXE:
+    name: '&f&lThornium Axe'
+    lore:
+    - '&f&lA Axe of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  TOOLS_THORNIUM_AXE_EPIC:
+    name: '&d&lEpic Axe'
+    lore:
+    - '&f&lA Epic Axe of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  TOOLS_THORNIUM_PICKAXE:
+    name: '&f&lThornium Pickaxe'
+    lore:
+    - '&f&lA Pickaxe of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
