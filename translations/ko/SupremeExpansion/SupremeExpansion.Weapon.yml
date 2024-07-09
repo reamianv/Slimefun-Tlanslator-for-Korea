@@ -1,0 +1,128 @@
+name: SupremeExpansion
+translations:
+  WEAPONS_THORNIUM_SWORD:
+    name: '&f&lThornium Sword'
+    lore:
+    - '&f&lA Sword of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  WEAPONS_THORNIUM_SWORD_SUPREME:
+    name: '&4&lSupreme Sword'
+    lore:
+    - '&f&lA Supreme Sword of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  WEAPONS_THORNIUM_SHIELD_MAGIC:
+    name: '&a&lMagic Shield'
+    lore:
+    - '&f&lA Magic Shield of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  WEAPONS_THORNIUM_SHIELD_SUPREME:
+    name: '&4&lSupreme Shield'
+    lore:
+    - '&f&lA Supreme Shield of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  WEAPONS_THORNIUM_BOW:
+    name: '&f&lThornium Bow'
+    lore:
+    - '&f&lA Bow of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  WEAPONS_TITANIUM_SWORD:
+    name: '&f&lTitanium Sword'
+    lore:
+    - '&f&lA Sword of Titanium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  WEAPONS_THORNIUM_BOW_SUPREME:
+    name: '&4&lSupreme Bow'
+    lore:
+    - '&f&lA Supreme Bow ofThornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  WEAPONS_THORNIUM_SHIELD:
+    name: '&f&lThornium Shield'
+    lore:
+    - '&f&lA Shield of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  WEAPONS_THORNIUM_BOW_LEGENDARY:
+    name: '&6&lLegendary Bow'
+    lore:
+    - '&f&lA Legendary Bow of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  WEAPONS_THORNIUM_BOW_RARE:
+    name: '&b&lRare Bow'
+    lore:
+    - '&f&lA Rare Bow of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  WEAPONS_ADAMANTIUM_SWORD:
+    name: '&f&lAdamantium Sword'
+    lore:
+    - '&f&lA Sword of Adamantium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  WEAPONS_THORNIUM_BOW_EPIC:
+    name: '&d&lEpic Bow'
+    lore:
+    - '&f&lA Epic Bow of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  WEAPONS_THORNIUM_SWORD_EPIC:
+    name: '&d&lEpic Sword'
+    lore:
+    - '&f&lA Epic Sword of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  WEAPONS_THORNIUM_SHIELD_LEGENDARY:
+    name: '&6&lLegendary Shield'
+    lore:
+    - '&f&lA Legendary Shield of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  WEAPONS_AURUM_SWORD:
+    name: '&f&lAurum Sword'
+    lore:
+    - '&f&lA Sword of Aurum'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  WEAPONS_THORNIUM_SWORD_MAGIC:
+    name: '&a&lMagic Sword'
+    lore:
+    - '&f&lA Magic Sword of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  WEAPONS_THORNIUM_SWORD_RARE:
+    name: '&b&lRare Sword'
+    lore:
+    - '&f&lA Rare Sword of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  WEAPONS_THORNIUM_SWORD_LEGENDARY:
+    name: '&6&lLegendary Sword'
+    lore:
+    - '&f&lA Legendary Sword of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  WEAPONS_THORNIUM_BOW_MAGIC:
+    name: '&a&lMagic Bow'
+    lore:
+    - '&f&lA Magic Bow of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  WEAPONS_THORNIUM_SHIELD_RARE:
+    name: '&b&lRare Shield'
+    lore:
+    - '&f&lA Rare Shield of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'
+  WEAPONS_THORNIUM_SHIELD_EPIC:
+    name: '&d&lEpic Shield'
+    lore:
+    - '&f&lA Epic Shield of Thornium'
+    - '&dSupreme Expansion'
+    - '&bSoulbound'

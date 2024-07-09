@@ -1,0 +1,180 @@
+name: SupremeExpansion
+translations:
+  RESOURCE_RUSTLESS_MACHINE:
+    name: '&aRustless Machine'
+    lore:
+    - ''
+    - '&cMachine Component'
+  RESOURCE_CARRIAGE_MACHINE:
+    name: '&aCarriage Machine'
+    lore:
+    - ''
+    - '&cMachine Component'
+  RESOURCE_CONVEYANCE_MACHINE:
+    name: '&aConveyance Machine'
+    lore:
+    - ''
+    - '&cAdvanced Machine Component'
+  SUPREME_NUGGET:
+    name: '&aNugget Supreme'
+    lore:
+    - ''
+    - '&7From the Quarry Nugget Supreme'
+  RESOURCE_PETRIFIER_MACHINE:
+    name: '&aPetrifier Machine'
+    lore:
+    - ''
+    - '&cMachine Component'
+  RESOURCE_ZIRCONIUM_PLATE:
+    name: '&aZirconium Plate'
+    lore:
+    - ''
+    - '&7Machine Component'
+  SUPREME:
+    name: '&aSupreme'
+    lore:
+    - ''
+    - '&7The Supreme'
+  RESOURCE_ALLOY_ZIRCONIUM:
+    name: '&aAlloy Zirconium'
+    lore:
+    - ''
+    - '&7Machine Component'
+  RESOURCE_THORNERITE:
+    name: '&aThornerite'
+    lore:
+    - ''
+    - '&7Machine Component'
+  RESOURCE_STAINLESS_MACHINE:
+    name: '&aStainless Machine'
+    lore:
+    - ''
+    - '&cAdvanced Machine Component'
+  RESOURCE_MANGANESE_PLATE:
+    name: '&aManganese Plate'
+    lore:
+    - ''
+    - '&7Machine Component'
+  RESOURCE_THORNIUM_CARBONADO:
+    name: '&aThornium Carbonado'
+    lore:
+    - ''
+    - '&7From the Thornium Ingot'
+  RESOURCE_THORNIUM_BIT:
+    name: '&aThornium Bit'
+    lore:
+    - ''
+    - '&7From the Quarry Thornium'
+  RESOURCE_THORNIUM_DUST:
+    name: '&aThornium Dust'
+    lore:
+    - ''
+    - '&7From the Thornium Bit'
+  RESOURCE_ALLOY_TITANIUM:
+    name: '&aAlloy Titanium'
+    lore:
+    - ''
+    - '&7Machine Component'
+  RESOURCE_INDUCTOR_MACHINE:
+    name: '&aInductor Machine'
+    lore:
+    - ''
+    - '&cAdvanced Machine Component'
+  RESOURCE_IRIDIUM_PLATE:
+    name: '&aIridium Plate'
+    lore:
+    - ''
+    - '&7Machine Component'
+  RESOURCE_THORNIUM_BIT_SYNTHETIC:
+    name: '&aThornium Bit Synthetic'
+    lore:
+    - ''
+    - '&7From the Thornium Bit'
+  RESOURCE_SYNTHETIC_AMETHYST:
+    name: '&4Synthetic Amethyst'
+    lore:
+    - ''
+  RESOURCE_ALLOY_PLATINUM:
+    name: '&aAlloy Platinum'
+    lore:
+    - ''
+    - '&7Machine Component'
+  RESOURCE_ALLOY_IRIDIUM:
+    name: '&aAlloy Iridium'
+    lore:
+    - ''
+    - '&7Machine Component'
+  RESOURCE_THORNIUM_ENERGIZED:
+    name: '&aThornium Energized'
+    lore:
+    - ''
+    - '&7From the Thornium Ingot'
+  RESOURCE_INDUCTIVE_MACHINE:
+    name: '&aInductive Machine'
+    lore:
+    - ''
+    - '&cMachine Component'
+  RESOURCE_ALLOY_ADAMANTIUM:
+    name: '&aAlloy Adamantium'
+    lore:
+    - ''
+    - '&7Machine Component'
+  RESOURCE_THORNIUM_DUST_SYNTHETIC:
+    name: '&aThornium Dust Synthetic'
+    lore:
+    - ''
+    - '&7From the Thornium Dust'
+  RESOURCE_PLATINUM_PLATE:
+    name: '&aPlatinum Plate'
+    lore:
+    - ''
+    - '&7Machine Component'
+  RESOURCE_THORNIUM_INGOT:
+    name: '&aThornium Ingot'
+    lore:
+    - ''
+    - '&7From the Thornium Dust'
+  RESOURCE_THORNIUM_INGOT_SYNTHETIC:
+    name: '&aThornium Ingot Synthetic'
+    lore:
+    - ''
+    - '&7From the Thornium Ingot'
+  RESOURCE_SYNTHETIC_RUBY:
+    name: '&4Synthetic Ruby'
+    lore:
+    - ''
+  RESOURCE_AURUM_PLATE:
+    name: '&aAurum Plate'
+    lore:
+    - ''
+    - '&7Machine Component'
+  RESOURCE_TITANIUM_PLATE:
+    name: '&aTitanium Plate'
+    lore:
+    - ''
+    - '&7Machine Component'
+  RESOURCE_ALLOY_AURUM:
+    name: '&aAlloy Aurum'
+    lore:
+    - ''
+    - '&7Machine Component'
+  RESOURCE_CRYSTALLIZER_MACHINE:
+    name: '&aCrystallizer Machine'
+    lore:
+    - ''
+    - '&cAdvanced Machine Component'
+  RESOURCE_ADAMANTIUM_PLATE:
+    name: '&aAdamantium Plate'
+    lore:
+    - ''
+    - '&7Machine Component'
+  RESOURCE_ALLOY_MANGANESE:
+    name: '&aAlloy Manganese'
+    lore:
+    - ''
+    - '&7Machine Component'
+  RESOURCE_BLEND_MACHINE:
+    name: '&aBlend Machine'
+    lore:
+    - ''
+    - '&cAdvanced Machine Component'

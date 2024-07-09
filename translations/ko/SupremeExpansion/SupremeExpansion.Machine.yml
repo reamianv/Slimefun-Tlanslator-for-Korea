@@ -1,0 +1,136 @@
+name: SupremeExpansion
+translations:
+  ELECTRIC_CORE_MACHINE:
+    name: '&bElectric Core Machine'
+    lore:
+    - ''
+    - '&fCraft resource of core'
+    - ''
+    - '&6Advanced Machine'
+    - '&8⇨ &b⚡ &7Speed: &b1.0x'
+    - '&8⇨ &b⚡ &720.00 J/s'
+  UNIQUENUGGETS_QUARRY:
+    name: '&eNuggets of Supreme Quarry'
+    lore:
+    - ''
+    - '&6Advanced Machine'
+    - '&8⇨ &b⚡ &710.00 J/item'
+    - '&8⇨ &e⚡ &71,000.00 J Buffer'
+    - '&aNugget Supreme &e5%'
+    - '&bNetherite block &e5%'
+    - '&bEmerald block &e10%'
+    - '&bDiamond block &e10%'
+    - '&aThornium Bit &e10%'
+    - '&bCoal block &e20%'
+    - '&bIron block &e20%'
+    - '&bGold block &e20%'
+  CORE_FABRICATOR:
+    name: '&eCore Fabricator'
+    lore:
+    - ''
+    - '&7&oYou can craft core here!'
+    - ''
+    - '&aMultiBlock Machine'
+  MACHINE_MAGICAL_FABRICATOR:
+    name: '&eMagical Fabricator'
+    lore:
+    - ''
+    - '&7&oYou can craft magical here!'
+    - ''
+    - '&aMultiBlock Machine'
+  DIAMOND_QUARRY:
+    name: '&eDiamond Quarry'
+    lore:
+    - ''
+    - '&6Advanced Machine'
+    - '&8⇨ &b⚡ &710.00 J/item'
+    - '&8⇨ &e⚡ &71,000.00 J Buffer'
+    - '&bDiamond &e20%'
+    - '&bEmerald &e20%'
+    - '&bQuartz &e20%'
+    - '&bObsidian &e5%'
+    - '&bCrying obsidian &e5%'
+    - '&bEnd stone &e20%'
+    - '&bSea lantern &e5%'
+    - '&bBlackstone &e5%'
+  ELECTRIC_CORE_MACHINE_II:
+    name: '&bElectric Core Machine II'
+    lore:
+    - ''
+    - '&fAdvanced craft resource of core'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &b⚡ &7Speed: &b5.0x'
+    - '&8⇨ &b⚡ &7100.00 J/s'
+  GOLD_QUARRY:
+    name: '&eGold Quarry'
+    lore:
+    - ''
+    - '&6Advanced Machine'
+    - '&8⇨ &b⚡ &720.00 J/item'
+    - '&8⇨ &e⚡ &710,000.00 J Buffer'
+    - '&bGold ingot &e20%'
+    - '&bGlowstone dust &e5%'
+    - '&bLapis lazuli &e20%'
+    - '&bRedstone &e20%'
+    - '&6Sulfate &e10%'
+    - '&fBucket of Oil &e5%'
+    - '&bClay &e10%'
+    - '&bSnow block &e10%'
+  COAL_QUARRY:
+    name: '&eCoal Quarry'
+    lore:
+    - ''
+    - '&6Advanced Machine'
+    - '&8⇨ &b⚡ &720.00 J/item'
+    - '&8⇨ &e⚡ &710,000.00 J Buffer'
+    - '&bCoal &e20%'
+    - '&bMycelium &e10%'
+    - '&bCobblestone &e10%'
+    - '&bGravel &e20%'
+    - '&bClay ball &e20%'
+    - '&bSnowball &e20%'
+  ELECTRIC_CORE_MACHINE_III:
+    name: '&bElectric Core Machine III'
+    lore:
+    - ''
+    - '&fAdvanced craft resource of core'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &b⚡ &7Speed: &b15.0x'
+    - '&8⇨ &b⚡ &7300.00 J/s'
+  THORNIUM_QUARRY:
+    name: '&eThornium Quarry'
+    lore:
+    - ''
+    - '&6Advanced Machine'
+    - '&8⇨ &b⚡ &710.00 J/item'
+    - '&8⇨ &e⚡ &71,000.00 J Buffer'
+    - '&aThornium Bit &e5%'
+    - '&bNetherite ingot &e5%'
+    - '&bIron block &e15%'
+    - '&bCoal block &e15%'
+    - '&bLapis block &e15%'
+    - '&bQuartz block &e15%'
+    - '&bRedstone block &e15%'
+    - '&bGold block &e15%'
+  MACHINE_GEAR_FABRICATOR:
+    name: '&eGear Fabricator'
+    lore:
+    - ''
+    - '&7&oYou can craft weapons, armor and tools here!'
+    - ''
+    - '&aMultiBlock Machine'
+  IRON_QUARRY:
+    name: '&eIron Quarry'
+    lore:
+    - ''
+    - '&6Advanced Machine'
+    - '&8⇨ &b⚡ &720.00 J/item'
+    - '&8⇨ &e⚡ &710,000.00 J Buffer'
+    - '&bIron ingot &e20%'
+    - '&bIce &e10%'
+    - '&bSand &e10%'
+    - '&bGranite &e20%'
+    - '&bAndesite &e20%'
+    - '&bDiorite &e20%'
