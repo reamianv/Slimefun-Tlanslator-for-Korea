@@ -1,0 +1,708 @@
+name: Cultivation
+translations:
+  CLT_CHERRY:
+    name: '&x&C&C&D&1&2&3Cherry'
+    lore:
+    - ''
+    - '&7Oh, I thought they grew Glacé''d, shame!'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_PEA:
+    name: '&x&C&C&D&1&2&3Peas'
+    lore:
+    - ''
+    - '&7Often found in pairs within a pod, or so I hear.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_TOMATO:
+    name: '&x&C&C&D&1&2&3Tomato'
+    lore:
+    - ''
+    - '&7Right off of the vine.... err... bush?'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_CUMIN:
+    name: '&x&C&C&D&1&2&3Cumin'
+    lore:
+    - ''
+    - '&7A warm citrusy plant.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_HAZELNUT:
+    name: '&x&C&C&D&1&2&3Hazelnut'
+    lore:
+    - ''
+    - '&7Do whatever you need to turn this into'
+    - '&7a coffee for me, now!'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_AUBERGINE:
+    name: '&x&C&C&D&1&2&3Aubergine'
+    lore:
+    - ''
+    - '&7Bright purple and 100% NOT egg shaped.'
+    - '&7Better call it an eggplant, right?'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_FENNEL:
+    name: '&x&C&C&D&1&2&3Fennel'
+    lore:
+    - ''
+    - '&7Like a mix of Anise and Liquorice.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_PINEAPPLE:
+    name: '&x&C&C&D&1&2&3Pineapple'
+    lore:
+    - ''
+    - '&7This belongs on every pizza in existence.'
+    - '&7Wanna fight about it!?'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_PINTO_BEANS:
+    name: '&x&C&C&D&1&2&3Pinto Beans'
+    lore:
+    - ''
+    - '&7Kaching! It''s burrito time.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_TURNIP:
+    name: '&x&C&C&D&1&2&3Turnip'
+    lore:
+    - ''
+    - '&7Will solve all of life''s problems.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_GREEN_ONION:
+    name: '&x&C&C&D&1&2&3Green Onion'
+    lore:
+    - ''
+    - '&7Goes great on tacos!'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_LEMON:
+    name: '&x&C&C&D&1&2&3Lemon'
+    lore:
+    - ''
+    - '&7Why the sour look?'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_CAULIFLOWER:
+    name: '&x&C&C&D&1&2&3Cauliflower'
+    lore:
+    - ''
+    - '&7A portable cloud!'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_BANANA:
+    name: '&x&C&C&D&1&2&3Banana'
+    lore:
+    - ''
+    - '&7I like the look and peel of this!'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_STRAWBERRY:
+    name: '&x&C&C&D&1&2&3Strawberry'
+    lore:
+    - ''
+    - '&7Just add cream!'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_TURMERIC:
+    name: '&x&C&C&D&1&2&3Turmeric'
+    lore:
+    - ''
+    - '&7A strong musky presence to fill out many dishes.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_OREGANO:
+    name: '&x&C&C&D&1&2&3Oregano'
+    lore:
+    - ''
+    - '&7A classic staple cupboard herb.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_CLOVE:
+    name: '&x&C&C&D&1&2&3Clove'
+    lore:
+    - ''
+    - '&7A super warm and intense flavour.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_OKRA:
+    name: '&x&C&C&D&1&2&3Okra'
+    lore:
+    - ''
+    - '&7Grown alot in okra-homa... right, RIGHT?'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_JUNIPER_BERRY:
+    name: '&x&C&C&D&1&2&3Juniper Berries'
+    lore:
+    - ''
+    - '&7Dried to a peppery perfection.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_ARTICHOKE:
+    name: '&x&C&C&D&1&2&3Artichoke'
+    lore:
+    - ''
+    - '&7Rip out it''s HEART!'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_CHILLY_PEPPER:
+    name: '&x&C&C&D&1&2&3Chilly Pepper'
+    lore:
+    - ''
+    - '&7I can eat a whole pepper without crying.'
+    - '&7Well, half.'
+    - '&7WEEEELLL.... 1/4'
+    - '&7...'
+    - '&7Ok I can touch one on my tounge'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_CHICKPEAS:
+    name: '&x&C&C&D&1&2&3Chickpeas'
+    lore:
+    - ''
+    - '&7Black eyed peas can sing a tune, chickpeas can only hummus one.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_SPINACH:
+    name: '&x&C&C&D&1&2&3Spinach'
+    lore:
+    - ''
+    - '&7Wilted with love.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_MACE:
+    name: '&x&C&C&D&1&2&3Mace'
+    lore:
+    - ''
+    - '&7Used to spray in the face of attackers.'
+    - '&7...'
+    - '&7What do you mean that''s not the right type of mace?'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_CABBAGE:
+    name: '&x&C&C&D&1&2&3Cabbage'
+    lore:
+    - ''
+    - '&7A baggage of cabbage.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_CAYENNE_PEPPER:
+    name: '&x&C&C&D&1&2&3Cayenne Pepper'
+    lore:
+    - ''
+    - '&7A soft spicy treat.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_GREEN_BEANS:
+    name: '&x&C&C&D&1&2&3Green Beans'
+    lore:
+    - ''
+    - '&7How creatively named!'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_SHALLOT:
+    name: '&x&C&C&D&1&2&3Shallot'
+    lore:
+    - ''
+    - '&7I do love a lot of shallot.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_LETTUCE:
+    name: '&x&C&C&D&1&2&3Lettuce'
+    lore:
+    - ''
+    - '&7Thin, watery and yet delicious.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_RAPESEED:
+    name: '&x&C&C&D&1&2&3Rapeseed'
+    lore:
+    - ''
+    - '&7Oft-used to create oils.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_PEAR:
+    name: '&x&C&C&D&1&2&3Pear'
+    lore:
+    - ''
+    - '&7Wouldn''t you say this looks pear-fect?'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_LEEK:
+    name: '&x&C&C&D&1&2&3Leek'
+    lore:
+    - ''
+    - '&7for some reason it''s dripping with water?'
+    - '&7Perhaps it''s sprung a leek?'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_CUCUMBER:
+    name: '&x&C&C&D&1&2&3Cucumber'
+    lore:
+    - ''
+    - '&7Water in a green shell, prove me'
+    - '&7wrong.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_LIME:
+    name: '&x&C&C&D&1&2&3Lime'
+    lore:
+    - ''
+    - '&7One upon a lime there was a delicious fruit...'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_VANILLA:
+    name: '&x&C&C&D&1&2&3Vanilla'
+    lore:
+    - ''
+    - '&7Instructions: Dip directly into a Latte'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_CHIVES:
+    name: '&x&C&C&D&1&2&3Chives'
+    lore:
+    - ''
+    - '&7A sweat, onion-tasting, herb.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_LICORICE:
+    name: '&x&C&C&D&1&2&3Licorice'
+    lore:
+    - ''
+    - '&7Run, run away now!'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_RUTABAGA:
+    name: '&x&C&C&D&1&2&3Rutabaga'
+    lore:
+    - ''
+    - '&7It actually hurts not calling this a swede.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_DILL:
+    name: '&x&C&C&D&1&2&3Dill'
+    lore:
+    - ''
+    - '&7Just taste like grass to me. Why'
+    - '&7do people like this?'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_APRICOT:
+    name: '&x&C&C&D&1&2&3Apricot'
+    lore:
+    - ''
+    - '&7You can make Pokéballs out of these.'
+    - '&7...'
+    - '&7What do you mean that''s different thing...?'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_PEPPER:
+    name: '&x&C&C&D&1&2&3Black Pepper'
+    lore:
+    - ''
+    - '&7Spicier than salt.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_STAR_ANISE:
+    name: '&x&C&C&D&1&2&3Star Anise'
+    lore:
+    - ''
+    - '&7One of the best and most unique flavours.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_MARROW:
+    name: '&x&C&C&D&1&2&3Marrow'
+    lore:
+    - ''
+    - '&7Did you know marrows are found within'
+    - '&7your bones?'
+    - '&7Yup, Sefi Smort.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_RICE:
+    name: '&x&C&C&D&1&2&3Rice'
+    lore:
+    - ''
+    - '&7Remember, you only live rice!'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_BROCCOLI:
+    name: '&x&C&C&D&1&2&3Broccoli'
+    lore:
+    - ''
+    - '&7Are you a giant holding a tree?'
+    - '&7Naw, just a tiny tree :)'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_GRAPE:
+    name: '&x&C&C&D&1&2&3Grape'
+    lore:
+    - ''
+    - '&7So plump!'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_GINGER:
+    name: '&x&C&C&D&1&2&3Ginger'
+    lore:
+    - ''
+    - '&7Chopped Ginger in boiling water, heals all ailments!'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_RADICCHIO:
+    name: '&x&C&C&D&1&2&3Radicchio'
+    lore:
+    - ''
+    - '&7Writing all this lore takes so long.'
+    - '&7It''s radicchio-less.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_PECAN:
+    name: '&x&C&C&D&1&2&3Pecan'
+    lore:
+    - ''
+    - '&7Just begging to be made into a pie.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_BAY_LEAF:
+    name: '&x&C&C&D&1&2&3Bay Leaf'
+    lore:
+    - ''
+    - '&7A strong aromat with many uses.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_KIWI:
+    name: '&x&C&C&D&1&2&3Kiwi'
+    lore:
+    - ''
+    - '&7I put this in the addon under duress.'
+    - '&7Kiwis are evil and anyone who'
+    - '&7uses them will automatically lose'
+    - '&7100 points.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_LAVENDER:
+    name: '&x&C&C&D&1&2&3Lavender'
+    lore:
+    - ''
+    - '&7A smell that can make me drift slowly to sleep.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_BLACK_BEANS:
+    name: '&x&C&C&D&1&2&3Black Beans'
+    lore:
+    - ''
+    - '&7A delicious vegetarian protein.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_ONION:
+    name: '&x&C&C&D&1&2&3Onion'
+    lore:
+    - ''
+    - '&7Wait, why are you crying?'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_RUNNER_BEANS:
+    name: '&x&C&C&D&1&2&3Runner Beans'
+    lore:
+    - ''
+    - '&7Always trying to get away.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_CINNAMON:
+    name: '&x&C&C&D&1&2&3Cinnamon'
+    lore:
+    - ''
+    - '&7Great to chew on in it''s stick form.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_WASABI:
+    name: '&x&C&C&D&1&2&3Wasabi'
+    lore:
+    - ''
+    - '&7Help... wasabi...'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_SHISO:
+    name: '&x&C&C&D&1&2&3Shiso'
+    lore:
+    - ''
+    - '&7Mint with a side of love.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_THYME:
+    name: '&x&C&C&D&1&2&3Thyme'
+    lore:
+    - ''
+    - '&7Often missed rosemary.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_CHESTNUT:
+    name: '&x&C&C&D&1&2&3Chestnut'
+    lore:
+    - ''
+    - '&7Designed to be baked, immediately.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_CELERIAC:
+    name: '&x&C&C&D&1&2&3Celeriac'
+    lore:
+    - ''
+    - '&7A hearty root that''s rooted (heh) in many'
+    - '&7traditional recipes.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_BELL_PEPPER:
+    name: '&x&C&C&D&1&2&3Bell Pepper'
+    lore:
+    - ''
+    - '&7Really rings true.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_MANGO:
+    name: '&x&C&C&D&1&2&3Mango'
+    lore:
+    - ''
+    - '&7MAN, I gotta GO.'
+    - '&7Lore is hard...'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_ASPARAGUS:
+    name: '&x&C&C&D&1&2&3Asparagus'
+    lore:
+    - ''
+    - '&7Careful when visiting the bathroom later.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_COURGETTE:
+    name: '&x&C&C&D&1&2&3Courgette'
+    lore:
+    - ''
+    - '&7Pro Tip: Grate this into any pasta sauce'
+    - '&7for depth and texture.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_PARSLEY:
+    name: '&x&C&C&D&1&2&3Parsley'
+    lore:
+    - ''
+    - '&7Worst. Herb. Ever.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_ORANGE:
+    name: '&x&C&C&D&1&2&3Orange'
+    lore:
+    - ''
+    - '&7Isn''t this meant to be clockwork?'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_KAFFIR_LIME:
+    name: '&x&C&C&D&1&2&3Kaffir Lime Leaf'
+    lore:
+    - ''
+    - '&7A leaf with a mighty zest.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_SASSAFRAS:
+    name: '&x&C&C&D&1&2&3Sassafras'
+    lore:
+    - ''
+    - '&7Edible Root Beer, seriously google'
+    - '&7it, I buy it constantly now.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_SWEET_POTATO:
+    name: '&x&C&C&D&1&2&3Sweet Potato'
+    lore:
+    - ''
+    - '&7Yam yam yam.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_AVOCADO:
+    name: '&x&C&C&D&1&2&3Avocado'
+    lore:
+    - ''
+    - '&7What hipsters dream about.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_CELERY:
+    name: '&x&C&C&D&1&2&3Celery'
+    lore:
+    - ''
+    - '&7Literally just stringy water. Convince'
+    - '&7me otherwise.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_NETTLES:
+    name: '&x&C&C&D&1&2&3Nettles'
+    lore:
+    - ''
+    - '&7Please put on your gloves before holding these.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_PARSNIP:
+    name: '&x&C&C&D&1&2&3Parsnip'
+    lore:
+    - ''
+    - '&7Requires roasting immediately.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_JASMINE:
+    name: '&x&C&C&D&1&2&3Jasmine'
+    lore:
+    - ''
+    - '&7Makes for a wonderful tea.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_JALAPENO:
+    name: '&x&C&C&D&1&2&3Jalapeno'
+    lore:
+    - ''
+    - '&7HOT HOT HOT.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_CURRY_LEAF:
+    name: '&x&C&C&D&1&2&3Curry Leaf'
+    lore:
+    - ''
+    - '&7The basis of so many wonderful foods.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_BRUSSELS_SPROUTS:
+    name: '&x&C&C&D&1&2&3Brussels Sprouts'
+    lore:
+    - ''
+    - '&7A gassious delight.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_SOY_BEANS:
+    name: '&x&C&C&D&1&2&3Soy Beans'
+    lore:
+    - ''
+    - '&7Soy milk cometh.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_BASIL:
+    name: '&x&C&C&D&1&2&3Basil'
+    lore:
+    - ''
+    - '&7A sweet leaf with a soft peppery aftertaste.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_RHUBARB:
+    name: '&x&C&C&D&1&2&3Rhubarb'
+    lore:
+    - ''
+    - '&7Just be sure to remove the leaves!'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_SWEETCORN:
+    name: '&x&C&C&D&1&2&3Sweetcorn'
+    lore:
+    - ''
+    - '&7Perhaps the best vegetable around.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_HORSERADISH:
+    name: '&x&C&C&D&1&2&3Horseradish'
+    lore:
+    - ''
+    - '&7$100 if you bite right into it.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_GARLIC:
+    name: '&x&C&C&D&1&2&3Garlic'
+    lore:
+    - ''
+    - '&7Quick, before the vampires come!'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_MINT:
+    name: '&x&C&C&D&1&2&3Mint'
+    lore:
+    - ''
+    - '&7Chew chew chew.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_GREEN_APPLE:
+    name: '&x&C&C&D&1&2&3Green Apple'
+    lore:
+    - ''
+    - '&7The note says... Dear Teacher?'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_PEACH:
+    name: '&x&C&C&D&1&2&3Peach'
+    lore:
+    - ''
+    - '&7We don''t talk about the Emoji'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_CHICORY:
+    name: '&x&C&C&D&1&2&3Chicory'
+    lore:
+    - ''
+    - '&7A nutty, bitter root.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_TARRAGON:
+    name: '&x&C&C&D&1&2&3Tarragon'
+    lore:
+    - ''
+    - '&7I literally put this on anything.'
+    - '&7Spoiler: Im not a good chef.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_RADDISH:
+    name: '&x&C&C&D&1&2&3Raddish'
+    lore:
+    - ''
+    - '&7Little pockets of fresh, crisp, sunshine.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_CILANTRO:
+    name: '&x&C&C&D&1&2&3Cilantro'
+    lore:
+    - ''
+    - '&7A soft spice with a hit of citrus.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_MUSTARD_SEEDS:
+    name: '&x&C&C&D&1&2&3Mustard Seeds'
+    lore:
+    - ''
+    - '&7Chew them, I dare you!'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_MARJORAM:
+    name: '&x&C&C&D&1&2&3Marjoram'
+    lore:
+    - ''
+    - '&7I''m in a bit of a curry, could we talk later?'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_PEANUT:
+    name: '&x&C&C&D&1&2&3Peanut'
+    lore:
+    - ''
+    - '&7Reece''s here I come!'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_ROSEMARY:
+    name: '&x&C&C&D&1&2&3Rosemary'
+    lore:
+    - ''
+    - '&7Often misses thyme.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_KALE:
+    name: '&x&C&C&D&1&2&3Kale'
+    lore:
+    - ''
+    - '&7Help, im a 2020 smoothie hipster!'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'

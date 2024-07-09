@@ -1,0 +1,237 @@
+name: DynaTech
+translations:
+  POTION_SPRINKLER:
+    name: '&6Potion Sprinkler'
+    lore:
+    - ''
+    - '&fRanged Multiple person potion effect applier.'
+    - ''
+    - '&aMedium Machine'
+    - '&8⇨ &e⚡ &764 J/s'
+  GROWTH_CHAMBER:
+    name: '&6Growth Chamber'
+    lore:
+    - ''
+    - '&fAutomatically grows &eplants&f.'
+    - ''
+    - '&f&oIts like a small greenhouse!'
+    - ''
+    - '&aMedium Machine'
+    - '&8⇨ &b⚡ &7Speed: &b1.0x'
+    - '&8⇨ &e⚡ &764 J/s'
+  GROWTH_CHAMBER_END:
+    name: '&dEnd Growth Chamber'
+    lore:
+    - ''
+    - '&fAutomatically grows &dchorus flowers.'
+    - ''
+    - '&aMedium Machine'
+    - '&8⇨ &b⚡ &7Speed: &b1.0x'
+    - '&8⇨ &e⚡ &764 J/s'
+  WEATHER_CONTROLLER:
+    name: '&6Weather Controller'
+    lore:
+    - ''
+    - '&fControls the weather when given a key item.'
+    - ''
+    - '&aMedium Machine'
+    - '&8⇨ &e⚡ &764 J/s'
+  BANDAID_MANAGER:
+    name: '&6Item Band Manager'
+    lore:
+    - ''
+    - '&fManages Item Bands'
+    - ''
+    - '&6Advanced Machine'
+    - '&8⇨ &e⚡ &796 J/s'
+  WIRELESS_ENERGY_POINT:
+    name: '&6Wireless Energy Point'
+    lore:
+    - ''
+    - '&fTransfers Energy Wirelessly'
+    - '&ffrom a Wireless Energy Bank'
+    - Right Click on the Wireless Energy Bank to connect!
+    - ''
+    - '&aMedium Machine'
+    - '&8⇨ &e⚡ &75120 J Buffer'
+    - '&8⇨ &e⚡ &72,048 J/s'
+    - ''
+  WIRELESS_ITEM_OUTPUT:
+    name: '&6Wireless Item Output'
+    lore:
+    - ''
+    - '&fTransfer Items Wirelessly'
+    - '&ffrom Wireless Item Input'
+    - Right Click on the Wireless Item Input to connect!
+    - ''
+    - '&aMedium Machine'
+    - '&8⇨ &e⚡ &71024 J Buffer'
+    - '&8⇨ &e⚡ &78 J per stack of items'
+    - ''
+  ORECHID:
+    name: '&6Orechid'
+    lore:
+    - ''
+    - '&fUsing Stone or Netherack and power, it makes their respective ores.'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &71,024 J per block converted.'
+  TESSERACT:
+    name: '&6Tesseract'
+    lore:
+    - ''
+    - '&fTransfers Items and Energy Wirelessly'
+    - '&fThese are even 2-way!'
+    - Right Click on another Tesseract to connect!
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &765535 J Buffer'
+    - '&8⇨ &e⚡ &72,048 J/s'
+    - ''
+  WIRELESS_ITEM_INPUT:
+    name: '&6Wireless Item Input'
+    lore:
+    - ''
+    - '&fTransfers Items Wirelessly'
+    - '&f to Wireless Item Output'
+    - ''
+    - '&aMedium Machine'
+    - '&8⇨ &e⚡ &71024 J Buffer'
+    - '&8⇨ &e⚡ &78 J per stack of items'
+    - ''
+  GROWTH_CHAMBER_OCEAN:
+    name: '&bOcean Growth Chamber'
+    lore:
+    - ''
+    - '&fAutomatically grows &9water &fplants.'
+    - Can revive dead coral!
+    - ''
+    - '&aMedium Machine'
+    - '&8⇨ &b⚡ &7Speed: &b1.0x'
+    - '&8⇨ &e⚡ &764 J/s'
+  GROWTH_CHAMBER_OCEAN_MK2:
+    name: '&bOcean Growth Chamber MK2'
+    lore:
+    - ''
+    - '&fAutomatically grows &9water &fplants.'
+    - Can revive dead coral!
+    - ''
+    - '&c3x production.'
+    - '&aMedium Machine'
+    - '&8⇨ &b⚡ &7Speed: &b3.0x'
+    - '&8⇨ &e⚡ &7256 J/s'
+  ANTIGRAVITY_BUBBLE:
+    name: '&6Antigravity Bubble'
+    lore:
+    - ''
+    - '&f Creative Flight within an 45 block area'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &7256 J/s'
+  DT_EXTERNAL_HEATER:
+    name: '&6External Heater'
+    lore:
+    - ''
+    - '&fExternally heats Furnaces, Blast Furnaces,'
+    - '&fand Smokers.'
+    - ''
+    - '&aMedium Machine'
+    - '&8⇨ &e⚡ &72048 J Buffer'
+    - '&8⇨ &e⚡ &7128 J per heated block'
+  GROWTH_CHAMBER_NETHER:
+    name: '&cNether Growth Chamber'
+    lore:
+    - ''
+    - '&fAutomatically grows &cnether &fplants.'
+    - ''
+    - '&aMedium Machine'
+    - '&8⇨ &b⚡ &7Speed: &b1.0x'
+    - '&8⇨ &e⚡ &764 J/s'
+  GROWTH_CHAMBER_END_MK2:
+    name: '&dEnd Growth Chamber MK2'
+    lore:
+    - ''
+    - '&fAutomatically grows &dchorus flowers.'
+    - ''
+    - '&c3x production.'
+    - '&aMedium Machine'
+    - '&8⇨ &b⚡ &7Speed: &b3.0x'
+    - '&8⇨ &e⚡ &7256 J/s'
+  MATERIAL_HIVE:
+    name: '&6Material Hive'
+    lore:
+    - ''
+    - '&fUsing power and bees, slowly generates materials.'
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &72,048 J/s'
+  WIRELESS_CHARGER:
+    name: '&6Wireless Charger'
+    lore:
+    - ''
+    - '&fWireless charge items in your inventory'
+    - ''
+    - '&aMedium Machine'
+    - '&8⇨ &e⚡ &732 J/s'
+  SEED_PLUCKER:
+    name: '&6Seed Plucker'
+    lore:
+    - ''
+    - '&fPull seeds out of plant based items.'
+    - ''
+    - '&aMedium Machine'
+    - '&8⇨ &e⚡ &764 J/s'
+  WIRELESS_ENERGY_BANK:
+    name: '&6Wireless Energy Bank'
+    lore:
+    - ''
+    - '&fStores power for an'
+    - '&fWireless Energy Point to use.'
+    - ''
+    - '&aMedium Capacitor'
+    - '&8⇨ &e⚡ &710240 J Buffer'
+    - '&8⇨ &e⚡ &72,048 J/s'
+    - ''
+  BARBED_WIRE:
+    name: '&6Barbed Wire'
+    lore:
+    - ''
+    - '&fPushes mobs away in a radius.'
+    - ''
+    - '&aMedium Machine'
+    - '&8⇨ &e⚡ &732 J/s'
+  KITCHEN_AUTO_CRAFTER:
+    name: '&6Kitchen Auto Crafter'
+    lore:
+    - ''
+    - '&fAutomatically makes Kitchen recipes'
+    - ''
+    - '&f&oSmells like cookies'
+    - ''
+    - '&aMedium Machine'
+    - '&8⇨ &b⚡ &7Speed: &b1.0x'
+    - '&8⇨ &e⚡ &732 J/s'
+  GROWTH_CHAMBER_MK2:
+    name: '&6Growth Chamber MK2'
+    lore:
+    - ''
+    - '&fAutomatically grows &eplants&f.'
+    - ''
+    - '&f&oIts like a small greenhouse!'
+    - ''
+    - '&c3x production.'
+    - '&aMedium Machine'
+    - '&8⇨ &b⚡ &7Speed: &b3.0x'
+    - '&8⇨ &e⚡ &7256 J/s'
+  GROWTH_CHAMBER_NETHER_MK2:
+    name: '&cNether Growth Chamber MK2'
+    lore:
+    - ''
+    - '&fAutomatically grows &cnether &fplants.'
+    - ''
+    - '&c3x production.'
+    - '&aMedium Machine'
+    - '&8⇨ &b⚡ &7Speed: &b3.0x'
+    - '&8⇨ &e⚡ &7256 J/s'

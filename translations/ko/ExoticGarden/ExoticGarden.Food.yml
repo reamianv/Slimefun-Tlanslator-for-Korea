@@ -1,0 +1,530 @@
+name: ExoticGarden
+translations:
+  POTATO_SALAD:
+    name: Potato Salad
+    lore:
+    - ''
+    - '&7&oRestores &b&o6.0 &7&oHunger'
+  BACON:
+    name: Bacon
+    lore:
+    - ''
+    - '&7&oRestores &b&o1.5 &7&oHunger'
+  PANCAKES:
+    name: Pancakes
+    lore:
+    - ''
+    - '&7&oRestores &b&o6.0 &7&oHunger'
+  BLACKBERRY_PIE:
+    name: '&8Blackberry Pie'
+    lore:
+    - ''
+    - '&7&oRestores &b&o6.5 &7&oHunger'
+  CREAM_COOKIE:
+    name: Cream Cookie
+    lore:
+    - ''
+    - '&7&oRestores &b&o6.0 &7&oHunger'
+  EGG_SALAD:
+    name: Egg Salad
+    lore:
+    - ''
+    - '&7&oRestores &b&o6.0 &7&oHunger'
+  POPCORN:
+    name: Popcorn
+    lore:
+    - ''
+    - '&7&oRestores &b&o4.0 &7&oHunger'
+  LAMINGTON:
+    name: Lamington
+    lore:
+    - ''
+    - '&7&oRestores &b&o9.0 &7&oHunger'
+  BLACKBERRY_COBBLER:
+    name: '&8Blackberry Cobbler'
+    lore:
+    - ''
+    - '&7&oRestores &b&o6.0 &7&oHunger'
+  RASPBERRY_PIE:
+    name: '&dRaspberry Pie'
+    lore:
+    - ''
+    - '&7&oRestores &b&o6.5 &7&oHunger'
+  LEAFY_FISH_SANDWICH:
+    name: Leafy Fish Sandwich
+    lore:
+    - ''
+    - '&7&oRestores &b&o6.5 &7&oHunger'
+  LEAFY_CHICKEN_SANDWICH:
+    name: Leafy Chicken Sandwich
+    lore:
+    - ''
+    - '&7&oRestores &b&o6.5 &7&oHunger'
+  GARLIC_CHEESE_BREAD:
+    name: Garlic Cheese Bread
+    lore:
+    - ''
+    - '&7&oRestores &b&o6.5 &7&oHunger'
+  CHERRY_PIE:
+    name: '&cCherry Pie'
+    lore:
+    - ''
+    - '&7&oRestores &b&o6.5 &7&oHunger'
+  SWEET_BERRY_PANCAKES:
+    name: Sweet Berry Pancakes
+    lore:
+    - ''
+    - '&7&oRestores &b&o6.5 &7&oHunger'
+  LASAGNA:
+    name: Lasagna
+    lore:
+    - ''
+    - '&7&oRestores &b&o8.5 &7&oHunger'
+  SHEPARDS_PIE:
+    name: Shepard's Pie
+    lore:
+    - ''
+    - '&7&oRestores &b&o8.0 &7&oHunger'
+  CHOCOLATE_CAKE:
+    name: Chocolate Cake
+    lore:
+    - ''
+    - '&7&oRestores &b&o8.5 &7&oHunger'
+  SWEETENED_PEAR_CHEESECAKE:
+    name: '&6Sweetened Pear Cheesecake'
+    lore:
+    - ''
+    - '&7&oRestores &b&o9.0 &7&oHunger'
+  BLUEBERRY_PANCAKES:
+    name: Blueberry Pancakes
+    lore:
+    - ''
+    - '&7&oRestores &b&o6.5 &7&oHunger'
+  CARROT_CAKE:
+    name: Carrot Cake
+    lore:
+    - ''
+    - '&7&oRestores &b&o6.0 &7&oHunger'
+  TOMATO_SOUP:
+    name: '&4Tomato Soup'
+    lore:
+    - ''
+    - '&7&oRestores &b&o5.5 &7&oHunger'
+  TIRAMISU_WITH_STRAWBERRIES:
+    name: Tiramisu with Strawberries
+    lore:
+    - ''
+    - '&7&oRestores &b&o9.0 &7&oHunger'
+  SWEET_POTATO_PIE:
+    name: Sweet Potato Pie
+    lore:
+    - ''
+    - '&7&oRestores &b&o6.5 &7&oHunger'
+  APPLE_PEAR_CAKE:
+    name: '&cApple Pear Cake'
+    lore:
+    - ''
+    - '&7&oRestores &b&o9.0 &7&oHunger'
+  CHEESECAKE:
+    name: Cheesecake
+    lore:
+    - ''
+    - '&7&oRestores &b&o8.0 &7&oHunger'
+  BLT:
+    name: BLT
+    lore:
+    - ''
+    - '&7&oRestores &b&o9.0 &7&oHunger'
+  SANDWICH:
+    name: Sandwich
+    lore:
+    - ''
+    - '&7&oRestores &b&o9.5 &7&oHunger'
+  TIRAMISU:
+    name: Tiramisu
+    lore:
+    - ''
+    - '&7&oRestores &b&o8.0 &7&oHunger'
+  RASPBERRY_JELLY_SANDWICH:
+    name: '&dRaspberry Jelly Sandwich'
+    lore:
+    - ''
+    - '&7&oRestores &b&o8.0 &7&oHunger'
+  BAGEL:
+    name: Bagel
+    lore:
+    - ''
+    - '&7&oRestores &b&o2.0 &7&oHunger'
+  HOT_DOG:
+    name: Hot Dog
+    lore:
+    - ''
+    - '&7&oRestores &b&o5.0 &7&oHunger'
+  GRAPE_PIE:
+    name: '&cGrape Pie'
+    lore:
+    - ''
+    - '&7&oRestores &b&o6.5 &7&oHunger'
+  CHOCOLATE_STRAWBERRY:
+    name: '&cChocolate Strawberry'
+    lore:
+    - ''
+    - '&7&oRestores &b&o2.5 &7&oHunger'
+  DRAGON_FRUIT_PIE:
+    name: '&dDragon Fruit Pie'
+    lore:
+    - ''
+    - '&7&oRestores &b&o6.5 &7&oHunger'
+  FISH_SANDWICH:
+    name: Fish Sandwich
+    lore:
+    - ''
+    - '&7&oRestores &b&o5.5 &7&oHunger'
+  CLUB_SANDWICH:
+    name: Club Sandwich
+    lore:
+    - ''
+    - '&7&oRestores &b&o9.5 &7&oHunger'
+  JAMMY_DODGER:
+    name: '&cJammy Dodger'
+    lore:
+    - ''
+    - '&7&oRestores &b&o5.0 &7&oHunger'
+  COWBERRY_JELLY_SANDWICH:
+    name: '&cCowberry Jelly Sandwich'
+    lore:
+    - ''
+    - '&7&oRestores &b&o8.0 &7&oHunger'
+  FRIES:
+    name: Fries
+    lore:
+    - ''
+    - '&7&oRestores &b&o6.0 &7&oHunger'
+  PLUM_PIE:
+    name: '&5Plum Pie'
+    lore:
+    - ''
+    - '&7&oRestores &b&o6.5 &7&oHunger'
+  BACON_CHEESEBURGER:
+    name: Bacon Cheeseburger
+    lore:
+    - ''
+    - '&7&oRestores &b&o8.5 &7&oHunger'
+  PUMPKIN_CHEESECAKE:
+    name: '&6Pumpkin Cheesecake'
+    lore:
+    - ''
+    - '&7&oRestores &b&o8.5 &7&oHunger'
+  BISCUITS_GRAVY:
+    name: Biscuits and Country Gravy
+    lore:
+    - ''
+    - '&7&oRestores &b&o6.5 &7&oHunger'
+  BOSTON_CREAM_PIE:
+    name: Boston Cream Pie
+    lore:
+    - ''
+    - '&7&oRestores &b&o4.5 &7&oHunger'
+  BLUEBERRY_CHEESECAKE:
+    name: '&9Blueberry Cheesecake'
+    lore:
+    - ''
+    - '&7&oRestores &b&o8.5 &7&oHunger'
+  SWEET_POPCORN:
+    name: Popcorn &7(Sweet)
+    lore:
+    - ''
+    - '&7&oRestores &b&o6.0 &7&oHunger'
+  BLUEBERRY_JELLY_SANDWICH:
+    name: '&9Blueberry Jelly Sandwich'
+    lore:
+    - ''
+    - '&7&oRestores &b&o8.0 &7&oHunger'
+  PEACH_PIE:
+    name: '&5Peach Pie'
+    lore:
+    - ''
+    - '&7&oRestores &b&o6.5 &7&oHunger'
+  CHICKEN_BURGER:
+    name: Chickenburger
+    lore:
+    - ''
+    - '&7&oRestores &b&o5.0 &7&oHunger'
+  COWBERRY_PIE:
+    name: '&cCowberry Pie'
+    lore:
+    - ''
+    - '&7&oRestores &b&o6.5 &7&oHunger'
+  CHOCOLATE_PEAR_CAKE:
+    name: Chocolate Pear Cake
+    lore:
+    - ''
+    - '&7&oRestores &b&o9.5 &7&oHunger'
+  STUFFED_RED_BELL_PEPPER:
+    name: '&cStuffed Red Bell Pepper'
+    lore:
+    - ''
+    - '&7&oRestores &b&o7.0 &7&oHunger'
+  LEMON_PIE:
+    name: '&eLemon Pie'
+    lore:
+    - ''
+    - '&7&oRestores &b&o6.5 &7&oHunger'
+  COCONUT_CHICKEN_CURRY:
+    name: Coconut Chicken Curry
+    lore:
+    - ''
+    - '&7&oRestores &b&o9.5 &7&oHunger'
+  GARLIC_BREAD:
+    name: Garlic Bread
+    lore:
+    - ''
+    - '&7&oRestores &b&o5.0 &7&oHunger'
+  CHICKEN_CHEESEBURGER:
+    name: Chicken Cheeseburger
+    lore:
+    - ''
+    - '&7&oRestores &b&o6.5 &7&oHunger'
+  POMEGRANATE_PIE:
+    name: '&4Pomegranate Pie'
+    lore:
+    - ''
+    - '&7&oRestores &b&o6.5 &7&oHunger'
+  STRAWBERRY_PIE:
+    name: '&4Strawberry Pie'
+    lore:
+    - ''
+    - '&7&oRestores &b&o6.5 &7&oHunger'
+  WAFFLES:
+    name: Waffles
+    lore:
+    - ''
+    - '&7&oRestores &b&o6.0 &7&oHunger'
+  PEAR_PIE:
+    name: '&aPear Pie'
+    lore:
+    - ''
+    - '&7&oRestores &b&o6.5 &7&oHunger'
+  BISCUIT:
+    name: '&6Biscuit'
+    lore:
+    - ''
+    - '&7&oRestores &b&o2.0 &7&oHunger'
+  CHOCOLATE_BAR:
+    name: Chocolate Bar
+    lore:
+    - ''
+    - '&7&oRestores &b&o1.5 &7&oHunger'
+  PUMPKIN_MUFFIN:
+    name: Pumpkin Muffin
+    lore:
+    - ''
+    - '&7&oRestores &b&o6.5 &7&oHunger'
+  CHEESEBURGER:
+    name: Cheeseburger
+    lore:
+    - ''
+    - '&7&oRestores &b&o6.5 &7&oHunger'
+  CREAMED_CORN:
+    name: Creamed Corn
+    lore:
+    - ''
+    - '&7&oRestores &b&o4.0 &7&oHunger'
+  CHICKEN_CURRY:
+    name: Chicken Curry
+    lore:
+    - ''
+    - '&7&oRestores &b&o8.0 &7&oHunger'
+  BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+    name: BBQ Double Bacon wrapped Hot Dog in a Tortilla with Cheese
+    lore:
+    - '&7&o"When I chef" - @Eyamaz'
+    - ''
+    - '&7&oRestores &b&o10.0 &7&oHunger'
+  CORN_ON_THE_COB:
+    name: '&6Corn on the Cob'
+    lore:
+    - ''
+    - '&7&oRestores &b&o4.5 &7&oHunger'
+  TACO:
+    name: Taco
+    lore:
+    - ''
+    - '&7&oRestores &b&o9.0 &7&oHunger'
+  BURRITO:
+    name: Burrito
+    lore:
+    - ''
+    - '&7&oRestores &b&o9.0 &7&oHunger'
+  GRAPE_SALAD:
+    name: '&cGrape Salad'
+    lore:
+    - ''
+    - '&7&oRestores &b&o5.0 &7&oHunger'
+  DELUXE_CHEESEBURGER:
+    name: Deluxe Cheeseburger
+    lore:
+    - ''
+    - '&7&oRestores &b&o8.0 &7&oHunger'
+  OAK_APPLE_PIE:
+    name: '&cOak Apple Pie'
+    lore:
+    - ''
+    - '&7&oRestores &b&o6.5 &7&oHunger'
+  BACON_BURGER:
+    name: Bacon Burger
+    lore:
+    - ''
+    - '&7&oRestores &b&o5.0 &7&oHunger'
+  CHICKEN_BURRITO:
+    name: Chicken Burrito
+    lore:
+    - ''
+    - '&7&oRestores &b&o9.0 &7&oHunger'
+  PAVLOVA:
+    name: Pavlova
+    lore:
+    - ''
+    - '&7&oRestores &b&o9.0 &7&oHunger'
+  STRAWBERRY_JELLY_SANDWICH:
+    name: '&4Strawberry Jelly Sandwich'
+    lore:
+    - ''
+    - '&7&oRestores &b&o8.0 &7&oHunger'
+  BLUEBERRY_MUFFIN:
+    name: Blueberry Muffin
+    lore:
+    - ''
+    - '&7&oRestores &b&o6.5 &7&oHunger'
+  ORANGE_PIE:
+    name: '&6Orange Pie'
+    lore:
+    - ''
+    - '&7&oRestores &b&o6.5 &7&oHunger'
+  CHICKEN_POT_PIE:
+    name: Chicken Pot Pie
+    lore:
+    - ''
+    - '&7&oRestores &b&o8.5 &7&oHunger'
+  BLACKBERRY_JELLY_SANDWICH:
+    name: '&8Blackberry Jelly Sandwich'
+    lore:
+    - ''
+    - '&7&oRestores &b&o8.0 &7&oHunger'
+  PUMPKIN_BREAD:
+    name: Pumpkin Bread
+    lore:
+    - ''
+    - '&7&oRestores &b&o4.0 &7&oHunger'
+  CRANBERRY_JELLY_SANDWICH:
+    name: '&cCranberry Jelly Sandwich'
+    lore:
+    - ''
+    - '&7&oRestores &b&o8.0 &7&oHunger'
+  LIME_PIE:
+    name: '&aLime Pie'
+    lore:
+    - ''
+    - '&7&oRestores &b&o6.5 &7&oHunger'
+  BLUEBERRY_PIE:
+    name: '&9Blueberry Pie'
+    lore:
+    - ''
+    - '&7&oRestores &b&o6.5 &7&oHunger'
+  ELDERBERRY_PIE:
+    name: '&cElderberry Pie'
+    lore:
+    - ''
+    - '&7&oRestores &b&o6.5 &7&oHunger'
+  BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+    name: Bacon wrapped Cheese filled Hot Dog
+    lore:
+    - '&7&o"When I chef" - @Eyamaz'
+    - ''
+    - '&7&oRestores &b&o8.5 &7&oHunger'
+  TIRAMISU_WITH_RASPBERRIES:
+    name: Tiramisu with Raspberries
+    lore:
+    - ''
+    - '&7&oRestores &b&o9.0 &7&oHunger'
+  SALTY_POPCORN:
+    name: Popcorn &7(Salty)
+    lore:
+    - ''
+    - '&7&oRestores &b&o6.0 &7&oHunger'
+  STRAWBERRY_SALAD:
+    name: '&cStrawberry Salad'
+    lore:
+    - ''
+    - '&7&oRestores &b&o5.0 &7&oHunger'
+  TIRAMISU_WITH_BLACKBERRIES:
+    name: Tiramisu with Blackberries
+    lore:
+    - ''
+    - '&7&oRestores &b&o9.0 &7&oHunger'
+  FISH_TACO:
+    name: Fish Taco
+    lore:
+    - ''
+    - '&7&oRestores &b&o9.0 &7&oHunger'
+  CHERRY_CHEESECAKE:
+    name: '&cCherry Cheesecake'
+    lore:
+    - ''
+    - '&7&oRestores &b&o8.5 &7&oHunger'
+  CHOCOLATE_CHIP_MUFFIN:
+    name: Chocolate Chip Muffin
+    lore:
+    - ''
+    - '&7&oRestores &b&o6.5 &7&oHunger'
+  BBQ_BACON_WRAPPED_HOT_DOG:
+    name: BBQ Bacon wrapped Hot Dog
+    lore:
+    - '&7&o"wanna talk about hot dogs?" - @Pahimar'
+    - ''
+    - '&7&oRestores &b&o8.5 &7&oHunger'
+  GRAPE_JELLY_SANDWICH:
+    name: '&cGrape Jelly Sandwich'
+    lore:
+    - ''
+    - '&7&oRestores &b&o8.0 &7&oHunger'
+  HAMBURGER:
+    name: Hamburger
+    lore:
+    - ''
+    - '&7&oRestores &b&o5.0 &7&oHunger'
+  BACON_SANDWICH:
+    name: Bacon Sandwich
+    lore:
+    - ''
+    - '&7&oRestores &b&o9.5 &7&oHunger'
+  STREET_TACO:
+    name: Street Taco
+    lore:
+    - ''
+    - '&7&oRestores &b&o9.0 &7&oHunger'
+  CHICKEN_SANDWICH:
+    name: Chicken Sandwich
+    lore:
+    - ''
+    - '&7&oRestores &b&o5.5 &7&oHunger'
+  GRILLED_SANDWICH:
+    name: Grilled Sandwich
+    lore:
+    - ''
+    - '&7&oRestores &b&o5.5 &7&oHunger'
+  ICE_CREAM:
+    name: Ice Cream
+    lore:
+    - ''
+    - '&7&oRestores &b&o8.0 &7&oHunger'
+  ELDERBERRY_JELLY_SANDWICH:
+    name: '&cElderberry Jelly Sandwich'
+    lore:
+    - ''
+    - '&7&oRestores &b&o8.0 &7&oHunger'
+  CRANBERRY_PIE:
+    name: '&cCranberry Pie'
+    lore:
+    - ''
+    - '&7&oRestores &b&o6.5 &7&oHunger'

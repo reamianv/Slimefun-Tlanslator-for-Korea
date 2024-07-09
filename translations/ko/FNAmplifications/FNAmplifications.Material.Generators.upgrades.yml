@@ -1,0 +1,20 @@
+name: FNAmplifications
+translations:
+  FN_MAT_GEN_UPGRADES_REPAIR_ITEM:
+    name: '&fFN Mat Gen Repair Item'
+    lore:
+    - '&6Repairs or add durability'
+    - ''
+    - '&e+20 durability'
+    - ''
+    - '&aRight click on a material generator'
+    - '&d&oFN Material Generators Upgrades'
+  FN_MAT_GEN_UPGRADES_FAST_PRODUCE:
+    name: '&fFN Mat Gen Fast Produce'
+    lore:
+    - '&6Faster production'
+    - ''
+    - '&e+1.75x Mat gen speed for 30 minutes'
+    - ''
+    - '&aRight click on a material generator'
+    - '&d&oFN Material Generators Upgrades'

@@ -1,0 +1,52 @@
+name: FluffyMachines
+translations:
+  MINI_FLUFFY_BARREL:
+    name: '&eMini Fluffy Barrel'
+    lore:
+    - ''
+    - '&7Stores a large amount of an item'
+    - '&7Has a changeable capacity'
+    - ''
+    - '&bMax Capacity: &e172800 Items'
+  MASSIVE_FLUFFY_BARREL:
+    name: '&5Massive Fluffy Barrel'
+    lore:
+    - ''
+    - '&7Stores a large amount of an item'
+    - ''
+    - '&bCapacity: &e276480000 Items'
+  MEDIUM_FLUFFY_BARREL:
+    name: '&6Medium Fluffy Barrel'
+    lore:
+    - ''
+    - '&7Stores a large amount of an item'
+    - ''
+    - '&bCapacity: &e34560000 Items'
+  BIG_FLUFFY_BARREL:
+    name: '&bBig Fluffy Barrel'
+    lore:
+    - ''
+    - '&7Stores a large amount of an item'
+    - ''
+    - '&bCapacity: &e69120000 Items'
+  BOTTOMLESS_FLUFFY_BARREL:
+    name: '&cBottomless Fluffy Barrel'
+    lore:
+    - ''
+    - '&7Stores a large amount of an item'
+    - ''
+    - '&bCapacity: &e1728000000 Items'
+  LARGE_FLUFFY_BARREL:
+    name: '&aLarge Fluffy Barrel'
+    lore:
+    - ''
+    - '&7Stores a large amount of an item'
+    - ''
+    - '&bCapacity: &e138240000 Items'
+  SMALL_FLUFFY_BARREL:
+    name: '&eSmall Fluffy Barrel'
+    lore:
+    - ''
+    - '&7Stores a large amount of an item'
+    - ''
+    - '&bCapacity: &e17280000 Items'

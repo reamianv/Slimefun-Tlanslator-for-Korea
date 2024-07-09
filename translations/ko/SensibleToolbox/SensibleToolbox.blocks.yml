@@ -1,0 +1,261 @@
+name: SensibleToolbox
+translations:
+  STB_POWERMONITOR:
+    name: '&ePower Monitor'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Displays the Net Gain/Loss'
+    - '&7on attached Signs'
+  STB_AUTOFARM:
+    name: '&eAuto Farm'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Automatically harvests and replants'
+    - '&7Wheat/Potato/Carrot Crops'
+    - '&7in a 3x3 Radius 2 Blocks above the Machine'
+    - '&f⌁ &c0/2500 SCU'
+  STB_INFERNALFARM:
+    name: '&eInfernal Farm'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Automatically harvests and replants'
+    - '&7Nether Warts'
+    - '&7in a 5x5 Radius 2 Blocks above the Machine'
+    - '&f⌁ &c0/2500 SCU'
+  STB_ENDERBOX:
+    name: '&eEnder Box ： Personal №1'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Extra-dimensional storage'
+    - '&7Right-click with an'
+    - '&7Ender Tuner to set'
+    - '&7its frequency'
+  STB_ITEMROUTER:
+    name: '&eItem Router'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Routes items.  Insert one or'
+    - '&7more Routing Modules to activate.'
+    - '&7R-click block:&f configure router'
+  STB_SMELTER:
+    name: '&eSmelter'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Smelts items'
+    - '&7Like a Furnace, but'
+    - '&7faster and more efficient'
+    - '&f⌁ &c0/1000 SCU'
+  STB_MAGMATICENGINE:
+    name: '&eMagmatic Engine'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Converts Lava into power'
+    - '&f⌁ &c0/2500 SCU'
+  STB_BIGSTORAGEUNIT:
+    name: '&eBSU'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Big Storage Unit'
+    - '&7Stores up to 128 stacks'
+    - '&7of a single item type'
+  STB_BASICSOLARCELL:
+    name: '&eBasic Solar'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Generates up to 0.5 SCU/t'
+    - '&7while outside in bright sunlight'
+    - '&7⇧ + L-click block (empty hand): '
+    - '&f  - extract PV cell'
+    - '&f⌁ &c0/100 SCU'
+    - '&7&oNo PV Cell installed'
+  STB_SOUNDMUFFLER:
+    name: '&eSound Muffler'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Reduces the volume of all sounds'
+    - '&7within a 8-block radius'
+    - '&7R-click: &f open configuration'
+  STB_SAWMILL:
+    name: '&eSawmill'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Processes wooden items'
+    - '&f⌁ &c0/1000 SCU'
+  STB_ANGELICBLOCK:
+    name: '&eAngelic Block'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7R-click: &f place block in the air'
+    - '&7L-click block: &f insta-break'
+  STB_AUTOFARM2:
+    name: '&eAuto Farm MkII'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Automatically harvests and replants'
+    - '&7Cocoa Beans/Sugar Cane/Cactus/Sweet Berries'
+    - '&7in a 5x5 Radius 2 Blocks above the Machine'
+    - '&f⌁ &c0/2500 SCU'
+  STB_REDSTONECLOCK:
+    name: '&eRedstone Clock'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Clock-in-a-block'
+    - '&7Emits a redstone signal with'
+    - '&7configurable interval & duration'
+    - '&7R-click block: &f configure clock'
+    - '&7Interval: &620&7t, Duration: &65&7t'
+  STB_SCURELAY:
+    name: '&eSCU Relay'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Stores up to ⌁ 100000 SCU'
+    - '&f⌁ &c0/100000 SCU'
+  STB_TRASHCAN:
+    name: '&eTrash Can'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7DESTROYS any items which are'
+    - '&7placed or piped into it.'
+    - '&7Beware!'
+  STB_BIOENGINE:
+    name: '&eBio Engine'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Converts organic Materials into power'
+    - '&f⌁ &c0/2500 SCU'
+  STB_BLOCKUPDATEDETECTOR:
+    name: '&eBlock Update Detector'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Emits a redstone pulse when'
+    - '&7 an adjacent block updates'
+    - '&7R-click block: &fconfigure BUD'
+    - '&7Pulse duration: &62 ticks'
+    - '&7Sleep time after pulse: &61 ticks'
+  STB_PUMP:
+    name: '&ePump'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Pumps liquids into a bucket'
+    - '&f⌁ &c0/1000 SCU'
+  STB_UNLINKEDSCURELAY:
+    name: '&eUnlinked SCU Relay'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Craft a pair of these'
+    - '&7together to link them'
+  STB_MACHINEFRAME:
+    name: '&eMachine Frame'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Used in fabrication of'
+    - '&7various machines.'
+  STB_AUTOFORESTER:
+    name: '&eAuto Forester'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Automatically harvests and replants'
+    - '&7Trees'
+    - '&7in a 5x5 Radius 2 Blocks above the Machine'
+    - '&f⌁ &c0/2500 SCU'
+  STB_TOUGHMACHINEFRAME:
+    name: '&eTough Machine Frame'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Used in fabrication of'
+    - '&7some more advanced machines.'
+  STB_ENDERBAG:
+    name: '&eEnder Bag ： Personal №1'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7R-click: open bag'
+    - '&7⇧ + R-click ender box: sync №'
+  STB_ELECTRICALENERGIZER:
+    name: '&eElectrical Energizer'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Allows you to energize certain Items'
+    - '&f⌁ &c0/10000 SCU'
+  STB_MASHER:
+    name: '&eMasher'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Grinds ores and other '
+    - '&7resources into dusts'
+    - '&f⌁ &c0/1000 SCU'
+  STB_FIFTYKBATTERYBOX:
+    name: '&e50K Battery Box'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Stores up to ⌁ 50000 SCU'
+    - '&f⌁ &c0/50000 SCU'
+  STB_ELEVATOR:
+    name: '&eElevator'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Links to other elevators'
+    - '&7 directly above or below'
+    - '&7Press Space to go up'
+    - '&7Press Shift to go down'
+  STB_FERMENTER:
+    name: '&eFermenter'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Ferments various Item and is also'
+    - '&7used for the Creation of Fish Bait'
+    - '&f⌁ &c0/1000 SCU'
+  STB_HYPERSTORAGEUNIT:
+    name: '&eHSU'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Hyper Storage Unit'
+    - '&7Stores up to 33554431 stacks'
+    - '&7of a single item type'
+    - '&7Keeps storage when broken'
+    - '&7Needs power to function'
+  STB_FISHINGNET:
+    name: '&eFishing Net'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Catches Fish'
+    - '&f⌁ &c0/2000 SCU'
+  STB_DENSESOLAR:
+    name: '&eDense Solar'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Generates up to 4.0 SCU/t'
+    - '&7while outside in bright sunlight'
+    - '&7⇧ + L-click block (empty hand): '
+    - '&f  - extract PV cell'
+    - '&f⌁ &c0/800 SCU'
+    - '&7&oNo PV Cell installed'
+  STB_TENKBATTERYBOX:
+    name: '&e10K Battery Box'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Stores up to ⌁ 10000 SCU'
+    - '&f⌁ &c0/10000 SCU'
+  STB_AUTOBUILDER:
+    name: '&eAuto Builder'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&cRequires Cod rank'
+    - '&7Can build or clear a claimed'
+    - '&7area. Use Land Markers'
+    - '&7to define the area.'
+    - '&f⌁ &c0/10000 SCU'
+  STB_HEATENGINE:
+    name: '&eHeat Engine'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Converts burnable items to power'
+    - '&f⌁ &c0/5000 SCU'
+  STB_PAINTCAN:
+    name: '&ePaint Can ： 0 &fWHITE'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7R-click block with Paint Brush'
+    - '&7 to refill the brush'
+    - '&7R-click block with anything else'
+    - '&7 to open mixer; place milk bucket and'
+    - '&7 a dye inside to mix some paint'

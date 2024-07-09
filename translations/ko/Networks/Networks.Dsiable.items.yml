@@ -1,0 +1,10 @@
+name: Networks
+translations:
+  NTW_DEBUG_STICK:
+    name: '&x&6&B&3&2&A&8Network Debug Stick'
+    lore:
+    - ''
+    - '&7Right click a Network Object to'
+    - '&7turn on debugging.'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'

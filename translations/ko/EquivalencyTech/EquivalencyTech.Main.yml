@@ -1,0 +1,54 @@
+name: EquivalencyTech
+translations:
+  EQ_COAL_2:
+    name: '&x&C&F&A&B&1&DMobius Fuel'
+    lore:
+    - ''
+    - '&7Crafting Ingredient'
+  EQ_C_CHEST:
+    name: '&x&C&F&A&B&1&DCondensate Chest'
+    lore:
+    - '&x&A&3&A&3&A&3This chest can condense EMC back into'
+    - '&x&A&3&A&3&A&3items of Equivalent Value from the placing'
+    - '&x&A&3&A&3&A&3player''s EMC pool.'
+    - '&x&A&3&A&3&A&3Items synthesised in this manner require 50%'
+    - '&x&A&3&A&3&A&3more EMC.'
+    - ''
+    - '&x&C&F&A&B&1&DShift + Right Click this chest while holding any item to set
+      it.'
+  EQ_COAL_1:
+    name: '&x&C&F&A&B&1&DAlchemical Coal'
+    lore:
+    - ''
+    - '&7Crafting Ingredient'
+  EQ_COAL_3:
+    name: '&x&C&F&A&B&1&DAeternalis Fuel'
+    lore:
+    - ''
+    - '&7Crafting Ingredient'
+  EQ_T_ORB:
+    name: '&x&5&D&2&9&9&9Transmutation Orb'
+    lore:
+    - '&x&A&3&A&3&A&3A powerful magical artifact that'
+    - '&x&A&3&A&3&A&3allows you to condense all sorts'
+    - '&x&A&3&A&3&A&3of items into EMC.'
+    - '&x&A&3&A&3&A&3EMC can be turned into other items'
+    - '&x&A&3&A&3&A&3through a simple alchemical process'
+    - ''
+    - '&x&C&F&A&B&1&DRight click to open'
+  EQ_DARK_MATTER:
+    name: '&x&C&F&A&B&1&DDark Matter'
+    lore:
+    - ''
+    - '&7Crafting Ingredient'
+  EQ_D_CHEST:
+    name: '&x&C&F&A&B&1&DDissolution Chest'
+    lore:
+    - '&x&A&3&A&3&A&3This chest can break down it''s contents'
+    - '&x&A&3&A&3&A&3into EMC that is added into the placing'
+    - '&x&A&3&A&3&A&3player''s EMC pool.'
+  EQ_RED_MATTER:
+    name: '&x&C&F&A&B&1&DRed Matter'
+    lore:
+    - ''
+    - '&7Crafting Ingredient'

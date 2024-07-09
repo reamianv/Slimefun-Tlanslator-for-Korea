@@ -1,0 +1,36 @@
+name: SimpleStorage
+translations:
+  MACHINE_DIE_PRESS:
+    name: '&x&3&2&9&5&A&8Die Press'
+    lore:
+    - ''
+    - '&7A mechanical die press that can'
+    - '&7create dies from certain metals.'
+    - '&7dies are used to shape other materials.'
+    - ''
+    - '&8⇨ &e⚡ &78,192 J/s'
+    - ''
+    - '&x&F&0&E&A&4&FMachine'
+  MACHINE_ENDERATOR:
+    name: '&x&3&2&9&5&A&8Enderator'
+    lore:
+    - ''
+    - '&7Utilises the End Crystal and a large'
+    - '&7amount channelled energy to twist the'
+    - '&7very fabric of an object into something'
+    - '&7different...'
+    - ''
+    - '&8⇨ &e⚡ &765,536 J/s'
+    - ''
+    - '&x&F&0&E&A&4&FMachine'
+  MACHINE_METAL_PRESS_BASIC:
+    name: '&x&3&2&9&5&A&8Basic Metal Press'
+    lore:
+    - ''
+    - '&7A mechanical metal press that can'
+    - '&7create shaped metal plates from'
+    - '&7basic dies and soft alloys.'
+    - ''
+    - '&8⇨ &e⚡ &716,384 J/s'
+    - ''
+    - '&x&F&0&E&A&4&FMachine'

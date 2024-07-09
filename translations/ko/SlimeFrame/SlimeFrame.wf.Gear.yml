@@ -1,0 +1,42 @@
+name: SlimeFrame
+translations:
+  WF_CRYO_HELMET:
+    name: '&9Cryogenic Helmet'
+    lore:
+    - ''
+    - '&6Full set effects:'
+    - '&e- Radiation immunity'
+    - '&e- Bee Sting protection'
+    - '&9- Freezing immunity'
+    - ''
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Gear&x&C&0&C&0&C&0>'
+  WF_CRYO_BOOTS:
+    name: '&9Cryogenic Boots'
+    lore:
+    - ''
+    - '&6Full set effects:'
+    - '&e- Radiation immunity'
+    - '&e- Bee Sting protection'
+    - '&9- Freezing immunity'
+    - ''
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Gear&x&C&0&C&0&C&0>'
+  WF_CRYO_LEGGINGS:
+    name: '&9Cryogenic Leggings'
+    lore:
+    - ''
+    - '&6Full set effects:'
+    - '&e- Radiation immunity'
+    - '&e- Bee Sting protection'
+    - '&9- Freezing immunity'
+    - ''
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Gear&x&C&0&C&0&C&0>'
+  WF_CRYO_CHESTP:
+    name: '&9Cryogenic Chestplate'
+    lore:
+    - ''
+    - '&6Full set effects:'
+    - '&e- Radiation immunity'
+    - '&e- Bee Sting protection'
+    - '&9- Freezing immunity'
+    - ''
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Gear&x&C&0&C&0&C&0>'

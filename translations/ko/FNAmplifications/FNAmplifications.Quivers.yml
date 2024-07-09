@@ -1,0 +1,50 @@
+name: FNAmplifications
+translations:
+  FN_UPGRADED_SPECTRAL_QUIVER:
+    name: '&cUpgraded Bow Quiver (Spectral)'
+    lore:
+    - ''
+    - '&dStore inside the quiver'
+    - '&dby right clicking spectral arrows or'
+    - '&dshift click quiver to withdraw'
+    - ''
+    - '&eClick to change state'
+    - '&eSize: 288 Arrows'
+    - '&eArrows: &f0'
+    - '&eState: Closed (No Arrows)'
+  FN_UPGRADED_QUIVER:
+    name: '&6Upgraded Bow Quiver (Normal)'
+    lore:
+    - ''
+    - '&dStore inside the quiver'
+    - '&dby right clicking arrows or'
+    - '&dshift click to withdraw'
+    - ''
+    - '&eClick to change state'
+    - '&eSize: 288 Arrows'
+    - '&eArrows: &f0'
+    - '&eState: Closed (No Arrows)'
+  FN_SPECTRAL_QUIVER:
+    name: '&aBow Quiver (Spectral)'
+    lore:
+    - ''
+    - '&dStore inside the quiver by'
+    - '&dright clicking spectral arrows or'
+    - '&dshift click quiver to withdraw'
+    - ''
+    - '&eClick to close/open'
+    - '&eSize: 192 Spectral Arrows'
+    - '&eArrows: &f0'
+    - '&eState: Closed (No Arrows)'
+  FN_QUIVER:
+    name: '&bBow Quiver (Normal)'
+    lore:
+    - ''
+    - '&dStore inside the quiver'
+    - '&dby right clicking arrows or'
+    - '&dshift click quiver to withdraw'
+    - ''
+    - '&eClick to change state'
+    - '&eSize: 192 Arrows'
+    - '&eArrows: &f0'
+    - '&eState: Closed (No Arrows)'

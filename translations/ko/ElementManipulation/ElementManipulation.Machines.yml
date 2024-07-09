@@ -1,0 +1,22 @@
+name: ElementManipulation
+translations:
+  EM_DECONSTRUCTOR:
+    name: '&0D&x&1&4&1&4&1&4e&x&2&7&2&7&2&7c&x&3&B&3&B&3&Bo&x&4&E&4&E&4&En&x&6&2&6&2&6&2s&x&7&6&7&6&7&6t&x&8&9&8&9&8&9r&x&9&D&9&D&9&Du&x&B&1&B&1&B&1c&x&C&4&C&4&C&4t&x&D&8&D&8&D&8o&x&E&B&E&B&E&Br'
+    lore:
+    - '&8Used to make items from elements'
+    - '&8Machine'
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &7128 J/s'
+  EM_ROCK_ANALYZER:
+    name: '&7Rock analyzer'
+    lore:
+    - '&7Analyzes rocks to get solid elements'
+    - '&7like transition-metals'
+    - ''
+    - '&8⇨ &e⚡ &7512 J /t'
+  EM_JUNCTION_TABLE:
+    name: '&aJunction table'
+    lore:
+    - '&7Used to craft items from elements'
+    - ''
+    - '&8⇨ &e⚡ &74,096 J per item'

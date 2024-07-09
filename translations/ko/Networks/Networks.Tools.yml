@@ -1,0 +1,121 @@
+name: Networks
+translations:
+  NTW_CRAFTING_BLUEPRINT:
+    name: '&x&6&B&3&2&A&8Crafting Blueprint'
+    lore:
+    - ''
+    - '&7A blank blueprint that can'
+    - '&7be used to store a crafting'
+    - '&7recipe.'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  NTW_REMOTE_PRISTINE:
+    name: '&x&6&B&3&2&A&8Network Remote Pristine'
+    lore:
+    - ''
+    - '&7Opens a bound grid wirelessly.'
+    - '&7The grid must be chunk loaded.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Range: &7Unlimited'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  NTW_RAKE_3:
+    name: '&x&6&B&3&2&A&8Network Rake (3)'
+    lore:
+    - ''
+    - '&7Right click a Network Object to'
+    - '&7break it instantly.'
+    - '&7'
+    - '&e9999 Uses &7left'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  NTW_CONFIGURATOR:
+    name: '&x&6&B&3&2&A&8Network Configurator'
+    lore:
+    - ''
+    - '&7Used to copy and paste the'
+    - '&7configurations of directional'
+    - '&7interfaces.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Right Click: &7Apply Config'
+    - '&x&E&4&E&D&3&2Shift Right Click: &7Store Config'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  NTW_WIRELESS_CONFIGURATOR:
+    name: '&x&6&B&3&2&A&8Network Wireless Configurator'
+    lore:
+    - ''
+    - '&7Used to store a Receiver location'
+    - '&7and then to apply to a Transmitter'
+    - '&7'
+    - '&x&E&4&E&D&3&2Right Click: &7Store Receiver Location'
+    - '&x&E&4&E&D&3&2Shift Right Click: &7Set Location to Transmitter'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  NTW_RAKE_2:
+    name: '&x&6&B&3&2&A&8Network Rake (2)'
+    lore:
+    - ''
+    - '&7Right click a Network Object to'
+    - '&7break it instantly.'
+    - '&7'
+    - '&e1000 Uses &7left'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  NTW_PROBE:
+    name: '&x&6&B&3&2&A&8Network Probe'
+    lore:
+    - ''
+    - '&7When used on a controller, this will'
+    - '&7show the nodes on the network.'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  NTW_CRAYON:
+    name: '&x&6&B&3&2&A&8Network Crayon'
+    lore:
+    - ''
+    - '&7When used on a controller, this will'
+    - '&7enable particle display from specific'
+    - '&7blocks when working.'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  NTW_RAKE_1:
+    name: '&x&6&B&3&2&A&8Network Rake (1)'
+    lore:
+    - ''
+    - '&7Right click a Network Object to'
+    - '&7break it instantly.'
+    - '&7'
+    - '&e250 Uses &7left'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  NTW_REMOTE_ULTIMATE:
+    name: '&x&6&B&3&2&A&8Network Remote Ultimate'
+    lore:
+    - ''
+    - '&7Opens a bound grid wirelessly.'
+    - '&7The grid must be chunk loaded.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Range: &7Cross Dimensional'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  NTW_REMOTE_EMPOWERED:
+    name: '&x&6&B&3&2&A&8Network Remote Empowered'
+    lore:
+    - ''
+    - '&7Opens a bound grid wirelessly.'
+    - '&7The grid must be chunk loaded.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Range: &7500'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  NTW_REMOTE:
+    name: '&x&6&B&3&2&A&8Network Remote'
+    lore:
+    - ''
+    - '&7Opens a bound grid wirelessly.'
+    - '&7The grid must be chunk loaded.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Range: &7150'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'

@@ -1,0 +1,122 @@
+name: InfinityExpansion
+translations:
+  ENDER_FLAME:
+    name: '&cEnder Flame'
+  MACHINE_PLATE:
+    name: '&fMachine Plate'
+    lore:
+    - '&7Machine Component'
+  END_ESSENCE:
+    name: '&5Ender Essence'
+    lore:
+    - '&8&oFrom the depths of the end...'
+  MAGSTEEL:
+    name: '&4MagSteel'
+  QUARRY_OSCILLATOR_LAPIS_LAZULI:
+    name: '&b[Lapis Lazuli] Oscillator'
+    lore:
+    - '&7Place in a quarry to give it'
+    - '&7a 50.0% chance of mining this material'
+  VEIN_MINER_RUNE:
+    name: '&bVein Miner Rune'
+    lore:
+    - '&7Upgrades a tool to vein-mine certain materials'
+  VOID_INGOT:
+    name: '&8Void Ingot'
+    lore:
+    - '&7&oThe emptiness of the cosmos'
+    - '&7&oin the palm of your hand'
+  INFINITY_FORGE:
+    name: '&6Infinity Workbench'
+    lore:
+    - '&7Used to craft infinity items'
+    - ''
+    - '&8⇨ &e⚡ &710,000,000 J per item'
+  QUARRY_OSCILLATOR_EMERALD:
+    name: '&b[Emerald] Oscillator'
+    lore:
+    - '&7Place in a quarry to give it'
+    - '&7a 50.0% chance of mining this material'
+  MAGIC_SINGULARITY:
+    name: '&dMagic Singularity'
+  MACHINE_CORE:
+    name: '&fMachine Core'
+    lore:
+    - '&7Machine Component'
+  ADVANCED_ANVIL:
+    name: '&cAdvanced Anvil'
+    lore:
+    - '&7Combines tools and gear enchants and sometimes upgrades them'
+    - '&bWorks with Slimefun items'
+    - ''
+    - '&8⇨ &e⚡ &7100,000 J per use'
+  QUARRY_OSCILLATOR_REDSTONE:
+    name: '&b[Redstone Dust] Oscillator'
+    lore:
+    - '&7Place in a quarry to give it'
+    - '&7a 50.0% chance of mining this material'
+  QUARRY_OSCILLATOR_DIAMOND:
+    name: '&b[Diamond] Oscillator'
+    lore:
+    - '&7Place in a quarry to give it'
+    - '&7a 50.0% chance of mining this material'
+  EARTH_SINGULARITY:
+    name: '&aEarth Singularity'
+  TITANIUM:
+    name: '&7Titanium'
+  MAGSTEEL_PLATE:
+    name: '&4MagSteel Plate'
+    lore:
+    - '&7Machine Component'
+  MACHINE_CIRCUIT:
+    name: '&6Machine Circuit'
+    lore:
+    - '&7Machine Component'
+  VOID_BIT:
+    name: '&8Void Bit'
+    lore:
+    - '&7&oIt feels... empty'
+  INFINITE_INGOT:
+    name: '&bInfinity Ingot'
+    lore:
+    - '&7&oThe fury of the cosmos'
+    - '&7&oin the palm of your hand'
+  MAGNONIUM:
+    name: '&5Magnonium'
+  COMPRESSED_COBBLESTONE_4:
+    name: '&7Quadruple Compressed Cobblestone'
+    lore:
+    - '&86,561 cobblestone combined'
+  FORTUNE_SINGULARITY:
+    name: '&6Fortune Singularity'
+  COMPRESSED_COBBLESTONE_3:
+    name: '&7Triple Compressed Cobblestone'
+    lore:
+    - '&8729 cobblestone combined'
+  METAL_SINGULARITY:
+    name: '&8Metal Singularity'
+  MYTHRIL:
+    name: '&bMythril'
+  COMPRESSED_COBBLESTONE_2:
+    name: '&7Double Compressed Cobblestone'
+    lore:
+    - '&881 cobblestone combined'
+  QUARRY_OSCILLATOR_QUARTZ:
+    name: '&b[Nether Quartz] Oscillator'
+    lore:
+    - '&7Place in a quarry to give it'
+    - '&7a 50.0% chance of mining this material'
+  COMPRESSED_COBBLESTONE_1:
+    name: '&7Single Compressed Cobblestone'
+    lore:
+    - '&89 cobblestone combined'
+  VOID_DUST:
+    name: '&8Void Dust'
+    lore:
+    - '&7&oIts starting to take form...'
+  COMPRESSED_COBBLESTONE_5:
+    name: '&7Quintuple Compressed Cobblestone'
+    lore:
+    - '&859,049 cobblestone combined'
+  ADAMANTITE:
+    name: '&dAdamantite'

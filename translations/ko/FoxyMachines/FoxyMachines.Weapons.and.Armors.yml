@@ -1,0 +1,54 @@
+name: FoxyMachines
+translations:
+  AQUATIC_HELMET:
+    name: '&bAquatic Helmet'
+    lore:
+    - '&7Water Breathing'
+    - '&7Darkvision'
+  CURSED_SWORD:
+    name: '&cCursed Sword'
+    lore:
+    - '&7Life Steal I'
+    - '&7Armor Penetration I'
+    - ''
+    - '&7Confuses enemies. Increases damage.'
+    - '&7Can negatively affect wielder.'
+  ELUCIDATOR:
+    name: '&bElucidator'
+    lore:
+    - '&7Damage III'
+    - '&7Life Steal II'
+    - '&7Armor Penetration II'
+    - '&7Overheal'
+  ACRI_ARCUM:
+    name: '&eAcri Arcum'
+    lore:
+    - ''
+    - '&7Damage III'
+    - '&7Armor Piercing II'
+  HEALING_BOW:
+    name: '&4Healing Bow'
+    lore:
+    - '&cHealing II'
+    - ''
+    - '&8Finally a support weapon.'
+  RESISTANT_CHESTPLATE:
+    name: '&aResistant Chestplate'
+    lore:
+    - '&7Resistance I'
+    - '&7Regeneration I'
+  FIERY_LEGGINGS:
+    name: '&cFiery Leggings'
+    lore:
+    - '&7Fire Aura II'
+  LIGHT_BOOTS:
+    name: '&eLight Boots'
+    lore:
+    - '&7Jump I'
+    - '&7Speed I'
+    - '&7Lightweight'
+  CELESTIAL_SWORD:
+    name: '&eCelestial Sword'
+    lore:
+    - '&7Divine Smite II'
+    - '&7Armor Penetration V'

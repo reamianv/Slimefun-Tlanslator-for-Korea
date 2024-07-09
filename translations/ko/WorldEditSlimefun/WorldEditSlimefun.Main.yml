@@ -1,0 +1,7 @@
+name: WorldEditSlimefun
+translations:
+  WESF_WAND:
+    name: '&f(WESF) Selection Wand'
+    lore:
+    - '&fLeft Click to select position 1'
+    - '&fRight Click to select position 2'

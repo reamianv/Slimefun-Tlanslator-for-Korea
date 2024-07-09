@@ -1,0 +1,604 @@
+name: SlimeTinker
+translations:
+  DIAMOND_SINGULARITY_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Diamond Singularity'
+    lore:
+    - ''
+    - '&7The molten form of Diamond Singularity'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  MAGNONIUM_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Magnonium'
+    lore:
+    - ''
+    - '&7The molten form of Magnonium'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  METAL_SINGULARITY_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Metal Singularity'
+    lore:
+    - ''
+    - '&7The molten form of Metal Singularity'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  ALUMINUM_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Aluminum'
+    lore:
+    - ''
+    - '&7The molten form of Aluminum'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  SCRAP_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Scrap'
+    lore:
+    - ''
+    - '&7The molten form of Scrap'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  INFINITY_SINGULARITY_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Infinity Singularity'
+    lore:
+    - ''
+    - '&7The molten form of Infinity Singularity'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  FERROSILICON_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Ferrosilicon'
+    lore:
+    - ''
+    - '&7The molten form of Ferrosilicon'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  REINFORCED_SLIME_STEEL_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Reinforced Slime Steel'
+    lore:
+    - ''
+    - '&7The molten form of Reinforced Slime Steel'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  OSMIUM_SUPERALLOY_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Osmium Superalloy'
+    lore:
+    - ''
+    - '&7The molten form of Osmium Superalloy'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  DRACONIC_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Draconic'
+    lore:
+    - ''
+    - '&7The molten form of Draconic'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  MAGIC_SINGULARITY_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Magic Singularity'
+    lore:
+    - ''
+    - '&7The molten form of Magic Singularity'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  ULTIMANINIUM_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Ultimaninium'
+    lore:
+    - ''
+    - '&7The molten form of Ultimaninium'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  REDSTONE_ALLOY_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Redstone Alloy'
+    lore:
+    - ''
+    - '&7The molten form of Redstone Alloy'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  BRASS_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Brass'
+    lore:
+    - ''
+    - '&7The molten form of Brass'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  IRON_SINGULARITY_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Iron Singularity'
+    lore:
+    - ''
+    - '&7The molten form of Iron Singularity'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  ALUMINUM_SINGULARITY_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Aluminum Singularity'
+    lore:
+    - ''
+    - '&7The molten form of Aluminum Singularity'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  TIN_SINGULARITY_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Tin Singularity'
+    lore:
+    - ''
+    - '&7The molten form of Tin Singularity'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  LEAD_SINGULARITY_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Lead Singularity'
+    lore:
+    - ''
+    - '&7The molten form of Lead Singularity'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  ALUMINUM_BRONZE_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Aluminum Bronze'
+    lore:
+    - ''
+    - '&7The molten form of Aluminum Bronze'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  ALUMINUM_BRASS_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Aluminum Brass'
+    lore:
+    - ''
+    - '&7The molten form of Aluminum Brass'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  FORTUNE_SINGULARITY_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Fortune Singularity'
+    lore:
+    - ''
+    - '&7The molten form of Fortune Singularity'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  SILVER_SINGULARITY_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Silver Singularity'
+    lore:
+    - ''
+    - '&7The molten form of Silver Singularity'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  MAGSTEEL_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Magsteel'
+    lore:
+    - ''
+    - '&7The molten form of Magsteel'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  EARTH_SINGULARITY_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Earth Singularity'
+    lore:
+    - ''
+    - '&7The molten form of Earth Singularity'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  MIXED_METAL_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Mixed Metal'
+    lore:
+    - ''
+    - '&7The molten form of Mixed Metal'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  SOLDER_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Solder'
+    lore:
+    - ''
+    - '&7The molten form of Solder'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  BRONZE_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Bronze'
+    lore:
+    - ''
+    - '&7The molten form of Bronze'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  GOLD_SINGULARITY_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Gold Singularity'
+    lore:
+    - ''
+    - '&7The molten form of Gold Singularity'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  TITANIUM_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Titanium'
+    lore:
+    - ''
+    - '&7The molten form of Titanium'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  UNPATENTABLIUM_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Unpatentablium'
+    lore:
+    - ''
+    - '&7The molten form of Unpatentablium'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  DAXI_STRENGTH_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Daxi Strength'
+    lore:
+    - ''
+    - '&7The molten form of Daxi Strength'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  SLIME_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Slime'
+    lore:
+    - ''
+    - '&7The molten form of Slime'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  INTERDIMENSIONAL_PRESENCE_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Interdimensional Presence'
+    lore:
+    - ''
+    - '&7The molten form of Interdimensional Presence'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  SEFIRITE_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Sefirite'
+    lore:
+    - ''
+    - '&7The molten form of Sefirite'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  NICEINIUM_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Niceinium'
+    lore:
+    - ''
+    - '&7The molten form of Niceinium'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  SILICON_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Silicon'
+    lore:
+    - ''
+    - '&7The molten form of Silicon'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  SLIME_STEEL_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Slime Steel'
+    lore:
+    - ''
+    - '&7The molten form of Slime Steel'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  SILVER_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Silver'
+    lore:
+    - ''
+    - '&7The molten form of Silver'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  COBALT_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Cobalt'
+    lore:
+    - ''
+    - '&7The molten form of Cobalt'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  SMITHIUM_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Smithium'
+    lore:
+    - ''
+    - '&7The molten form of Smithium'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  TIN_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Tin'
+    lore:
+    - ''
+    - '&7The molten form of Tin'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  OSMIUM_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Osmium'
+    lore:
+    - ''
+    - '&7The molten form of Osmium'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  REFINED_IRON_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Refined Iron'
+    lore:
+    - ''
+    - '&7The molten form of Refined Iron'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  MAGNESIUM_SINGULARITY_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Magnesium Singularity'
+    lore:
+    - ''
+    - '&7The molten form of Magnesium Singularity'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  COPPER_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Copper'
+    lore:
+    - ''
+    - '&7The molten form of Copper'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  SEGGANESSON_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Segganesson'
+    lore:
+    - ''
+    - '&7The molten form of Segganesson'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  DETAILED_DEVOTION_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Detailed Devotion'
+    lore:
+    - ''
+    - '&7The molten form of Detailed Devotion'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  IRON_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Iron'
+    lore:
+    - ''
+    - '&7The molten form of Iron'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  BILLON_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Billon'
+    lore:
+    - ''
+    - '&7The molten form of Billon'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  LIQUID_CHRISTMAS_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Liquid Christmas'
+    lore:
+    - ''
+    - '&7The molten form of Liquid Christmas'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  THORIUM_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Thorium'
+    lore:
+    - ''
+    - '&7The molten form of Thorium'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  IRIDIUM_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Iridium'
+    lore:
+    - ''
+    - '&7The molten form of Iridium'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  LEAD_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Lead'
+    lore:
+    - ''
+    - '&7The molten form of Lead'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  STEEL_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Steel'
+    lore:
+    - ''
+    - '&7The molten form of Steel'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  BOOMERITE_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Boomerite'
+    lore:
+    - ''
+    - '&7The molten form of Boomerite'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  COPPER_SINGULARITY_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Copper Singularity'
+    lore:
+    - ''
+    - '&7The molten form of Copper Singularity'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  MAG_THOR_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Mag Thor'
+    lore:
+    - ''
+    - '&7The molten form of Mag Thor'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  NICKEL_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Nickel'
+    lore:
+    - ''
+    - '&7The molten form of Nickel'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  FLOWING_FONDNESS_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Flowing Fondness'
+    lore:
+    - ''
+    - '&7The molten form of Flowing Fondness'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  VOID_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Void'
+    lore:
+    - ''
+    - '&7The molten form of Void'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  ZINC_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Zinc'
+    lore:
+    - ''
+    - '&7The molten form of Zinc'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  DAXI_ABSORPTION_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Daxi Absorption'
+    lore:
+    - ''
+    - '&7The molten form of Daxi Absorption'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  CORINTHIAN_BRONZE_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Corinthian Bronze'
+    lore:
+    - ''
+    - '&7The molten form of Corinthian Bronze'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  DAXI_FORTITUDE_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Daxi Fortitude'
+    lore:
+    - ''
+    - '&7The molten form of Daxi Fortitude'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  ADAMANTITE_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Adamantite'
+    lore:
+    - ''
+    - '&7The molten form of Adamantite'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  HARDENED_METAL_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Hardened Metal'
+    lore:
+    - ''
+    - '&7The molten form of Hardened Metal'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  REINFORCED_ALLOY_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Reinforced Alloy'
+    lore:
+    - ''
+    - '&7The molten form of Reinforced Alloy'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  REDSTONE_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Redstone'
+    lore:
+    - ''
+    - '&7The molten form of Redstone'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  LIQUID_LOVE_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Liquid Love'
+    lore:
+    - ''
+    - '&7The molten form of Liquid Love'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  MYTHRIL_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Mythril'
+    lore:
+    - ''
+    - '&7The molten form of Mythril'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  COAL_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Coal'
+    lore:
+    - ''
+    - '&7The molten form of Coal'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  DIAMOND_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Diamond'
+    lore:
+    - ''
+    - '&7The molten form of Diamond'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  DAXI_SATURATION_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Daxi Saturation'
+    lore:
+    - ''
+    - '&7The molten form of Daxi Saturation'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  DAXI_REGENERATION_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Daxi Regeneration'
+    lore:
+    - ''
+    - '&7The molten form of Daxi Regeneration'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  DURALIUM_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Duralium'
+    lore:
+    - ''
+    - '&7The molten form of Duralium'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  REMOTININIUM_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Remotininium'
+    lore:
+    - ''
+    - '&7The molten form of Remotininium'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  ZINC_SINGULARITY_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Zinc Singularity'
+    lore:
+    - ''
+    - '&7The molten form of Zinc Singularity'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  INFINITE_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Infinite'
+    lore:
+    - ''
+    - '&7The molten form of Infinite'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  REINFORCED_DRACONIUM_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Reinforced Draconium'
+    lore:
+    - ''
+    - '&7The molten form of Reinforced Draconium'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  GOLD_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Gold'
+    lore:
+    - ''
+    - '&7The molten form of Gold'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  MAGNESIUM_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Magnesium'
+    lore:
+    - ''
+    - '&7The molten form of Magnesium'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  ADVANCED_ALLOY_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Advanced Alloy'
+    lore:
+    - ''
+    - '&7The molten form of Advanced Alloy'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  DAMASCUS_STEEL_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Damascus Steel'
+    lore:
+    - ''
+    - '&7The molten form of Damascus Steel'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  ANNIVERSARIUM_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Anniversarium'
+    lore:
+    - ''
+    - '&7The molten form of Anniversarium'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  CRINGLEIUM_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Cringleium'
+    lore:
+    - ''
+    - '&7The molten form of Cringleium'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  PURIFIED_PASSION_LIQUID:
+    name: '&x&A&6&0&A&0&AMolten Purified Passion'
+    lore:
+    - ''
+    - '&7The molten form of Purified Passion'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'

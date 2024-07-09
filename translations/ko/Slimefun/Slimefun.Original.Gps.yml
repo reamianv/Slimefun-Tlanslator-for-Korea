@@ -1,0 +1,125 @@
+name: Slimefun
+translations:
+  OIL_PUMP:
+    name: '&4Oil Pump'
+    lore:
+    - ''
+    - '&7Pumps up Oil and fills it into Buckets'
+    - ''
+    - '&c&l! &cMake sure to Geo-Scan the Chunk first'
+  GEO_MINER:
+    name: '&6GEO Miner'
+    lore:
+    - ''
+    - '&eMines up resources from the chunk'
+    - '&eThese Resources cannot be mined with a pickaxe'
+    - ''
+    - '&6Advanced Machine'
+    - '&8⇨ &b⚡ &7Speed: &b1.0x'
+    - '&8⇨ &e⚡ &748 J/s'
+    - ''
+    - '&c&l! &cMake sure to Geo-Scan the Chunk first'
+  ELEVATOR_PLATE:
+    name: '&bElevator Plate'
+    lore:
+    - ''
+    - '&fPlace an Elevator Plate on every floor'
+    - '&fand you will be able to teleport between them.'
+    - ''
+    - '&eRight Click this Block &7to name it'
+  GPS_CONTROL_PANEL:
+    name: '&bGPS Control Panel'
+    lore:
+    - ''
+    - '&fAllows you to track your Satellites'
+    - '&fand manage your Waypoints'
+  GPS_TRANSMITTER:
+    name: '&bGPS Transmitter'
+    lore:
+    - ''
+    - '&8⇨ &e⚡ &716 J Buffer'
+    - '&8⇨ &e⚡ &72 J/s'
+  GPS_MARKER_TOOL:
+    name: '&bGPS Marker Tool'
+    lore:
+    - ''
+    - '&fAllows you to set a Waypoint at'
+    - '&fthe Location you place this'
+  PORTABLE_GEO_SCANNER:
+    name: '&bPortable Geo-Scanner'
+    lore:
+    - ''
+    - '&fScans a Chunk for natural Resources'
+    - ''
+    - '&eRight Click&7 to scan'
+  GPS_TELEPORTATION_MATRIX:
+    name: '&bGPS Teleporter Matrix'
+    lore:
+    - ''
+    - '&fThis is your Teleporter''s Main Component'
+    - '&fThis Matrix allows Players to choose from all'
+    - '&fWaypoints made by the Player who has placed'
+    - '&fthis Device.'
+  GPS_TRANSMITTER_2:
+    name: '&cAdvanced GPS Transmitter'
+    lore:
+    - ''
+    - '&8⇨ &e⚡ &764 J Buffer'
+    - '&8⇨ &e⚡ &76 J/s'
+  GPS_GEO_SCANNER:
+    name: '&bGPS Geo-Scanner'
+    lore:
+    - ''
+    - '&fScans a Chunk for natural Resources'
+    - '&fsuch as &8Oil'
+  GPS_TRANSMITTER_3:
+    name: '&4Carbonado GPS Transmitter'
+    lore:
+    - ''
+    - '&8⇨ &e⚡ &7256 J Buffer'
+    - '&8⇨ &e⚡ &722 J/s'
+  GPS_TRANSMITTER_4:
+    name: '&eEnergized GPS Transmitter'
+    lore:
+    - ''
+    - '&8⇨ &e⚡ &71024 J Buffer'
+    - '&8⇨ &e⚡ &792 J/s'
+  PORTABLE_TELEPORTER:
+    name: '&bPortable Teleporter'
+    lore:
+    - ''
+    - '&fThis device allows you to teleport'
+    - '&fto your waypoints from anywhere'
+    - ''
+    - '&8⇨ &e⚡ &70 / 50 J'
+    - ''
+    - '&eRight Click&7 to use'
+  GPS_ACTIVATION_DEVICE_PERSONAL:
+    name: '&fGPS Activation Device &a(Personal)'
+    lore:
+    - ''
+    - '&fPlace this onto a Teleportation Matrix'
+    - '&fand step onto this Plate to activate'
+    - '&fthe Teleportation Process'
+    - ''
+    - '&fThis Version only allows the Person who'
+    - '&fplaced this Device to use it'
+  GPS_EMERGENCY_TRANSMITTER:
+    name: '&cGPS Emergency Transmitter'
+    lore:
+    - ''
+    - '&fCarrying this in your Inventory'
+    - '&fautomatically sets a Waypoint'
+    - '&fat your Location when you die.'
+  GPS_ACTIVATION_DEVICE_SHARED:
+    name: '&fGPS Activation Device &3(Shared)'
+    lore:
+    - ''
+    - '&fPlace this onto a Teleportation Matrix'
+    - '&fand step onto this Plate to activate'
+    - '&fthe Teleportation Process'
+  GPS_TELEPORTER_PYLON:
+    name: '&5GPS Teleporter Pylon'
+    lore:
+    - ''
+    - '&7Teleporter Component'

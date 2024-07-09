@@ -1,0 +1,56 @@
+name: SlimeTinker
+translations:
+  TOOL_PICKAXE_DUMMY:
+    name: '&x&C&2&F&C&0&3Tinker''s Pickaxe'
+    lore:
+    - ''
+    - '&7A pickaxe formed of three parts.'
+    - '&7Tinker''s tools can level up and be'
+    - '&7given extra properties and modifiers.'
+    - ''
+    - '&x&F&0&E&A&4&FTinker''s Tool'
+  TOOL_AXE_DUMMY:
+    name: '&x&C&2&F&C&0&3Tinker''s Axe'
+    lore:
+    - ''
+    - '&7An axe formed of three parts.'
+    - '&7Tinker''s tools can level up and be'
+    - '&7given extra properties and modifiers.'
+    - ''
+    - '&x&F&0&E&A&4&FTinker''s Tool'
+  TOOL_SWORD_DUMMY:
+    name: '&x&C&2&F&C&0&3Tinker''s Sword'
+    lore:
+    - ''
+    - '&7A sword formed of three parts.'
+    - '&7Tinker''s tools can level up and be'
+    - '&7given extra properties and modifiers.'
+    - ''
+    - '&x&F&0&E&A&4&FTinker''s Tool'
+  TOOL_HOE_DUMMY:
+    name: '&x&C&2&F&C&0&3Tinker''s Hoe'
+    lore:
+    - ''
+    - '&7A hoe formed of three parts.'
+    - '&7Tinker''s tools can level up and be'
+    - '&7given extra properties and modifiers.'
+    - ''
+    - '&x&F&0&E&A&4&FTinker''s Tool'
+  TOOL_INFO:
+    name: '&x&2&1&5&8&8&FTinker''s Tools Info'
+    lore:
+    - ''
+    - '&7Tinker''s tools start at Stone. As you'
+    - '&7level the tools up, they will promote'
+    - '&7through Gold > Iron > Diamond > Netherite.'
+    - ''
+    - '&x&F&0&E&A&4&FInfo'
+  TOOL_SHOVEL_DUMMY:
+    name: '&x&C&2&F&C&0&3Tinker''s Shovel'
+    lore:
+    - ''
+    - '&7A shovel formed of three parts.'
+    - '&7Tinker''s tools can level up and be'
+    - '&7given extra properties and modifiers.'
+    - ''
+    - '&x&F&0&E&A&4&FTinker''s Tool'

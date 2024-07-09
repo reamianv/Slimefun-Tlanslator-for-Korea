@@ -1,0 +1,134 @@
+name: CompressionCraft
+translations:
+  JC_DECOMPRESSOR_3:
+    name: '&aDecompressor'
+    lore:
+    - ''
+    - '&7Decompresses blocks'
+    - ''
+    - '&aMedium Machine'
+    - '&8⇨ &e⚡ &7150 J/s'
+    - '&8⇨ &b⚡ &7Speed: &b3.0x'
+    - '&8⇨ &e⚡ &7750 J Buffer'
+    - '&aCompressionCraft'
+  JC_DECOMPRESSOR_4:
+    name: '&2Decompressor'
+    lore:
+    - ''
+    - '&7Decompresses blocks'
+    - ''
+    - '&2Good Machine'
+    - '&8⇨ &e⚡ &7200 J/s'
+    - '&8⇨ &b⚡ &7Speed: &b4.0x'
+    - '&8⇨ &e⚡ &71000 J Buffer'
+    - '&2CompressionCraft'
+  JC_DECOMPRESSOR_5:
+    name: '&6Decompressor'
+    lore:
+    - ''
+    - '&7Decompresses blocks'
+    - ''
+    - '&6Advanced Machine'
+    - '&8⇨ &e⚡ &7250 J/s'
+    - '&8⇨ &b⚡ &7Speed: &b5.0x'
+    - '&8⇨ &e⚡ &71250 J Buffer'
+    - '&6CompressionCraft'
+  JC_DECOMPRESSOR_6:
+    name: '&4Decompressor'
+    lore:
+    - ''
+    - '&7Decompresses blocks'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &7300 J/s'
+    - '&8⇨ &b⚡ &7Speed: &b6.0x'
+    - '&8⇨ &e⚡ &71500 J Buffer'
+    - '&4CompressionCraft'
+  JC_COMPRESSOR_2:
+    name: '&6Compressor'
+    lore:
+    - ''
+    - '&7Compresses blocks'
+    - ''
+    - '&6Average Machine'
+    - '&8⇨ &e⚡ &7100 J/s'
+    - '&8⇨ &b⚡ &7Speed: &b2.0x'
+    - '&8⇨ &e⚡ &7500 J Buffer'
+    - '&6CompressionCraft'
+  JC_COMPRESSOR_3:
+    name: '&aCompressor'
+    lore:
+    - ''
+    - '&7Compresses blocks'
+    - ''
+    - '&aMedium Machine'
+    - '&8⇨ &e⚡ &7150 J/s'
+    - '&8⇨ &b⚡ &7Speed: &b3.0x'
+    - '&8⇨ &e⚡ &7750 J Buffer'
+    - '&aCompressionCraft'
+  JC_COMPRESSOR_1:
+    name: '&eCompressor'
+    lore:
+    - ''
+    - '&7Compresses blocks'
+    - ''
+    - '&eBasic Machine'
+    - '&8⇨ &e⚡ &750 J/s'
+    - '&8⇨ &b⚡ &7Speed: &b1.0x'
+    - '&8⇨ &e⚡ &7250 J Buffer'
+    - '&eCompressionCraft'
+  JC_COMPRESSOR_6:
+    name: '&4Compressor'
+    lore:
+    - ''
+    - '&7Compresses blocks'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &7300 J/s'
+    - '&8⇨ &b⚡ &7Speed: &b6.0x'
+    - '&8⇨ &e⚡ &71500 J Buffer'
+    - '&4CompressionCraft'
+  JC_COMPRESSOR_4:
+    name: '&2Compressor'
+    lore:
+    - ''
+    - '&7Compresses blocks'
+    - ''
+    - '&2Good Machine'
+    - '&8⇨ &e⚡ &7200 J/s'
+    - '&8⇨ &b⚡ &7Speed: &b4.0x'
+    - '&8⇨ &e⚡ &71000 J Buffer'
+    - '&2CompressionCraft'
+  JC_COMPRESSOR_5:
+    name: '&6Compressor'
+    lore:
+    - ''
+    - '&7Compresses blocks'
+    - ''
+    - '&6Advanced Machine'
+    - '&8⇨ &e⚡ &7250 J/s'
+    - '&8⇨ &b⚡ &7Speed: &b5.0x'
+    - '&8⇨ &e⚡ &71250 J Buffer'
+    - '&6CompressionCraft'
+  JC_DECOMPRESSOR_1:
+    name: '&eDecompressor'
+    lore:
+    - ''
+    - '&7Decompresses blocks'
+    - ''
+    - '&eBasic Machine'
+    - '&8⇨ &e⚡ &750 J/s'
+    - '&8⇨ &b⚡ &7Speed: &b1.0x'
+    - '&8⇨ &e⚡ &7250 J Buffer'
+    - '&eCompressionCraft'
+  JC_DECOMPRESSOR_2:
+    name: '&6Decompressor'
+    lore:
+    - ''
+    - '&7Decompresses blocks'
+    - ''
+    - '&6Average Machine'
+    - '&8⇨ &e⚡ &7100 J/s'
+    - '&8⇨ &b⚡ &7Speed: &b2.0x'
+    - '&8⇨ &e⚡ &7500 J Buffer'
+    - '&6CompressionCraft'

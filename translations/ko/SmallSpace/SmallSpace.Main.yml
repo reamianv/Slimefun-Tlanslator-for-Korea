@@ -1,0 +1,55 @@
+name: SmallSpace
+translations:
+  EXPORT_BUS:
+    name: EXPORT_BUS
+    lore:
+    - ''
+  SIZED_BLOCK3:
+    name: Sized Block &7(Tier 3 9x9)
+    lore:
+    - '&4Put to Block Assigner'
+    - '&8⇨ &e⚡ &7768 J/s'
+  SIZED_BLOCK4:
+    name: Sized Block &7(Tier 4 12x12)
+    lore:
+    - '&4Put to Block Assigner'
+    - '&8⇨ &e⚡ &71024 J/s'
+  SIZED_BLOCK1:
+    name: Sized Block &7(Tier 1 3x3)
+    lore:
+    - '&4Put to Block Assigner'
+    - '&8⇨ &e⚡ &7256 J/s'
+  SIZED_BLOCK2:
+    name: Sized Block &7(Tier 2 6x6)
+    lore:
+    - '&4Put to Block Assigner'
+    - '&8⇨ &e⚡ &7512 J/s'
+  SPACE_INTERFACE:
+    name: Space Interface
+    lore:
+    - '&7(way to push items in and out of the space)'
+    - '&6Average Machine'
+    - '&8⇨ &e⚡ &712 J/s'
+    - '&8⇨ &e⚡ &7512 J Buffer'
+  SPACE_STABILIZER:
+    name: Space Stabilizer
+    lore:
+    - '&7Stabilizes space in block - main part'
+    - '&6Average Machine'
+    - '&8⇨ &e⚡ &712 J/s'
+    - '&8⇨ &e⚡ &7512 J Buffer'
+  TELEPORT:
+    name: TELEPORT
+    lore:
+    - ''
+  BLOCK_ASSIGNER:
+    name: Block Assigner
+    lore:
+    - '&7Put Sized Block in this machine to assign custom id'
+    - '&6Average Machine'
+    - '&8⇨ &e⚡ &712 J/s'
+    - '&8⇨ &e⚡ &7512 J Buffer'
+  IMPORT_BUS:
+    name: IMPORT_BUS
+    lore:
+    - ''

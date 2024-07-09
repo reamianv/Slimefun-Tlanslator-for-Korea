@@ -1,0 +1,57 @@
+name: DynaTech
+translations:
+  STARDUST_REACTOR:
+    name: '&6Stardust Reactor'
+    lore:
+    - ''
+    - '&6Uses Star Dust to produce larges amount of power.'
+    - ''
+    - '&4End-Game Generator'
+    - '&8⇨ &e⚡ &732768 J Buffer'
+    - '&8⇨ &e⚡ &72,048 J/s'
+  DRAGON_GENERATOR:
+    name: '&6Dragon Egg Generator'
+    lore:
+    - ''
+    - '&fCreates energy from the warmth of a Dragon Egg'
+    - ''
+    - '&aMedium Generator'
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &764 J/s'
+  CULINARY_GENERATOR:
+    name: '&6Culinary Generator'
+    lore:
+    - ''
+    - '&fCreates energy from food energy'
+    - ''
+    - '&aMedium Generator'
+    - '&8⇨ &e⚡ &7256 J Buffer'
+    - '&8⇨ &e⚡ &716 J/s'
+  WATER_MILL:
+    name: '&6Hydro Generator'
+    lore:
+    - ''
+    - '&fCreates energy from flowing water'
+    - ''
+    - '&aMedium Generator'
+    - '&8⇨ &e⚡ &7128 J Buffer'
+    - '&8⇨ &e⚡ &732 J/s'
+  CHIPPING_GENERATOR:
+    name: '&6Chipping Generator'
+    lore:
+    - ''
+    - '&fCreates energy from broken items'
+    - '&f(Durability based items)'
+    - ''
+    - '&aMedium Generator'
+    - '&8⇨ &e⚡ &7256 J Buffer'
+    - '&8⇨ &e⚡ &78 J per durability point'
+  WATER_TURBINE:
+    name: '&6Hydro Turbine'
+    lore:
+    - ''
+    - '&fCreates energy from flowing water'
+    - ''
+    - '&aMedium Generator'
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7128 J/s'

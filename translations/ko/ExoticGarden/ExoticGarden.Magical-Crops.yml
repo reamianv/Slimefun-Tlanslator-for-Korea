@@ -1,0 +1,135 @@
+name: ExoticGarden
+translations:
+  ENDER_ESSENCE:
+    name: Magical Essence
+    lore:
+    - ''
+    - '&7Ender'
+  SILVER_ESSENCE:
+    name: Magical Essence
+    lore:
+    - ''
+    - '&7Silver'
+  REDSTONE_ESSENCE:
+    name: Magical Essence
+    lore:
+    - ''
+    - '&7Redstone'
+  GOLD_PLANT:
+    name: Gold Plant
+  GLOWSTONE_PLANT:
+    name: Glowstone Plant
+  DIRT_PLANT:
+    name: Dirt Plant
+  ALUMINUM_ESSENCE:
+    name: Magical Essence
+    lore:
+    - ''
+    - '&7Aluminum'
+  NETHERITE_ESSENCE:
+    name: Magical Essence
+    lore:
+    - ''
+    - '&7Netherite'
+  LEAD_PLANT:
+    name: Lead Plant
+  SLIME_PLANT:
+    name: Slime Plant
+  GOLD_ESSENCE:
+    name: Magical Essence
+    lore:
+    - ''
+    - '&7Gold'
+  COPPER_ESSENCE:
+    name: Magical Essence
+    lore:
+    - ''
+    - '&7Copper'
+  GLOWSTONE_ESSENCE:
+    name: Magical Essence
+    lore:
+    - ''
+    - '&7Glowstone'
+  QUARTZ_PLANT:
+    name: Quartz Plant
+  LAPIS_ESSENCE:
+    name: Magical Essence
+    lore:
+    - ''
+    - '&7Lapis'
+  COPPER_PLANT:
+    name: Copper Plant
+  LAPIS_PLANT:
+    name: Lapis Plant
+  OBSIDIAN_PLANT:
+    name: Obsidian Plant
+  EMERALD_PLANT:
+    name: Emerald Plant
+  IRON_ESSENCE:
+    name: Magical Essence
+    lore:
+    - ''
+    - '&7Iron'
+  COAL_PLANT:
+    name: Coal Plant
+  DIAMOND_PLANT:
+    name: Diamond Plant
+  SILVER_PLANT:
+    name: Silver Plant
+  QUARTZ_ESSENCE:
+    name: Magical Essence
+    lore:
+    - ''
+    - '&7Quartz'
+  DIAMOND_ESSENCE:
+    name: Magical Essence
+    lore:
+    - ''
+    - '&7Diamond'
+  DIRT_ESSENCE:
+    name: Magical Essence
+    lore:
+    - ''
+    - '&7Dirt'
+  LEAD_ESSENCE:
+    name: Magical Essence
+    lore:
+    - ''
+    - '&7Lead'
+  TIN_ESSENCE:
+    name: Magical Essence
+    lore:
+    - ''
+    - '&7Tin'
+  COAL_ESSENCE:
+    name: Magical Essence
+    lore:
+    - ''
+    - '&7Coal'
+  IRON_PLANT:
+    name: Iron Plant
+  TIN_PLANT:
+    name: Tin Plant
+  NETHERITE_PLANT:
+    name: Netherite Plant
+  SLIME_ESSENCE:
+    name: Magical Essence
+    lore:
+    - ''
+    - '&7Slime'
+  REDSTONE_PLANT:
+    name: Redstone Plant
+  EMERALD_ESSENCE:
+    name: Magical Essence
+    lore:
+    - ''
+    - '&7Emerald'
+  ALUMINUM_PLANT:
+    name: Aluminum Plant
+  ENDER_PLANT:
+    name: Ender Plant
+  OBSIDIAN_ESSENCE:
+    name: Magical Essence
+    lore:
+    - ''
+    - '&7Obsidian'

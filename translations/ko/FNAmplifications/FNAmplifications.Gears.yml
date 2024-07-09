@@ -1,0 +1,54 @@
+name: FNAmplifications
+translations:
+  FN_GEAR_HELMET:
+    name: '&cFN''s Field Tested Helmet'
+    lore:
+    - '&c◬◬◬◬◬◬| &d&lLore &6|◬◬◬◬◬◬'
+    - ''
+    - '&fWear this helmet in the name of FN and'
+    - '&fevery battle should make it become more'
+    - '&fstronger with bonus attributes and enchants'
+    - ''
+    - '&c◈◈◈◈◈◈| &d&lStats &6|◈◈◈◈◈◈'
+    - '&eHelmet Level: 0'
+    - '&eProgress:'
+    - '&7[■■■■■■■■■■&7]'
+  FN_GEAR_BOOTS:
+    name: '&cFN''s Expedition Combat Boots'
+    lore:
+    - '&c◬◬◬◬◬◬| &d&lLore &6|◬◬◬◬◬◬'
+    - ''
+    - '&fSoldiers from FN''s army only wants to posses'
+    - '&fthis historical boots but it was kept'
+    - '&fhidden under the hands of the zion people'
+    - ''
+    - '&c◈◈◈◈◈◈| &d&lStats &6|◈◈◈◈◈◈'
+    - '&eBoots Level: 0'
+    - '&eProgress:'
+    - '&7[■■■■■■■■■■&7]'
+  FN_GEAR_LEGGINGS:
+    name: '&cFN''s Chausses of Eminence'
+    lore:
+    - '&c◬◬◬◬◬◬| &d&lLore &6|◬◬◬◬◬◬'
+    - ''
+    - '&fGlorious leggings worn by FN during war'
+    - '&fand was glorified on every victory against'
+    - '&fhis foes'
+    - ''
+    - '&c◈◈◈◈◈◈| &d&lStats &6|◈◈◈◈◈◈'
+    - '&eLeggings Level: 0'
+    - '&eProgress:'
+    - '&7[■■■■■■■■■■&7]'
+  FN_GEAR_CHESTPLATE:
+    name: '&cFN''s Battle Scarred Chestplate'
+    lore:
+    - '&c◬◬◬◬◬◬| &d&lLore &6|◬◬◬◬◬◬'
+    - ''
+    - '&fThe armor from the past brought to life'
+    - '&fonce again. It becomes more powerful during'
+    - '&ftimes of war and conflict'
+    - ''
+    - '&c◈◈◈◈◈◈| &d&lStats &6|◈◈◈◈◈◈'
+    - '&eArmor Level: 0'
+    - '&eProgress:'
+    - '&7[■■■■■■■■■■&7]'

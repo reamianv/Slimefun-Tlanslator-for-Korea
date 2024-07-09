@@ -1,0 +1,434 @@
+name: SensibleToolbox
+translations:
+  STB_ENERGIZEDIRONDUST:
+    name: '&eEnergized Iron Dust'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Smelt to get an energized iron ingot'
+  STB_TAPEMEASURE:
+    name: '&eTape Measure'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7⇧ + R-click block: set anchor'
+    - '&7R-click block: get measurement'
+  STB_DIAMONDCOMBINEHOE:
+    name: '&eDiamond Combine Hoe'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Right-click dirt/grass:&f till 3x3 area'
+    - '&7Right-click soil:&f sow 3x3 area'
+    - '&7Right-click air:&f open seed bag'
+    - '&7Left-click plants:&f harvest 5x5 area'
+    - '&7Left-click leaves:&f break 3x3x3 area'
+  STB_ADVANCEDSENDERMODULE:
+    name: '&eI.R. Mod: Adv. Sender ： [Not Linked]'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Insert into an Item Router'
+    - '&7Sends items to a linked Receiver Module'
+    - '&7 anywhere within a 24-block radius'
+    - '&7 (line of sight is not needed)'
+    - '&7L-Click item router with installed'
+    - '&7 Receiver Module: &f Link Adv. Sender'
+    - '&7⇧ + L-Click: &f Unlink Adv. Sender'
+    - '&60 items black-listed'
+    - '&6Filter by Material'
+  STB_GOLDCOMBINEHOE:
+    name: '&eGold Combine Hoe'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Right-click dirt/grass:&f till 3x3 area'
+    - '&7Right-click soil:&f sow 3x3 area'
+    - '&7Right-click air:&f open seed bag'
+    - '&7Left-click plants:&f harvest 3x3 area'
+    - '&7Left-click leaves:&f break 3x3x3 area'
+  STB_MOISTURECHECKER:
+    name: '&eMoisture Checker'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Tests the saturation level'
+    - '&7 of a 3x3 area of farmland.'
+    - '&7R-click: &fuse'
+  STB_QUARTZDUST:
+    name: '&eQuartz Dust'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Cook in a Smelter to'
+    - '&7make silicon'
+  STB_GOLDDUST:
+    name: '&eGold Dust'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Smelt in a Smelter or Furnace'
+    - '&7 to get gold ingots'
+  STB_SILICONWAFER:
+    name: '&eSilicon Wafer'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Used in the fabrication'
+    - '&7of more advanced'
+    - '&7electronic circuits'
+  STB_PAINTROLLER:
+    name: '&ePaint Roller'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Paints colorable blocks:'
+    - '&7 Wool, carpet, stained clay/glass'
+    - '&7R-click block: paint up to 25 blocks'
+    - '&7⇧ + R-click block: paint block'
+    - '&7⇧ + R-click air: empty brush'
+    - '&7R-click paintings: Change artwork'
+  STB_MULTIBUILDER:
+    name: '&eMultibuilder ： Build'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7L-click block: &fpreview'
+    - '&7R-click block: &fbuild'
+    - '&7⇧ + R-click block: &fbuild one'
+    - '&7⇧ + mouse-wheel: &fEXCHANGE mode'
+    - '&f⌁ &c0/10000 SCU'
+  STB_SIMPLECIRCUIT:
+    name: '&eSimple Electronic Circuit'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Used as a component in'
+    - '&7various machinery '
+  STB_LANDMARKER:
+    name: '&eLand Marker'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Stores positions via Sensible GPS'
+    - '&7R-Click block: store position'
+    - '&7R-Click air: clear position'
+  STB_ENERGIZEDGOLDDUST:
+    name: '&eEnergized Gold Dust'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Smelt to get an energized gold ingot'
+  STB_ENDERLEASH:
+    name: '&eEnder Leash'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Capture and store one peaceful animal'
+    - '&7Right-click: &fcapture/release animal'
+  STB_PVCELL:
+    name: '&ePV Cell'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Photovoltaic Cell'
+    - '&7Insert into a solar generator'
+    - '&7R-click solar: insert directly'
+    - '&fLifetime: &e180 min'
+  STB_JAWN:
+    name: '&eJawn'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Use on placed head items'
+    - '&7to instantly pick up. Works'
+    - '&7for any type of head.'
+    - '&7R-Click: &fBreak and Collect'
+  STB_HYPERSENDERMODULE:
+    name: '&eI.R. Mod: Hypersender ： [Not Linked]'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Insert into an Item Router'
+    - '&7Sends items to a linked Receiver Module'
+    - '&7anywhere on any world'
+    - '&7L-Click item router with installed'
+    - '&7 Receiver Module: &f Link Hyper Sender'
+    - '&7⇧ + L-Click anywhere: &f Unlink Hyper Sender'
+    - '&60 items black-listed'
+    - '&6Filter by Material'
+  STB_SPEEDUPGRADE:
+    name: '&eSpeed Upgrade'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Place in a machine block'
+    - '&7Speed: x1.4'
+    - '&7Power Usage: x1.6'
+  STB_ADVANCEDRECIPEBOOK:
+    name: '&eAdvanced Recipe Book'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Allows browsing/fabrication'
+    - '&7of all known recipes'
+    - '&7Can pull items from adjacent'
+    - '&7inventories during fabrication'
+  STB_BLANKMODULE:
+    name: '&eBlank Item Router Module'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Used for crafting active'
+    - '&7 Item Router Modules '
+  STB_INFERNALDUST:
+    name: '&eInfernal Dust'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Sometimes dropped from blazes.'
+    - '&7Looting enchantment may help.'
+    - '&7Combine this with iron or gold dust.'
+  STB_ENERGIZEDGOLDINGOT:
+    name: '&eEnergized Gold Ingot'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Strangely glowing...'
+  STB_WOODCOMBINEHOE:
+    name: '&eWooden Combine Hoe'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Right-click dirt/grass:&f till 3x3 area'
+    - '&7Right-click soil:&f sow 3x3 area'
+    - '&7Right-click air:&f open seed bag'
+    - '&7Left-click plants:&f harvest 3x3 area'
+    - '&7Left-click leaves:&f break 3x3x3 area'
+  STB_INTEGRATEDCIRCUIT:
+    name: '&eIntegrated Circuit'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Used as a component'
+    - '&7in some more'
+    - '&7advanced machinery'
+  STB_RECEIVERMODULE:
+    name: '&eI.R. Mod: Receiver'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Insert into an Item Router'
+    - '&7Passive module; receives items'
+    - '&7from a facing Sender module OR'
+    - '&7linked Adv. Sender module'
+  STB_SILKYBREAKERMODULE:
+    name: '&eI.R. Mod: Silky Breaker'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Insert into an Item Router'
+    - '&7Silk touches a block in its'
+    - '&7 configured direction and'
+    - '&7 pulls it into the item router.'
+    - '&7NOTE: must use a Silk Touch'
+    - '&7  enchanted book to craft.'
+    - '&60 items black-listed'
+    - '&6Filter by Material'
+  STB_IRONCOMBINEHOE:
+    name: '&eIron Combine Hoe'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Right-click dirt/grass:&f till 3x3 area'
+    - '&7Right-click soil:&f sow 3x3 area'
+    - '&7Right-click air:&f open seed bag'
+    - '&7Left-click plants:&f harvest 3x3 area'
+    - '&7Left-click leaves:&f break 3x3x3 area'
+  STB_BREAKERMODULE:
+    name: '&eI.R. Mod: Breaker'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Insert into an Item Router'
+    - '&7Breaks the block in its'
+    - '&7configured direction and'
+    - '&7pulls it into the item router'
+    - '&60 items black-listed'
+    - '&6Filter by Material'
+  STB_MULTIMETER:
+    name: '&eMultimeter'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Use on cabling and machines'
+    - '&7to check energy net connections'
+    - '&7and power usage'
+    - '&7R-Click: &fuse'
+  STB_TENKENERGYCELL:
+    name: '&e10K Energy Cell'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Stores up to ⌁ 10000 SCU'
+    - '&f⌁ &c0/10000 SCU'
+  STB_ENERGIZEDQUARTZ:
+    name: '&eEnergized Quartz'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Strangely glowing...'
+  STB_SUBSPACETRANSPONDER:
+    name: '&eSubspace Transponder'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Used by some advanced'
+    - '&7items for cross-world'
+    - '&7communication'
+  STB_IRONDUST:
+    name: '&eIron Dust'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Smelt in a Smelter or Furnace'
+    - '&7 to get iron ingots'
+  STB_CIRCUITBOARD:
+    name: '&eCircuit Board'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Used in the construction'
+    - '&7of electronic circuits'
+  STB_DISTRIBUTORMODULE:
+    name: '&eI.R. Mod: Distributor'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Pulls items from the configured'
+    - '&7direction, then sends them'
+    - '&7round-robin to all other'
+    - '&7adjacent inventories'
+    - '&60 items black-listed'
+    - '&6Filter by Material'
+  STB_MAGNETOID:
+    name: '&eMagnetoid'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Collects objects in a 8'
+    - '&7block radius automatically.'
+    - '&bOffhand Gadget'
+    - '&f⌁ &c0/250000 SCU'
+  STB_ENERGIZEDIRONINGOT:
+    name: '&eEnergized Iron Ingot'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Strangely glowing...'
+  STB_ADVANCEDMOISTURECHECKER:
+    name: '&eAdvanced Moisture Checker'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Tests the saturation level'
+    - '&7 of a 5x5 area of farmland.'
+    - '&7R-click: &fuse'
+  STB_DROPPERMODULE:
+    name: '&eI.R. Mod: Dropper'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Insert into an Item Router'
+    - '&7Drops items onto the ground'
+    - '&7in the configured direction'
+    - '&7L-click Block: &f Set direction'
+    - '&7⇧ + L-click Air: &f Unset direction'
+    - '&60 items black-listed'
+    - '&6Filter by Material'
+  STB_FIFTYKENERGYCELL:
+    name: '&e50K Energy Cell'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Stores up to ⌁ 50000 SCU'
+    - '&f⌁ &c0/50000 SCU'
+  STB_FISHBAIT:
+    name: '&eFish Bait'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Used in a Fishing Net'
+    - '&7to catch Fish'
+  STB_REGULATORUPGRADE:
+    name: '&eRegulator Upgrade'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Adds intelligence to machines'
+    - '&7for more efficient resource'
+    - '&7usage.  Effect varies by machine.'
+  STB_PULLERMODULE:
+    name: '&eI.R. Mod: Puller'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Insert into an Item Router'
+    - '&7Pulls items from an adjacent inventory'
+    - '&7L-click Block: &f Set direction'
+    - '&7⇧ + L-click Air: &f Unset direction'
+    - '&60 items black-listed'
+    - '&6Filter by Material'
+  STB_STACKMODULE:
+    name: '&eI.R. Mod: Stack Upgrade'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Insert into an Item Router'
+    - '&7Passive module; each stack module'
+    - '&7doubles the number of items moved'
+    - '&7per operation, up to the item''s max'
+    - '&7stack size.'
+    - '&7Any modules over 6 are ignored.'
+  STB_SENDERMODULE:
+    name: '&eI.R. Mod: Sender'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Insert into an Item Router'
+    - '&7Sends items elsewhere:'
+    - '&7 - An adjacent inventory OR'
+    - '&7 - Item Router with Receiver Module:'
+    - '&7   within 10 blocks, with line of sight'
+    - '&7L-click Block: &f Set direction'
+    - '&7⇧ + L-click Air: &f Unset direction'
+    - '&60 items black-listed'
+    - '&6Filter by Material'
+  STB_SPEEDMODULE:
+    name: '&eI.R. Mod: Speed Upgrade'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Insert into an Item Router'
+    - '&7Passive module; increases router speed:'
+    - '&70 modules = 1 operation / 20 ticks'
+    - '&71 = 1/15, 2 = 1/10, 3 = 1/5'
+    - '&7Any modules over 3 are ignored.'
+  STB_VACUUMMODULE:
+    name: '&eI.R. Mod: Vacuum'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Insert into an Item Router'
+    - '&7Sucks up items within a 6-block radius'
+    - '&60 items black-listed'
+    - '&6Filter by Material'
+  STB_EJECTORUPGRADE:
+    name: '&eEjector Upgrade'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Place in a machine block '
+    - '&7Auto-ejects finished items'
+    - '&7L-Click block: set ejection direction'
+  STB_THOROUGHNESSUPGRADE:
+    name: '&eThoroughness Upgrade'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Place in a machine block'
+    - '&7Speed: x0.7'
+    - '&7Power Usage: x1.6'
+    - '&7Bonus Output: +8%'
+  STB_SORTERMODULE:
+    name: '&eI.R. Mod: Sorter'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Insert into an Item Router'
+    - '&7Places items into inventory IF'
+    - '&7- inventory is empty OR'
+    - '&7- inventory already contains that item'
+    - '&7L-click Block: &f Set direction'
+    - '&7⇧ + L-click Air: &f Unset direction'
+    - '&60 items black-listed'
+    - '&6Filter by Material'
+  STB_WATERINGCAN:
+    name: '&eWatering Can ： 0%'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7R-click to irrigate crops.'
+    - '&7R-click in water to refill'
+    - '&7Don''t over-use!'
+  STB_ENDERTUNER:
+    name: '&eEnder Tuner'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Vibrates in six dimensions'
+    - '&7R-Click Ender Box: &ftune box'
+    - '&7R-Click other: &fopen tuning GUI'
+  STB_PAINTBRUSH:
+    name: '&ePaintbrush'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Paints colorable blocks:'
+    - '&7 Wool, carpet, stained clay/glass'
+    - '&7R-click block: paint up to 9 blocks'
+    - '&7⇧ + R-click block: paint block'
+    - '&7⇧ + R-click air: empty brush'
+    - '&7R-click paintings: Change artwork'
+  STB_RECIPEBOOK:
+    name: '&eRecipe Book'
+    lore:
+    - '&8&o▹SensibleToolbox (STB) item'
+    - '&7Allows browsing/fabrication'
+    - '&7of all known recipes'

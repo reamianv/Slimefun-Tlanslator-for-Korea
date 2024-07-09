@@ -1,0 +1,83 @@
+name: SlimyTreeTaps
+translations:
+  REINFORCED_TREE_TAP:
+    name: '&6Reinforced Tree Tap'
+    lore:
+    - ''
+    - '&7Chance: &a21%'
+    - '&eRight Click any Log &7to harvest Resin'
+  DIAMOND_TREE_TAP:
+    name: '&bDiamond Tree Tap'
+    lore:
+    - ''
+    - '&7Chance: &a25%'
+    - '&eRight Click any Log &7to harvest Resin'
+  RESIN_EXTRACTOR_2:
+    name: '&cResin Extractor &7(&eII&7)'
+    lore:
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &7Speed: 2x'
+    - '&8⇨ &e⚡ &756 J/s'
+  TREE_SCRAPER:
+    name: '&bTree Scraper'
+    lore:
+    - ''
+    - '&7Chance: &a15%'
+    - '&eRight Click any Log &7to harvest Amber'
+  RUBBER:
+    name: '&eRubber'
+    lore:
+    - ''
+    - '&7An alternative source of plastic'
+  BLUE_ENDER_PEARL:
+    name: '&9Blue Ender Pearl'
+    lore:
+    - ''
+    - '&7This item can be used to'
+    - '&7craft Magical Mirrors'
+  RESIN_EXTRACTOR:
+    name: '&cResin Extractor'
+    lore:
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &7Speed: 1x'
+    - '&8⇨ &e⚡ &732 J/s'
+  AMBER_BLOCK:
+    name: '&6Block of Amber'
+  MAGICAL_MIRROR:
+    name: '&9Magical Mirror &7(Unbound)'
+    lore:
+    - ''
+    - '&eRight Click &7to bind this Mirror'
+    - '&7to your current location.'
+    - ''
+    - '&7Place a bound mirror into an'
+    - '&7Item Frame and then click on'
+    - '&7that Item Frame to teleport.'
+    - '&7Teleports cost &b1 Ender Pearl'
+  STICKY_RESIN:
+    name: '&6Sticky Resin'
+    lore:
+    - ''
+    - '&7Can be turned into Rubber'
+  RUBBER_FACTORY:
+    name: '&bRubber Factory'
+    lore:
+    - ''
+    - '&6Advanced Machine'
+    - '&8⇨ &7Speed: 1x'
+    - '&8⇨ &e⚡ &712 J/s'
+  AMBER:
+    name: '&6Amber'
+    lore:
+    - ''
+    - '&eA hardened gem acquired from Resin'
+  TREE_TAP:
+    name: '&6Tree Tap'
+    lore:
+    - ''
+    - '&7Chance: &a11%'
+    - '&eRight Click any Log &7to harvest Resin'
+  RAW_PLASTIC:
+    name: Raw Plastic

@@ -1,0 +1,167 @@
+name: Slimefun
+translations:
+  REINFORCED_SPAWNER:
+    name: '&bReinforced Spawner'
+    lore:
+    - '&7Type: &b<Type>'
+  RAINBOW_GLASS:
+    name: '&5Rainbow Glass'
+    lore:
+    - ''
+    - '&dCycles through all Colors of the Rainbow!'
+  INFUSED_MAGNET:
+    name: '&aInfused Magnet'
+    lore:
+    - ''
+    - '&fMagical infused Magnets'
+    - '&fattract nearby Items'
+    - '&fas long as it is somewhere in'
+    - '&fyour Inventory'
+    - ''
+    - '&7Hold &eShift&7 to pick up nearby Items'
+  STAFF_ELEMENTAL_FIRE:
+    name: '&6Elemental Staff &7- &c&oFire'
+    lore:
+    - ''
+    - '&7Element: &c&oFire'
+  SCROLL_OF_DIMENSIONAL_TELEPOSITION:
+    name: '&6Scroll of Dimensional Teleposition'
+    lore:
+    - ''
+    - '&cThis Scroll is capable of creating'
+    - '&ca temporary black Hole which pulls'
+    - '&cnearby Entities into itself and sends'
+    - '&cthem into another Dimension where'
+    - '&ceverything is turned around'
+    - ''
+    - '&fIn other words: Makes Entities turn by 180 Degrees'
+  RAINBOW_CLAY:
+    name: '&5Rainbow Clay'
+    lore:
+    - ''
+    - '&dCycles through all Colors of the Rainbow!'
+  RAINBOW_WOOL:
+    name: '&5Rainbow Wool'
+    lore:
+    - ''
+    - '&dCycles through all Colors of the Rainbow!'
+  STAFF_ELEMENTAL_WIND:
+    name: '&6Elemental Staff &7- &b&oWind'
+    lore:
+    - ''
+    - '&7Element: &b&oWind'
+    - ''
+    - '&eRight Click&7 to launch yourself forward'
+  ANCIENT_PEDESTAL:
+    name: '&dAncient Pedestal'
+    lore:
+    - ''
+    - '&5Part of the Ancient Altar'
+  BOUND_BACKPACK:
+    name: '&cSoulbound Backpack'
+    lore:
+    - ''
+    - '&7Size: &e36'
+    - '&7ID: <ID>'
+    - ''
+    - '&eRight Click&7 to open'
+  ANCIENT_ALTAR:
+    name: '&dAncient Altar'
+    lore:
+    - ''
+    - '&5Multi-Block Altar for'
+    - '&5magical Crafting Processes'
+  FLASK_OF_KNOWLEDGE:
+    name: '&cFlask of Knowledge'
+    lore:
+    - ''
+    - '&fAllows you to store some of'
+    - '&fyour Experience in a Bottle'
+    - '&7Cost: &a1 Level'
+  TRIDENT:
+    name: '[Trident]'
+  INFERNAL_BONEMEAL:
+    name: '&4Infernal Bonemeal'
+    lore:
+    - ''
+    - '&cSpeeds up the Growth of'
+    - '&cNether Warts as well'
+  TOTEM_OF_UNDYING:
+    name: '[Totem of Undying]'
+  MAGICAL_ZOMBIE_PILLS:
+    name: '&6Magical Zombie Pills'
+    lore:
+    - ''
+    - '&eRight Click &7a Zombified Villager'
+    - '&eor &7a Zombified Piglin to'
+    - '&7instantly cure it from its curse'
+  INFUSED_ELYTRA:
+    name: '&5Infused Elytra'
+  SOULBOUND_ELYTRA:
+    name: '&cSoulbound Elytra'
+  RAINBOW_GLASS_PANE:
+    name: '&5Rainbow Glass Pane'
+    lore:
+    - ''
+    - '&dCycles through all Colors of the Rainbow!'
+  INFUSED_HOPPER:
+    name: '&5Infused Hopper'
+    lore:
+    - ''
+    - '&fAutomatically picks up nearby Items in a 7x7x7'
+    - '&fRadius when placed.'
+  MAGIC_EYE_OF_ENDER:
+    name: '&6&lMagic Eye of Ender'
+    lore:
+    - '&4&lRequires full Ender Armor'
+    - ''
+    - '&eRight Click&7 to shoot an Ender Pearl'
+  ELYTRA:
+    name: '[Elytra]'
+  ENDER_BACKPACK:
+    name: '&6Ender Backpack'
+    lore:
+    - '&a&oA portable Ender Chest'
+    - ''
+    - '&eRight Click&7 to open'
+  STAFF_ELEMENTAL_WATER:
+    name: '&6Elemental Staff &7- &1&oWater'
+    lore:
+    - ''
+    - '&7Element: &1&oWater'
+    - ''
+    - '&eRight Click&7 to extinguish yourself'
+  FILLED_FLASK_OF_KNOWLEDGE:
+    name: '&aFlask of Knowledge'
+  STAFF_ELEMENTAL_STORM:
+    name: '&6Elemental Staff &7- &8&oStorm'
+    lore:
+    - ''
+    - '&7Element: &8&oStorm'
+    - ''
+    - '&eRight Click&7 to summon a lightning'
+    - '&e8 Uses &7left'
+  RAINBOW_CONCRETE:
+    name: '&5Rainbow Concrete'
+    lore:
+    - ''
+    - '&dCycles through all Colors of the Rainbow!'
+  RAINBOW_GLAZED_TERRACOTTA:
+    name: '&5Rainbow Glazed Terracotta'
+    lore:
+    - ''
+    - '&dCycles through all Colors of the Rainbow!'
+  STAFF_ELEMENTAL:
+    name: '&6Elemental Staff'
+  TOME_OF_KNOWLEDGE_SHARING:
+    name: '&6Tome of Knowledge Sharing'
+    lore:
+    - '&7Owner: &bNone'
+    - ''
+    - '&eRight Click&7 to bind this Tome to yourself'
+    - ''
+    - ''
+    - '&eRight Click&7 to obtain all Researches by'
+    - '&7the previously assigned Owner'
+  ELYTRA_SCALE:
+    name: '&bElytra Scale'

@@ -1,0 +1,127 @@
+name: CrystamaeHistoria
+translations:
+  CRY_EXALTED_HARVESTER:
+    name: '&x&8&7&3&2&A&8Exalted Harvester'
+    lore:
+    - ''
+    - '&7A magical construct able to'
+    - '&7harvest all crops in a 9x9 area.'
+    - '&7Must be placed on an Exaltation'
+    - '&7Stand to operate.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Requires: Spell Rank > Grandmaster Magus'
+    - ''
+    - '&x&E&4&E&D&3&2Exalted'
+  CRY_EXALTED_BEACON:
+    name: '&x&8&7&3&2&A&8Exalted Beacon'
+    lore:
+    - ''
+    - '&7A powerful beacon with incredible'
+    - '&7potential. Must be placed on a'
+    - '&7Exaltation Stand to operate.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Power: &72'
+    - '&7'
+    - '&x&E&4&E&D&3&2Requires: Story Rank > Emeritus Professor'
+    - ''
+    - '&x&E&4&E&D&3&2Exalted'
+  CRY_EXALTED_BAELFIRE:
+    name: '&x&8&7&3&2&A&8Exalted Baelfire'
+    lore:
+    - ''
+    - '&7A powerful beacon with incredible'
+    - '&7potential. Must be placed on a'
+    - '&7Exaltation Stand to operate.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Power: &73'
+    - '&7'
+    - '&x&E&4&E&D&3&2Requires: Story Rank > Emeritus Professor'
+    - ''
+    - '&x&E&4&E&D&3&2Exalted'
+  CRY_EXALTED_DUSK:
+    name: '&x&8&7&3&2&A&8Exalted Dusk'
+    lore:
+    - ''
+    - '&7A magical construct shines'
+    - '&7as vivid as the new moon'
+    - '&7'
+    - '&x&E&4&E&D&3&2Requires: Crafted during the night'
+    - ''
+    - '&x&E&4&E&D&3&2Exalted'
+  CRY_SEA_BREEZE:
+    name: '&x&8&7&3&2&A&8Exalted Sea Breeze'
+    lore:
+    - ''
+    - '&7A magical construct that brings'
+    - '&7the sea air to nearby blocks, weathering'
+    - '&7and oxidizing them.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Requires: Crafted on a beach'
+    - ''
+    - '&x&E&4&E&D&3&2Exalted'
+  CRY_EXALTED_FERTILITY_TOTEM:
+    name: '&x&8&7&3&2&A&8Exalted Fertility Totem'
+    lore:
+    - ''
+    - '&7A magical construct able to'
+    - '&7breed nearby animals in a 20x20 area.'
+    - '&7Must be placed on an Exaltation'
+    - '&7Stand to operate.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Requires: Story Rank > Emeritus Professor'
+    - ''
+    - '&x&E&4&E&D&3&2Exalted'
+  CRY_EXALTED_AGRONOMIST:
+    name: '&x&8&7&3&2&A&8Exalted Agronomist'
+    lore:
+    - ''
+    - '&7A magical construct able to'
+    - '&7harvest all crops in a 19x19 area.'
+    - '&7Must be placed on an Exaltation'
+    - '&7Stand to operate.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Requires: Spell Rank > Grandmaster Magus'
+    - ''
+    - '&x&E&4&E&D&3&2Exalted'
+  CRY_EXALTED_DAWN:
+    name: '&x&8&7&3&2&A&8Exalted Dawn'
+    lore:
+    - ''
+    - '&7A magical construct that burns'
+    - '&7brightly like the sun.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Requires: Crafted during the day'
+    - ''
+    - '&x&E&4&E&D&3&2Exalted'
+  CRY_EXALTED_FERTILITY_PHARO:
+    name: '&x&8&7&3&2&A&8Exalted Fertility Pharo'
+    lore:
+    - ''
+    - '&7A magical construct able to'
+    - '&7breed nearby animals in a 10x10 area.'
+    - '&7Must be placed on an Exaltation'
+    - '&7Stand to operate.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Requires: Story Rank > Emeritus Professor'
+    - ''
+    - '&x&E&4&E&D&3&2Exalted'
+  CRY_EXALTED_STORM:
+    name: '&x&8&7&3&2&A&8Exalted Storm'
+    lore:
+    - ''
+    - '&7A magical construct emanating'
+    - '&7the destruction of a storm.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Requires: Crafted during a storm'
+    - ''
+    - '&x&E&4&E&D&3&2Exalted'
+  CRY_EXALTED_SUN:
+    name: '&x&8&7&3&2&A&8Exalted Sun'
+    lore:
+    - ''
+    - '&7A magical construct emanating'
+    - '&7the power of a sun.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Requires: Crafted during a clear day'
+    - ''
+    - '&x&E&4&E&D&3&2Exalted'

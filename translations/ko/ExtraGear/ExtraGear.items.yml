@@ -1,0 +1,120 @@
+name: ExtraGear
+translations:
+  SILVER_BOOTS:
+    name: '&fSilver Boots'
+  COPPER_HELMET:
+    name: '&fCopper Helmet'
+  COPPER_CHESTPLATE:
+    name: '&fCopper Chestplate'
+  TIN_HELMET:
+    name: '&fTin Helmet'
+  COBALT_LEGGINGS:
+    name: '&fCobalt Leggings'
+  LEAD_BOOTS:
+    name: '&fLead Boots'
+  ALUMINUM_BRASS_SWORD:
+    name: Aluminum Brass Sword
+  ZINC_SWORD:
+    name: Zinc Sword
+  ALUMINUM_BOOTS:
+    name: '&fAluminum Boots'
+  COBALT_SWORD:
+    name: Cobalt Sword
+  COBALT_HELMET:
+    name: '&fCobalt Helmet'
+  TIN_LEGGINGS:
+    name: '&fTin Leggings'
+  STEEL_BOOTS:
+    name: '&fSteel Boots'
+  LEAD_CHESTPLATE:
+    name: '&fLead Chestplate'
+  COPPER_SWORD:
+    name: Copper Sword
+  COBALT_CHESTPLATE:
+    name: '&fCobalt Chestplate'
+  MAGNESIUM_BOOTS:
+    name: '&fMagnesium Boots'
+  BILLON_SWORD:
+    name: Billon Sword
+  FERROSILICON_SWORD:
+    name: Ferrosilicon Sword
+  DURALUMIN_SWORD:
+    name: Duralumin Sword
+  COPPER_LEGGINGS:
+    name: '&fCopper Leggings'
+  LEAD_HELMET:
+    name: '&fLead Helmet'
+  ALUMINUM_CHESTPLATE:
+    name: '&fAluminum Chestplate'
+  TIN_SWORD:
+    name: Tin Sword
+  SILVER_CHESTPLATE:
+    name: '&fSilver Chestplate'
+  HARDENED_SWORD:
+    name: Hardened Sword
+  CORINTHIAN_BRONZE_SWORD:
+    name: Corinthian Bronze Sword
+  ZINC_HELMET:
+    name: '&fZinc Helmet'
+  LEAD_LEGGINGS:
+    name: '&fLead Leggings'
+  ZINC_LEGGINGS:
+    name: '&fZinc Leggings'
+  COPPER_BOOTS:
+    name: '&fCopper Boots'
+  SILVER_LEGGINGS:
+    name: '&fSilver Leggings'
+  REINFORCED_SWORD:
+    name: Reinforced Sword
+  STEEL_LEGGINGS:
+    name: '&fSteel Leggings'
+  ALUMINUM_HELMET:
+    name: '&fAluminum Helmet'
+  SILVER_SWORD:
+    name: Silver Sword
+  ALUMINUM_LEGGINGS:
+    name: '&fAluminum Leggings'
+  LEAD_SWORD:
+    name: Lead Sword
+  ZINC_BOOTS:
+    name: '&fZinc Boots'
+  ALUMINUM_BRONZE_SWORD:
+    name: Aluminum Bronze Sword
+  NICKEL_SWORD:
+    name: Nickel Sword
+  BRONZE_SWORD:
+    name: Bronze Sword
+  MAGNESIUM_HELMET:
+    name: '&fMagnesium Helmet'
+  STEEL_SWORD:
+    name: Steel Sword
+  GILDED_IRON_SWORD:
+    name: Gilded Iron Sword
+  SILVER_HELMET:
+    name: '&fSilver Helmet'
+  DAMASCUS_STEEL_SWORD:
+    name: Damascus Steel Sword
+  MAGNESIUM_CHESTPLATE:
+    name: '&fMagnesium Chestplate'
+  STEEL_CHESTPLATE:
+    name: '&fSteel Chestplate'
+  TIN_BOOTS:
+    name: '&fTin Boots'
+  TIN_CHESTPLATE:
+    name: '&fTin Chestplate'
+  ZINC_CHESTPLATE:
+    name: '&fZinc Chestplate'
+  MAGNESIUM_SWORD:
+    name: Magnesium Sword
+  MAGNESIUM_LEGGINGS:
+    name: '&fMagnesium Leggings'
+  SOLDER_SWORD:
+    name: Solder Sword
+  BRASS_SWORD:
+    name: Brass Sword
+  STEEL_HELMET:
+    name: '&fSteel Helmet'
+  COBALT_BOOTS:
+    name: '&fCobalt Boots'
+  ALUMINUM_SWORD:
+    name: Aluminum Sword

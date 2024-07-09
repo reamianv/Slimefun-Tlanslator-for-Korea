@@ -1,0 +1,12 @@
+name: Galactifun
+translations:
+  FALLEN_SATELLITE_RELIC:
+    name: '&7Relic: Kintups Yyhsdap'
+    lore:
+    - ''
+    - '&7Aben s lapu yyrotok, kintups'
+  BROKEN_SOLAR_PANEL_RELIC:
+    name: '&7Relic: ''Lenap Ayanhcenlos Ayanamolop'
+    lore:
+    - ''
+    - '&7''Lenap ayanhcenlos ayarats ''nehco'

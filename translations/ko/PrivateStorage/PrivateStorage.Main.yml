@@ -1,0 +1,162 @@
+name: PrivateStorage
+translations:
+  BIRCH_CHEST:
+    name: '&6Birch chest'
+    lore:
+    - '&7Size: &e2x9'
+    - ''
+    - This Chest can be opened by anyone
+    - who can open Chests in your Area
+  ACACIA_CHEST:
+    name: '&6Acacia chest'
+    lore:
+    - '&7Size: &e2x9'
+    - ''
+    - This Chest can be opened by anyone
+    - who can open Chests in your Area
+  IRON_CHEST:
+    name: '&6Iron chest'
+    lore:
+    - '&7Size: &e3x9'
+    - ''
+    - This Chest can be opened by anyone
+    - who can open Chests in your Area
+  STEEL_CHEST:
+    name: '&6Steel chest'
+    lore:
+    - '&7Size: &e5x9'
+    - '&bWithstands Explosions'
+    - ''
+    - This Chest can be opened by anyone
+    - who can open Chests in your Area
+  JUNGLE_CHEST:
+    name: '&6Jungle chest'
+    lore:
+    - '&7Size: &e2x9'
+    - ''
+    - This Chest can be opened by anyone
+    - who can open Chests in your Area
+  PRIVATE_SAFE_OBSIDIAN:
+    name: '&6Obsidian Safe'
+    lore:
+    - '&7Size: &e4x9'
+    - '&bWithstands Explosions'
+    - ''
+    - This Chest can only be opened by you
+  PRIVATE_SAFE_EMERALD:
+    name: '&6Emerald Safe'
+    lore:
+    - '&7Size: &e6x9'
+    - ''
+    - This Chest can only be opened by you
+  PRIVATE_SAFE_JUNGLE:
+    name: '&6Jungle Safe'
+    lore:
+    - '&7Size: &e2x9'
+    - ''
+    - This Chest can only be opened by you
+  PRIVATE_SAFE_ACACIA:
+    name: '&6Acacia Safe'
+    lore:
+    - '&7Size: &e2x9'
+    - ''
+    - This Chest can only be opened by you
+  PRIVATE_SAFE_SPRUCE:
+    name: '&6Spruce Safe'
+    lore:
+    - '&7Size: &e2x9'
+    - ''
+    - This Chest can only be opened by you
+  PRIVATE_SAFE_DIAMOND:
+    name: '&6Diamond Safe'
+    lore:
+    - '&7Size: &e5x9'
+    - ''
+    - This Chest can only be opened by you
+  DARK_OAK_CHEST:
+    name: '&6Dark Oak chest'
+    lore:
+    - '&7Size: &e2x9'
+    - ''
+    - This Chest can be opened by anyone
+    - who can open Chests in your Area
+  GOLDEN_CHEST:
+    name: '&6Golden chest'
+    lore:
+    - '&7Size: &e4x9'
+    - ''
+    - This Chest can be opened by anyone
+    - who can open Chests in your Area
+  OBSIDIAN_CHEST:
+    name: '&6Obsidian chest'
+    lore:
+    - '&7Size: &e4x9'
+    - '&bWithstands Explosions'
+    - ''
+    - This Chest can be opened by anyone
+    - who can open Chests in your Area
+  PRIVATE_SAFE_STEEL:
+    name: '&6Steel Safe'
+    lore:
+    - '&7Size: &e5x9'
+    - '&bWithstands Explosions'
+    - ''
+    - This Chest can only be opened by you
+  PRIVATE_SAFE_BIRCH:
+    name: '&6Birch Safe'
+    lore:
+    - '&7Size: &e2x9'
+    - ''
+    - This Chest can only be opened by you
+  PRIVATE_SAFE_GOLD:
+    name: '&6Golden Safe'
+    lore:
+    - '&7Size: &e4x9'
+    - ''
+    - This Chest can only be opened by you
+  OAK_CHEST:
+    name: '&6Oak chest'
+    lore:
+    - '&7Size: &e2x9'
+    - ''
+    - This Chest can be opened by anyone
+    - who can open Chests in your Area
+  DIAMOND_CHEST:
+    name: '&6Diamond chest'
+    lore:
+    - '&7Size: &e5x9'
+    - ''
+    - This Chest can be opened by anyone
+    - who can open Chests in your Area
+  PRIVATE_SAFE_OAK:
+    name: '&6Oak Safe'
+    lore:
+    - '&7Size: &e2x9'
+    - ''
+    - This Chest can only be opened by you
+  PRIVATE_SAFE_DARK_OAK:
+    name: '&6Dark Oak Safe'
+    lore:
+    - '&7Size: &e2x9'
+    - ''
+    - This Chest can only be opened by you
+  SPRUCE_CHEST:
+    name: '&6Spruce chest'
+    lore:
+    - '&7Size: &e2x9'
+    - ''
+    - This Chest can be opened by anyone
+    - who can open Chests in your Area
+  EMERALD_CHEST:
+    name: '&6Emerald chest'
+    lore:
+    - '&7Size: &e6x9'
+    - ''
+    - This Chest can be opened by anyone
+    - who can open Chests in your Area
+  PRIVATE_SAFE_IRON:
+    name: '&6Iron Safe'
+    lore:
+    - '&7Size: &e3x9'
+    - ''
+    - This Chest can only be opened by you

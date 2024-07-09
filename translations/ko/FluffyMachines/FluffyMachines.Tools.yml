@@ -1,0 +1,39 @@
+name: FluffyMachines
+translations:
+  SCYTHE:
+    name: '&eScythe'
+    lore:
+    - ''
+    - '&7Breaks 5 crops at once'
+  UPGRADED_LUMBER_AXE:
+    name: '&6&lUpgraded Lumber Axe'
+    lore:
+    - ''
+    - '&7Chops down an entire tree at once'
+    - '&72 block reach and works on diagonal blocks too'
+  PAXEL:
+    name: '&bPaxel'
+    lore:
+    - ''
+    - '&7A pickaxe, axe, and shovel in one tool!'
+  UPGRADED_EXPLOSIVE_PICKAXE:
+    name: '&e&lUpgraded Explosive Pickaxe'
+    lore:
+    - ''
+    - '&7Breaks all mineable blocks in a 5x5 radius'
+  UPGRADED_EXPLOSIVE_SHOVEL:
+    name: '&e&lUpgraded Explosive Shovel'
+    lore:
+    - ''
+    - '&7Breaks all shovelable blocks in a 5x5 radius'
+  WATERING_CAN:
+    name: '&bWatering Can'
+    lore:
+    - ''
+    - '&fWaters Plants'
+    - ''
+    - '&7> &eRight Click &7a water to fill your watering can'
+    - '&7> &eRight Click &7a plant to speed up growth.'
+    - '&7> &eRight Click &7a player to slow them down'
+    - ''
+    - '&aUses Left: &e0'

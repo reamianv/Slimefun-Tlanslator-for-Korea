@@ -1,0 +1,127 @@
+name: Galactifun
+translations:
+  ATMOSPHERIC_GAS_NITROGEN:
+    name: '&fNitrogen Gas Canister'
+    lore:
+    - ''
+    - '&f&oTexture by Sefiraat'
+  LAUNCH_PAD_CORE:
+    name: '&fLaunch Pad Core'
+    lore:
+    - ''
+    - '&7Surround with 8 &fLaunch Pad Floor&7s'
+    - '&7to use'
+  LANDING_HATCH:
+    name: '&fLanding Hatch'
+    lore:
+    - ''
+    - '&7Rockets ignore this block when'
+    - '&7landing; they''ll land on the'
+    - '&7highest block below it. It is'
+    - '&7considered impassable by air'
+    - '&7so it can be used to seal spaces'
+  ATMOSPHERIC_GAS_HELIUM:
+    name: '&fHelium Gas Canister'
+    lore:
+    - ''
+    - '&f&oTexture by Sefiraat'
+  ION_ROCKET:
+    name: '&bIon Rocket'
+    lore:
+    - ''
+    - '&7Uses a specialized engine that'
+    - '&7expels ions at great speed, granting'
+    - '&7extreme fuel efficiency'
+    - ''
+    - '&7Fuel Capacity: 500'
+    - '&7Cargo Capacity: 18'
+  ATMOSPHERIC_GAS_HYDROCARBONS:
+    name: '&fHydrocarbons Gas Canister'
+    lore:
+    - ''
+    - '&f&oTexture by Sefiraat'
+  ATMOSPHERIC_GAS_CARBON_DIOXIDE:
+    name: '&fCarbon Dioxide Gas Canister'
+    lore:
+    - ''
+    - '&f&oTexture by Sefiraat'
+  ATMOSPHERIC_GAS_ARGON:
+    name: '&fArgon Gas Canister'
+    lore:
+    - ''
+    - '&f&oTexture by Sefiraat'
+  ATMOSPHERIC_GAS_AMMONIA:
+    name: '&fAmmonia Gas Canister'
+    lore:
+    - ''
+    - '&f&oTexture by Sefiraat'
+  ROCKET_ENGINE:
+    name: '&fRocket Engine'
+  LIFE_SUPPORT_MODULE:
+    name: '&4Life Support Module'
+  ROCKET_ENGINE_2:
+    name: '&fRocket Engine Mk 2'
+  ROCKET_ENGINE_3:
+    name: '&fRocket Engine Mk 3'
+  NOSE_CONE:
+    name: '&fNose Cone'
+  ROCKET_TIER_THREE:
+    name: '&4Chemical Rocket Tier 3'
+    lore:
+    - ''
+    - '&7Fuel Capacity: 500'
+    - '&7Cargo Capacity: 36'
+  SUPER_FAN:
+    name: '&7Super Fan'
+    lore:
+    - ''
+    - '&7Place this next to a block that needs'
+    - '&7a sealed area to extend the range by 15%'
+  MOON_CHEESE:
+    name: '&6Moon Cheese'
+    lore:
+    - ''
+    - '&7Ew'
+  ROCKET_TIER_ONE:
+    name: '&4Chemical Rocket Tier 1'
+    lore:
+    - ''
+    - '&7Fuel Capacity: 10'
+    - '&7Cargo Capacity: 9'
+  LAUNCH_PAD_FLOOR:
+    name: '&fLaunch Pad Floor'
+    lore:
+    - ''
+    - '&7Used in constructing the Launch Pad'
+  ATMOSPHERIC_GAS_METHANE:
+    name: '&fMethane Gas Canister'
+    lore:
+    - ''
+    - '&f&oTexture by Sefiraat'
+  ATMOSPHERIC_GAS_WATER:
+    name: '&fWater Gas Canister'
+    lore:
+    - ''
+    - '&f&oTexture by Sefiraat'
+  ROCKET_TIER_TWO:
+    name: '&4Chemical Rocket Tier 2'
+    lore:
+    - ''
+    - '&7Fuel Capacity: 100'
+    - '&7Cargo Capacity: 18'
+  ATMOSPHERIC_GAS_HYDROGEN:
+    name: '&fHydrogen Gas Canister'
+    lore:
+    - ''
+    - '&f&oTexture by Sefiraat'
+  DIAMOND_ANVIL_CELL:
+    name: '&bDiamond Anvil Cell'
+  FUSION_PELLET:
+    name: '&fFusion Pellet'
+  ATMOSPHERIC_GAS_OXYGEN:
+    name: '&fOxygen Gas Canister'
+    lore:
+    - ''
+    - '&f&oTexture by Sefiraat'
+  ION_ENGINE:
+    name: '&bIon Engine'

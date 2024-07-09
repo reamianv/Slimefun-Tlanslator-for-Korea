@@ -1,0 +1,48 @@
+name: Quaptics
+translations:
+  QP_LUCK_MODULE_2:
+    name: '&x&9&9&3&3&6&6Luck Module &dII'
+    lore:
+    - '&x&F&F&6&6&0&0Advanced'
+    - '&8⇨ &x&E&0&8&5&C&2◎ &7Luck Level &e4'
+  QP_LUCK_MODULE_1:
+    name: '&x&9&9&3&3&6&6Luck Module &dI'
+    lore:
+    - '&x&F&F&D&B&4&DIntermediate'
+    - '&8⇨ &x&E&0&8&5&C&2◎ &7Luck Level &e2'
+  QP_HUNGER_REFILL_MODULE:
+    name: '&x&9&9&3&3&6&6Hunger Refill Module'
+    lore:
+    - '&x&F&F&D&B&4&DIntermediate'
+  QP_FIRE_RESISTANCE_MODULE_1:
+    name: '&x&9&9&3&3&6&6Fire Resistance Module &dI'
+    lore:
+    - '&x&F&F&D&B&4&DIntermediate'
+    - '&8⇨ &x&E&0&8&5&C&2◎ &7Fire Resistance Level &e2'
+  QP_WIRELESS_CHARGER_MODULE:
+    name: '&x&9&9&3&3&6&6Wireless Charger Module'
+    lore:
+    - '&x&F&F&6&6&0&0Advanced'
+    - '&7● Wirelessly charges held items'
+    - '&7● The more power the beacon has, the higher the charge rate'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Power Efficiency &e.10 &8W'
+  QP_FIRE_RESISTANCE_MODULE_2:
+    name: '&x&9&9&3&3&6&6Fire Resistance Module &dII'
+    lore:
+    - '&x&F&F&6&6&0&0Advanced'
+    - '&8⇨ &x&E&0&8&5&C&2◎ &7Fire Resistance Level &e4'
+  QP_INVINCIBILITY_MODULE:
+    name: '&x&9&9&3&3&6&6Invincibility Module'
+    lore:
+    - '&x&F&F&6&6&0&0Advanced'
+    - '&7● Makes all players in range invincible'
+  QP_EXPERIENCE_MODULE_1:
+    name: '&x&9&9&3&3&6&6Experience Module &dI'
+    lore:
+    - '&x&F&F&D&B&4&DIntermediate'
+    - '&8⇨ &x&E&0&8&5&C&2◎ &7Experience Multiplier &e1x'
+  QP_EXPERIENCE_MODULE_2:
+    name: '&x&9&9&3&3&6&6Experience Module &dII'
+    lore:
+    - '&x&F&F&6&6&0&0Advanced'
+    - '&8⇨ &x&E&0&8&5&C&2◎ &7Experience Multiplier &e2x'

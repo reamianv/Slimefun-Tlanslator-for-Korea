@@ -1,0 +1,57 @@
+name: BetterReactor
+translations:
+  HEATED_COOLANT:
+    name: Heated Coolant
+    lore:
+    - ''
+  REACTOR_OUTPUT:
+    name: Reactor Output
+    lore:
+    - ''
+    - '&cRed &7in &bReactor Core Hologram'
+  BORIUM:
+    name: Borium
+    lore:
+    - ''
+  SUPER_FREEZER:
+    name: Super Freezer
+    lore:
+    - ''
+    - '&7(&cWarning!&7 more inputs needed for good flow of items)'
+    - '&7Water instantly to coolant'
+    - '&8⇨ &e⚡ &750 J/s'
+  REACTOR_INPUT:
+    name: Reactor Input
+    lore:
+    - ''
+    - '&9Blue &7in &bReactor Core Hologram'
+  LEAD_GLASS:
+    name: Lead Glass
+    lore:
+    - ''
+    - '&7Gray in &bReactor Core Hologram'
+  REACTOR_HATCH:
+    name: Reactor Hatch
+    lore:
+    - ''
+    - '&aGreen &7in &bReactor Core Hologram'
+  REACTOR_CORE:
+    name: Reactor Core
+    lore:
+    - ''
+    - '&4End-Game Generator'
+    - '&8⇨ &e⚡ &716384 J Buffer'
+    - '&8⇨ &e⚡ &716384 J/s'
+    - '&8⇨ &e⚡ &7Lasts 1200t'
+    - '&8⇨ &e⚡ &7In total: 9.83M J'
+    - '&7Core of Reactor, &bshows Reactor Core Hologram'
+  BORIUM_ROD:
+    name: Borium Rod
+    lore:
+    - ''
+    - '&6Orange &7in &bReactor Core Hologram'
+  LEAD_BLOCK:
+    name: Lead Block
+    lore:
+    - ''
+    - '&fWhite &7in &bReactor Core Hologram'

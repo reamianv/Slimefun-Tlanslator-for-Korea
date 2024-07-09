@@ -1,0 +1,7 @@
+name: SlimyRepair
+translations:
+  SLIMY_ANVIL:
+    name: '&a&lSlimy Anvil'
+    lore:
+    - ''
+    - '&7Used to repair Slimefun tools easily'

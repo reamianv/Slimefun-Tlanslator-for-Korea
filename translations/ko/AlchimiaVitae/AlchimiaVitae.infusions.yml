@@ -1,0 +1,58 @@
+name: AlchimiaVitae
+translations:
+  AV_DESTRUCTIVE_CRITS_INFUSION:
+    name: '&c&lDestructive Criticals'
+    lore:
+    - '&4Grants a small chance to give your opponent'
+    - '&4negative status effects on a critical hit,'
+    - '&4as well as deal additional damage to armor.'
+  AV_TOTEM_BATTERY_INFUSION:
+    name: '&6&lTotem Battery'
+    lore:
+    - '&6Stores up to 8 Totems of Undying which will resurrect you'
+    - '&eStore a totem by &7&lShift-Right-Clicking &ewhile holding'
+    - '&eone and while an infused chestplate is worn'
+  AV_AUTO_REPLANT_INFUSION:
+    name: '&aAutomatic Re-plant'
+    lore:
+    - '&2Grants the ability to automatically replant'
+    - '&2fully grown crops when harvesting them'
+  AV_HEALING_INFUSION:
+    name: '&cHealing'
+    lore:
+    - '&cGrants the ability to heal hit'
+    - '&ctargets instead of harming them'
+  AV_KNOCKBACK_INFUSION:
+    name: '&aKnockback'
+    lore:
+    - '&aPushes targets away instead'
+    - '&aof pulling them towards you'
+  AV_FORCEFUL_INFUSION:
+    name: '&2Forceful'
+    lore:
+    - '&2Grants the ability to fire arrows that'
+    - '&2travel further and deal more damage'
+  AV_ALTAR_OF_INFUSION:
+    name: '&x&F&7&8&7&7&0A&x&F&8&8&5&7&1l&x&F&8&8&2&7&1t&x&F&9&8&0&7&2a&x&F&9&7&D&7&3r&x&F&A&7&B&7&3
+      &x&F&A&7&8&7&4o&x&F&B&7&6&7&5f&x&F&B&7&4&7&6 &x&F&C&7&1&7&6I&x&F&C&6&F&7&7n&x&F&D&6&C&7&8f&x&F&D&6&A&7&8u&x&F&E&6&7&7&9s&x&F&E&6&5&7&Ai&x&F&F&6&2&7&Ao&x&F&F&6&0&7&Bn'
+    lore:
+    - '&5Adds powerful effects to tools'
+    - ''
+    - '&7Only works on gold, iron, diamond, netherite and'
+    - '&7gear, as well as fishing rods, bows, and crossbows'
+    - ''
+    - '&9Altar (&9&oAlchimiaVitae)'
+  AV_TRUE_AIM_INFUSION:
+    name: '&dTrue Aim'
+    lore:
+    - '&5Grants the ability to fire arrows'
+    - '&5that are not affected by gravity'
+  AV_PHANTOM_CRITS_INFUSION:
+    name: '&bPhantom Criticals'
+    lore:
+    - '&7Grants a small chance to deal extra damage'
+    - '&7on a critical hit, which bypasses armor'
+  AV_VOLATILE_INFUSION:
+    name: '&4&lVolatility'
+    lore:
+    - '&cGrants the ability to shoot fireballs'

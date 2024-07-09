@@ -1,0 +1,1172 @@
+name: CompressionCraft
+translations:
+  JC_LARGE_AMETHYST_BUD_6:
+    name: '&fSextuple Compressed Large Amethyst Bud'
+    lore:
+    - '&f262144 Large Amethyst Bud'
+    - '&fCompressionCraft'
+  JC_COBBLESTONE_3:
+    name: '&fTriple Compressed Cobblestone'
+    lore:
+    - '&f512 Cobblestone'
+    - '&fCompressionCraft'
+  JC_COBBLESTONE_4:
+    name: '&fQuadruple Compressed Cobblestone'
+    lore:
+    - '&f4096 Cobblestone'
+    - '&fCompressionCraft'
+  JC_COBBLESTONE_1:
+    name: '&fCompressed Cobblestone'
+    lore:
+    - '&f8 Cobblestone'
+    - '&fCompressionCraft'
+  JC_COBBLESTONE_2:
+    name: '&fDouble Compressed Cobblestone'
+    lore:
+    - '&f64 Cobblestone'
+    - '&fCompressionCraft'
+  JC_COBBLESTONE_5:
+    name: '&fQuintuple Compressed Cobblestone'
+    lore:
+    - '&f32768 Cobblestone'
+    - '&fCompressionCraft'
+  JC_COBBLESTONE_6:
+    name: '&fSextuple Compressed Cobblestone'
+    lore:
+    - '&f262144 Cobblestone'
+    - '&fCompressionCraft'
+  JC_DIRT_5:
+    name: '&fQuintuple Compressed Dirt'
+    lore:
+    - '&f32768 Dirt'
+    - '&fCompressionCraft'
+  JC_DIRT_4:
+    name: '&fQuadruple Compressed Dirt'
+    lore:
+    - '&f4096 Dirt'
+    - '&fCompressionCraft'
+  JC_DIRT_3:
+    name: '&fTriple Compressed Dirt'
+    lore:
+    - '&f512 Dirt'
+    - '&fCompressionCraft'
+  JC_DIRT_2:
+    name: '&fDouble Compressed Dirt'
+    lore:
+    - '&f64 Dirt'
+    - '&fCompressionCraft'
+  JC_DIRT_6:
+    name: '&fSextuple Compressed Dirt'
+    lore:
+    - '&f262144 Dirt'
+    - '&fCompressionCraft'
+  JC_REDSTONE_BLOCK_4:
+    name: '&fQuadruple Compressed Redstone Block'
+    lore:
+    - '&f4096 Redstone Block'
+    - '&fCompressionCraft'
+  JC_REDSTONE_BLOCK_3:
+    name: '&fTriple Compressed Redstone Block'
+    lore:
+    - '&f512 Redstone Block'
+    - '&fCompressionCraft'
+  JC_REDSTONE_BLOCK_6:
+    name: '&fSextuple Compressed Redstone Block'
+    lore:
+    - '&f262144 Redstone Block'
+    - '&fCompressionCraft'
+  JC_REDSTONE_BLOCK_5:
+    name: '&fQuintuple Compressed Redstone Block'
+    lore:
+    - '&f32768 Redstone Block'
+    - '&fCompressionCraft'
+  JC_REDSTONE_BLOCK_2:
+    name: '&fDouble Compressed Redstone Block'
+    lore:
+    - '&f64 Redstone Block'
+    - '&fCompressionCraft'
+  JC_REDSTONE_BLOCK_1:
+    name: '&fCompressed Redstone Block'
+    lore:
+    - '&f8 Redstone Block'
+    - '&fCompressionCraft'
+  JC_COBBLED_DEEPSLATE_2:
+    name: '&fDouble Compressed Cobbled Deepslate'
+    lore:
+    - '&f64 Cobbled Deepslate'
+    - '&fCompressionCraft'
+  JC_IRON_BLOCK_4:
+    name: '&fQuadruple Compressed Iron Block'
+    lore:
+    - '&f4096 Iron Block'
+    - '&fCompressionCraft'
+  JC_COBBLED_DEEPSLATE_3:
+    name: '&fTriple Compressed Cobbled Deepslate'
+    lore:
+    - '&f512 Cobbled Deepslate'
+    - '&fCompressionCraft'
+  JC_IRON_BLOCK_3:
+    name: '&fTriple Compressed Iron Block'
+    lore:
+    - '&f512 Iron Block'
+    - '&fCompressionCraft'
+  JC_IRON_BLOCK_6:
+    name: '&fSextuple Compressed Iron Block'
+    lore:
+    - '&f262144 Iron Block'
+    - '&fCompressionCraft'
+  JC_COBBLED_DEEPSLATE_1:
+    name: '&fCompressed Cobbled Deepslate'
+    lore:
+    - '&f8 Cobbled Deepslate'
+    - '&fCompressionCraft'
+  JC_IRON_BLOCK_5:
+    name: '&fQuintuple Compressed Iron Block'
+    lore:
+    - '&f32768 Iron Block'
+    - '&fCompressionCraft'
+  JC_COBBLED_DEEPSLATE_6:
+    name: '&fSextuple Compressed Cobbled Deepslate'
+    lore:
+    - '&f262144 Cobbled Deepslate'
+    - '&fCompressionCraft'
+  JC_COBBLED_DEEPSLATE_4:
+    name: '&fQuadruple Compressed Cobbled Deepslate'
+    lore:
+    - '&f4096 Cobbled Deepslate'
+    - '&fCompressionCraft'
+  JC_COBBLED_DEEPSLATE_5:
+    name: '&fQuintuple Compressed Cobbled Deepslate'
+    lore:
+    - '&f32768 Cobbled Deepslate'
+    - '&fCompressionCraft'
+  JC_SNOW_BLOCK_6:
+    name: '&fSextuple Compressed Snow Block'
+    lore:
+    - '&f262144 Snow Block'
+    - '&fCompressionCraft'
+  JC_SNOW_BLOCK_4:
+    name: '&fQuadruple Compressed Snow Block'
+    lore:
+    - '&f4096 Snow Block'
+    - '&fCompressionCraft'
+  JC_SNOW_BLOCK_5:
+    name: '&fQuintuple Compressed Snow Block'
+    lore:
+    - '&f32768 Snow Block'
+    - '&fCompressionCraft'
+  JC_SNOW_BLOCK_2:
+    name: '&fDouble Compressed Snow Block'
+    lore:
+    - '&f64 Snow Block'
+    - '&fCompressionCraft'
+  JC_SNOW_BLOCK_3:
+    name: '&fTriple Compressed Snow Block'
+    lore:
+    - '&f512 Snow Block'
+    - '&fCompressionCraft'
+  JC_IRON_BLOCK_2:
+    name: '&fDouble Compressed Iron Block'
+    lore:
+    - '&f64 Iron Block'
+    - '&fCompressionCraft'
+  JC_SNOW_BLOCK_1:
+    name: '&fCompressed Snow Block'
+    lore:
+    - '&f8 Snow Block'
+    - '&fCompressionCraft'
+  JC_IRON_BLOCK_1:
+    name: '&fCompressed Iron Block'
+    lore:
+    - '&f8 Iron Block'
+    - '&fCompressionCraft'
+  JC_CHARCOAL_4:
+    name: '&fQuadruple Compressed Charcoal'
+    lore:
+    - '&f4096 Charcoal'
+    - '&fCompressionCraft'
+  JC_CHARCOAL_5:
+    name: '&fQuintuple Compressed Charcoal'
+    lore:
+    - '&f32768 Charcoal'
+    - '&fCompressionCraft'
+  JC_CHARCOAL_6:
+    name: '&fSextuple Compressed Charcoal'
+    lore:
+    - '&f262144 Charcoal'
+    - '&fCompressionCraft'
+  JC_CHARCOAL_1:
+    name: '&fCompressed Charcoal'
+    lore:
+    - '&f8 Charcoal'
+    - '&fCompressionCraft'
+  JC_CHARCOAL_2:
+    name: '&fDouble Compressed Charcoal'
+    lore:
+    - '&f64 Charcoal'
+    - '&fCompressionCraft'
+  JC_CHARCOAL_3:
+    name: '&fTriple Compressed Charcoal'
+    lore:
+    - '&f512 Charcoal'
+    - '&fCompressionCraft'
+  JC_CLAY_1:
+    name: '&fCompressed Clay'
+    lore:
+    - '&f8 Clay'
+    - '&fCompressionCraft'
+  JC_DIAMOND_1:
+    name: '&fCompressed Diamond'
+    lore:
+    - '&f8 Diamond'
+    - '&fCompressionCraft'
+  JC_DIAMOND_2:
+    name: '&fDouble Compressed Diamond'
+    lore:
+    - '&f64 Diamond'
+    - '&fCompressionCraft'
+  JC_CLAY_3:
+    name: '&fTriple Compressed Clay'
+    lore:
+    - '&f512 Clay'
+    - '&fCompressionCraft'
+  JC_DIAMOND_3:
+    name: '&fTriple Compressed Diamond'
+    lore:
+    - '&f512 Diamond'
+    - '&fCompressionCraft'
+  JC_CLAY_2:
+    name: '&fDouble Compressed Clay'
+    lore:
+    - '&f64 Clay'
+    - '&fCompressionCraft'
+  JC_DIAMOND_4:
+    name: '&fQuadruple Compressed Diamond'
+    lore:
+    - '&f4096 Diamond'
+    - '&fCompressionCraft'
+  JC_CLAY_5:
+    name: '&fQuintuple Compressed Clay'
+    lore:
+    - '&f32768 Clay'
+    - '&fCompressionCraft'
+  JC_DIAMOND_5:
+    name: '&fQuintuple Compressed Diamond'
+    lore:
+    - '&f32768 Diamond'
+    - '&fCompressionCraft'
+  JC_CLAY_4:
+    name: '&fQuadruple Compressed Clay'
+    lore:
+    - '&f4096 Clay'
+    - '&fCompressionCraft'
+  JC_DIAMOND_6:
+    name: '&fSextuple Compressed Diamond'
+    lore:
+    - '&f262144 Diamond'
+    - '&fCompressionCraft'
+  JC_CLAY_6:
+    name: '&fSextuple Compressed Clay'
+    lore:
+    - '&f262144 Clay'
+    - '&fCompressionCraft'
+  JC_EMERALD_5:
+    name: '&fQuintuple Compressed Emerald'
+    lore:
+    - '&f32768 Emerald'
+    - '&fCompressionCraft'
+  JC_EMERALD_6:
+    name: '&fSextuple Compressed Emerald'
+    lore:
+    - '&f262144 Emerald'
+    - '&fCompressionCraft'
+  JC_SNOW_BALL_1:
+    name: '&fCompressed Snow Ball'
+    lore:
+    - '&f8 Snow Ball'
+    - '&fCompressionCraft'
+  JC_DIRT_1:
+    name: '&fCompressed Dirt'
+    lore:
+    - '&f8 Dirt'
+    - '&fCompressionCraft'
+  JC_EMERALD_1:
+    name: '&fCompressed Emerald'
+    lore:
+    - '&f8 Emerald'
+    - '&fCompressionCraft'
+  JC_EMERALD_2:
+    name: '&fDouble Compressed Emerald'
+    lore:
+    - '&f64 Emerald'
+    - '&fCompressionCraft'
+  JC_EMERALD_3:
+    name: '&fTriple Compressed Emerald'
+    lore:
+    - '&f512 Emerald'
+    - '&fCompressionCraft'
+  JC_EMERALD_4:
+    name: '&fQuadruple Compressed Emerald'
+    lore:
+    - '&f4096 Emerald'
+    - '&fCompressionCraft'
+  JC_SNOW_BALL_6:
+    name: '&fSextuple Compressed Snow Ball'
+    lore:
+    - '&f262144 Snow Ball'
+    - '&fCompressionCraft'
+  JC_SNOW_BALL_3:
+    name: '&fTriple Compressed Snow Ball'
+    lore:
+    - '&f512 Snow Ball'
+    - '&fCompressionCraft'
+  JC_SNOW_BALL_2:
+    name: '&fDouble Compressed Snow Ball'
+    lore:
+    - '&f64 Snow Ball'
+    - '&fCompressionCraft'
+  JC_LAPIS_BLOCK_1:
+    name: '&fCompressed Lapis Block'
+    lore:
+    - '&f8 Lapis Block'
+    - '&fCompressionCraft'
+  JC_SNOW_BALL_5:
+    name: '&fQuintuple Compressed Snow Ball'
+    lore:
+    - '&f32768 Snow Ball'
+    - '&fCompressionCraft'
+  JC_SNOW_BALL_4:
+    name: '&fQuadruple Compressed Snow Ball'
+    lore:
+    - '&f4096 Snow Ball'
+    - '&fCompressionCraft'
+  JC_OBSIDIAN_1:
+    name: '&fCompressed Obsidian'
+    lore:
+    - '&f8 Obsidian'
+    - '&fCompressionCraft'
+  JC_OBSIDIAN_2:
+    name: '&fDouble Compressed Obsidian'
+    lore:
+    - '&f64 Obsidian'
+    - '&fCompressionCraft'
+  JC_OBSIDIAN_3:
+    name: '&fTriple Compressed Obsidian'
+    lore:
+    - '&f512 Obsidian'
+    - '&fCompressionCraft'
+  JC_OBSIDIAN_4:
+    name: '&fQuadruple Compressed Obsidian'
+    lore:
+    - '&f4096 Obsidian'
+    - '&fCompressionCraft'
+  JC_OBSIDIAN_5:
+    name: '&fQuintuple Compressed Obsidian'
+    lore:
+    - '&f32768 Obsidian'
+    - '&fCompressionCraft'
+  JC_OBSIDIAN_6:
+    name: '&fSextuple Compressed Obsidian'
+    lore:
+    - '&f262144 Obsidian'
+    - '&fCompressionCraft'
+  JC_CRYING_OBSIDIAN:
+    name: '&fSextuple Compressed Crying Obsidian'
+    lore:
+    - '&f262144 Crying Obsidian'
+    - '&fCompressionCraft'
+  JC_GRAVEL_1:
+    name: '&fCompressed Gravel'
+    lore:
+    - '&f8 Gravel'
+    - '&fCompressionCraft'
+  JC_COAL_5:
+    name: '&fQuintuple Compressed Coal'
+    lore:
+    - '&f32768 Coal'
+    - '&fCompressionCraft'
+  JC_COAL_4:
+    name: '&fQuadruple Compressed Coal'
+    lore:
+    - '&f4096 Coal'
+    - '&fCompressionCraft'
+  JC_COAL_3:
+    name: '&fTriple Compressed Coal'
+    lore:
+    - '&f512 Coal'
+    - '&fCompressionCraft'
+  JC_COAL_2:
+    name: '&fDouble Compressed Coal'
+    lore:
+    - '&f64 Coal'
+    - '&fCompressionCraft'
+  JC_COAL_6:
+    name: '&fSextuple Compressed Coal'
+    lore:
+    - '&f262144 Coal'
+    - '&fCompressionCraft'
+  JC_GOLD_BLOCK_6:
+    name: '&fSextuple Compressed Gold Block'
+    lore:
+    - '&f262144 Gold Block'
+    - '&fCompressionCraft'
+  JC_GOLD_BLOCK_5:
+    name: '&fQuintuple Compressed Gold Block'
+    lore:
+    - '&f32768 Gold Block'
+    - '&fCompressionCraft'
+  JC_GOLD_BLOCK_4:
+    name: '&fQuadruple Compressed Gold Block'
+    lore:
+    - '&f4096 Gold Block'
+    - '&fCompressionCraft'
+  JC_GOLD_BLOCK_3:
+    name: '&fTriple Compressed Gold Block'
+    lore:
+    - '&f512 Gold Block'
+    - '&fCompressionCraft'
+  JC_GOLD_BLOCK_2:
+    name: '&fDouble Compressed Gold Block'
+    lore:
+    - '&f64 Gold Block'
+    - '&fCompressionCraft'
+  JC_GOLD_BLOCK_1:
+    name: '&fCompressed Gold Block'
+    lore:
+    - '&f8 Gold Block'
+    - '&fCompressionCraft'
+  JC_COAL_1:
+    name: '&fCompressed Coal'
+    lore:
+    - '&f8 Coal'
+    - '&fCompressionCraft'
+  JC_DEEPSLATE_6:
+    name: '&fSextuple Compressed Deepslate'
+    lore:
+    - '&f262144 Deepslate'
+    - '&fCompressionCraft'
+  JC_DEEPSLATE_4:
+    name: '&fQuadruple Compressed Deepslate'
+    lore:
+    - '&f4096 Deepslate'
+    - '&fCompressionCraft'
+  JC_DEEPSLATE_5:
+    name: '&fQuintuple Compressed Deepslate'
+    lore:
+    - '&f32768 Deepslate'
+    - '&fCompressionCraft'
+  JC_DEEPSLATE_2:
+    name: '&fDouble Compressed Deepslate'
+    lore:
+    - '&f64 Deepslate'
+    - '&fCompressionCraft'
+  JC_CRYING_OBSIDIAN_1:
+    name: '&fCompressed Crying Obsidian'
+    lore:
+    - '&f8 Crying Obsidian'
+    - '&fCompressionCraft'
+  JC_DEEPSLATE_3:
+    name: '&fTriple Compressed Deepslate'
+    lore:
+    - '&f512 Deepslate'
+    - '&fCompressionCraft'
+  JC_CRYING_OBSIDIAN_2:
+    name: '&fDouble Compressed Crying Obsidian'
+    lore:
+    - '&f64 Crying Obsidian'
+    - '&fCompressionCraft'
+  JC_DEEPSLATE_1:
+    name: '&fCompressed Deepslate'
+    lore:
+    - '&f8 Deepslate'
+    - '&fCompressionCraft'
+  JC_GOLD_INGOT_2:
+    name: '&fDouble Compressed Gold Ingot'
+    lore:
+    - '&f64 Gold Ingot'
+    - '&fCompressionCraft'
+  JC_GOLD_INGOT_1:
+    name: '&fCompressed Gold Ingot'
+    lore:
+    - '&f8 Gold Ingot'
+    - '&fCompressionCraft'
+  JC_GOLD_INGOT_4:
+    name: '&fQuadruple Compressed Gold Ingot'
+    lore:
+    - '&f4096 Gold Ingot'
+    - '&fCompressionCraft'
+  JC_GOLD_INGOT_3:
+    name: '&fTriple Compressed Gold Ingot'
+    lore:
+    - '&f512 Gold Ingot'
+    - '&fCompressionCraft'
+  JC_GOLD_INGOT_6:
+    name: '&fSextuple Compressed Gold Ingot'
+    lore:
+    - '&f262144 Gold Ingot'
+    - '&fCompressionCraft'
+  JC_GOLD_INGOT_5:
+    name: '&fQuintuple Compressed Gold Ingot'
+    lore:
+    - '&f32768 Gold Ingot'
+    - '&fCompressionCraft'
+  JC_MEDIUM_AMETHYST_BUD_4:
+    name: '&fQuadruple Compressed Medium Amethyst Bud'
+    lore:
+    - '&f4096 Medium Amethyst Bud'
+    - '&fCompressionCraft'
+  JC_MEDIUM_AMETHYST_BUD_5:
+    name: '&fQuintuple Compressed Medium Amethyst Bud'
+    lore:
+    - '&f32768 Medium Amethyst Bud'
+    - '&fCompressionCraft'
+  JC_MEDIUM_AMETHYST_BUD_6:
+    name: '&fSextuple Compressed Medium Amethyst Bud'
+    lore:
+    - '&f262144 Medium Amethyst Bud'
+    - '&fCompressionCraft'
+  JC_CRYING_OBSIDIAN_5:
+    name: '&fQuintuple Compressed Crying Obsidian'
+    lore:
+    - '&f32768 Crying Obsidian'
+    - '&fCompressionCraft'
+  JC_CRYING_OBSIDIAN_3:
+    name: '&fTriple Compressed Crying Obsidian'
+    lore:
+    - '&f512 Crying Obsidian'
+    - '&fCompressionCraft'
+  JC_CRYING_OBSIDIAN_4:
+    name: '&fQuadruple Compressed Crying Obsidian'
+    lore:
+    - '&f4096 Crying Obsidian'
+    - '&fCompressionCraft'
+  JC_MEDIUM_AMETHYST_BUD_1:
+    name: '&fCompressed Medium Amethyst Bud'
+    lore:
+    - '&f8 Medium Amethyst Bud'
+    - '&fCompressionCraft'
+  JC_MEDIUM_AMETHYST_BUD_2:
+    name: '&fDouble Compressed Medium Amethyst Bud'
+    lore:
+    - '&f64 Medium Amethyst Bud'
+    - '&fCompressionCraft'
+  JC_MEDIUM_AMETHYST_BUD_3:
+    name: '&fTriple Compressed Medium Amethyst Bud'
+    lore:
+    - '&f512 Medium Amethyst Bud'
+    - '&fCompressionCraft'
+  JC_CLAY_BALL_4:
+    name: '&fQuadruple Compressed Clay Ball'
+    lore:
+    - '&f4096 Clay Ball'
+    - '&fCompressionCraft'
+  JC_DIAMOND_BLOCK_4:
+    name: '&fQuadruple Compressed Diamond Block'
+    lore:
+    - '&f4096 Diamond Block'
+    - '&fCompressionCraft'
+  JC_CLAY_BALL_5:
+    name: '&fQuintuple Compressed Clay Ball'
+    lore:
+    - '&f32768 Clay Ball'
+    - '&fCompressionCraft'
+  JC_DIAMOND_BLOCK_3:
+    name: '&fTriple Compressed Diamond Block'
+    lore:
+    - '&f512 Diamond Block'
+    - '&fCompressionCraft'
+  JC_CLAY_BALL_6:
+    name: '&fSextuple Compressed Clay Ball'
+    lore:
+    - '&f262144 Clay Ball'
+    - '&fCompressionCraft'
+  JC_DIAMOND_BLOCK_6:
+    name: '&fSextuple Compressed Diamond Block'
+    lore:
+    - '&f262144 Diamond Block'
+    - '&fCompressionCraft'
+  JC_DIAMOND_BLOCK_5:
+    name: '&fQuintuple Compressed Diamond Block'
+    lore:
+    - '&f32768 Diamond Block'
+    - '&fCompressionCraft'
+  JC_CLAY_BALL_1:
+    name: '&fCompressed Clay Ball'
+    lore:
+    - '&f8 Clay Ball'
+    - '&fCompressionCraft'
+  JC_CLAY_BALL_2:
+    name: '&fDouble Compressed Clay Ball'
+    lore:
+    - '&f64 Clay Ball'
+    - '&fCompressionCraft'
+  JC_CLAY_BALL_3:
+    name: '&fTriple Compressed Clay Ball'
+    lore:
+    - '&f512 Clay Ball'
+    - '&fCompressionCraft'
+  JC_GRAVEL_5:
+    name: '&fQuintuple Compressed Gravel'
+    lore:
+    - '&f32768 Gravel'
+    - '&fCompressionCraft'
+  JC_GRAVEL_4:
+    name: '&fQuadruple Compressed Gravel'
+    lore:
+    - '&f4096 Gravel'
+    - '&fCompressionCraft'
+  JC_GRAVEL_3:
+    name: '&fTriple Compressed Gravel'
+    lore:
+    - '&f512 Gravel'
+    - '&fCompressionCraft'
+  JC_GRAVEL_2:
+    name: '&fDouble Compressed Gravel'
+    lore:
+    - '&f64 Gravel'
+    - '&fCompressionCraft'
+  JC_GRAVEL_6:
+    name: '&fSextuple Compressed Gravel'
+    lore:
+    - '&f262144 Gravel'
+    - '&fCompressionCraft'
+  JC_LARGE_AMETHYST_BUD_4:
+    name: '&fQuadruple Compressed Large Amethyst Bud'
+    lore:
+    - '&f4096 Large Amethyst Bud'
+    - '&fCompressionCraft'
+  JC_LARGE_AMETHYST_BUD_5:
+    name: '&fQuintuple Compressed Large Amethyst Bud'
+    lore:
+    - '&f32768 Large Amethyst Bud'
+    - '&fCompressionCraft'
+  JC_LARGE_AMETHYST_BUD_2:
+    name: '&fDouble Compressed Large Amethyst Bud'
+    lore:
+    - '&f64 Large Amethyst Bud'
+    - '&fCompressionCraft'
+  JC_LARGE_AMETHYST_BUD_3:
+    name: '&fTriple Compressed Large Amethyst Bud'
+    lore:
+    - '&f512 Large Amethyst Bud'
+    - '&fCompressionCraft'
+  JC_DIORITE_5:
+    name: '&fQuintuple Compressed Diorite'
+    lore:
+    - '&f32768 Diorite'
+    - '&fCompressionCraft'
+  JC_DIORITE_6:
+    name: '&fSextuple Compressed Diorite'
+    lore:
+    - '&f262144 Diorite'
+    - '&fCompressionCraft'
+  JC_LARGE_AMETHYST_BUD_1:
+    name: '&fCompressed Large Amethyst Bud'
+    lore:
+    - '&f8 Large Amethyst Bud'
+    - '&fCompressionCraft'
+  JC_DIORITE_3:
+    name: '&fTriple Compressed Diorite'
+    lore:
+    - '&f512 Diorite'
+    - '&fCompressionCraft'
+  JC_DIAMOND_BLOCK_2:
+    name: '&fDouble Compressed Diamond Block'
+    lore:
+    - '&f64 Diamond Block'
+    - '&fCompressionCraft'
+  JC_DIORITE_4:
+    name: '&fQuadruple Compressed Diorite'
+    lore:
+    - '&f4096 Diorite'
+    - '&fCompressionCraft'
+  JC_DIAMOND_BLOCK_1:
+    name: '&fCompressed Diamond Block'
+    lore:
+    - '&f8 Diamond Block'
+    - '&fCompressionCraft'
+  JC_DIORITE_1:
+    name: '&fCompressed Diorite'
+    lore:
+    - '&f8 Diorite'
+    - '&fCompressionCraft'
+  JC_DIORITE_2:
+    name: '&fDouble Compressed Diorite'
+    lore:
+    - '&f64 Diorite'
+    - '&fCompressionCraft'
+  JC_AMETHYST_CLUSTER_6:
+    name: '&fSextuple Compressed Amethyst Cluster'
+    lore:
+    - '&f262144 Amethyst Cluster'
+    - '&fCompressionCraft'
+  JC_AMETHYST_CLUSTER_5:
+    name: '&fQuintuple Compressed Amethyst Cluster'
+    lore:
+    - '&f32768 Amethyst Cluster'
+    - '&fCompressionCraft'
+  JC_AMETHYST_CLUSTER_4:
+    name: '&fQuadruple Compressed Amethyst Cluster'
+    lore:
+    - '&f4096 Amethyst Cluster'
+    - '&fCompressionCraft'
+  JC_AMETHYST_CLUSTER_3:
+    name: '&fTriple Compressed Amethyst Cluster'
+    lore:
+    - '&f512 Amethyst Cluster'
+    - '&fCompressionCraft'
+  JC_AMETHYST_CLUSTER_2:
+    name: '&fDouble Compressed Amethyst Cluster'
+    lore:
+    - '&f64 Amethyst Cluster'
+    - '&fCompressionCraft'
+  JC_AMETHYST_CLUSTER_1:
+    name: '&fCompressed Amethyst Cluster'
+    lore:
+    - '&f8 Amethyst Cluster'
+    - '&fCompressionCraft'
+  JC_IRON_INGOT_4:
+    name: '&fQuadruple Compressed Iron Ingot'
+    lore:
+    - '&f4096 Iron Ingot'
+    - '&fCompressionCraft'
+  JC_IRON_INGOT_3:
+    name: '&fTriple Compressed Iron Ingot'
+    lore:
+    - '&f512 Iron Ingot'
+    - '&fCompressionCraft'
+  JC_IRON_INGOT_2:
+    name: '&fDouble Compressed Iron Ingot'
+    lore:
+    - '&f64 Iron Ingot'
+    - '&fCompressionCraft'
+  JC_IRON_INGOT_1:
+    name: '&fCompressed Iron Ingot'
+    lore:
+    - '&f8 Iron Ingot'
+    - '&fCompressionCraft'
+  JC_IRON_INGOT_6:
+    name: '&fSextuple Compressed Iron Ingot'
+    lore:
+    - '&f262144 Iron Ingot'
+    - '&fCompressionCraft'
+  JC_IRON_INGOT_5:
+    name: '&fQuintuple Compressed Iron Ingot'
+    lore:
+    - '&f32768 Iron Ingot'
+    - '&fCompressionCraft'
+  JC_LAPIS_LAZULI_5:
+    name: '&fQuintuple Compressed Lapis Lazuli'
+    lore:
+    - '&f32768 Lapis Lazuli'
+    - '&fCompressionCraft'
+  JC_LAPIS_LAZULI_4:
+    name: '&fQuadruple Compressed Lapis Lazuli'
+    lore:
+    - '&f4096 Lapis Lazuli'
+    - '&fCompressionCraft'
+  JC_LAPIS_LAZULI_3:
+    name: '&fTriple Compressed Lapis Lazuli'
+    lore:
+    - '&f512 Lapis Lazuli'
+    - '&fCompressionCraft'
+  JC_LAPIS_LAZULI_2:
+    name: '&fDouble Compressed Lapis Lazuli'
+    lore:
+    - '&f64 Lapis Lazuli'
+    - '&fCompressionCraft'
+  JC_FLINT_1:
+    name: '&fCompressed Flint'
+    lore:
+    - '&f8 Flint'
+    - '&fCompressionCraft'
+  JC_FLINT_3:
+    name: '&fTriple Compressed Flint'
+    lore:
+    - '&f512 Flint'
+    - '&fCompressionCraft'
+  JC_FLINT_2:
+    name: '&fDouble Compressed Flint'
+    lore:
+    - '&f64 Flint'
+    - '&fCompressionCraft'
+  JC_LAPIS_LAZULI_6:
+    name: '&fSextuple Compressed Lapis Lazuli'
+    lore:
+    - '&f262144 Lapis Lazuli'
+    - '&fCompressionCraft'
+  JC_FLINT_5:
+    name: '&fQuintuple Compressed Flint'
+    lore:
+    - '&f32768 Flint'
+    - '&fCompressionCraft'
+  JC_FLINT_4:
+    name: '&fQuadruple Compressed Flint'
+    lore:
+    - '&f4096 Flint'
+    - '&fCompressionCraft'
+  JC_FLINT_6:
+    name: '&fSextuple Compressed Flint'
+    lore:
+    - '&f262144 Flint'
+    - '&fCompressionCraft'
+  JC_AMETHYST_SHARD_5:
+    name: '&fQuintuple Compressed Amethyst Shard'
+    lore:
+    - '&f32768 Amethyst Shard'
+    - '&fCompressionCraft'
+  JC_AMETHYST_SHARD_6:
+    name: '&fSextuple Compressed Amethyst Shard'
+    lore:
+    - '&f262144 Amethyst Shard'
+    - '&fCompressionCraft'
+  JC_AMETHYST_SHARD_3:
+    name: '&fTriple Compressed Amethyst Shard'
+    lore:
+    - '&f512 Amethyst Shard'
+    - '&fCompressionCraft'
+  JC_COAL_BLOCK_1:
+    name: '&fCompressed Coal Block'
+    lore:
+    - '&f8 Coal Block'
+    - '&fCompressionCraft'
+  JC_AMETHYST_SHARD_4:
+    name: '&fQuadruple Compressed Amethyst Shard'
+    lore:
+    - '&f4096 Amethyst Shard'
+    - '&fCompressionCraft'
+  JC_COAL_BLOCK_2:
+    name: '&fDouble Compressed Coal Block'
+    lore:
+    - '&f64 Coal Block'
+    - '&fCompressionCraft'
+  JC_AMETHYST_SHARD_1:
+    name: '&fCompressed Amethyst Shard'
+    lore:
+    - '&f8 Amethyst Shard'
+    - '&fCompressionCraft'
+  JC_COAL_BLOCK_3:
+    name: '&fTriple Compressed Coal Block'
+    lore:
+    - '&f512 Coal Block'
+    - '&fCompressionCraft'
+  JC_AMETHYST_SHARD_2:
+    name: '&fDouble Compressed Amethyst Shard'
+    lore:
+    - '&f64 Amethyst Shard'
+    - '&fCompressionCraft'
+  JC_LAPIS_LAZULI_1:
+    name: '&fCompressed Lapis Lazuli'
+    lore:
+    - '&f8 Lapis Lazuli'
+    - '&fCompressionCraft'
+  JC_EMERALD_BLOCK_6:
+    name: '&fSextuple Compressed Emerald Block'
+    lore:
+    - '&f262144 Emerald Block'
+    - '&fCompressionCraft'
+  JC_EMERALD_BLOCK_5:
+    name: '&fQuintuple Compressed Emerald Block'
+    lore:
+    - '&f32768 Emerald Block'
+    - '&fCompressionCraft'
+  JC_EMERALD_BLOCK_4:
+    name: '&fQuadruple Compressed Emerald Block'
+    lore:
+    - '&f4096 Emerald Block'
+    - '&fCompressionCraft'
+  JC_EMERALD_BLOCK_3:
+    name: '&fTriple Compressed Emerald Block'
+    lore:
+    - '&f512 Emerald Block'
+    - '&fCompressionCraft'
+  JC_AMETHYST_BLOCK_4:
+    name: '&fQuadruple Compressed Amethyst Block'
+    lore:
+    - '&f4096 Amethyst Block'
+    - '&fCompressionCraft'
+  JC_AMETHYST_BLOCK_5:
+    name: '&fQuintuple Compressed Amethyst Block'
+    lore:
+    - '&f32768 Amethyst Block'
+    - '&fCompressionCraft'
+  JC_AMETHYST_BLOCK_2:
+    name: '&fDouble Compressed Amethyst Block'
+    lore:
+    - '&f64 Amethyst Block'
+    - '&fCompressionCraft'
+  JC_AMETHYST_BLOCK_3:
+    name: '&fTriple Compressed Amethyst Block'
+    lore:
+    - '&f512 Amethyst Block'
+    - '&fCompressionCraft'
+  JC_AMETHYST_BLOCK_1:
+    name: '&fCompressed Amethyst Block'
+    lore:
+    - '&f8 Amethyst Block'
+    - '&fCompressionCraft'
+  JC_EMERALD_BLOCK_2:
+    name: '&fDouble Compressed Emerald Block'
+    lore:
+    - '&f64 Emerald Block'
+    - '&fCompressionCraft'
+  JC_EMERALD_BLOCK_1:
+    name: '&fCompressed Emerald Block'
+    lore:
+    - '&f8 Emerald Block'
+    - '&fCompressionCraft'
+  JC_AMETHYST_BLOCK_6:
+    name: '&fSextuple Compressed Amethyst Block'
+    lore:
+    - '&f262144 Amethyst Block'
+    - '&fCompressionCraft'
+  JC_GRANITE_2:
+    name: '&fDouble Compressed Granite'
+    lore:
+    - '&f64 Granite'
+    - '&fCompressionCraft'
+  JC_ANDESITE_1:
+    name: '&fCompressed Andesite'
+    lore:
+    - '&f8 Andesite'
+    - '&fCompressionCraft'
+  JC_GRANITE_1:
+    name: '&fCompressed Granite'
+    lore:
+    - '&f8 Granite'
+    - '&fCompressionCraft'
+  JC_ANDESITE_2:
+    name: '&fDouble Compressed Andesite'
+    lore:
+    - '&f64 Andesite'
+    - '&fCompressionCraft'
+  JC_ANDESITE_3:
+    name: '&fTriple Compressed Andesite'
+    lore:
+    - '&f512 Andesite'
+    - '&fCompressionCraft'
+  JC_REDSTONE_5:
+    name: '&fQuintuple Compressed Redstone'
+    lore:
+    - '&f32768 Redstone'
+    - '&fCompressionCraft'
+  JC_REDSTONE_6:
+    name: '&fSextuple Compressed Redstone'
+    lore:
+    - '&f262144 Redstone'
+    - '&fCompressionCraft'
+  JC_REDSTONE_3:
+    name: '&fTriple Compressed Redstone'
+    lore:
+    - '&f512 Redstone'
+    - '&fCompressionCraft'
+  JC_LAPIS_BLOCK_4:
+    name: '&fQuadruple Compressed Lapis Block'
+    lore:
+    - '&f4096 Lapis Block'
+    - '&fCompressionCraft'
+  JC_REDSTONE_4:
+    name: '&fQuadruple Compressed Redstone'
+    lore:
+    - '&f4096 Redstone'
+    - '&fCompressionCraft'
+  JC_LAPIS_BLOCK_5:
+    name: '&fQuintuple Compressed Lapis Block'
+    lore:
+    - '&f32768 Lapis Block'
+    - '&fCompressionCraft'
+  JC_REDSTONE_1:
+    name: '&fCompressed Redstone'
+    lore:
+    - '&f8 Redstone'
+    - '&fCompressionCraft'
+  JC_LAPIS_BLOCK_2:
+    name: '&fDouble Compressed Lapis Block'
+    lore:
+    - '&f64 Lapis Block'
+    - '&fCompressionCraft'
+  JC_REDSTONE_2:
+    name: '&fDouble Compressed Redstone'
+    lore:
+    - '&f64 Redstone'
+    - '&fCompressionCraft'
+  JC_LAPIS_BLOCK_3:
+    name: '&fTriple Compressed Lapis Block'
+    lore:
+    - '&f512 Lapis Block'
+    - '&fCompressionCraft'
+  JC_LAPIS_BLOCK_6:
+    name: '&fSextuple Compressed Lapis Block'
+    lore:
+    - '&f262144 Lapis Block'
+    - '&fCompressionCraft'
+  JC_STONE_5:
+    name: '&fQuintuple Compressed Stone'
+    lore:
+    - '&f32768 Stone'
+    - '&fCompressionCraft'
+  JC_ANDESITE_4:
+    name: '&fQuadruple Compressed Andesite'
+    lore:
+    - '&f4096 Andesite'
+    - '&fCompressionCraft'
+  JC_GRANITE_6:
+    name: '&fSextuple Compressed Granite'
+    lore:
+    - '&f262144 Granite'
+    - '&fCompressionCraft'
+  JC_STONE_4:
+    name: '&fQuadruple Compressed Stone'
+    lore:
+    - '&f4096 Stone'
+    - '&fCompressionCraft'
+  JC_ANDESITE_5:
+    name: '&fQuintuple Compressed Andesite'
+    lore:
+    - '&f32768 Andesite'
+    - '&fCompressionCraft'
+  JC_GRANITE_5:
+    name: '&fQuintuple Compressed Granite'
+    lore:
+    - '&f32768 Granite'
+    - '&fCompressionCraft'
+  JC_GOLD_NUGGET_1:
+    name: '&fCompressed Gold Nugget'
+    lore:
+    - '&f8 Gold Nugget'
+    - '&fCompressionCraft'
+  JC_ANDESITE_6:
+    name: '&fSextuple Compressed Andesite'
+    lore:
+    - '&f262144 Andesite'
+    - '&fCompressionCraft'
+  JC_GRANITE_4:
+    name: '&fQuadruple Compressed Granite'
+    lore:
+    - '&f4096 Granite'
+    - '&fCompressionCraft'
+  JC_GOLD_NUGGET_2:
+    name: '&fDouble Compressed Gold Nugget'
+    lore:
+    - '&f64 Gold Nugget'
+    - '&fCompressionCraft'
+  JC_STONE_6:
+    name: '&fSextuple Compressed Stone'
+    lore:
+    - '&f262144 Stone'
+    - '&fCompressionCraft'
+  JC_GRANITE_3:
+    name: '&fTriple Compressed Granite'
+    lore:
+    - '&f512 Granite'
+    - '&fCompressionCraft'
+  JC_GOLD_NUGGET_3:
+    name: '&fTriple Compressed Gold Nugget'
+    lore:
+    - '&f512 Gold Nugget'
+    - '&fCompressionCraft'
+  JC_STONE_1:
+    name: '&fCompressed Stone'
+    lore:
+    - '&f8 Stone'
+    - '&fCompressionCraft'
+  JC_GOLD_NUGGET_4:
+    name: '&fQuadruple Compressed Gold Nugget'
+    lore:
+    - '&f4096 Gold Nugget'
+    - '&fCompressionCraft'
+  JC_GOLD_NUGGET_5:
+    name: '&fQuintuple Compressed Gold Nugget'
+    lore:
+    - '&f32768 Gold Nugget'
+    - '&fCompressionCraft'
+  JC_STONE_3:
+    name: '&fTriple Compressed Stone'
+    lore:
+    - '&f512 Stone'
+    - '&fCompressionCraft'
+  JC_GOLD_NUGGET_6:
+    name: '&fSextuple Compressed Gold Nugget'
+    lore:
+    - '&f262144 Gold Nugget'
+    - '&fCompressionCraft'
+  JC_STONE_2:
+    name: '&fDouble Compressed Stone'
+    lore:
+    - '&f64 Stone'
+    - '&fCompressionCraft'
+  JC_IRON_NUGGET_6:
+    name: '&fSextuple Compressed Iron Nugget'
+    lore:
+    - '&f262144 Iron Nugget'
+    - '&fCompressionCraft'
+  JC_SMALL_AMETHYST_BUD_1:
+    name: '&fCompressed Small Amethyst Bud'
+    lore:
+    - '&f8 Small Amethyst Bud'
+    - '&fCompressionCraft'
+  JC_IRON_NUGGET_5:
+    name: '&fQuintuple Compressed Iron Nugget'
+    lore:
+    - '&f32768 Iron Nugget'
+    - '&fCompressionCraft'
+  JC_IRON_NUGGET_4:
+    name: '&fQuadruple Compressed Iron Nugget'
+    lore:
+    - '&f4096 Iron Nugget'
+    - '&fCompressionCraft'
+  JC_IRON_NUGGET_3:
+    name: '&fTriple Compressed Iron Nugget'
+    lore:
+    - '&f512 Iron Nugget'
+    - '&fCompressionCraft'
+  JC_IRON_NUGGET_2:
+    name: '&fDouble Compressed Iron Nugget'
+    lore:
+    - '&f64 Iron Nugget'
+    - '&fCompressionCraft'
+  JC_IRON_NUGGET_1:
+    name: '&fCompressed Iron Nugget'
+    lore:
+    - '&f8 Iron Nugget'
+    - '&fCompressionCraft'
+  JC_COAL_BLOCK_4:
+    name: '&fQuadruple Compressed Coal Block'
+    lore:
+    - '&f4096 Coal Block'
+    - '&fCompressionCraft'
+  JC_COAL_BLOCK_5:
+    name: '&fQuintuple Compressed Coal Block'
+    lore:
+    - '&f32768 Coal Block'
+    - '&fCompressionCraft'
+  JC_COAL_BLOCK_6:
+    name: '&fSextuple Compressed Coal Block'
+    lore:
+    - '&f262144 Coal Block'
+    - '&fCompressionCraft'
+  JC_SMALL_AMETHYST_BUD_6:
+    name: '&fSextuple Compressed Small Amethyst Bud'
+    lore:
+    - '&f262144 Small Amethyst Bud'
+    - '&fCompressionCraft'
+  JC_SMALL_AMETHYST_BUD_4:
+    name: '&fQuadruple Compressed Small Amethyst Bud'
+    lore:
+    - '&f4096 Small Amethyst Bud'
+    - '&fCompressionCraft'
+  JC_SMALL_AMETHYST_BUD_5:
+    name: '&fQuintuple Compressed Small Amethyst Bud'
+    lore:
+    - '&f32768 Small Amethyst Bud'
+    - '&fCompressionCraft'
+  JC_SMALL_AMETHYST_BUD_2:
+    name: '&fDouble Compressed Small Amethyst Bud'
+    lore:
+    - '&f64 Small Amethyst Bud'
+    - '&fCompressionCraft'
+  JC_SMALL_AMETHYST_BUD_3:
+    name: '&fTriple Compressed Small Amethyst Bud'
+    lore:
+    - '&f512 Small Amethyst Bud'
+    - '&fCompressionCraft'

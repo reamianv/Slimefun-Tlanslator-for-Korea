@@ -1,0 +1,41 @@
+name: Gastronomicon
+translations:
+  GN_FISHING_NET_III:
+    name: '&x&A&A&A&A&F&FFishing Net &7- &eIII'
+    lore:
+    - ''
+    - '&8⇨ &b⚡ &7Speed: &b4.0x'
+  GN_ELECTRIC_KITCHEN_III:
+    name: '&x&A&A&A&A&F&FElectric Kitchen &7- &eIII'
+    lore:
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &74096 J Buffer'
+    - '&8⇨ &e⚡ &7256 J/s'
+    - '&8⇨ &b⚡ &7Speed: &b10.0x'
+  GN_FISHING_NET_I:
+    name: '&x&A&A&A&A&F&FFishing Net'
+    lore:
+    - ''
+    - '&8⇨ &b⚡ &7Speed: &b1.0x'
+  GN_ELECTRIC_KITCHEN_I:
+    name: '&x&A&A&A&A&F&FElectric Kitchen'
+    lore:
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &7256 J Buffer'
+    - '&8⇨ &e⚡ &716 J/s'
+    - '&8⇨ &b⚡ &7Speed: &b1.0x'
+  GN_ELECTRIC_KITCHEN_II:
+    name: '&x&A&A&A&A&F&FElectric Kitchen &7- &eII'
+    lore:
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &71024 J Buffer'
+    - '&8⇨ &e⚡ &764 J/s'
+    - '&8⇨ &b⚡ &7Speed: &b3.0x'
+  GN_FISHING_NET_II:
+    name: '&x&A&A&A&A&F&FFishing Net &7- &eII'
+    lore:
+    - ''
+    - '&8⇨ &b⚡ &7Speed: &b2.0x'

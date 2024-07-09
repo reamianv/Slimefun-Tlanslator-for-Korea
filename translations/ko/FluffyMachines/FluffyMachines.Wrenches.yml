@@ -1,0 +1,28 @@
+name: FluffyMachines
+translations:
+  FLUFFY_WRENCH:
+    name: '&6Fluffy Wrench'
+    lore:
+    - ''
+    - '&7Used to quickly remove Slimefun cargo nodes'
+    - '&7and electricity components'
+    - ''
+    - '&eLeft&7/&eRight Click &7a compatible block to break it'
+  REINFORCED_FLUFFY_WRENCH:
+    name: '&bReinforced Fluffy Wrench'
+    lore:
+    - ''
+    - '&7Used to quickly remove Slimefun cargo nodes'
+    - '&7and electricity components'
+    - ''
+    - '&eLeft&7/&eRight Click &7a compatible block to break it'
+  CARBONADO_FLUFFY_WRENCH:
+    name: '&7Carbonado Fluffy Wrench'
+    lore:
+    - ''
+    - '&7Used to quickly remove Slimefun cargo nodes'
+    - '&7and electricity components'
+    - ''
+    - '&eLeft&7/&eRight Click &7a compatible block to break it'
+    - ''
+    - '&8⇨ &e⚡ &70 / 5000 J'

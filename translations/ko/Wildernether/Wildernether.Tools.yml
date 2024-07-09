@@ -1,0 +1,30 @@
+name: Wildernether
+translations:
+  BLACKSTONE_SCYTHE:
+    name: '&x&5&5&5&8&5&BBlackstone Scythe'
+    lore:
+    - '&7'
+    - '&x&F&C&F&B&D&6Its extra-sharp blade makes it perfect'
+    - '&x&F&C&F&B&D&6for cutting the tough plants that grow'
+    - '&x&F&C&F&B&D&6in the nether'
+  NETHER_COMPOSTER:
+    name: '&x&9&E&3&5&5&ANether Composter'
+    lore:
+    - '&7'
+    - '&x&F&C&F&B&D&6Crafted with the wood of the underworld,'
+    - '&x&F&C&F&B&D&6it is suitable for breaking down even'
+    - '&x&F&C&F&B&D&6the hardiest of plants'
+  BLACKSTONE_STOVE:
+    name: '&x&5&5&5&8&5&BBlackstone Stove'
+    lore:
+    - '&7'
+    - '&x&F&C&F&B&D&6Using netherrack, it is able to keep'
+    - '&x&F&C&F&B&D&6itself lit forever!'
+  SOUL_SCYTHE:
+    name: '&x&D&9&F&9&E&FSoul Scythe'
+    lore:
+    - '&7'
+    - '&x&F&C&F&B&D&6Its blade quivers with soft whispers.'
+    - '&x&F&C&F&B&D&6If you use this to harvest plants in the'
+    - '&x&F&C&F&B&D&6nether, you might discover plants with'
+    - '&x&F&C&F&B&D&6secrets to tell!'

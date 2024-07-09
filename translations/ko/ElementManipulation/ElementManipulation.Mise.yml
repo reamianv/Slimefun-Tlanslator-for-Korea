@@ -1,0 +1,26 @@
+name: ElementManipulation
+translations:
+  EM_SYRINGE:
+    name: '&fSyringe'
+    lore:
+    - '&fUsed to put anesthetics'
+  EM_CLEAR_GLASS_1:
+    name: '&8Clear glass &7(33%)'
+    lore:
+    - '&8This glass is more clear than the common'
+    - '&8Because the heat separated its molecules'
+  EM_CLEAR_GLASS_2:
+    name: '&7Clear glass &7(66%)'
+    lore:
+    - '&7This glass is very clearer than the common'
+    - '&7Because the heat separated its molecules'
+    - '&7too distant one from each other'
+  EM_CLEAR_GLASS_3:
+    name: '&fClear glass'
+    lore:
+    - '&fThis glass is so clear that it seems'
+    - '&fThere''s nothing in your way'
+  EM_RUBBER_PISTOL:
+    name: '&fRubber pistol'
+    lore:
+    - '&fSyringe part'

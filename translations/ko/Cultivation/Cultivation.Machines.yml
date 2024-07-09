@@ -1,0 +1,133 @@
+name: Cultivation
+translations:
+  CLT_COUNTER_CHOPPING:
+    name: '&x&3&2&9&5&A&8Kitchen Counter: Chopping Board'
+    lore:
+    - ''
+    - '&7Right click this block to chop produce.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Pro Tip! When placed, you can shift + right'
+    - '&x&E&4&E&D&3&2click and the block(s) you''re holding will'
+    - '&x&E&4&E&D&3&2change the kitchen design. Try it out!'
+    - ''
+    - '&x&E&4&E&D&3&2Machine'
+  CLT_COUNTER_BOILING:
+    name: '&x&3&2&9&5&A&8Kitchen Counter: Boiling Pot'
+    lore:
+    - ''
+    - '&7Can boil certain items.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Pro Tip! When placed, you can shift + right'
+    - '&x&E&4&E&D&3&2click and the block(s) you''re holding will'
+    - '&x&E&4&E&D&3&2change the kitchen design. Try it out!'
+    - ''
+    - '&x&E&4&E&D&3&2Machine'
+  CLT_COUNTER_BLENDER:
+    name: '&x&3&2&9&5&A&8Kitchen Counter: Blender'
+    lore:
+    - ''
+    - '&7Right click this block to blend produce.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Pro Tip! When placed, you can shift + right'
+    - '&x&E&4&E&D&3&2click and the block(s) you''re holding will'
+    - '&x&E&4&E&D&3&2change the kitchen design. Try it out!'
+    - ''
+    - '&x&E&4&E&D&3&2Machine'
+  CLT_COUNTER_OVEN:
+    name: '&x&3&2&9&5&A&8Kitchen Counter: Oven'
+    lore:
+    - ''
+    - '&7Can bake certain produce items.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Pro Tip! When placed, you can shift + right'
+    - '&x&E&4&E&D&3&2click and the block(s) you''re holding will'
+    - '&x&E&4&E&D&3&2change the kitchen design. Try it out!'
+    - ''
+    - '&x&E&4&E&D&3&2Machine'
+  CLT_COUNTER_FINISHING:
+    name: '&x&3&2&9&5&A&8Kitchen Counter: Finishing'
+    lore:
+    - ''
+    - '&7Used to craft products/by-products into'
+    - '&7other by-products or finished foods.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Pro Tip! When placed, you can shift + right'
+    - '&x&E&4&E&D&3&2click and the block(s) you''re holding will'
+    - '&x&E&4&E&D&3&2change the kitchen design. Try it out!'
+    - ''
+    - '&x&E&4&E&D&3&2Machine'
+  CLT_COUNTER_SLICING:
+    name: '&x&3&2&9&5&A&8Kitchen Counter: Slicing Board'
+    lore:
+    - ''
+    - '&7Right click this block to slice produce.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Pro Tip! When placed, you can shift + right'
+    - '&x&E&4&E&D&3&2click and the block(s) you''re holding will'
+    - '&x&E&4&E&D&3&2change the kitchen design. Try it out!'
+    - ''
+    - '&x&E&4&E&D&3&2Machine'
+  CLT_COUNTER_MASHER:
+    name: '&x&3&2&9&5&A&8Kitchen Counter: Mashing Bowl'
+    lore:
+    - ''
+    - '&7Right click this block to mash produce.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Pro Tip! When placed, you can shift + right'
+    - '&x&E&4&E&D&3&2click and the block(s) you''re holding will'
+    - '&x&E&4&E&D&3&2change the kitchen design. Try it out!'
+    - ''
+    - '&x&E&4&E&D&3&2Machine'
+  CLT_GARDEN_CLOCHE:
+    name: '&x&3&2&9&5&A&8Garden Cloche'
+    lore:
+    - ''
+    - '&7Grows plants inside it automatically.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Power per Tick: &7100'
+    - ''
+    - '&x&E&4&E&D&3&2Machine'
+  CLT_COUNTER_NOTHING:
+    name: '&x&3&2&9&5&A&8Kitchen Counter: Empty'
+    lore:
+    - ''
+    - '&7Just for decoration!'
+    - '&7'
+    - '&x&E&4&E&D&3&2Pro Tip! When placed, you can shift + right'
+    - '&x&E&4&E&D&3&2click and the block(s) you''re holding will'
+    - '&x&E&4&E&D&3&2change the kitchen design. Try it out!'
+    - ''
+    - '&x&E&4&E&D&3&2Machine'
+  CLT_COUNTER_FRYING:
+    name: '&x&3&2&9&5&A&8Kitchen Counter: Frying Pan'
+    lore:
+    - ''
+    - '&7Can fry certain produce items.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Pro Tip! When placed, you can shift + right'
+    - '&x&E&4&E&D&3&2click and the block(s) you''re holding will'
+    - '&x&E&4&E&D&3&2change the kitchen design. Try it out!'
+    - ''
+    - '&x&E&4&E&D&3&2Machine'
+  CLT_COUNTER_GRINDER:
+    name: '&x&3&2&9&5&A&8Kitchen Counter: Grinding Pestle and Mortar'
+    lore:
+    - ''
+    - '&7Right click this block to grind produce.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Pro Tip! When placed, you can shift + right'
+    - '&x&E&4&E&D&3&2click and the block(s) you''re holding will'
+    - '&x&E&4&E&D&3&2change the kitchen design. Try it out!'
+    - ''
+    - '&x&E&4&E&D&3&2Machine'
+  CLT_COUNTER_GRILL:
+    name: '&x&3&2&9&5&A&8Kitchen Counter: Grill'
+    lore:
+    - ''
+    - '&7Can grill certain produce items.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Pro Tip! When placed, you can shift + right'
+    - '&x&E&4&E&D&3&2click and the block(s) you''re holding will'
+    - '&x&E&4&E&D&3&2change the kitchen design. Try it out!'
+    - ''
+    - '&x&E&4&E&D&3&2Machine'

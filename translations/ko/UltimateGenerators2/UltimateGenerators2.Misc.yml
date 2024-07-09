@@ -1,0 +1,27 @@
+name: UltimateGenerators2
+translations:
+  SOLID_STORAGE_EXPANSION:
+    name: '&fSolid Storage Expansion'
+  RUNE_COMPLEX_ENDER:
+    name: '&7Ancient Rune &8&l[&b&lEnd&8&l]'
+  BIOMASS_BUCKET:
+    name: Bucket of Biomass
+  NEUTRON_MODERATOR:
+    name: '&9Neutron Moderator'
+  HEAVY_WATER_BUCKET:
+    name: '&fBucket of Heavy Water'
+  BIOFUEL_BUCKET:
+    name: Bucket of Biofuel
+  THERMAL_NEUTRON_REACTOR_COOLANT_CELL:
+    name: '&cThermal Neutron Reactor Coolant Cell'
+  DIESEL_BUCKET:
+    name: Bucket of Diesel
+  ENDER_CRYSTAL_ENHANCER:
+    name: '&9End Crystal Enhancer'
+  ENDER_LUMP_4:
+    name: '&5Ender Lump &7- &eIV'
+    lore:
+    - ''
+    - '&c&oTier: IV'
+  LIQUID_STORAGE_EXPANSION:
+    name: '&fLiquid Storage Expansion'

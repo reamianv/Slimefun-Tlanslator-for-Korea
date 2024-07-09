@@ -1,0 +1,213 @@
+name: CrystamaeHistoria
+translations:
+  CRY_RUNE_BLACK:
+    name: '&x&3&2&A&8&5&2Black Rune'
+    lore:
+    - ''
+    - '&7The power to control minds and wills'
+    - '&7held within.'
+    - ''
+    - '&x&E&4&E&D&3&2Rune'
+  CRY_RUNE_TRUE_WATER:
+    name: '&x&3&2&A&8&5&2True Water Rune'
+    lore:
+    - ''
+    - '&7The beginning of all flowing freely.'
+    - ''
+    - '&x&E&4&E&D&3&2Rune'
+  CRY_RUNE_BLINKING:
+    name: '&x&3&2&A&8&5&2Blinking Rune'
+    lore:
+    - ''
+    - '&7This rune contains space and in turn'
+    - '&7itself and is used to traverse'
+    - '&7large distances in moments.'
+    - ''
+    - '&x&E&4&E&D&3&2Rune'
+  CRY_RUNE_SOUL:
+    name: '&x&3&2&A&8&5&2Souleater Rune'
+    lore:
+    - ''
+    - '&7The rune of life and death. Both'
+    - '&7kept in balance and check.'
+    - ''
+    - '&x&E&4&E&D&3&2Rune'
+  CRY_RUNE_CIRCLE:
+    name: '&x&3&2&A&8&5&2Circle Rune'
+    lore:
+    - ''
+    - '&7Brings both order and routine keeping'
+    - '&7other forms of magic in check.'
+    - '&7Circle Rune magic is weakened in'
+    - '&7the Minecraft world for some reason...'
+    - ''
+    - '&x&E&4&E&D&3&2Rune'
+  CRY_RUNE_BRIGHT_SHIELD:
+    name: '&x&3&2&A&8&5&2Bright Shield Rune'
+    lore:
+    - ''
+    - '&7The magic of power, protection and security.'
+    - ''
+    - '&x&E&4&E&D&3&2Rune'
+  CRY_RUNE_MOON:
+    name: '&x&3&2&A&8&5&2Moon Rune'
+    lore:
+    - ''
+    - '&7The clash of both compassion and'
+    - '&7sheer destruction rage within.'
+    - ''
+    - '&x&E&4&E&D&3&2Rune'
+  CRY_RUNE_CHANGE:
+    name: '&x&3&2&A&8&5&2Rune of Change'
+    lore:
+    - ''
+    - '&7All unknowns and futures of the universe'
+    - '&7are kept in harmony within.'
+    - ''
+    - '&x&E&4&E&D&3&2Rune'
+  CRY_RUNE_TRUE_HOLY:
+    name: '&x&3&2&A&8&5&2True Holy Rune'
+    lore:
+    - ''
+    - '&7All inner light stems from this'
+    - '&7magical source.'
+    - ''
+    - '&x&E&4&E&D&3&2Rune'
+  CRY_RUNE_TRUE_LIGHTNING:
+    name: '&x&3&2&A&8&5&2True Lightning Rune'
+    lore:
+    - ''
+    - '&7The tempest from above contained'
+    - '&7within a sealing magic.'
+    - ''
+    - '&x&E&4&E&D&3&2Rune'
+  CRY_RUNE_TWILIGHT:
+    name: '&x&3&2&A&8&5&2Twilight Rune'
+    lore:
+    - ''
+    - '&7The removal of old, the bringer of'
+    - '&7rest and recuperation.'
+    - ''
+    - '&x&E&4&E&D&3&2Rune'
+  CRY_RUNE_TRUE_WIND:
+    name: '&x&3&2&A&8&5&2True Wind Rune'
+    lore:
+    - ''
+    - '&7The never ending zephyr is contained'
+    - '&7within.'
+    - ''
+    - '&x&E&4&E&D&3&2Rune'
+  CRY_RUNE_TRUE_EARTH:
+    name: '&x&3&2&A&8&5&2True Earth Rune'
+    lore:
+    - ''
+    - '&7The single point of power for'
+    - '&7all earth magic.'
+    - ''
+    - '&x&E&4&E&D&3&2Rune'
+  CRY_RUNE_GATE:
+    name: '&x&3&2&A&8&5&2Gate Rune'
+    lore:
+    - ''
+    - '&7Threads connecting worlds all pass'
+    - '&7through the magic within these runes.'
+    - ''
+    - '&x&E&4&E&D&3&2Rune'
+  CRY_RUNE_NIGHT:
+    name: '&x&3&2&A&8&5&2Night Rune'
+    lore:
+    - ''
+    - '&7The magic running through this rune'
+    - '&7is the same that allows the undead to rise.'
+    - ''
+    - '&x&E&4&E&D&3&2Rune'
+  CRY_RUNE_BEAST:
+    name: '&x&3&2&A&8&5&2Beast Rune'
+    lore:
+    - ''
+    - '&7Unbridled passion and drive. The howl'
+    - '&7of the wolf echos from within.'
+    - ''
+    - '&x&E&4&E&D&3&2Rune'
+  CRY_RUNE_PUNISHMENT:
+    name: '&x&3&2&A&8&5&2Rune of Punishment'
+    lore:
+    - ''
+    - '&7This rune imposes order by crushing'
+    - '&7dissidence and wrong-doing, culling'
+    - '&7magic gone-astray.'
+    - ''
+    - '&x&E&4&E&D&3&2Rune'
+  CRY_RUNE_DAWN:
+    name: '&x&3&2&A&8&5&2Dawn Rune'
+    lore:
+    - ''
+    - '&7The bringer of new, of regeneration'
+    - '&7and renewal.'
+    - ''
+    - '&x&E&4&E&D&3&2Rune'
+  CRY_RUNE_EIGHTFOLD:
+    name: '&x&3&2&A&8&5&2Eightfold Rune'
+    lore:
+    - ''
+    - '&7The rule of reality and form.'
+    - '&7Magics from this rune have the power to'
+    - '&7create and form new matter.'
+    - ''
+    - '&x&E&4&E&D&3&2Rune'
+  CRY_RUNE_SUN:
+    name: '&x&3&2&A&8&5&2Sun Rune'
+    lore:
+    - ''
+    - '&7Bringer of prosperity and life but'
+    - '&7at a toll for all.'
+    - ''
+    - '&x&E&4&E&D&3&2Rune'
+  CRY_RUNE_SOVEREIGN:
+    name: '&x&3&2&A&8&5&2Sovereign Rune'
+    lore:
+    - ''
+    - '&7Order through rule, protection from'
+    - '&7one, protection for all.'
+    - ''
+    - '&x&E&4&E&D&3&2Rune'
+  CRY_RUNE_BEGINNING:
+    name: '&x&3&2&A&8&5&2Rune of Beginning'
+    lore:
+    - ''
+    - '&7Chaos formed into order. The swirling'
+    - '&7vortex of the unknown made still.'
+    - ''
+    - '&x&E&4&E&D&3&2Rune'
+  CRY_RUNE_DRAGON:
+    name: '&x&3&2&A&8&5&2Dragon Rune'
+    lore:
+    - ''
+    - '&7The existence of dragons both created'
+    - '&7and was caused by this magic. A paradox that'
+    - '&7will never be unwound.'
+    - ''
+    - '&x&E&4&E&D&3&2Rune'
+  CRY_RUNE_TRUE_FIRE:
+    name: '&x&3&2&A&8&5&2True Fire Rune'
+    lore:
+    - ''
+    - '&7An inferno without limits held'
+    - '&7back by nothing but it''s own tempest.'
+    - ''
+    - '&x&E&4&E&D&3&2Rune'
+  CRY_RUNE_CHARM:
+    name: '&x&3&2&A&8&5&2Charm Rune'
+    lore:
+    - ''
+    - '&7Passion, drive and love. These power'
+    - '&7and are powered by the magic within.'
+    - ''
+    - '&x&E&4&E&D&3&2Rune'
+  CRY_RUNE_BLACK_SWORD:
+    name: '&x&3&2&A&8&5&2Black Sword Rune'
+    lore:
+    - ''
+    - '&7The magic of power, domination and drive.'
+    - ''
+    - '&x&E&4&E&D&3&2Rune'

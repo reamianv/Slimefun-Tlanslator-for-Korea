@@ -1,0 +1,59 @@
+name: SlimeTinker
+translations:
+  ARMOUR_BOOTS_DUMMY:
+    name: '&x&C&2&F&C&0&3Tinker''s Boots'
+    lore:
+    - ''
+    - '&7A pair of boots formed of three parts.'
+    - '&7Tinker''s armour can level up and be'
+    - '&7given extra properties and modifiers.'
+    - '&7When broken it''s unequipped.'
+    - '&eIf there''s no room in your inventory'
+    - '&ethen the item drops on the floor'
+    - ''
+    - '&x&F&0&E&A&4&FTinker''s Armour'
+  ARMOUR_CHESTPLATE_DUMMY:
+    name: '&x&C&2&F&C&0&3Tinker''s Chestplate'
+    lore:
+    - ''
+    - '&7A chestplate formed of three parts.'
+    - '&7Tinker''s armour can level up and be'
+    - '&7given extra properties and modifiers.'
+    - '&7When broken it''s unequipped.'
+    - '&eIf there''s no room in your inventory'
+    - '&ethen the item drops on the floor'
+    - ''
+    - '&x&F&0&E&A&4&FTinker''s Armour'
+  ARMOUR_INFO:
+    name: '&x&2&1&5&8&8&FTinker''s Armour Info'
+    lore:
+    - ''
+    - '&7Tinker''s armour starts at Leather. As you'
+    - '&7level the pieces up, they will promote'
+    - '&7through Chain > Iron > Diamond > Netherite.'
+    - ''
+    - '&x&F&0&E&A&4&FInfo'
+  ARMOUR_HELMET_DUMMY:
+    name: '&x&C&2&F&C&0&3Tinker''s Helmet'
+    lore:
+    - ''
+    - '&7A helmet formed of three parts.'
+    - '&7Tinker''s armour can level up and be'
+    - '&7given extra properties and modifiers.'
+    - '&7When broken it''s unequipped.'
+    - '&eIf there''s no room in your inventory'
+    - '&ethen the item drops on the floor'
+    - ''
+    - '&x&F&0&E&A&4&FTinker''s Armour'
+  ARMOUR_LEGGINGS_DUMMY:
+    name: '&x&C&2&F&C&0&3Tinker''s Leggings'
+    lore:
+    - ''
+    - '&7A pair of leggings formed of three parts.'
+    - '&7Tinker''s armour can level up and be'
+    - '&7given extra properties and modifiers.'
+    - '&7When broken it''s unequipped.'
+    - '&eIf there''s no room in your inventory'
+    - '&ethen the item drops on the floor'
+    - ''
+    - '&x&F&0&E&A&4&FTinker''s Armour'

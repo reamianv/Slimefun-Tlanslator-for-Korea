@@ -1,0 +1,90 @@
+name: SlimefunWarfare
+translations:
+  AZIDOAZIDE_AZIDE:
+    name: '&eAzidoazide Azide'
+    lore:
+    - ''
+    - '&7A material for grenades'
+  OSMIUM_DUST_GRENADE:
+    name: '&fChemical Grenade'
+    lore:
+    - ''
+    - '&7Contents: Osmium Dust'
+  THIOACETONE_GRENADE:
+    name: '&fChemical Grenade'
+    lore:
+    - ''
+    - '&7Contents: Thioacetone'
+  PYRO_POWDER_GRENADE:
+    name: '&fChemical Grenade'
+    lore:
+    - ''
+    - '&7Contents: Pyro Powder'
+  THIOACETONE:
+    name: '&6Thioacetone'
+    lore:
+    - ''
+    - '&7Very smelly indeed'
+  PYRO_POWDER:
+    name: '&4Pyro Powder'
+    lore:
+    - ''
+    - '&7A very explosive substance indeed'
+  LIQUID_NITROGEN:
+    name: '&fLiquid Nitrogen'
+    lore:
+    - ''
+    - '&7Ice cream anyone?'
+  ARSENIC:
+    name: '&7Arsenic'
+    lore:
+    - ''
+    - '&7A material for grenades'
+  GUNPOWDER:
+    name: '[Gunpowder]'
+  NITROGEN_TRIIODIDE:
+    name: '&5Nitrogen Triiodide'
+    lore:
+    - ''
+    - '&7A material for grenades'
+  AZIDOAZIDE_AZIDE_GRENADE:
+    name: '&fChemical Grenade'
+    lore:
+    - ''
+    - '&7Contents: Azidoazide Azide'
+  GRENADE:
+    name: '&fChemical Grenade'
+    lore:
+    - ''
+    - '&7Contents: none'
+  NITROGEN_TRIIODIDE_GRENADE:
+    name: '&fChemical Grenade'
+    lore:
+    - ''
+    - '&7Contents: Nitrogen Triiodide'
+  PURIFIED_LIQUID_NITROGEN:
+    name: '&fPurified Liquid Nitrogen'
+    lore:
+    - ''
+    - '&7As pure as can be'
+  LIQUID_AIR:
+    name: '&fLiquid Air'
+    lore:
+    - ''
+    - '&7Don''t touch!'
+  ARSENIC_GRENADE:
+    name: '&fChemical Grenade'
+    lore:
+    - ''
+    - '&7Contents: Arsenic'
+  NUCLEAR_BOMB:
+    name: '&7Nuclear Bomb'
+    lore:
+    - ''
+    - '&7KABOOM!'
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+  ENRICHED_URANIUM:
+    name: '&aEnriched Uranium'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'

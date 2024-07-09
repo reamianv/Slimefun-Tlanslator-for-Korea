@@ -1,0 +1,32 @@
+name: SpiritsUnchained
+translations:
+  SU_SMOOTH_CHARGED_QUARTZ_III:
+    name: '&eSmooth Charged Quartz III'
+    lore:
+    - ''
+    - '&7Used to Build a Spiritual Altar'
+  SU_SMOOTH_CHARGED_STAIRS_III:
+    name: '&eSmooth Charged Stairs III'
+    lore:
+    - ''
+    - '&7Used to Build a Spiritual Altar'
+  SU_CHARGED_CORE_III:
+    name: '&eCharged Core III'
+    lore:
+    - ''
+    - '&7Used to Build a Spiritual Altar'
+  SU_CHARGED_STAIRS_III:
+    name: '&eCharged Stairs III'
+    lore:
+    - ''
+    - '&7Used to Build a Spiritual Altar'
+  SU_CHARGED_PILLAR_III:
+    name: '&eCharged Pillar III'
+    lore:
+    - ''
+    - '&7Used to Build a Spiritual Altar'
+  SU_CHARGED_QUARTZ_III:
+    name: '&eCharged Quartz III'
+    lore:
+    - ''
+    - '&7Used to Build a Spiritual Altar'

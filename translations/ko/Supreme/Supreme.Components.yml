@@ -1,0 +1,396 @@
+name: Supreme
+translations:
+  SUPREME_ATTRIBUTE_BOMB:
+    name: '&aAttribute Bomb'
+    lore:
+    - ''
+    - '&7A super bomb attribute with special effects'
+    - ''
+    - '&3Supreme Magical Components'
+  SUPREME_ALLOY_IRIDIUM:
+    name: '&aAlloy Iridium'
+    lore:
+    - ''
+    - '&3Supreme Components'
+  SUPREME_THORNIUM_INGOT:
+    name: '&aThornium Ingot'
+    lore:
+    - ''
+    - '&7From the Thornium Dust'
+    - ''
+    - '&3Supreme End-Game Components'
+  SUPREME_ALLOY_ADAMANTIUM:
+    name: '&aAlloy Adamantium'
+    lore:
+    - ''
+    - '&3Supreme Components'
+  SUPREME_THORNIUM_BIT_SYNTHETIC:
+    name: '&aThornium Bit Synthetic'
+    lore:
+    - ''
+    - '&7From the Thornium Bit'
+    - ''
+    - '&3Supreme End-Game Components'
+  SUPREME_SIMPLE_GOLEM_0:
+    name: '&8Common Golem'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &eLOW'
+    - '&7Increases processing speed'
+    - '&7Value process &e(amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_SYNTHETIC_RUBY:
+    name: '&aSynthetic Ruby'
+    lore:
+    - ''
+    - '&3Supreme Components'
+  SUPREME_STAINLESS_MACHINE:
+    name: '&aStainless Machine'
+    lore:
+    - ''
+    - '&3Supreme Advanced Components'
+  SUPREME_CORE_OF_NATURE:
+    name: '&aCore of Nature'
+    lore:
+    - ''
+    - '&7This core contains several natural'
+    - '&7that have been collected around the world.'
+    - ''
+    - '&3Supreme Magical Components'
+  SUPREME_ALLOY_ZIRCONIUM:
+    name: '&aAlloy Zirconium'
+    lore:
+    - ''
+    - '&3Supreme Components'
+  SUPREME_DUST_GLOW_INK:
+    name: '&aGlow Ink Dust'
+    lore:
+    - ''
+    - '&3Supreme Component'
+  SUPREME_SIMPLE_ZOMBIE_0:
+    name: '&8Common Zombie'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &eLOW'
+    - '&7Increases processing speed'
+    - '&7Value process &e(amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_GENE_LUCK:
+    name: '&aLuck Gene'
+    lore:
+    - ''
+    - '&3Supreme Component'
+  SUPREME_SUPREME:
+    name: '&aSupreme'
+    lore:
+    - ''
+    - '&7The Supreme'
+    - ''
+    - '&3Supreme End-Game Components'
+  SUPREME_PLATINUM_PLATE:
+    name: '&aPlatinum Plate'
+    lore:
+    - ''
+    - '&3Supreme Components'
+  SUPREME_CORE_OF_COLOR:
+    name: '&aCore of Color'
+    lore:
+    - ''
+    - '&7This core contains several colors'
+    - '&7that have been collected around the world.'
+    - ''
+    - '&3Supreme Magical Components'
+  SUPREME_THORNIUM_CARBONADO:
+    name: '&aThornium Carbonado'
+    lore:
+    - ''
+    - '&7From the Thornium Ingot'
+    - ''
+    - '&3Supreme End-Game Components'
+  SUPREME_TITANIUM_PLATE:
+    name: '&aTitanium Plate'
+    lore:
+    - ''
+    - '&3Supreme Components'
+  SUPREME_CORE_OF_LIFE:
+    name: '&aCore of Life'
+    lore:
+    - ''
+    - '&7This core contains fragments of life'
+    - '&7that have been collected by the world.'
+    - ''
+    - '&3Supreme Magical Components'
+  SUPREME_CARRIAGE_MACHINE:
+    name: '&aCarriage Machine'
+    lore:
+    - ''
+    - '&3Supreme Advanced Components'
+  SUPREME_DUST_AMETHYST:
+    name: '&aAmethyst Dust'
+    lore:
+    - ''
+    - '&3Supreme Component'
+  SUPREME_EMPTY_MOBTECH:
+    name: '&aEmpty MobTech'
+    lore:
+    - ''
+    - '&3Supreme Component'
+  SUPREME_BLEND_MACHINE:
+    name: '&aBlend Machine'
+    lore:
+    - ''
+    - '&3Supreme Advanced Components'
+  SUPREME_ATTRIBUTE_IMPETUS:
+    name: '&aAttribute Impetus'
+    lore:
+    - ''
+    - '&7A super impetus attribute with special effects'
+    - ''
+    - '&3Supreme Magical Components'
+  SUPREME_AURUM_PLATE:
+    name: '&aAurum Plate'
+    lore:
+    - ''
+    - '&3Supreme Components'
+  SUPREME_INDUCTOR_MACHINE:
+    name: '&aInductor Machine'
+    lore:
+    - ''
+    - '&3Supreme Advanced Components'
+  SUPREME_CENTER_CARD_ULTIMATE:
+    name: '&aUltimate Component for Card'
+    lore:
+    - ''
+    - '&fComponent for Machine to produce items'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_DUST_NETHERITE:
+    name: '&aNetherite Dust'
+    lore:
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CENTER_CARD_ADVANCED:
+    name: '&aAdvanced Component for Card'
+    lore:
+    - ''
+    - '&fComponent for Machine to produce items'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_ALLOY_AURUM:
+    name: '&aAlloy Aurum'
+    lore:
+    - ''
+    - '&3Supreme Components'
+  SUPREME_CONVEYANCE_MACHINE:
+    name: '&aConveyance Machine'
+    lore:
+    - ''
+    - '&3Supreme Advanced Components'
+  SUPREME_GENE_BERSERK:
+    name: '&aBerserk Gene'
+    lore:
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CETRUS_LUMIUM:
+    name: '&aCetrus Lumium'
+    lore:
+    - ''
+    - '&7A super lumium scepter'
+    - ''
+    - '&3Supreme Magical Components'
+  SUPREME_RUSTLESS_MACHINE:
+    name: '&aRustless Machine'
+    lore:
+    - ''
+    - '&3Supreme Advanced Components'
+  SUPREME_CETRUS_IGNIS:
+    name: '&aCetrus Ignis'
+    lore:
+    - ''
+    - '&7A super ignis scepter'
+    - ''
+    - '&3Supreme Magical Components'
+  SUPREME_ALLOY_PLATINUM:
+    name: '&aAlloy Platinum'
+    lore:
+    - ''
+    - '&3Supreme Components'
+  SUPREME_THORNIUM_DUST_SYNTHETIC:
+    name: '&aThornium Dust Synthetic'
+    lore:
+    - ''
+    - '&7From the Thornium Dust'
+    - ''
+    - '&3Supreme End-Game Components'
+  SUPREME_ADAMANTIUM_PLATE:
+    name: '&aAdamantium Plate'
+    lore:
+    - ''
+    - '&3Supreme Components'
+  SUPREME_CRYSTALLIZER_MACHINE:
+    name: '&aCrystallizer Machine'
+    lore:
+    - ''
+    - '&3Supreme Advanced Components'
+  SUPREME_CENTER_CARD_SIMPLE:
+    name: '&aBasic Component for Card'
+    lore:
+    - ''
+    - '&fComponent for Machine to produce items'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_THORNIUM_DUST:
+    name: '&aThornium Dust'
+    lore:
+    - ''
+    - '&7From the Thornium Bit'
+    - ''
+    - '&3Supreme End-Game Components'
+  SUPREME_CORE_OF_BLOCK:
+    name: '&aCore of Block'
+    lore:
+    - ''
+    - '&7This core contains several blocks'
+    - '&7that have been collected around the world.'
+    - ''
+    - '&3Supreme Magical Components'
+  SUPREME_IRIDIUM_PLATE:
+    name: '&aIridium Plate'
+    lore:
+    - ''
+    - '&3Supreme Components'
+  SUPREME_THORNIUM_INGOT_SYNTHETIC:
+    name: '&aThornium Ingot Synthetic'
+    lore:
+    - ''
+    - '&7From the Thornium Ingot'
+    - ''
+    - '&3Supreme End-Game Components'
+  SUPREME_PETRIFIER_MACHINE:
+    name: '&aPetrifier Machine'
+    lore:
+    - ''
+    - '&3Supreme Advanced Components'
+  SUPREME_SIMPLE_BEE_0:
+    name: '&8Common Bee'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &eLOW'
+    - '&7Increases processing speed'
+    - '&7Value process &e(amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_THORNERITE:
+    name: '&aThornerite'
+    lore:
+    - ''
+    - '&3Supreme End-Game Components'
+  SUPREME_SYNTHETIC_AMETHYST:
+    name: '&aSynthetic Amethyst'
+    lore:
+    - ''
+    - '&3Supreme Components'
+  SUPREME_ZIRCONIUM_PLATE:
+    name: '&aZirconium Plate'
+    lore:
+    - ''
+    - '&3Supreme Components'
+  SUPREME_CETRUS_LUX:
+    name: '&aCetrus Lux'
+    lore:
+    - ''
+    - '&7A super lux scepter'
+    - ''
+    - '&3Supreme Magical Components'
+  SUPREME_ALLOY_MANGANESE:
+    name: '&aAlloy Manganese'
+    lore:
+    - ''
+    - '&3Supreme Components'
+  SUPREME_CORE_OF_DEATH:
+    name: '&aCore of Death'
+    lore:
+    - ''
+    - '&7This core contains the souls of '
+    - '&7various entities that have gone beyond.'
+    - ''
+    - '&3Supreme Magical Components'
+  SUPREME_CORE_OF_ALLOY:
+    name: '&aCore of Alloy'
+    lore:
+    - ''
+    - '&7This core contains several ores'
+    - '&7that have been collected around the world.'
+    - ''
+    - '&3Supreme Magical Components'
+  SUPREME_SUPREME_NUGGET:
+    name: '&aNugget Supreme'
+    lore:
+    - ''
+    - '&7From the Quarry Nugget Supreme'
+    - ''
+    - '&3Supreme End-Game Components'
+  SUPREME_CETRUS_AQUA:
+    name: '&aCetrus Aqua'
+    lore:
+    - ''
+    - '&7A super aqua scepter'
+    - ''
+    - '&3Supreme Magical Components'
+  SUPREME_INDUCTIVE_MACHINE:
+    name: '&aInductive Machine'
+    lore:
+    - ''
+    - '&3Supreme Advanced Components'
+  SUPREME_CETRUS_VENTUS:
+    name: '&aCetrus Ventus'
+    lore:
+    - ''
+    - '&7A super ventus scepter'
+    - ''
+    - '&3Supreme Magical Components'
+  SUPREME_ALLOY_TITANIUM:
+    name: '&aAlloy Titanium'
+    lore:
+    - ''
+    - '&3Supreme Components'
+  SUPREME_THORNIUM_ENERGIZED:
+    name: '&aThornium Energized'
+    lore:
+    - ''
+    - '&7From the Thornium Ingot'
+    - ''
+    - '&3Supreme End-Game Components'
+  SUPREME_GENE_INTELLIGENCE:
+    name: '&fIntelligence Gene'
+    lore:
+    - ''
+    - '&3Supreme Component'
+  SUPREME_THORNIUM_BIT:
+    name: '&aThornium Bit'
+    lore:
+    - ''
+    - '&7From the Quarry Thornium'
+    - ''
+    - '&3Supreme End-Game Components'
+  SUPREME_ATTRIBUTE_MAGIC:
+    name: '&aAttribute Magic'
+    lore:
+    - ''
+    - '&7A super magic attribute with special effects'
+    - ''
+    - '&3Supreme Magical Components'
+  SUPREME_ATTRIBUTE_FORTUNE:
+    name: '&aAttribute Fortune'
+    lore:
+    - ''
+    - '&7A super fortune attribute with special effects'
+    - ''
+    - '&3Supreme Magical Components'
+  SUPREME_MANGANESE_PLATE:
+    name: '&aManganese Plate'
+    lore:
+    - ''
+    - '&3Supreme Components'

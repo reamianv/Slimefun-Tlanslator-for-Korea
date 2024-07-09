@@ -1,0 +1,102 @@
+name: Netheopoiesis
+translations:
+  NPS_DESERT_CRUX:
+    name: '&x&4&2&8&7&F&5Desert Crux'
+    lore:
+    - ''
+    - '&7This sand is barren and dull'
+    - '&7but still an improvement over'
+    - '&7netherrack.'
+    - ''
+    - '&x&E&4&E&D&3&2Crux'
+  NPS_SNOWY_CRUX:
+    name: '&x&4&2&8&7&F&5Snowy Crux'
+    lore:
+    - ''
+    - '&7A sudden drop in temperature is'
+    - '&7sure to bring in new fauna.'
+    - ''
+    - '&x&E&4&E&D&3&2Crux'
+  NPS_PURIFIED_NETHERRACK:
+    name: '&x&4&2&8&7&F&5Purified Netherrack'
+    lore:
+    - ''
+    - '&7This Netherrack has been purified'
+    - '&7to allow more complex seeds to'
+    - '&7be grown on it.'
+    - ''
+    - '&x&E&4&E&D&3&2Crux'
+  NPS_VORACIOUS_DIRT:
+    name: '&x&4&2&8&7&F&5Voracious Dirt'
+    lore:
+    - ''
+    - '&7The Netherrack has been purified to'
+    - '&7a point in which it is a viable soil.'
+    - ''
+    - '&x&E&4&E&D&3&2Crux'
+  NPS_BASIC_PURIFIED_NETHERRACK:
+    name: '&x&4&2&8&7&F&5Basic Purified Netherrack'
+    lore:
+    - ''
+    - '&7This Netherrack has been purified'
+    - '&7to allow more complex seeds to'
+    - '&7be grown on it.'
+    - ''
+    - '&x&E&4&E&D&3&2Crux'
+  NPS_JUNGLE_CRUX:
+    name: '&x&4&2&8&7&F&5Jungle Crux'
+    lore:
+    - ''
+    - '&7This soil is suitable for more'
+    - '&7temperate plants.'
+    - ''
+    - '&x&E&4&E&D&3&2Crux'
+  NPS_CRYSTALLINE_CRUX:
+    name: '&x&4&2&8&7&F&5Crystalline Crux'
+    lore:
+    - ''
+    - '&7This crux is unique in that it'
+    - '&7spreads slowly out to other'
+    - '&7nearby lava, cobblestone, stone'
+    - '&7and obsidian blocks.'
+    - ''
+    - '&x&E&4&E&D&3&2Crux'
+  NPS_NETHER_DIRT:
+    name: '&x&4&2&8&7&F&5Nether Dirt'
+    lore:
+    - ''
+    - '&7The Netherrack has been purified to'
+    - '&7a point in which it is a good soil.'
+    - ''
+    - '&x&E&4&E&D&3&2Crux'
+  NPS_SWAMPY_CRUX:
+    name: '&x&4&2&8&7&F&5Swampy Crux'
+    lore:
+    - ''
+    - '&7This soil is over saturated yet'
+    - '&7teeming with life.'
+    - ''
+    - '&x&E&4&E&D&3&2Crux'
+  NPS_BEACH_CRUX:
+    name: '&x&4&2&8&7&F&5Beach Crux'
+    lore:
+    - ''
+    - '&7This sand feels great between'
+    - '&7your toes.'
+    - ''
+    - '&x&E&4&E&D&3&2Crux'
+  NPS_STONEY_CRUX:
+    name: '&x&4&2&8&7&F&5Stoney Crux'
+    lore:
+    - ''
+    - '&7While not suitable for plants'
+    - '&7there is a reason for everything.'
+    - ''
+    - '&x&E&4&E&D&3&2Crux'
+  NPS_NETHER_GRASS:
+    name: '&x&4&2&8&7&F&5Nether Grass'
+    lore:
+    - ''
+    - '&7This grass is positively healthy.'
+    - ''
+    - '&x&E&4&E&D&3&2Crux'

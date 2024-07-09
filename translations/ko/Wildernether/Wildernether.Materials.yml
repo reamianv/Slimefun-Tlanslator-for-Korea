@@ -1,0 +1,30 @@
+name: Wildernether
+translations:
+  CRIMSON_FRAME:
+    name: '&x&9&E&3&5&5&ACrimson Frame'
+    lore:
+    - '&7'
+    - '&x&F&C&F&B&D&6A sturdy frame made from the stem of'
+    - '&x&F&C&F&B&D&6a large Crimson Fungus'
+  FUNGAL_GOLD_SCRAP:
+    name: '&x&B&7&B&C&B&CFungal Gold Scrap'
+    lore:
+    - '&7'
+    - '&x&F&C&F&B&D&6A piece of scrap gold overgrown'
+    - '&x&F&C&F&B&D&6with fungus'
+    - '&x&F&C&F&B&D&6'
+    - '&7&oUsable in Workbench'
+  SOUL_STONE:
+    name: '&x&D&9&F&9&E&FSoul Stone'
+    lore:
+    - '&7'
+    - '&x&F&C&F&B&D&6You can hear strange whisperings coming'
+    - '&x&F&C&F&B&D&6from deep within'
+  FUNGAL_IRON_SCRAP:
+    name: '&x&B&7&B&C&B&CFungal Iron Scrap'
+    lore:
+    - '&7'
+    - '&x&F&C&F&B&D&6A piece of scrap iron overgrown'
+    - '&x&F&C&F&B&D&6with fungus'
+    - '&x&F&C&F&B&D&6'
+    - '&7&oUsable in Workbench'

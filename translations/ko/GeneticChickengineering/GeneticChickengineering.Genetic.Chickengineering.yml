@@ -1,0 +1,62 @@
+name: GeneticChickengineering
+translations:
+  GCE_LAVA_EGG:
+    name: '&cLava Egg'
+    lore:
+    - '&7Contains lava.'
+    - ''
+    - '&eRight Click&7 to use'
+  GCE_PRIVATE_COOP:
+    name: '&ePrivate Coop'
+    lore:
+    - '&7Can store chickens.'
+    - ''
+    - '&aMedium Machine'
+    - '&8⇨ &e⚡ &72 J/s'
+  GCE_POCKET_CHICKEN:
+    name: '&bPocket Chicken'
+    lore:
+    - '&7Right click on a block'
+    - '&7to release the chicken.'
+  GCE_WATER_EGG:
+    name: '&9Water Egg'
+    lore:
+    - '&7Contains water.'
+    - ''
+    - '&eRight Click&7 to use'
+  GCE_EXCITATION_CHAMBER_2:
+    name: '&eBoosted Excitation Chamber'
+    lore:
+    - '&7Enables chickens to produce resources'
+    - '&7faster.'
+    - ''
+    - '&6Advanced Machine'
+    - '&8⇨ &e⚡ &715 J/s'
+  GCE_GENETIC_SEQUENCER:
+    name: '&eGenetic Sequencer'
+    lore:
+    - '&7Used to determine a chicken''s genotype.'
+    - ''
+    - '&aMedium Machine'
+    - '&8⇨ &e⚡ &76 J/s'
+  GCE_EXCITATION_CHAMBER_3:
+    name: '&eUltimate Excitation Chamber'
+    lore:
+    - '&7Enables chickens to produce resources'
+    - '&7much faster.'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &7100 J/s'
+  GCE_CHICKEN_NET:
+    name: '&aChicken Net'
+    lore:
+    - '&7Make chicken portable.'
+    - ''
+    - '&eRight Click&7 to use'
+  GCE_EXCITATION_CHAMBER:
+    name: '&eExcitation Chamber'
+    lore:
+    - '&7Enables chickens to produce resources.'
+    - ''
+    - '&aMedium Machine'
+    - '&8⇨ &e⚡ &710 J/s'

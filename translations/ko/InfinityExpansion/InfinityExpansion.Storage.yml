@@ -1,0 +1,27 @@
+name: InfinityExpansion
+translations:
+  BASIC_STORAGE:
+    name: '&9Basic &8Storage Unit'
+    lore:
+    - '&6Capacity: &e6,400 &eitems'
+  ADVANCED_STORAGE:
+    name: '&cAdvanced &8Storage Unit'
+    lore:
+    - '&6Capacity: &e25,600 &eitems'
+  VOID_STORAGE:
+    name: '&8Void &8Storage Unit'
+    lore:
+    - '&6Capacity: &e409,600 &eitems'
+  REINFORCED_STORAGE:
+    name: '&fReinforced &8Storage Unit'
+    lore:
+    - '&6Capacity: &e102,400 &eitems'
+  STORAGE_FORGE:
+    name: '&6Storage Forge'
+    lore:
+    - '&7Upgrades the tier of Storage Units'
+    - '&7Retains stored items'
+  INFINITY_STORAGE:
+    name: '&bInfinity &8Storage Unit'
+    lore:
+    - '&6Capacity: &e1,600,000,000 &eitems'

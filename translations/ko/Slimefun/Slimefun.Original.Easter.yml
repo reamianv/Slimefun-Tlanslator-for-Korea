@@ -1,0 +1,12 @@
+name: Slimefun
+translations:
+  CARROT_PIE:
+    name: '&6Carrot Pie'
+  EASTER_EGG:
+    name: '&fEaster Egg'
+    lore:
+    - '&dHappy Easter! Have a surprise.'
+    - ''
+    - '&eRight Click&7 to open'
+  EASTER_APPLE_PIE:
+    name: '&fApple Pie'

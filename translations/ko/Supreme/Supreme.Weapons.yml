@@ -1,0 +1,107 @@
+name: Supreme
+translations:
+  SUPREME_BOW_LEGENDARY:
+    name: '[Bow]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_AURUM_SWORD:
+    name: '[Diamond Sword]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_SHIELD_SUPREME:
+    name: '[Shield]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_SWORD_THORNIUM:
+    name: '[Netherite Sword]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_SHIELD_LEGENDARY:
+    name: '[Shield]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_BOW_RARE:
+    name: '[Bow]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_SHIELD_THORNIUM:
+    name: '[Shield]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_SWORD_LEGENDARY:
+    name: '[Netherite Sword]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_SHIELD_EPIC:
+    name: '[Shield]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_SWORD_SUPREME:
+    name: '[Netherite Sword]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_SWORD_MAGIC:
+    name: '[Netherite Sword]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_ADAMANTIUM_SWORD:
+    name: '[Diamond Sword]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_BOW_MAGIC:
+    name: '[Bow]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_SHIELD_RARE:
+    name: '[Shield]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_SWORD_RARE:
+    name: '[Netherite Sword]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_BOW_THORNIUM:
+    name: '[Bow]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_BOW_EPIC:
+    name: '[Bow]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_SHIELD_MAGIC:
+    name: '[Shield]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_TITANIUM_SWORD:
+    name: '[Diamond Sword]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_BOW_SUPREME:
+    name: '[Bow]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_SWORD_EPIC:
+    name: '[Netherite Sword]'
+    lore:
+    - ''
+    - '&bSoulbound'

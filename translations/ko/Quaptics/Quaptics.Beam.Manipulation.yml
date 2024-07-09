@@ -1,0 +1,154 @@
+name: Quaptics
+translations:
+  QP_LENS_3:
+    name: '&9Lens &8III'
+    lore:
+    - '&x&F&F&D&B&4&DIntermediate'
+    - '&7● Redirects quaptic rays'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e0 &7- &e1,000 &8W'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Power Loss &e4 &8%'
+  QP_COMBINER_1:
+    name: '&9Combiner &8I'
+    lore:
+    - '&x&9&9&6&6&3&3Primitive'
+    - '&7● Combines multiple quaptic rays into one'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e0 &7- &e10 &8W'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Power Loss &e20 &8%'
+    - '&8⇨ &x&E&0&8&5&C&2◎ &7Max connections: &e2'
+  QP_CAPACITOR_3:
+    name: '&9Capacitor &8III'
+    lore:
+    - '&x&F&F&D&B&4&DIntermediate'
+    - '&7● Stores charge'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e0 &7- &e1,000 &8W'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Power Output &e400 &8W'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Power Loss &e8 &8%'
+    - '&8⇨ &x&8&7&F&F&F&D◆ &7Capacity &e16,000 &8QEU'
+  QP_LENS_4:
+    name: '&9Lens &8IV'
+    lore:
+    - '&x&F&F&6&6&0&0Advanced'
+    - '&7● Redirects quaptic rays'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e0 &7- &e10,000 &8W'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Power Loss &e2 &8%'
+  QP_CAPACITOR_4:
+    name: '&9Capacitor &8IV'
+    lore:
+    - '&x&F&F&6&6&0&0Advanced'
+    - '&7● Stores charge'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e0 &7- &e10,000 &8W'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Power Output &e4,500 &8W'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Power Loss &e4 &8%'
+    - '&8⇨ &x&8&7&F&F&F&D◆ &7Capacity &e200,000 &8QEU'
+  QP_LENS_1:
+    name: '&9Lens &8I'
+    lore:
+    - '&x&9&9&6&6&3&3Primitive'
+    - '&7● Redirects quaptic rays'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e0 &7- &e10 &8W'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Power Loss &e10 &8%'
+  QP_COMBINER_3:
+    name: '&9Combiner &8III'
+    lore:
+    - '&x&F&F&D&B&4&DIntermediate'
+    - '&7● Combines multiple quaptic rays into one'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e0 &7- &e1,000 &8W'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Power Loss &e8 &8%'
+    - '&8⇨ &x&E&0&8&5&C&2◎ &7Max connections: &e4'
+  QP_CAPACITOR_1:
+    name: '&9Capacitor &8I'
+    lore:
+    - '&x&9&9&6&6&3&3Primitive'
+    - '&7● Stores charge'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e0 &7- &e10 &8W'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Power Output &e3 &8W'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Power Loss &e25 &8%'
+    - '&8⇨ &x&8&7&F&F&F&D◆ &7Capacity &e800 &8QEU'
+  QP_LENS_2:
+    name: '&9Lens &8II'
+    lore:
+    - '&x&3&3&9&9&3&3Basic'
+    - '&7● Redirects quaptic rays'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e0 &7- &e100 &8W'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Power Loss &e7 &8%'
+  QP_COMBINER_2:
+    name: '&9Combiner &8II'
+    lore:
+    - '&x&3&3&9&9&3&3Basic'
+    - '&7● Combines multiple quaptic rays into one'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e0 &7- &e100 &8W'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Power Loss &e14 &8%'
+    - '&8⇨ &x&E&0&8&5&C&2◎ &7Max connections: &e3'
+  QP_CAPACITOR_2:
+    name: '&9Capacitor &8II'
+    lore:
+    - '&x&3&3&9&9&3&3Basic'
+    - '&7● Stores charge'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e0 &7- &e100 &8W'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Power Output &e35 &8W'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Power Loss &e16 &8%'
+    - '&8⇨ &x&8&7&F&F&F&D◆ &7Capacity &e1,200 &8QEU'
+  QP_COMBINER_4:
+    name: '&9Combiner &8IV'
+    lore:
+    - '&x&F&F&6&6&0&0Advanced'
+    - '&7● Combines multiple quaptic rays into one'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e0 &7- &e10,000 &8W'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Power Loss &e5 &8%'
+    - '&8⇨ &x&E&0&8&5&C&2◎ &7Max connections: &e5'
+  QP_SPLITTER_1:
+    name: '&9Splitter &8I'
+    lore:
+    - '&x&9&9&6&6&3&3Primitive'
+    - '&7● Splits one quaptic ray into multiple'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e0 &7- &e10 &8W'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Power Loss &e20 &8%'
+    - '&8⇨ &x&E&0&8&5&C&2◎ &7Max connections: &e2'
+  QP_SPLITTER_3:
+    name: '&9Splitter &8III'
+    lore:
+    - '&x&F&F&D&B&4&DIntermediate'
+    - '&7● Splits one quaptic ray into multiple'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e0 &7- &e1,000 &8W'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Power Loss &e8 &8%'
+    - '&8⇨ &x&E&0&8&5&C&2◎ &7Max connections: &e4'
+  QP_TRANSFORMER_2:
+    name: '&9Transformer &8II'
+    lore:
+    - '&x&F&F&D&B&4&DIntermediate'
+    - '&7● Drops the power of a quaptic ray'
+    - '&7● Excess input power is wasted'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e100 &7- &e1,000 &8W'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Power Output &e100 &8W'
+  QP_SPLITTER_2:
+    name: '&9Splitter &8II'
+    lore:
+    - '&x&3&3&9&9&3&3Basic'
+    - '&7● Splits one quaptic ray into multiple'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e0 &7- &e100 &8W'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Power Loss &e14 &8%'
+    - '&8⇨ &x&E&0&8&5&C&2◎ &7Max connections: &e3'
+  QP_TRANSFORMER_3:
+    name: '&9Transformer &8III'
+    lore:
+    - '&x&F&F&6&6&0&0Advanced'
+    - '&7● Drops the power of a quaptic ray'
+    - '&7● Excess input power is wasted'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e1,000 &7- &e10,000 &8W'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Power Output &e1,000 &8W'
+  QP_SPLITTER_4:
+    name: '&9Splitter &8IV'
+    lore:
+    - '&x&F&F&6&6&0&0Advanced'
+    - '&7● Splits one quaptic ray into multiple'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e0 &7- &e10,000 &8W'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Power Loss &e5 &8%'
+    - '&8⇨ &x&E&0&8&5&C&2◎ &7Max connections: &e5'
+  QP_TRANSFORMER_1:
+    name: '&9Transformer &8I'
+    lore:
+    - '&x&3&3&9&9&3&3Basic'
+    - '&7● Drops the power of a quaptic ray'
+    - '&7● Excess input power is wasted'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e10 &7- &e100 &8W'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Power Output &e10 &8W'

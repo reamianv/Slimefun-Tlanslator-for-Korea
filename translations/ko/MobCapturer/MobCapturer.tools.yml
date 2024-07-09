@@ -1,0 +1,13 @@
+name: MobCapturer
+translations:
+  MOB_CAPTURING_PELLET:
+    name: '&fMob Capturing Pellet'
+    lore:
+    - ''
+    - '&7These Pellets are used as'
+    - '&7Ammunition for your &6Mob Capturing Cannon'
+  MOB_CANNON:
+    name: '&6Mob Capturing Cannon'
+    lore:
+    - ''
+    - '&eRight Click &7to shoot a &fMob Caging Pellet'

@@ -1,0 +1,93 @@
+name: CrystamaeHistoria
+translations:
+  CRY_ANNIVERSARY_TROPHY:
+    name: '&x&D&B&C&E&A&9Slimefun''s 10th Anniversary'
+    lore:
+    - ''
+    - '&710 Years of (Slime)fun'
+    - '&7'
+    - '&x&E&4&E&D&3&2Requires: Slimefun''s Anniversary'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  CRY_CHRISTMAS_TROPHY:
+    name: '&x&D&B&C&E&A&9Merry Christmas'
+    lore:
+    - ''
+    - '&7A little gift for you... but you'
+    - '&7have to work for it!'
+    - '&7'
+    - '&x&E&4&E&D&3&2Requires: Can only be crafted during the holidays'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  CRY_GILDING_TROPHY:
+    name: '&x&D&B&C&E&A&9Proofs: Gilding Owner'
+    lore:
+    - ''
+    - '&7Proof that you are simply the best.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Requires: Gilding Rank > Owner'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  CRY_BIRTHDAY_TROPHY_ODDISH:
+    name: '&x&D&B&C&E&A&9Happy Birthday Oddish!'
+    lore:
+    - ''
+    - '&7A Gloom waiting to happen'
+    - '&7'
+    - '&x&E&4&E&D&3&2Requires: Oddish''s Birthday!'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  CRY_SPELL_TROPHY:
+    name: '&x&D&B&C&E&A&9Proofs: Grandmaster Magus'
+    lore:
+    - ''
+    - '&7Proof that you are simply the best.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Requires: Spell Rank > Grandmaster Magus'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  CRY_BIRTHDAY_TROPHY_CHEESY:
+    name: '&x&D&B&C&E&A&9Happy Birthday Cheesy!'
+    lore:
+    - ''
+    - '&7A Gentleman at Heart'
+    - '&7'
+    - '&x&E&4&E&D&3&2Requires: Cheesy''s Birthday!'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  CRY_BIRTHDAY_TROPHY_DECOY:
+    name: '&x&D&B&C&E&A&9Happy Birthday Decoy!'
+    lore:
+    - ''
+    - '&7Joint creator of the biggest Tantrum ever!'
+    - '&7'
+    - '&x&E&4&E&D&3&2Requires: Decoy''s Birthday!'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  CRY_VALENTINES_TROPHY:
+    name: '&x&D&B&C&E&A&9Happy Valentines Day'
+    lore:
+    - ''
+    - '&7A little love goes a long way.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Requires: Can only be crafted when love is in the air'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  CRY_BIRTHDAY_TROPHY_BWHITE:
+    name: '&x&D&B&C&E&A&9Happy Birthday BWhite!'
+    lore:
+    - ''
+    - '&7Joint creator of the biggest Tantrum ever!'
+    - '&7'
+    - '&x&E&4&E&D&3&2Requires: BWhite''s Birthday!'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  CRY_STORY_TROPHY:
+    name: '&x&D&B&C&E&A&9Proofs: Emeritus Professor'
+    lore:
+    - ''
+    - '&7Proof that you are simply the best.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Requires: Story Rank > Emeritus Professor'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'

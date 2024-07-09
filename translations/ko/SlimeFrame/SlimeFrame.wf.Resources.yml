@@ -1,0 +1,370 @@
+name: SlimeFrame
+translations:
+  WF_THAUMICA:
+    name: '&eThaumica'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3Obtained from&e nether gold ores'
+    - '&x&9&D&A&8&A&3'
+    - '&x&D&F&F&5&E&5Rarity: &dRare'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Resources&x&C&0&C&0&C&0>'
+  WF_AUROXIUM_ALLOY_PLATE:
+    name: '&eAuroxium Alloy Plate'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3A plate made of &eAuroxium Alloy'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Resources&x&C&0&C&0&C&0>'
+  WF_FERSTEEL_ALLOY:
+    name: '&7Fersteel Alloy'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3A compound formed from Ferros'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Resources&x&C&0&C&0&C&0>'
+  WF_GALLIUM:
+    name: '&bGallium'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3Soft metal used in microelectronics'
+    - '&x&9&D&A&8&A&3and energy components'
+    - '&x&9&D&A&8&A&3Can be obtained by recycling'
+    - '&x&9&D&A&8&A&3advanced circuit boards'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Resources&x&C&0&C&0&C&0>'
+  WF_DEVOLVED_NAMALON_PLATE:
+    name: '&7Devolved Namalon Plate'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3A plate made of &7Devolved Namalon'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Resources&x&C&0&C&0&C&0>'
+  WF_HESPAZYM_ALLOY_PLATE:
+    name: '&fHespazym Alloy Plate'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3A plate made of &fHespazym Alloy'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Resources&x&C&0&C&0&C&0>'
+  WF_OROKIN_CELL:
+    name: '&bOrokin Cell'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3Ancient energy cell from the Orokin era'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Resources&x&C&0&C&0&C&0>'
+  WF_ADRAMAL_ALLOY:
+    name: '&x&8&5&5&3&1&1Adramal Alloy'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3Purged of spores and contaminants,'
+    - '&x&9&D&A&8&A&3this alloy is highly versatile'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Resources&x&C&0&C&0&C&0>'
+  WF_THAUMIC_DISTILLATE_PLATE:
+    name: '&x&3&D&2&4&0&2Thaumic Distillate Plate'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3A plate made of &x&3&D&2&4&0&2Thaumic Distillate'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Resources&x&C&0&C&0&C&0>'
+  WF_FERSTEEL_ALLOY_PLATE:
+    name: '&7Fersteel Alloy Plate'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3A plate made of &7Fersteel Alloy'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Resources&x&C&0&C&0&C&0>'
+  WF_VENERDO_ALLOY_PLATE:
+    name: '&bVenerdo Alloy Plate'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3A plate made of &bVenerdo Alloy'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Resources&x&C&0&C&0&C&0>'
+  WF_BOOSTED_TELLURIUM:
+    name: '&x&8&A&2&B&E&2Boosted Tellurium'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3Enhanced Tellurium used to'
+    - '&x&9&D&A&8&A&3craft some machines'
+    - '&x&9&D&A&8&A&3'
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Resources&x&C&0&C&0&C&0>'
+  WF_TELLURIUM:
+    name: '&5Tellurium'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3A rare metal originating from'
+    - '&x&9&D&A&8&A&3another solar system'
+    - '&x&9&D&A&8&A&3It can be synthesized'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Resources&x&C&0&C&0&C&0>'
+  WF_NEURAL_SENSORS:
+    name: '&bNeural Sensors'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3Implanted neural-link for controlling augmentations'
+    - '&x&9&D&A&8&A&3Grineer design'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Resources&x&C&0&C&0&C&0>'
+  WF_ADRAMAL_ALLOY_PLATE:
+    name: '&x&8&5&5&3&1&1Adramal Alloy Plate'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3A plate made of &x&8&5&5&3&1&1Adramal Alloy'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Resources&x&C&0&C&0&C&0>'
+  WF_TRAVOCYTE_ALLOY_PLATE:
+    name: '&bTravocyte Alloy Plate'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3A plate made of &bTravocyte Alloy'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Resources&x&C&0&C&0&C&0>'
+  WF_PYROTIC_ALLOY_PLATE:
+    name: '&fPyrotic Alloy Plate'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3A plate made of &fPyrotic Alloy'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Resources&x&C&0&C&0&C&0>'
+  WF_ADRAMALIUM:
+    name: '&cAdramalium'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3Obtained from&c netherracks'
+    - '&x&9&D&A&8&A&3'
+    - '&x&D&F&F&5&E&5Rarity: &2Common'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Resources&x&C&0&C&0&C&0>'
+  WF_PRISMATIC_ENERGIZED_CORE:
+    name: '&bPrismatic Energized Core'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3The Prismatic Energized Core is a unique'
+    - '&x&9&D&A&8&A&3energy matrix infused with the essence'
+    - '&x&9&D&A&8&A&3of the Void and celestial energy'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Resources&x&C&0&C&0&C&0>'
+  WF_NEURODES:
+    name: '&bNeurodes'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3Biotech sensor organ'
+    - '&x&9&D&A&8&A&3harvested from Infested entities'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Resources&x&C&0&C&0&C&0>'
+  WF_CONDENSED_PLATE:
+    name: '&4Condensed Plate'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3All the plates condensed in one'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Resources&x&C&0&C&0&C&0>'
+  WF_PYROTIC_ALLOY:
+    name: '&fPyrotic Alloy'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3A strong metal made from pyrol'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Resources&x&C&0&C&0&C&0>'
+  WF_AURON:
+    name: '&eAuron'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3Obtained from deepslate'
+    - '&x&9&D&A&8&A&3and regular&e gold ores'
+    - '&x&9&D&A&8&A&3'
+    - '&x&D&F&F&5&E&5Rarity: &dRare'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Resources&x&C&0&C&0&C&0>'
+  WF_HESPAZYM_ALLOY:
+    name: '&fHespazym Alloy'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3A compound formed from Hesperon'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Resources&x&C&0&C&0&C&0>'
+  WF_TRAVOCYTE_ALLOY:
+    name: '&bTravocyte Alloy'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3A compound formed from Travoride'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Resources&x&C&0&C&0&C&0>'
+  WF_VENEROL:
+    name: '&9Venerol'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3Obtained from deepslate'
+    - '&x&9&D&A&8&A&3and regular&9 lapis ores'
+    - '&x&9&D&A&8&A&3'
+    - '&x&D&F&F&5&E&5Rarity: &1Uncommon.'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Resources&x&C&0&C&0&C&0>'
+  WF_DILUTED_THERMIA:
+    name: '&eDiluted Thermia'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3A magma like liquid that is diluted with'
+    - '&x&9&D&A&8&A&3coolant during the extraction process'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Resources&x&C&0&C&0&C&0>'
+  WF_CUBIC_DIODES:
+    name: '&bCubic Diodes'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3Vital components used in the creation'
+    - '&x&9&D&A&8&A&3of Corpus photon-networks'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Resources&x&C&0&C&0&C&0>'
+  WF_CONTROL_MODULE:
+    name: '&bControl Module'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3Autonomy processor for Robotics'
+    - '&x&9&D&A&8&A&3A Corpus design'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Resources&x&C&0&C&0&C&0>'
+  WF_COOLANT_CANISTER:
+    name: '&bCoolant Canister'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3Required to seal Thermia Fractures'
+    - '&x&9&D&A&8&A&3obtained from &9Coolant Raknoids'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Resources&x&C&0&C&0&C&0>'
+  WF_HESPERON:
+    name: '&5Hesperon'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3Obtained from deepslate'
+    - '&x&9&D&A&8&A&3and regular&c redstone ores'
+    - '&x&9&D&A&8&A&3'
+    - '&x&D&F&F&5&E&5Rarity: &dRare'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Resources&x&C&0&C&0&C&0>'
+  WF_VENERDO_ALLOY:
+    name: '&bVenerdo Alloy'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3A compound formed from Venerol'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Resources&x&C&0&C&0&C&0>'
+  WF_TELLURIUM_FRAGMENT:
+    name: '&dTellurium Fragment'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3A synthesized fragment of Tellurium'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Resources&x&C&0&C&0&C&0>'
+  WF_CRYOTIC:
+    name: '&9Cryotic'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3Found in extreme sub-zero environments'
+    - '&x&F&C&7&3&0&3Warning: &x&9&D&A&8&A&3It can instantly freezes you'
+    - '&x&9&D&A&8&A&3'
+    - '&8⇨ &4Cryogenic Suit required!'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Resources&x&C&0&C&0&C&0>'
+  WF_PLASTIDS:
+    name: '&x&8&5&5&3&1&1Plastids'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3A disgusting nanite-infested tissue mass'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Resources&x&C&0&C&0&C&0>'
+  WF_PYROL:
+    name: '&bPyrol'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3Obtained from end stones'
+    - '&x&9&D&A&8&A&3'
+    - '&x&D&F&F&5&E&5Rarity: &2Common'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Resources&x&C&0&C&0&C&0>'
+  WF_MORPHICS:
+    name: '&bMorphics'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3An amorphous solid'
+    - '&x&9&D&A&8&A&3Possibly Orokin technology'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Resources&x&C&0&C&0&C&0>'
+  WF_SALVAGE:
+    name: '&bSalvage'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3High value metals collected'
+    - '&x&9&D&A&8&A&3by recycling machines'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Resources&x&C&0&C&0&C&0>'
+  WF_DEVOLVED_NAMALON:
+    name: '&7Devolved Namalon'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3A compound formed from Namalon'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Resources&x&C&0&C&0&C&0>'
+  WF_TRAVORIDE:
+    name: '&9Travoride'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3Obtained from&7 stones'
+    - '&x&9&D&A&8&A&3'
+    - '&x&D&F&F&5&E&5Rarity: &2Common'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Resources&x&C&0&C&0&C&0>'
+  WF_FERROS:
+    name: '&7Ferros'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3Obtained from deepslate'
+    - '&x&9&D&A&8&A&3and regular&7 iron ores'
+    - '&x&9&D&A&8&A&3'
+    - '&x&D&F&F&5&E&5Rarity: &1Uncommon'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Resources&x&C&0&C&0&C&0>'
+  WF_AUROXIUM_ALLOY:
+    name: '&eAuroxium Alloy'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3A compound formed from Auron'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Resources&x&C&0&C&0&C&0>'
+  WF_THAUMIC_DISTILLATE:
+    name: '&x&3&D&2&4&0&2Thaumic Distillate'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3A compound formed from Thaumica'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Resources&x&C&0&C&0&C&0>'
+  WF_ARGON_CRYSTAL:
+    name: '&5Argon Crystal'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3Void based radioactive resource'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Resources&x&C&0&C&0&C&0>'
+  WF_NAMALON:
+    name: '&4Namalon'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3Obtained from nether &fquartz ores'
+    - '&x&9&D&A&8&A&3'
+    - '&x&D&F&F&5&E&5Rarity: &1Uncommon'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Resources&x&C&0&C&0&C&0>'
+  WF_RUBEDO:
+    name: '&cRubedo'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3A crystalline ore used in various recipes'
+    - '&x&9&D&A&8&A&3be careful, it may be poisonous'
+    - '&a☢&7 Radiation level: &eMODERATE'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Resources&x&C&0&C&0&C&0>'

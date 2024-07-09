@@ -1,0 +1,43 @@
+name: FoxyMachines
+translations:
+  MAGMA_ESSENCE:
+    name: '&cMagma Essence'
+  SACRIFICIAL_ALTAR_BLACKSTONE_BRICK_WALL:
+    name: '&fSacrificial Blackstone Brick Wall'
+    lore:
+    - ''
+    - '&7Used as a part of Sacrificial Altar.'
+  SACRIFICIAL_ALTAR_BLACKSTONE_BRICK_STAIRS:
+    name: '&fSacrificial Blackstone Brick Stairs'
+    lore:
+    - ''
+    - '&7Used as a part of Sacrificial Altar.'
+  HUMAN_SKULL:
+    name: '&cHuman Skull'
+  SACRIFICIAL_ALTAR_BLACKSTONE_BRICKS:
+    name: '&fSacrificial Blackstone Bricks'
+    lore:
+    - ''
+    - '&7Used as a part of Sacrificial Altar.'
+  UNHOLY_WITHER_SKELETON_BONE:
+    name: '&cUnholy Wither Skeleton Bone'
+  PARROT_FEATHER:
+    name: '&aParrot Feather'
+  CURSED_RABBIT_PAW:
+    name: '&cCursed Rabbit Paw'
+  POLAR_FOX_HIDE:
+    name: '&fPolar Fox Hide'
+  TROPICAL_FISH_SCALE:
+    name: '&bTropical Fish Scale'
+  SACRIFICIAL_ALTAR_BLACKSTONE_PRESSURE_PLATE:
+    name: '&fSacrificial Mat'
+    lore:
+    - ''
+    - '&7Used as a part of Sacrificial Altar.'
+  BLOOD:
+    name: '&cBlood'
+  SACRIFICIAL_ALTAR_SOUL_TORCH:
+    name: '&fSacrificial Soul Torch'
+    lore:
+    - ''
+    - '&7Used as a part of Sacrificial Altar.'

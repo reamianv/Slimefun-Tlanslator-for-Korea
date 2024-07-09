@@ -1,0 +1,516 @@
+name: Cultivation
+translations:
+  CLT_CAJUN_GARLIC_BUTTER_COD:
+    name: '&x&C&C&D&1&2&3Cajun Garlic Butter Cod'
+    lore:
+    - ''
+    - '&7A very simple dish busting with flavour.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Healing: &74 Hearts'
+    - '&x&E&4&E&D&3&2Effect 1: &7Regen + 2'
+    - '&x&E&4&E&D&3&2Effect 2: &7Speed + 1'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_SPAGHETTI:
+    name: '&x&C&C&D&1&2&3Spaghetti'
+    lore:
+    - ''
+    - '&7Just keep slurping.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Healing: &71 Heart'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_ORANGE_JUICE:
+    name: '&x&C&C&D&1&2&3Orange Juice'
+    lore:
+    - ''
+    - '&7It really is the best way to start the day.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Effect 1: &7Speed + 4'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_LASAGNA:
+    name: '&x&C&C&D&1&2&3Lasagna'
+    lore:
+    - ''
+    - '&7Layers of awesomeness.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Healing: &7Full'
+    - '&x&E&4&E&D&3&2Effect 1: &7Regeneration + 1'
+    - '&x&E&4&E&D&3&2Effect 2: &7Damage Reduction + 1'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_KEY_LIME_PIE:
+    name: '&x&C&C&D&1&2&3Key Lime Pie'
+    lore:
+    - ''
+    - '&7Simply the best!'
+    - '&7'
+    - '&x&E&4&E&D&3&2Healing: &76 Hearts'
+    - '&x&E&4&E&D&3&2Effect 1: &7Haste + 4'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_TATER_TOTS:
+    name: '&x&C&C&D&1&2&3Tater Tots'
+    lore:
+    - ''
+    - '&7Little potato poppables.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Healing: &71'
+    - '&x&E&4&E&D&3&2Effect 1: &7Speed + 2'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_BOWL_OF_STEVE:
+    name: '&x&C&C&D&1&2&3Bowl of... Steve?'
+    lore:
+    - ''
+    - '&7What the actual &%£$'
+    - '&7'
+    - '&x&E&4&E&D&3&2Effect 1: &7Reduces you to 1/2 heart'
+    - '&x&E&4&E&D&3&2Effect 2: &7Fatigue + 10'
+    - '&x&E&4&E&D&3&2Effect 3: &7Slow + 5'
+    - '&x&E&4&E&D&3&2Effect 4: &7Damage + 10'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_RAMEN_BEEF_HEARTY:
+    name: '&x&C&C&D&1&2&3Ramen (Beef) (Hearty)'
+    lore:
+    - ''
+    - '&7A healthy choice.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Healing: &7Full'
+    - '&x&E&4&E&D&3&2Effect 1: &7Health Boost + 2'
+    - '&x&E&4&E&D&3&2Effect 2: &7Speed + 1'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_LEMON_DROP:
+    name: '&x&C&C&D&1&2&3Lemon Drop'
+    lore:
+    - ''
+    - '&7A palette cleanser.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Effect 1: &7Clears all effects and makes you hungry again.'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_SALMON_NIGIRI:
+    name: '&x&C&C&D&1&2&3Salmon Nigiri'
+    lore:
+    - ''
+    - '&7A delightful yet subtle flavour.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Healing: &72 Hearts'
+    - '&x&E&4&E&D&3&2Effect 1: &7Regen + 1'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_PIZZA_CHEESE:
+    name: '&x&C&C&D&1&2&3Cheese Pizza'
+    lore:
+    - ''
+    - '&7Why anyone would order just cheese? I dont know.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Healing: &74 Hearts'
+    - '&x&E&4&E&D&3&2Effect 1: &7Slowness + 1'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_GRILLED_SALMON_SALAD:
+    name: '&x&C&C&D&1&2&3Grilled Salmon Salad'
+    lore:
+    - ''
+    - '&7Delightfully flaky and brilliantly seasoned.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Healing: &74 Hearts'
+    - '&x&E&4&E&D&3&2Effect 1: &7Regeneration + 1'
+    - '&x&E&4&E&D&3&2Effect 2: &7Health Boost + 5'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_SHAKSHUKA:
+    name: '&x&C&C&D&1&2&3Shakshuka'
+    lore:
+    - ''
+    - '&7A heart warming dish with eggs for days.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Healing: &74 Hearts'
+    - '&x&E&4&E&D&3&2Effect 1: &7Hero of the Village + 1'
+    - '&x&E&4&E&D&3&2Effect 2: &7Luck + 1'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_TAQUITO:
+    name: '&x&C&C&D&1&2&3Taquito'
+    lore:
+    - ''
+    - '&7Zim would be proud!'
+    - '&7'
+    - '&x&E&4&E&D&3&2Healing: &74'
+    - '&x&E&4&E&D&3&2Effect 1: &7Summons Gir to help (It''s an Iron Golem, relax).'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_BISCUIT:
+    name: '&x&C&C&D&1&2&3Biscuit'
+    lore:
+    - ''
+    - '&7A little snack with a huge taste.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Effect 1: &7Launches you into the air'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_PECAN_PIE:
+    name: '&x&C&C&D&1&2&3Pecan Pie'
+    lore:
+    - ''
+    - '&7The only way to eat pure sugar without'
+    - '&7being totally judged.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Healing: &74 Hearts'
+    - '&x&E&4&E&D&3&2Effect 1: &7Levitation + 1'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_CINNAMON_ROLL:
+    name: '&x&C&C&D&1&2&3Cinnamon Roll'
+    lore:
+    - ''
+    - '&7A sweet delight rolled up for fun.'
+    - '&7Eating it turns the world on it''s head!'
+    - '&7'
+    - '&x&E&4&E&D&3&2Healing: &74'
+    - '&x&E&4&E&D&3&2Effect 1: &7Levitation + 1'
+    - '&x&E&4&E&D&3&2Effect 2: &7Slow Falling + 1'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_RAMEN_SEAFOOD_HEARTY:
+    name: '&x&C&C&D&1&2&3Ramen (Seafood) (Hearty)'
+    lore:
+    - ''
+    - '&7A satisfying choice.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Healing: &7Full'
+    - '&x&E&4&E&D&3&2Effect 1: &7Health Boost + 2'
+    - '&x&E&4&E&D&3&2Effect 2: &7Speed + 1'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_CHICKEN_ALFREDO_MAC_AND_CHEESE:
+    name: '&x&C&C&D&1&2&3Chicken Alfredo Mac and Cheese'
+    lore:
+    - ''
+    - '&7A posh twist on a common classic.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Healing: &71 Hearts'
+    - '&x&E&4&E&D&3&2Effect 1: &7Fire Resistance + 2'
+    - '&x&E&4&E&D&3&2Effect 2: &7Damage Resistance + 3'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_FRUIT_SALAD:
+    name: '&x&C&C&D&1&2&3Fruit Salad'
+    lore:
+    - ''
+    - '&7If you call it a salad, you can eat as much'
+    - '&7as you like, ''cause it''s healthy.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Healing: &72 Hearts'
+    - '&x&E&4&E&D&3&2Effect 1: &7Speed + 3'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_SPAGHETTI_AND_MEATBALLS:
+    name: '&x&C&C&D&1&2&3Spaghetti and Meatballs'
+    lore:
+    - ''
+    - '&7Simple, classic and hearty.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Healing: &74 Hearts'
+    - '&x&E&4&E&D&3&2Effect 1: &7Bad Omen + 1'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_BAGEL_BITE:
+    name: '&x&C&C&D&1&2&3Bagel Bite'
+    lore:
+    - ''
+    - '&7Eat pizza anytime!'
+    - '&7'
+    - '&x&E&4&E&D&3&2Effect 1: &7Burns your mouth with every bite!'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_CHEESE_BURGER:
+    name: '&x&C&C&D&1&2&3Burger'
+    lore:
+    - ''
+    - '&7A simple cheese burger, but nothing beats it!'
+    - '&7'
+    - '&x&E&4&E&D&3&2Healing: &74'
+    - '&x&E&4&E&D&3&2Effect 1: &7Regen + 3'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_RAMEN_CHICKEN:
+    name: '&x&C&C&D&1&2&3Ramen (Chicken)'
+    lore:
+    - ''
+    - '&7A not-so-filling choice.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Effect 1: &7Health Boost + 1'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_CHEESY_SCALLOPED_COURGETTE:
+    name: '&x&C&C&D&1&2&3Cheesy Scalloped Courgette'
+    lore:
+    - ''
+    - '&7A low carb version of an amazing classic.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Healing: &72 Hearts'
+    - '&x&E&4&E&D&3&2Effect 1: &7Night Vision + 1'
+    - '&x&E&4&E&D&3&2Effect 1: &7Invisibility + 1'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_SAUSAGE:
+    name: '&x&C&C&D&1&2&3Sausage'
+    lore:
+    - ''
+    - '&7Bacon''s brother.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Healing: &72'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_RAMEN_CHICKEN_HEARTY:
+    name: '&x&C&C&D&1&2&3Ramen (Chicken) (Hearty)'
+    lore:
+    - ''
+    - '&7A filling choice.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Healing: &7Full'
+    - '&x&E&4&E&D&3&2Effect 1: &7Health Boost + 2'
+    - '&x&E&4&E&D&3&2Effect 2: &7Speed + 1'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_BAGEL_CREAM_CHEESE:
+    name: '&x&C&C&D&1&2&3Bagel (Cream Cheese)'
+    lore:
+    - ''
+    - '&7It''s so good you''ll probably want another.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Healing: &710'
+    - '&x&E&4&E&D&3&2Effect 1: &7Health Boost + 1'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_CHICKEN_POT_PIE:
+    name: '&x&C&C&D&1&2&3Chicken Pot Pie'
+    lore:
+    - ''
+    - '&7A warming meal that really hits home.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Healing: &710 Hearts'
+    - '&x&E&4&E&D&3&2Effect 1: &7Jump + 2'
+    - '&x&E&4&E&D&3&2Effect 2: &7Saturation + 1'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_MEATLOAF:
+    name: '&x&C&C&D&1&2&3Meatloaf'
+    lore:
+    - ''
+    - '&7Nothing like it! Let''s go.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Healing: &7Full'
+    - '&x&E&4&E&D&3&2Effect 1: &7Health Boost + 4'
+    - '&x&E&4&E&D&3&2Effect 2: &7Damage Reduction + 3'
+    - '&x&E&4&E&D&3&2Effect 3: &7Haste + 2'
+    - '&x&E&4&E&D&3&2Effect 4: &7Slowness + 2'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_EGG_SALAD_SANDWICH:
+    name: '&x&C&C&D&1&2&3Egg Salad Sandwich'
+    lore:
+    - ''
+    - '&7Smells a bit, but tastes amazing!'
+    - '&7'
+    - '&x&E&4&E&D&3&2Healing: &75 Hearts'
+    - '&x&E&4&E&D&3&2Effect 1: &7Haste + 2'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_BLUE_CANDY:
+    name: '&x&C&C&D&1&2&3Candy (Blue)'
+    lore:
+    - ''
+    - '&7A delightfully sweet candy.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Effect 1: &7Spawns an Allay'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_FUGU:
+    name: '&x&C&C&D&1&2&3Fugu'
+    lore:
+    - ''
+    - '&7Ready to roll the dice?'
+    - '&7'
+    - '&x&E&4&E&D&3&2Healing: &71 Hearts'
+    - '&x&E&4&E&D&3&2Effect 1: &7Power + 5'
+    - '&x&E&4&E&D&3&2Effect 2: &733% Chance to just die!'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_SWEET_BEEHIVE:
+    name: '&x&C&C&D&1&2&3Sweet Beehive'
+    lore:
+    - ''
+    - '&7Not sure what made you want to cook this!'
+    - '&7'
+    - '&x&E&4&E&D&3&2Effect 1: &7Summons some bees!'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_RAMEN_BEEF:
+    name: '&x&C&C&D&1&2&3Ramen (Beef)'
+    lore:
+    - ''
+    - '&7A not-so-healthy choice.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Effect 1: &7Health Boost + 1'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_BACON_SANDWICH:
+    name: '&x&C&C&D&1&2&3Bacon Sandwich'
+    lore:
+    - ''
+    - '&7A simple classic!'
+    - '&7'
+    - '&x&E&4&E&D&3&2Healing: &72 Hearts'
+    - '&x&E&4&E&D&3&2Effect 1: &7Power + 1'
+    - '&x&E&4&E&D&3&2Effect 2: &7Speed + 1'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_SUGARED_SKULL:
+    name: '&x&C&C&D&1&2&3Sugared Skull'
+    lore:
+    - ''
+    - '&7Is this even food...?'
+    - '&7'
+    - '&x&E&4&E&D&3&2Effect 1: &7Darkness + 3'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_PIZZA_MUSHROOM:
+    name: '&x&C&C&D&1&2&3Mushroom Pizza'
+    lore:
+    - ''
+    - '&7A simple vegetarian pizza full of proteins.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Healing: &76 Hearts'
+    - '&x&E&4&E&D&3&2Effect 1: &7Slowness + 1'
+    - '&x&E&4&E&D&3&2Effect 1: &7Haste + 2'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_GARLIC_BUTTER_MUSHROOMS:
+    name: '&x&C&C&D&1&2&3Garlic Butter Mushrooms'
+    lore:
+    - ''
+    - '&7May easily be the best food item on earth.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Healing: &72 Hearts'
+    - '&x&E&4&E&D&3&2Effect 1: &7Glowing + 1'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_CHICKEN_PASTA_BAKE:
+    name: '&x&C&C&D&1&2&3Chicken Pasta Bake'
+    lore:
+    - ''
+    - '&7A student staple.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Healing: &75 Hearts'
+    - '&x&E&4&E&D&3&2Effect 1: &7Night Vision + 1'
+    - '&x&E&4&E&D&3&2Effect 2: &7Water Breathing + 1'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_SOYLENT:
+    name: '&x&C&C&D&1&2&3Soylent'
+    lore:
+    - ''
+    - '&7Everything the body needs!'
+    - '&7'
+    - '&x&E&4&E&D&3&2Effect 1: &7Bad Omen + 1'
+    - '&x&E&4&E&D&3&2Effect 2: &7Weakness + 4'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_CAESAR_SALAD:
+    name: '&x&C&C&D&1&2&3Caesar Salad'
+    lore:
+    - ''
+    - '&7A healthy classic.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Healing: &74 Hearts'
+    - '&x&E&4&E&D&3&2Effect 1: &7Speed + 1'
+    - '&x&E&4&E&D&3&2Effect 2: &7Invisibility + 1'
+    - '&x&E&4&E&D&3&2Effect 3: &7Slow Falling + 1'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_PEANUT_BUTTER_JELLY_SANDWICH:
+    name: '&x&C&C&D&1&2&3Peanut Butter Jelly Sandwich'
+    lore:
+    - ''
+    - '&7It really is the pinnacle of sandwich technology.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Healing: &75 Hearts'
+    - '&x&E&4&E&D&3&2Effect 1: &7Power + 3'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_SOFT_BOILED_EGG:
+    name: '&x&C&C&D&1&2&3Soft Boiled Egg'
+    lore:
+    - ''
+    - '&7Just a boiled egg, what''s more to say.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Healing: &71'
+    - '&x&E&4&E&D&3&2Effect 1: &7Can sometimes call a chicken to your aid.'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_WITHER_ROSE_SALAD:
+    name: '&x&C&C&D&1&2&3Wither Rose Salad'
+    lore:
+    - ''
+    - '&7Teeming with power but with a harsh side-effect.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Healing: &7Full'
+    - '&x&E&4&E&D&3&2Effect 1: &7Health Boost + 20'
+    - '&x&E&4&E&D&3&2Effect 2: &7Wither + 2'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_BAGEL:
+    name: '&x&C&C&D&1&2&3Bagel'
+    lore:
+    - ''
+    - '&7Toasted? or...'
+    - '&7'
+    - '&x&E&4&E&D&3&2Healing: &75'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_SHEPHERDS_PIE:
+    name: '&x&C&C&D&1&2&3Shepherds Pie'
+    lore:
+    - ''
+    - '&7Warm, hearty and simply wonderful.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Healing: &710 Hearts'
+    - '&x&E&4&E&D&3&2Effect 1: &7Regen + 2'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_PIZZA_PEPPERONI:
+    name: '&x&C&C&D&1&2&3Pepperoni Pizza'
+    lore:
+    - ''
+    - '&7A New York classic full of flavour.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Healing: &76 Hearts'
+    - '&x&E&4&E&D&3&2Effect 1: &7Speed + 1'
+    - '&x&E&4&E&D&3&2Effect 1: &7Haste + 1'
+    - '&x&E&4&E&D&3&2Effect 1: &7Jump + 1'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_COMPRESSED_BISCUIT:
+    name: '&x&C&C&D&1&2&3Compressed Biscuit'
+    lore:
+    - ''
+    - '&7A little snack with a huge-er taste.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Effect 1: &7Launches you into the air'
+    - ''
+    - '&x&E&4&E&D&3&2Food'
+  CLT_RAMEN_SEAFOOD:
+    name: '&x&C&C&D&1&2&3Ramen (Seafood)'
+    lore:
+    - ''
+    - '&7A not-so-satisfying choice.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Effect 1: &7Health Boost + 1'
+    - ''
+    - '&x&E&4&E&D&3&2Food'

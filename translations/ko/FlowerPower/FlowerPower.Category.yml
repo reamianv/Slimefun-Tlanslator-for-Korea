@@ -1,0 +1,193 @@
+name: FlowerPower
+translations:
+  INFINITY_BANDAGE:
+    name: '&cInfinity Bandage'
+    lore:
+    - ''
+    - '&7&oConverts experience to health'
+    - ''
+    - '&eRight Click &7to heal'
+    - ''
+    - '&aCost: 10 exp points per 1.0 health'
+    - '&8Magical Item'
+  MAGIC_CREAM:
+    name: '&6&lMagic Cream'
+    lore:
+    - ''
+    - '&7&oA slimy ball with magical properties'
+    - ''
+    - '&8Crafting Ingredient'
+  OVERGROWTH_SEED:
+    name: '&3Flowering Seed'
+    lore:
+    - ''
+    - ''
+    - '&eRight click &7on compatible flowers to'
+    - '&7produce multiple copies of it'
+    - ''
+    - '&8Magical Item'
+  GLISTENING_OXEYE_DAISY:
+    name: '&aGlistening Oxeye Daisy'
+    lore:
+    - ''
+    - '&7&oA glowing oxeye daisy'
+    - ''
+    - '&8Crafting Ingredient'
+  PURPLE_CRYSTAL:
+    name: '&5Purple Crystal'
+    lore:
+    - ''
+    - '&7&oThis looks shiny...'
+    - ''
+    - '&8Crafting Ingredient'
+  WHITE_CRYSTAL:
+    name: '&fWhite Crystal'
+    lore:
+    - ''
+    - '&7&oThis looks shiny...'
+    - ''
+    - '&8Crafting Ingredient'
+  GLISTENING_POPPY:
+    name: '&aGlistening Poppy'
+    lore:
+    - ''
+    - '&7&oA glowing poppy'
+    - ''
+    - '&8Crafting Ingredient'
+  RECALL_CHARM:
+    name: '&5Recall Charm'
+    lore:
+    - ''
+    - '&7&oTeleports you back to a remembered location'
+    - '&7&oin exchange for experience...'
+    - ''
+    - '&eSneak and Right Click &7to bind current location'
+    - '&eRight Click &7to teleport'
+    - ''
+    - '&3Bound Location: None'
+    - ''
+    - '&aCost: 50 exp points per teleport'
+    - '&8Magical Item'
+  EXPERIENCE_CAULDRON:
+    name: '&aExperience Cauldron'
+    lore:
+    - ''
+    - '&7&oA block that stores experience'
+    - '&7&oUsed to make a Magic Basin'
+    - ''
+    - '&eRight Click &7to deposit exp'
+    - '&eSneak and Right Click &7to withdraw exp'
+    - '&8Multiblock'
+  RED_CRYSTAL:
+    name: '&cRed Crystal'
+    lore:
+    - ''
+    - '&7&oThis looks shiny...'
+    - ''
+    - '&8Crafting Ingredient'
+  YELLOW_CRYSTAL:
+    name: '&eYellow Crystal'
+    lore:
+    - ''
+    - '&7&oThis looks shiny...'
+    - ''
+    - '&8Crafting Ingredient'
+  KNOCKBACK_RESISTANCE_CHARM:
+    name: '&7Knockback Resistance Charm'
+    lore:
+    - ''
+    - '&eRight click &cto inspect this charm'
+    - '&7&oHold this charm in your offhand to receive less knockback'
+    - ''
+    - '&8Magical Item'
+  MOVEMENT_SPEED_CHARM:
+    name: '&aMovement Speed Charm'
+    lore:
+    - ''
+    - '&eRight click &cto inspect this charm'
+    - '&7&oHold this charm in your offhand to run faster'
+    - ''
+    - '&8Magical Item'
+  ATTACK_SPEED_CHARM:
+    name: '&aAttack Speed Charm'
+    lore:
+    - ''
+    - '&eRight click &cto inspect this charm'
+    - '&7&oHold this charm in your offhand to attack faster'
+    - ''
+    - '&8Magical Item'
+  DAMAGE_CHARM:
+    name: '&aDamage Charm'
+    lore:
+    - ''
+    - '&eRight click &cto inspect this charm'
+    - '&7&oHold this charm in your offhand to deal more damage'
+    - ''
+    - '&8Magical Item'
+  FLY_SPEED_CHARM:
+    name: '&aFly Speed Charm'
+    lore:
+    - ''
+    - '&eRight click &cto inspect this charm'
+    - '&7&oHold this charm in your offhand to fly faster'
+    - ''
+    - '&8Magical Item'
+  GLISTENING_ALLIUM:
+    name: '&aGlistening Allium'
+    lore:
+    - ''
+    - '&7&oA glowing allium'
+    - ''
+    - '&8Crafting Ingredient'
+  HEALTH_CHARM:
+    name: '&aHealth Charm'
+    lore:
+    - ''
+    - '&eRight click &cto inspect this charm'
+    - '&7&oHold this charm in your offhand to gain more hearts'
+    - ''
+    - '&8Magical Item'
+  MAGIC_BASIN:
+    name: '&bMagic Basin'
+    lore:
+    - ''
+    - '&7&oA basin used to make magical items'
+    - ''
+    - '&eRight click &7with a Magic Wand to activate'
+    - '&8Multiblock'
+  MAGICAL_WAND:
+    name: '&5Magical Wand'
+    lore:
+    - ''
+    - '&eRight Click &7on a Magic Basin'
+    - '&7to start it'
+    - ''
+    - '&8Tool'
+  GLISTENING_DANDELION:
+    name: '&aGlistening Dandelion'
+    lore:
+    - ''
+    - '&7&oA glowing dandelion'
+    - ''
+    - '&8Crafting Ingredient'
+  EXPERIENCE_TOME:
+    name: '&eExperience Tome &a(0 / 1000000)'
+    lore:
+    - ''
+    - '&7&oCapable of holding massive amounts of experience'
+    - ''
+    - '&eRight click &7to insert exp'
+    - '&eSneak and Right Click &7to extract exp'
+    - '&eLeft click &7to perform actions in bulk'
+    - ''
+    - '&8Magical Item'
+  INFINITY_APPLE:
+    name: '&eInfinity Apple'
+    lore:
+    - ''
+    - '&7&oConverts experience to food'
+    - ''
+    - '&eRight Click &7to eat'
+    - ''
+    - '&aCost: 1 exp point per 1 hunger'
+    - '&8Magical Item'

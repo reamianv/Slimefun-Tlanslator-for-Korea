@@ -1,0 +1,78 @@
+name: UltimateGenerators2
+translations:
+  LAMBDA_ELECTRICITY_STORAGE:
+    name: '&d&lLAMBDA&d-λ Electricity Storage'
+    lore:
+    - ''
+    - '&fActually, it''s not necessary to have such a large capacity... right...?'
+    - ''
+    - '&4Ultimate Capacitor'
+    - '&8⇨ &e⚡ &72621440 J Capacity'
+    - ''
+    - '&8&oDo you really think this has the maximum capacity?'
+  KAPA_ELECTRICITY_STORAGE:
+    name: '&8&lKAPA&8-Κ Electricity Storage'
+    lore:
+    - ''
+    - '&4&lCLASSIFIED'
+    - ''
+    - '&4Ultimate Capacitor'
+    - '&8⇨ &e⚡ &720971520 J Capacity'
+    - ''
+    - '&8&oFreeze_Dolphin is not going to stop here!'
+  ELECTRICITY_STORAGE_UNIT:
+    name: '&fElectricity Storage Unit'
+  ALPHA_BATTERY:
+    name: '&aAlpha Battery'
+  ADVANCED_BATTERY:
+    name: '&eAdvanced Battery'
+  BETA_BATTERY:
+    name: '&9Beta Battery'
+  GLASS_ELECTRICITY_TRANSMITTER:
+    name: '&2Electricity Transmitter'
+    lore:
+    - ''
+    - '&eBasic Capacitor'
+    - '&8⇨ &e⚡ &716 J Capacity'
+  BETA_ELECTRICITY_STORAGE:
+    name: '&9&lBeta&9-β Electricity Storage'
+    lore:
+    - ''
+    - '&4Ultimate Capacitor'
+    - '&8⇨ &e⚡ &740960 J Capacity'
+  GAMMA_BATTERY:
+    name: '&dGamma Battery'
+  GAMMA_ELECTRICITY_STORAGE:
+    name: '&5&lGamma&5-γ Electricity Storage'
+    lore:
+    - ''
+    - '&4Ultimate Capacitor'
+    - '&8⇨ &e⚡ &7327680 J Capacity'
+  PHI_ELECTRICITY_STORAGE:
+    name: '&f&lPHI&f-Φ Electricity Storage'
+    lore:
+    - ''
+    - '&4&lCLASSIFIED'
+    - ''
+    - '&4Ultimate Capacitor'
+    - '&8⇨ &e⚡ &7167772160 J Capacity'
+    - ''
+    - '&fYou better fully charge it before you become NO.1 on your server!'
+  ALPHA_ELECTRICITY_STORAGE:
+    name: '&a&lAlpha&a-α Electricity Storage'
+    lore:
+    - ''
+    - '&2Advanced Capacitor'
+    - '&8⇨ &e⚡ &75120 J Capacity'
+  ADVANCED_ELECTRICITY_STORAGE:
+    name: '&dAdvanced Electricity Storage'
+    lore:
+    - ''
+    - '&aMedium Capacitor'
+    - '&8⇨ &e⚡ &72560 J Capacity'
+  BASIC_ELECTRICITY_STORAGE:
+    name: '&eBasic Electricity Storage'
+    lore:
+    - ''
+    - '&6Average Capacitor'
+    - '&8⇨ &e⚡ &7640 J Capacity'

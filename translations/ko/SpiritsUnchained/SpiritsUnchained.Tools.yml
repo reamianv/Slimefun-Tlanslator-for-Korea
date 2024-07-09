@@ -1,0 +1,30 @@
+name: SpiritsUnchained
+translations:
+  SU_SPIRIT_BOOK:
+    name: '&aSpirit Book'
+    lore:
+    - ''
+    - '&7A Book Spirits can Write in!'
+  SU_SPIRIT_NET:
+    name: '&aSpirit Net'
+    lore:
+    - ''
+    - '&7Use this to catch a Spirit!'
+  SU_SPIRIT_RUNE:
+    name: '&7Ancient Rune &8&l[&d&lSpirit&8&l]'
+    lore:
+    - ''
+    - '&eDrop this rune onto a dropped &dHelmet &eto'
+    - '&egrant the ability to &dsee &ea different realm'
+    - '&eShift Left Click on Helmet Once Added to Toggle Visibility'
+  SU_SPIRIT_LENSES:
+    name: '&dSpirit Lenses'
+    lore:
+    - ''
+    - '&7Unlock the Ability to See &dSpirits'
+    - '&7While Wearing these Lenses'
+  SU_IDENTIFYING_GLASS:
+    name: '&dIdentifying Glass'
+    lore:
+    - ''
+    - Identify Un-Identified Spirits

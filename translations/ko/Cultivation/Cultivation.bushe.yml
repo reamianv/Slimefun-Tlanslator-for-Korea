@@ -1,0 +1,620 @@
+name: Cultivation
+translations:
+  CLT_BUSH_BAY_LEAF:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Bay Leaf'
+    lore:
+    - ''
+    - '&7The smell of this bush travels for miles.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_RICE:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Rice'
+    lore:
+    - ''
+    - '&7The ultimate staple food.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_SHALLOT:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Shallot'
+    lore:
+    - ''
+    - '&7This bush rapidly produces lovely mini onions.'
+    - '&7Luckily you don''t need a shallot.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_MARJORAM:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Marjoram'
+    lore:
+    - ''
+    - '&7A large woody smelling bush.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_STRAWBERRY:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Strawberry'
+    lore:
+    - ''
+    - '&7Solid and fragrant and full of protein.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_KALE:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Kale'
+    lore:
+    - ''
+    - '&7When you plant this bush, you get the feeling'
+    - '&7that everything is going to be o-kale.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_RAPESEED:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Rapeseed'
+    lore:
+    - ''
+    - '&7This bush is exuding some oily substance.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_LAVENDER:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Lavender'
+    lore:
+    - ''
+    - '&7This bush wafts it''s smell everywhere.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_DILL:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Dill'
+    lore:
+    - ''
+    - '&7This bush grows much faster than others.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_JASMINE:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Jasmine'
+    lore:
+    - ''
+    - '&7The scent from this bush is so soft and mellow.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_RHUBARB:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Rhubarb'
+    lore:
+    - ''
+    - '&7Did you know rhubarb was a vegetable?'
+    - '&7I thought it was a type of hammer.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_CELERIAC:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Celeriac'
+    lore:
+    - ''
+    - '&7Yet another root growing off of a bush?'
+    - '&7SefiDumb™'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_LETTUCE:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Lettuce'
+    lore:
+    - ''
+    - '&7Does lettuce even grow on bushes?'
+    - '&7Spoiler: No, it doesn''t.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_SWEETCORN:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Sweetcorn'
+    lore:
+    - ''
+    - '&7This bush is just crying out to be built into'
+    - '&7a maze.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_LICORICE:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Licorice'
+    lore:
+    - ''
+    - '&7Gross'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_CABBAGE:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Cabbage'
+    lore:
+    - ''
+    - '&7A bush that comes with a large amount of'
+    - '&7emotional cabbage.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_BROCCOLI:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Broccoli'
+    lore:
+    - ''
+    - '&7Tiny trees you can eat? Who invented this!?'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_SPINACH:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Spinach'
+    lore:
+    - ''
+    - '&7This bush is Popeye''s best friend.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_MARROW:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Marrow'
+    lore:
+    - ''
+    - '&7I''m surprised this bush can hold it''s'
+    - '&7own weight.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_CELERY:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Celery'
+    lore:
+    - ''
+    - '&7This bush is redundant.'
+    - '&7Sefi doesn''t like Celery.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_CUCUMBER:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Cucumber'
+    lore:
+    - ''
+    - '&7This bush was designed solely for the purposes'
+    - '&7of your lovely summer salads.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_CILANTRO:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Cilantro'
+    lore:
+    - ''
+    - '&7A faint citrus and spice smell comes from this bush.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_MACE:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Mace'
+    lore:
+    - ''
+    - '&7This bush seems to be repelling attackers?'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_CLOVE:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Clove'
+    lore:
+    - ''
+    - '&7A bush that just reminds me of Christmas.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_ROSEMARY:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Rosemary'
+    lore:
+    - ''
+    - '&7A bush whose smell reminds people of sunday lunches.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_SOY_BEANS:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Soy Beans'
+    lore:
+    - ''
+    - '&7This bush is a friendly delight. It makes'
+    - '&7me soy happy.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_STAR_ANISE:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Star Anise'
+    lore:
+    - ''
+    - '&7A small comes off this bush that is so unique'
+    - '&7to anise, you can''t even believe.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_RUTABAGA:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Rutabaga'
+    lore:
+    - ''
+    - '&7Swede. Its a swede.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_PARSLEY:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Parsley'
+    lore:
+    - ''
+    - '&7Throw this bush in lava, now :D'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_GREEN_BEANS:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Green Beans'
+    lore:
+    - ''
+    - '&7Throw tomato sauce over this bush to make'
+    - '&7baked beans.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_PEANUTS:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Peanuts'
+    lore:
+    - ''
+    - '&7Solid and fragrant and full of protein.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_HORSERADISH:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Horseradish'
+    lore:
+    - ''
+    - '&7Again, this growing on a bush just doesn''t make sense.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_CHILLI_PEPPER:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Chilli Pepper'
+    lore:
+    - ''
+    - '&7Just looking at this bush burns my tongue.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_THYME:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Thyme'
+    lore:
+    - ''
+    - '&7This bush is always running out of... Thyme... *cough*'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_PARSNIP:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Parsnip'
+    lore:
+    - ''
+    - '&7Just skip the middleman and roast the bush'
+    - '&7directly.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_MINT:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Mint'
+    lore:
+    - ''
+    - '&7Simply the best smelling bush.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_NETTLES:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Nettles'
+    lore:
+    - ''
+    - '&7Be careful when walking through this bush!'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_PINTO_BEANS:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Pinto Beans'
+    lore:
+    - ''
+    - '&7It wont be long until we successfully breed'
+    - '&7a direct-burrito bush, right?'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_LEEK:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Leek'
+    lore:
+    - ''
+    - '&7Did you know a leek is just an onion that'
+    - '&7wears a corset? True story.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_AVOCADO:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Avocado'
+    lore:
+    - ''
+    - '&7This bush has been bred specifically to not'
+    - '&7use too much water.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_BLACK_BEANS:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Black Beans'
+    lore:
+    - ''
+    - '&7This bush gently whispers to you:'
+    - '&7You are a great human bean.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_TURNIP:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Turnip'
+    lore:
+    - ''
+    - '&7According to the British Government'
+    - '&7this bush will solve all our problems.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_GINGER:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Ginger'
+    lore:
+    - ''
+    - '&7This bush is nice when boiled whole.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_CHICORY:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Chicory'
+    lore:
+    - ''
+    - '&7I thought chicory was a root? Does this addon'
+    - '&7even do it''s research!?'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_FENNEL:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Fennel'
+    lore:
+    - ''
+    - '&7Why does this bush repel bugs!?'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_RUNNER_BEANS:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Runner Beans'
+    lore:
+    - ''
+    - '&7This bush has feet o.o?'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_OREGANO:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Oregano'
+    lore:
+    - ''
+    - '&7This pungent smelling bush deters visitors.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_WASABI:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Wasabi'
+    lore:
+    - ''
+    - '&7Another root growing off of a bush?'
+    - '&7Sigh...'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_CHICKPEAS:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Chickpeas'
+    lore:
+    - ''
+    - '&7A bush made by breeding a chicken with'
+    - '&7a pea. SCIENCE.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_CAULIFLOWER:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Cauliflower'
+    lore:
+    - ''
+    - '&7A bush capable of producing little clouds'
+    - '&7of delight.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_CAYENNE_PEPPER:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Cayenne Pepper'
+    lore:
+    - ''
+    - '&7A bush with a peppery attitude.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_ASPARAGUS:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Asparagus'
+    lore:
+    - ''
+    - '&7This asparagus bush makes a good'
+    - '&7stalker!'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_AUBERGINE:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Aubergine'
+    lore:
+    - ''
+    - '&7I refuse to use the word eggplant. I just do.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_OKRA:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Okra'
+    lore:
+    - ''
+    - '&7Voted the number 1 vegetable according to'
+    - '&7Okra Winfrey''s Vegetable Club.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_BASIL:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Basil'
+    lore:
+    - ''
+    - '&7A light hearted bush full of whimsy.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_COURGETTE:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Courgette'
+    lore:
+    - ''
+    - '&7Why does this bush just keep shouting the'
+    - '&7word Zucchini? I guess it must be american?'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_RADICCHIO:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Radicchio'
+    lore:
+    - ''
+    - '&7Want to sound fancy? But Radicchio into any'
+    - '&7meal - it''s basically like cabbage but'
+    - '&7makes you seem refined.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_PEPPER:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Black Pepper'
+    lore:
+    - ''
+    - '&7Black Pepper was an important part of the'
+    - '&7spice trade between India and Europe'
+    - '&7as early as Greek and Roman times.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_ONION:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Onion'
+    lore:
+    - ''
+    - '&7Does this bush look like it''s tearing up?'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_TARRAGON:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Tarragon'
+    lore:
+    - ''
+    - '&7This bush doesn''t like to draw too much attention.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_SWEET_POTATO:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Sweet Potato'
+    lore:
+    - ''
+    - '&7This bush is just so sweet. I heard it'
+    - '&7complimenting you while you weren''t listening.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_SHISO:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Shiso'
+    lore:
+    - ''
+    - '&7I like to think this bush is the love child'
+    - '&7of a mint bush and a basil bush. Too bad'
+    - '&7bush breeding isn''t a thing!'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_BRUSSELS_SPROUTS:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Brussels Sprouts'
+    lore:
+    - ''
+    - '&7A bush that can sometimes produce noxious'
+    - '&7gas.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_TOMATO:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Tomato'
+    lore:
+    - ''
+    - '&7Ripe and ready.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_JALAPENO:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Jalapeno'
+    lore:
+    - ''
+    - '&7Just holding this bush gives you a'
+    - '&71% change to set ablaze.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_CURRY_LEAF:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Curry Leaf'
+    lore:
+    - ''
+    - '&7Best when dry roasted.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_TURMERIC:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Turmeric'
+    lore:
+    - ''
+    - '&7A waft of spice hits your nose just'
+    - '&7holding this bush.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_CUMIN:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Cumin'
+    lore:
+    - ''
+    - '&7A bush that lets of a warm citrus aroma.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_GRAPE:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Grape'
+    lore:
+    - ''
+    - '&7Ripe and juicy grapes that practically fall'
+    - '&7off the bush.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_CHIVES:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Chives'
+    lore:
+    - ''
+    - '&7A bush that produces what is, effectively, the world''s'
+    - '&7smallest onion.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_CINNAMON:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Cinnamon'
+    lore:
+    - ''
+    - '&7A delightfully fragrant bush.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_ARTICHOKE:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Artichoke'
+    lore:
+    - ''
+    - '&7By far the best bush to strangle an'
+    - '&7artist with. Sigh. Puns be hard.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_GARLIC:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Garlic'
+    lore:
+    - ''
+    - '&7This bush has simply the worst breath.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_PEA:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Peas'
+    lore:
+    - ''
+    - '&7I prefer Q''s'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_KAFFIR_LIME:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Kaffir Lime'
+    lore:
+    - ''
+    - '&7A bush whose leafs are more wanted than it''s fruit.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_MUSTARD:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Mustard Seeds'
+    lore:
+    - ''
+    - '&7Like fire in your mouth.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_RADDISH:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Raddish'
+    lore:
+    - ''
+    - '&7This plant just did a skateboarding trick.'
+    - '&7Totally &7Rad...ish&7.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_BELL_PEPPER:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Bell Pepper'
+    lore:
+    - ''
+    - '&7Careful walking by this, you may ring'
+    - '&7the bell.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_JUNIPER_BERRY:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Juniper Berry'
+    lore:
+    - ''
+    - '&7So sweet on the bush, peppery when dried.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_SASSAFRAS:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Sassafras'
+    lore:
+    - ''
+    - '&7This bush love to be planted near small bodies'
+    - '&7of water.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_GREEN_ONION:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Green Onion'
+    lore:
+    - ''
+    - '&7Also known as Scallions.'
+    - '&7Green Onions generally have a'
+    - '&7milder taste than most onions.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'
+  CLT_BUSH_VANILLA:
+    name: '&x&A&2&4&1&B&FCultivation Bush: Vanilla'
+    lore:
+    - ''
+    - '&7This bush grows natively near StarBucks locations.'
+    - ''
+    - '&x&E&4&E&D&3&2Bush'

@@ -1,0 +1,126 @@
+name: FNAmplifications
+translations:
+  FN_MACHINERY_DOWNGRADER_PART:
+    name: '&dDowngrader Part'
+    lore:
+    - '&fEssential Part for FN Machinery'
+    - ''
+    - '&d&oFN Machinery Items'
+  FN_MACHINERY_REINFORCED_CASING:
+    name: '&dReinforced Casing'
+    lore:
+    - '&fEssential Part for FN Machinery'
+    - '&fand Power Xpansion'
+    - ''
+    - '&d&oFN Machinery Items'
+  FN_MACHINERY_POWER_COMPONENT:
+    name: '&dPower Component'
+    lore:
+    - '&fEssential Part for FN Machinery'
+    - '&fand Power Xpansion'
+    - ''
+    - '&d&oFN Machinery Items'
+  FN_MACHINERY_GOLD_PLATING:
+    name: '&dGold Plating'
+    lore:
+    - '&fEssential Part for FN Machinery'
+    - '&fand Power Xpansion'
+    - ''
+    - '&d&oFN Machinery Items'
+  FN_MACHINERY_CONDENSER_PART:
+    name: '&dCondenser Part'
+    lore:
+    - '&fEssential Part for FN Machinery'
+    - ''
+    - '&d&oFN Machinery Items'
+  FN_MACHINERY_COMPRESSOR_PART:
+    name: '&dCompressor Part'
+    lore:
+    - '&fEssential Part for FN Machinery'
+    - ''
+    - '&d&oFN Machinery Items'
+  FN_MACHINERY_BRASS_PLATING:
+    name: '&dBrass Plating'
+    lore:
+    - '&fEssential Part for FN Machinery'
+    - '&fand Power Xpansion'
+    - ''
+    - '&d&oFN Machinery Items'
+  FN_MACHINERY_DIAMOND_PLATING:
+    name: '&dDiamond Plating'
+    lore:
+    - '&fEssential Part for FN Machinery'
+    - '&fand Power Xpansion'
+    - ''
+    - '&d&oFN Machinery Items'
+  FN_METAL_SCRAPS:
+    name: '&dMetal Scrap'
+    lore:
+    - '&fLeftover from downgrading machines'
+    - '&fcan be used to craft FN Machinery Items'
+    - ''
+    - '&d&oFN Machinery Items'
+  FN_MACHINERY_RECYCLER_PART:
+    name: '&dRecycler Part'
+    lore:
+    - '&fEssential Part for FN Machinery'
+    - ''
+    - '&d&oFN Machinery Items'
+  FN_MACHINERY_MOTOR_SWITCH:
+    name: '&dMotor Switch'
+    lore:
+    - '&fEssential Part for FN Machinery'
+    - ''
+    - '&d&oFN Machinery Items'
+  FN_MACHINERY_GEAR_PART:
+    name: '&dGear Part'
+    lore:
+    - '&fEssential Part for FN Machinery'
+    - '&fand Power Xpansion'
+    - ''
+    - '&d&oFN Machinery Items'
+  FN_MACHINERY_COMPONENT_PART:
+    name: '&dComponent Part'
+    lore:
+    - '&fEssential Part for FN Machinery'
+    - ''
+    - '&d&oFN Machinery Items'
+  FN_MACHINERY_THREAD_PART:
+    name: '&dThread Part'
+    lore:
+    - '&fEssential Part for FN Machinery'
+    - ''
+    - '&d&oFN Machinery Items'
+  FN_MACHINERY_BASIC_MACHINE_BLOCK:
+    name: '&dBasic Machine Block'
+    lore:
+    - '&fEssential Part for FN Machinery'
+    - '&fand Power Xpansion'
+    - ''
+    - '&d&oFN Machinery Items'
+  FN_MACHINERY_ALUMINUM_PLATING:
+    name: '&dAluminum Plating'
+    lore:
+    - '&fEssential Part for FN Machinery'
+    - '&fand Power Xpansion'
+    - ''
+    - '&d&oFN Machinery Items'
+  FN_MACHINERY_HIGHTECH_MACHINE_BLOCK:
+    name: '&dHigh Tech Machine Block'
+    lore:
+    - '&fEssential Part for FN Machinery'
+    - '&fand Power Xpansion'
+    - ''
+    - '&d&oFN Machinery Items'
+  FN_MACHINERY_MACHINE_PART:
+    name: '&dMachine Part'
+    lore:
+    - '&fEssential Part for FN Machinery'
+    - ''
+    - '&d&oFN Machinery Items'
+  FN_MACHINERY_FUNNEL_PART:
+    name: '&dFunnel Part'
+    lore:
+    - '&fEssential Part for FN Machinery'
+    - ''
+    - '&d&oFN Machinery Items'

@@ -1,0 +1,168 @@
+name: FNAmplifications
+translations:
+  FN_STAFF_MUSTER:
+    name: '&cStaff of Muster'
+    lore:
+    - ''
+    - '&dRight click a target block to teleport'
+    - '&dnearby entities that are on ground'
+    - '&dwithin 50 block radius'
+    - ''
+    - '&eUses: &e10 left'
+  FN_STAFF_STALLION:
+    name: '&cStaff of Stallion'
+    lore:
+    - ''
+    - '&dSpawns a skeleton horse that is'
+    - '&drideable until passenger dismount'
+    - ''
+    - '&eUses: &e10 left'
+  FN_STAFF_LOCOMOTION:
+    name: '&cStaff of Locomotion'
+    lore:
+    - ''
+    - '&dMove entities to a target location by right'
+    - '&dclicking to select and left click to move'
+    - ''
+    - '&eUses: &e10 left'
+    - '&eEntity stored: none'
+  FN_STAFF_INVI:
+    name: '&cStaff of Invisibility'
+    lore:
+    - ''
+    - '&d6 seconds of invisibility'
+    - '&deven your armor and name'
+    - '&dare hidden'
+    - ''
+    - '&eUses: &e10 left'
+  FN_STAFF_FORCE:
+    name: '&cStaff of Force'
+    lore:
+    - ''
+    - '&dRight click to spawn a cloud of effect'
+    - '&dthat gives a force push forward or'
+    - '&dshift-right-click to spawn a different cloud'
+    - '&dof effect that gives a backward force'
+    - ''
+    - '&eUses: &e10 left'
+  FN_STAFF_TP:
+    name: '&cStaff of Teleportation'
+    lore:
+    - ''
+    - '&dTeleport to a target block by'
+    - '&dright clicking it'
+    - ''
+    - '&eUses: &e10 left'
+  FN_STAFF_EXPLOSION:
+    name: '&cStaff of Explosion'
+    lore:
+    - ''
+    - '&dRight click a target block to'
+    - '&dyield an explosion causing damage'
+    - ''
+    - '&eUses: &e10 left'
+  FN_STAFF_FANGS:
+    name: '&cStaff of Fangs'
+    lore:
+    - ''
+    - '&dRight click a target block to'
+    - '&dspawn evoker fangs that causes'
+    - '&ddamage to entities'
+    - ''
+    - '&eUses: &e10 left'
+  FN_STAFF_HELLFIRE:
+    name: '&cStaff of Hellfire'
+    lore:
+    - ''
+    - '&dSpawn an area of effect cloud'
+    - '&dwhere entities are set on fire'
+    - '&dif inside the radius for 8 seconds'
+    - ''
+    - '&eUses: &e10 left'
+  FN_STAFF_INVULNERABILITY:
+    name: '&cStaff of Invulnerability'
+    lore:
+    - ''
+    - '&dRight click to spawn a cloud of effect'
+    - '&dthat protects entities inside the radius'
+    - '&dfrom damage for 8 seconds'
+    - ''
+    - '&eUses: &e10 left'
+  FN_STAFF_SKULLS:
+    name: '&cStaff of Skulls'
+    lore:
+    - ''
+    - '&dRight click to launch'
+    - '&dwither skull projectiles'
+    - ''
+    - '&eUses: &e10 left'
+  FN_STAFF_AWARENESS:
+    name: '&cStaff of Awareness'
+    lore:
+    - ''
+    - '&dRight click to receive information'
+    - '&dregarding the nearest players around'
+    - '&d50 block radius'
+    - ''
+    - '&eUses: &e10 left'
+  FN_STAFF_COBWEB:
+    name: '&cStaff of Cobweb'
+    lore:
+    - ''
+    - '&dRight click a target block'
+    - '&dto spawn a wall of cobwebs'
+    - ''
+    - '&eUses: &e10 left'
+  FN_STAFF_CONFUSION:
+    name: '&cStaff of Confusion'
+    lore:
+    - ''
+    - '&dSpawn an area of effect cloud where'
+    - '&dentities are confused of their direction'
+    - '&dif inside the radius for 8 seconds'
+    - ''
+    - '&eUses: &e10 left'
+  FN_STAFF_AIR_STRIDER:
+    name: '&cStaff of Air Strider'
+    lore:
+    - ''
+    - '&dRight click to gain the ability to'
+    - '&dwalk on the air for 10 seconds'
+    - ''
+    - '&eUses: &e10 left'
+  FN_STAFF_HEALING:
+    name: '&cStaff of Healing'
+    lore:
+    - ''
+    - '&dRight click to spawn a cloud of effect'
+    - '&dthat heals the caster only if inside the'
+    - '&dradius for 8 seconds'
+    - ''
+    - '&eUses: &e10 left'
+  FN_STAFF_DEEPFREEZE:
+    name: '&cStaff of Deep-Freeze'
+    lore:
+    - ''
+    - '&dSpawn an area of effect cloud where'
+    - '&dentities are being slowed by the freezing'
+    - '&dcold if inside the radius for 8 seconds'
+    - ''
+    - '&eUses: &e10 left'
+  FN_STAFF_GRAVITY:
+    name: '&cStaff of Gravitational Pull'
+    lore:
+    - ''
+    - '&dSpawn an area of effect cloud where'
+    - '&dentities are being pulled by the gravitational'
+    - '&dforce if inside the radius for 8 seconds'
+    - ''
+    - '&eUses: &e10 left'
+  FN_STAFF_MINERALS:
+    name: '&cStaff of Minerals'
+    lore:
+    - ''
+    - '&dRight click to receive mythical'
+    - '&dinformation that awaits upon using'
+    - '&dthe staff'
+    - ''
+    - '&eUses: &e10 left'

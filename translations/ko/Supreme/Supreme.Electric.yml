@@ -1,0 +1,119 @@
+name: Supreme
+translations:
+  SUPREME_THORNIUM_CAPACITOR:
+    name: '[CS-CoreLib''s Head]'
+    lore:
+    - '&4End-Game Capacitor'
+    - '&8⇨ &e⚡ &7100,000,000.00 J Capacity'
+  SUPREME_LUX_GENERATOR:
+    name: '[White Glazed Terracotta]'
+    lore:
+    - '&6Advanced Generator'
+    - '&8⇨ &e⚡ &750,000.00 J Buffer'
+    - '&8⇨ &b⚡ &725,000.00 J/tick'
+  SUPREME_BASIC_VENTUS_GENERATOR:
+    name: '[Light Blue Concrete]'
+    lore:
+    - '&eBasic Generator'
+    - '&8⇨ &e⚡ &75,000.00 J Buffer'
+    - '&8⇨ &b⚡ &72,500.00 J/tick'
+  SUPREME_BASIC_IGNIS_GENERATOR:
+    name: '[Orange Concrete]'
+    lore:
+    - '&eBasic Generator'
+    - '&8⇨ &e⚡ &75,000.00 J Buffer'
+    - '&8⇨ &b⚡ &72,500.00 J/tick'
+  SUPREME_AURUM_CAPACITOR:
+    name: '[CS-CoreLib''s Head]'
+    lore:
+    - '&6Advanced Capacitor'
+    - '&8⇨ &e⚡ &71,000,000.00 J Capacity'
+  SUPREME_BASIC_AQUA_GENERATOR:
+    name: '[Blue Concrete]'
+    lore:
+    - '&eBasic Generator'
+    - '&8⇨ &e⚡ &75,000.00 J Buffer'
+    - '&8⇨ &b⚡ &72,500.00 J/tick'
+  SUPREME_SUPREME_GENERATOR:
+    name: '[Purple Glazed Terracotta]'
+    lore:
+    - '&4End-Game Generator'
+    - '&8⇨ &e⚡ &712,000,000.00 J Buffer'
+    - '&8⇨ &b⚡ &72,000,000.00 J/tick'
+  SUPREME_VENTUS_GENERATOR:
+    name: '[Light Blue Glazed Terracotta]'
+    lore:
+    - '&eBasic Generator'
+    - '&8⇨ &e⚡ &750,000.00 J Buffer'
+    - '&8⇨ &b⚡ &725,000.00 J/tick'
+  SUPREME_BASIC_LUMIUM_GENERATOR:
+    name: '[Brown Concrete]'
+    lore:
+    - '&6Advanced Generator'
+    - '&8⇨ &e⚡ &710,000.00 J Buffer'
+    - '&8⇨ &b⚡ &75,000.00 J/tick'
+  SUPREME_AQUA_GENERATOR:
+    name: '[Blue Glazed Terracotta]'
+    lore:
+    - '&6Advanced Generator'
+    - '&8⇨ &e⚡ &750,000.00 J Buffer'
+    - '&8⇨ &b⚡ &725,000.00 J/tick'
+    - ''
+    - '&3Supreme Machine'
+  SUPREME_IGNIS_GENERATOR:
+    name: '[Orange Glazed Terracotta]'
+    lore:
+    - '&6Advanced Generator'
+    - '&8⇨ &e⚡ &750,000.00 J Buffer'
+    - '&8⇨ &b⚡ &725,000.00 J/tick'
+  SUPREME_GENERATOR_MOB_ADVANCED:
+    name: '[Composter]'
+    lore:
+    - '&eBasic Generator'
+    - '&8⇨ &e⚡ &716,000.00 J Buffer'
+    - '&8⇨ &b⚡ &7800.00 J/s'
+  SUPREME_ADAMANTIUM_CAPACITOR:
+    name: '[CS-CoreLib''s Head]'
+    lore:
+    - '&6Advanced Capacitor'
+    - '&8⇨ &e⚡ &716,000,000.00 J Capacity'
+  SUPREME_BASIC_LUX_GENERATOR:
+    name: '[White Concrete]'
+    lore:
+    - '&eBasic Generator'
+    - '&8⇨ &e⚡ &75,000.00 J Buffer'
+    - '&8⇨ &b⚡ &72,500.00 J/tick'
+  SUPREME_GENERATOR_MOB_MEDIUM:
+    name: '[Composter]'
+    lore:
+    - '&eBasic Generator'
+    - '&8⇨ &e⚡ &74,000.00 J Buffer'
+    - '&8⇨ &b⚡ &7200.00 J/s'
+  SUPREME_SUPREME_CAPACITOR:
+    name: '[CS-CoreLib''s Head]'
+    lore:
+    - '&4End-Game Capacitor'
+    - '&8⇨ &e⚡ &7Infinite J Capacity'
+  SUPREME_LUMIUM_GENERATOR:
+    name: '[Brown Glazed Terracotta]'
+    lore:
+    - '&6Advanced Generator'
+    - '&8⇨ &e⚡ &7500,000.00 J Buffer'
+    - '&8⇨ &b⚡ &775,000.00 J/tick'
+  SUPREME_THORNIUM_GENERATOR:
+    name: '[Black Glazed Terracotta]'
+    lore:
+    - '&4End-Game Generator'
+    - '&8⇨ &e⚡ &76,000,000.00 J Buffer'
+    - '&8⇨ &b⚡ &71,000,000.00 J/tick'
+  SUPREME_TITANIUM_CAPACITOR:
+    name: '[CS-CoreLib''s Head]'
+    lore:
+    - '&6Advanced Capacitor'
+    - '&8⇨ &e⚡ &74,000,000.00 J Capacity'
+  SUPREME_GENERATOR_MOB_BASIC:
+    name: '[Composter]'
+    lore:
+    - '&eBasic Generator'
+    - '&8⇨ &e⚡ &71,000.00 J Buffer'
+    - '&8⇨ &b⚡ &750.00 J/s'

@@ -1,0 +1,251 @@
+name: Quaptics
+translations:
+  QP_INFUSION_CONTAINER:
+    name: '&6Infusion Container'
+    lore:
+    - '&x&3&3&9&9&3&3Basic'
+    - '&3★&x&6&6&6&6&9&9 Multiblock &8(right click with the Multiblock Wand)'
+    - '&7● Infuses items'
+    - '&7● &eRight Click &7with an item to start infusing'
+    - '&8⇨ &x&E&0&8&5&C&2→ &7Time per recipe &e5.0 &8seconds'
+  QP_LAUNCHPAD:
+    name: '&7Launchpad'
+    lore:
+    - '&x&3&3&9&9&3&3Basic'
+    - '&7● Launches players'
+    - '&7● Launch velocity can be configured'
+    - '&7● &eWalk onto the launchpad &7to get launched'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e30 &7- &e100 &8W'
+    - '&8⇨ &x&0&0&F&F&0&0∀ &7Operating Frequency &e2+ &8Hz'
+  QP_DATA_STRIPPER_1:
+    name: '&7Data Stripper &fI'
+    lore:
+    - '&x&3&3&9&9&3&3Basic'
+    - '&7● Converts Slimefun heads into regular placeable heads'
+    - '&7● &eRight Click &7with an item to insert'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e15 &7- &e100 &8W'
+    - '&8⇨ &x&0&0&F&F&0&0∀ &7Operating Frequency &e8+ &8Hz'
+    - '&8⇨ &x&E&0&8&5&C&2→ &7Time per recipe &e30.0 &8seconds'
+  QP_DATA_STRIPPER_2:
+    name: '&7Data Stripper &fII'
+    lore:
+    - '&x&F&F&D&B&4&DIntermediate'
+    - '&7● Converts Slimefun heads into regular placeable heads'
+    - '&7● &eRight Click &7with an item to insert'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e180 &7- &e1,000 &8W'
+    - '&8⇨ &x&0&0&F&F&0&0∀ &7Operating Frequency &e100+ &8Hz'
+    - '&8⇨ &x&E&0&8&5&C&2→ &7Time per recipe &e8.0 &8seconds'
+  QP_INDUSTRIAL_CRYSTAL_REFINER:
+    name: '&bIndustrial Crystal Refiner'
+    lore:
+    - '&x&F&F&6&6&0&0Advanced'
+    - '&7● Refines Phase Crystals'
+    - '&7● Can refine up to 16 items at once'
+    - '&7● &eRight Click &7with an item to start refining'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e1,200 &7- &e10,000 &8W'
+    - '&8⇨ &x&0&0&F&F&0&0∀ &7Operating Frequency &e260+ &8Hz'
+    - '&8⇨ &x&E&0&8&5&C&2→ &7Time per recipe &e10.0 &8seconds'
+  QP_TURRET_4_HOSTILE:
+    name: '&7Turret &fIV &8(targets hostiles)'
+    lore:
+    - '&x&F&F&6&6&0&0Advanced'
+    - '&7● Shoots at nearby entities'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e1,400 &7- &e10,000 &8W'
+    - '&8⇨ &x&0&0&F&F&0&0∀ &7Operating Frequency &e6,000+ &8Hz'
+    - '&8⇨ &x&E&0&8&5&C&2↔ &7Range &e12 &8blocks'
+    - '&8⇨ &x&E&0&8&5&C&2🗡 &7Damage &e3.5 &8dps'
+  QP_ENTANGLEMENT_MAGNET:
+    name: '&6Entanglement Magnet'
+    lore:
+    - '&x&F&F&D&B&4&DIntermediate'
+    - '&3★&x&6&6&6&6&9&9 Multiblock Component'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e100 &7- &e1,000 &8W'
+    - '&8⇨ &x&0&0&F&F&0&0∀ &7Operating Frequency &e200+ &8Hz'
+  QP_ENTANGLEMENT_CONTAINER:
+    name: '&6Entanglement Container'
+    lore:
+    - '&x&F&F&D&B&4&DIntermediate'
+    - '&3★&x&6&6&6&6&9&9 Multiblock &8(right click with the Multiblock Wand)'
+    - '&7● Entangles items'
+    - '&7● &eRight Click &7with an item to start the entanglement process'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e0 &7- &e1,000 &8W'
+    - '&8⇨ &x&E&0&8&5&C&2→ &7Time per recipe &e5.0 &8seconds'
+  QP_INFUSION_PILLAR:
+    name: '&6Infusion Pillar'
+    lore:
+    - '&x&3&3&9&9&3&3Basic'
+    - '&3★&x&6&6&6&6&9&9 Multiblock Component'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e15 &7- &e100 &8W'
+    - '&8⇨ &x&0&0&F&F&0&0∀ &7Operating Frequency &e10+ &8Hz'
+  QP_TURRET_1_PASSIVE:
+    name: '&7Turret &fI &8(targets passives)'
+    lore:
+    - '&x&9&9&6&6&3&3Primitive'
+    - '&7● Shoots at nearby entities'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e4 &7- &e10 &8W'
+    - '&8⇨ &x&E&0&8&5&C&2↔ &7Range &e6 &8blocks'
+    - '&8⇨ &x&E&0&8&5&C&2🗡 &7Damage &e.8 &8dps'
+  QP_CHARGER_4:
+    name: '&7Charger &fIV'
+    lore:
+    - '&x&F&F&6&6&0&0Advanced'
+    - '&7● Charges Quaptic items'
+    - '&7● &eRight Click &7with a chargeable item to insert'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e0 &7- &e10,000 &8W'
+    - '&8⇨ &x&0&0&F&F&0&0∀ &7Operating Frequency &e3,000+ &8Hz'
+  QP_MULTIBLOCK_CLICKER_3:
+    name: '&7Multiblock Clicker &fIII'
+    lore:
+    - '&x&F&F&D&B&4&DIntermediate'
+    - '&7● Automatically clicks the attached multiblock'
+    - '&7● Place facing the block you''d usually click to use the multiblock'
+    - '&7● &eRight Click &7to enable/disable'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e200 &7- &e1,000 &8W'
+    - '&8⇨ &x&0&0&F&F&0&0∀ &7Operating Frequency &e50+ &8Hz'
+    - '&8⇨ &x&E&0&8&5&C&2→ &7Use Interval &e.2 &8seconds'
+  QP_CHARGER_3:
+    name: '&7Charger &fIII'
+    lore:
+    - '&x&F&F&D&B&4&DIntermediate'
+    - '&7● Charges Quaptic items'
+    - '&7● &eRight Click &7with a chargeable item to insert'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e0 &7- &e1,000 &8W'
+    - '&8⇨ &x&0&0&F&F&0&0∀ &7Operating Frequency &e100+ &8Hz'
+  QP_CHARGER_2:
+    name: '&7Charger &fII'
+    lore:
+    - '&x&3&3&9&9&3&3Basic'
+    - '&7● Charges Quaptic items'
+    - '&7● &eRight Click &7with a chargeable item to insert'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e0 &7- &e100 &8W'
+    - '&8⇨ &x&0&0&F&F&0&0∀ &7Operating Frequency &e2+ &8Hz'
+  QP_MULTIBLOCK_CLICKER_1:
+    name: '&7Multiblock Clicker &fI'
+    lore:
+    - '&x&3&3&9&9&3&3Basic'
+    - '&7● Automatically clicks the attached multiblock'
+    - '&7● Place facing the block you''d usually click to use the multiblock'
+    - '&7● &eRight Click &7to enable/disable'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e20 &7- &e100 &8W'
+    - '&8⇨ &x&0&0&F&F&0&0∀ &7Operating Frequency &e2+ &8Hz'
+    - '&8⇨ &x&E&0&8&5&C&2→ &7Use Interval &e1.0 &8seconds'
+  QP_INDUSTRIAL_ENTANGLEMENT_CONTAINER:
+    name: '&6Industrial Entanglement Container'
+    lore:
+    - '&x&F&F&6&6&0&0Advanced'
+    - '&3★&x&6&6&6&6&9&9 Multiblock &8(right click with the Multiblock Wand)'
+    - '&7● Entangles items'
+    - '&7● Can entangle up to 16 items at once'
+    - '&7● &eRight Click &7with an item to start the entanglement process'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e0 &7- &e10,000 &8W'
+    - '&8⇨ &x&E&0&8&5&C&2→ &7Time per recipe &e15.0 &8seconds'
+  QP_CHARGER_1:
+    name: '&7Charger &fI'
+    lore:
+    - '&x&9&9&6&6&3&3Primitive'
+    - '&7● Charges Quaptic items'
+    - '&7● &eRight Click &7with a chargeable item to insert'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e0 &7- &e10 &8W'
+  QP_MULTIBLOCK_CLICKER_2:
+    name: '&7Multiblock Clicker &fII'
+    lore:
+    - '&x&3&3&9&9&3&3Basic'
+    - '&7● Automatically clicks the attached multiblock'
+    - '&7● Place facing the block you''d usually click to use the multiblock'
+    - '&7● &eRight Click &7to enable/disable'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e80 &7- &e100 &8W'
+    - '&8⇨ &x&0&0&F&F&0&0∀ &7Operating Frequency &e6+ &8Hz'
+    - '&8⇨ &x&E&0&8&5&C&2→ &7Use Interval &e.5 &8seconds'
+  QP_INDUSTRIAL_INFUSION_PILLAR:
+    name: '&6Industrial Infusion Pillar'
+    lore:
+    - '&x&F&F&D&B&4&DIntermediate'
+    - '&3★&x&6&6&6&6&9&9 Multiblock Component'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e100 &7- &e1,000 &8W'
+    - '&8⇨ &x&0&0&F&F&0&0∀ &7Operating Frequency &e80+ &8Hz'
+  QP_TURRET_4_PASSIVE:
+    name: '&7Turret &fIV &8(targets passives)'
+    lore:
+    - '&x&F&F&6&6&0&0Advanced'
+    - '&7● Shoots at nearby entities'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e1,400 &7- &e10,000 &8W'
+    - '&8⇨ &x&0&0&F&F&0&0∀ &7Operating Frequency &e6,000+ &8Hz'
+    - '&8⇨ &x&E&0&8&5&C&2↔ &7Range &e12 &8blocks'
+    - '&8⇨ &x&E&0&8&5&C&2🗡 &7Damage &e3.5 &8dps'
+  QP_INDUSTRIAL_INFUSION_CONTAINER:
+    name: '&6Industrial Infusion Container'
+    lore:
+    - '&x&F&F&D&B&4&DIntermediate'
+    - '&3★&x&6&6&6&6&9&9 Multiblock &8(right click with the Multiblock Wand)'
+    - '&7● Infuses items'
+    - '&7● Can infuse up to 16 items at once'
+    - '&7● &eRight Click &7with an item to start infusing'
+    - '&8⇨ &x&E&0&8&5&C&2→ &7Time per recipe &e15.0 &8seconds'
+  QP_TURRET_3_HOSTILE:
+    name: '&7Turret &fIII &8(targets hostiles)'
+    lore:
+    - '&x&F&F&D&B&4&DIntermediate'
+    - '&7● Shoots at nearby entities'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e210 &7- &e1,000 &8W'
+    - '&8⇨ &x&0&0&F&F&0&0∀ &7Operating Frequency &e200+ &8Hz'
+    - '&8⇨ &x&E&0&8&5&C&2↔ &7Range &e10 &8blocks'
+    - '&8⇨ &x&E&0&8&5&C&2🗡 &7Damage &e2.0 &8dps'
+  QP_TURRET_2_PASSIVE:
+    name: '&7Turret &fII &8(targets passives)'
+    lore:
+    - '&x&3&3&9&9&3&3Basic'
+    - '&7● Shoots at nearby entities'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e25 &7- &e100 &8W'
+    - '&8⇨ &x&0&0&F&F&0&0∀ &7Operating Frequency &e4+ &8Hz'
+    - '&8⇨ &x&E&0&8&5&C&2↔ &7Range &e8 &8blocks'
+    - '&8⇨ &x&E&0&8&5&C&2🗡 &7Damage &e1.2 &8dps'
+  QP_TURRET_2_HOSTILE:
+    name: '&7Turret &fII &8(targets hostiles)'
+    lore:
+    - '&x&3&3&9&9&3&3Basic'
+    - '&7● Shoots at nearby entities'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e25 &7- &e100 &8W'
+    - '&8⇨ &x&0&0&F&F&0&0∀ &7Operating Frequency &e4+ &8Hz'
+    - '&8⇨ &x&E&0&8&5&C&2↔ &7Range &e8 &8blocks'
+    - '&8⇨ &x&E&0&8&5&C&2🗡 &7Damage &e1.2 &8dps'
+  QP_TURRET_3_PASSIVE:
+    name: '&7Turret &fIII &8(targets passives)'
+    lore:
+    - '&x&F&F&D&B&4&DIntermediate'
+    - '&7● Shoots at nearby entities'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e210 &7- &e1,000 &8W'
+    - '&8⇨ &x&0&0&F&F&0&0∀ &7Operating Frequency &e200+ &8Hz'
+    - '&8⇨ &x&E&0&8&5&C&2↔ &7Range &e10 &8blocks'
+    - '&8⇨ &x&E&0&8&5&C&2🗡 &7Damage &e2.0 &8dps'
+  QP_ITEM_PROJECTOR:
+    name: '&7Item Projector'
+    lore:
+    - '&x&F&F&D&B&4&DIntermediate'
+    - '&7● Displays a hologram of an inserted item'
+    - '&7● &eRight Click &7with an item to insert'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e260 &7- &e1,000 &8W'
+    - '&8⇨ &x&0&0&F&F&0&0∀ &7Operating Frequency &e350+ &8Hz'
+  QP_CRYSTAL_REFINER:
+    name: '&bCrystal Refiner'
+    lore:
+    - '&x&F&F&D&B&4&DIntermediate'
+    - '&7● Refines Phase Crystals'
+    - '&7● &eRight Click &7with an item to start refining'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e300 &7- &e1,000 &8W'
+    - '&8⇨ &x&0&0&F&F&0&0∀ &7Operating Frequency &e30+ &8Hz'
+    - '&8⇨ &x&E&0&8&5&C&2→ &7Time per recipe &e3.0 &8seconds'
+  QP_TURRET_1_HOSTILE:
+    name: '&7Turret &fI &8(targets hostiles)'
+    lore:
+    - '&x&9&9&6&6&3&3Primitive'
+    - '&7● Shoots at nearby entities'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e4 &7- &e10 &8W'
+    - '&8⇨ &x&E&0&8&5&C&2↔ &7Range &e6 &8blocks'
+    - '&8⇨ &x&E&0&8&5&C&2🗡 &7Damage &e.8 &8dps'
+  QP_INDUSTRIAL_ENTANGLEMENT_MAGNET:
+    name: '&6Industrial Entanglement Magnet'
+    lore:
+    - '&x&F&F&6&6&0&0Advanced'
+    - '&3★&x&6&6&6&6&9&9 Multiblock Component'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e100 &7- &e10,000 &8W'
+    - '&8⇨ &x&0&0&F&F&0&0∀ &7Operating Frequency &e1,200+ &8Hz'

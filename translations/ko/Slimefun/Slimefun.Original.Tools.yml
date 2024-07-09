@@ -1,0 +1,79 @@
+name: Slimefun
+translations:
+  COBALT_PICKAXE:
+    name: '&9Cobalt Pickaxe'
+  SMELTERS_PICKAXE:
+    name: '&6Smelter''s Pickaxe'
+    lore:
+    - '&c&lAuto-Smelting'
+    - ''
+    - '&9Works with Fortune'
+  GOLD_PAN:
+    name: '&6Gold Pan'
+    lore:
+    - ''
+    - '&eRight Click&7 to collect resources'
+    - '&7from Gravel'
+  GRAPPLING_HOOK:
+    name: '&6Grappling Hook'
+    lore:
+    - ''
+    - '&eRight Click&7 to use'
+  NETHER_GOLD_PAN:
+    name: '&4Nether Gold Pan'
+    lore:
+    - ''
+    - '&eRight Click&7 to collect resources'
+    - '&7from Soul Sand'
+  EXPLOSIVE_PICKAXE:
+    name: '&eExplosive Pickaxe'
+    lore:
+    - ''
+    - '&fAllows you to mine a good bit'
+    - '&fof Blocks at once...'
+    - ''
+    - '&9Works with Fortune'
+  EXPLOSIVE_SHOVEL:
+    name: '&eExplosive Shovel'
+    lore:
+    - ''
+    - '&fAllows you to mine a good bit'
+    - '&fof diggable Blocks at once...'
+  SOULBOUND_HOE:
+    name: '&cSoulbound Hoe'
+  PICKAXE_OF_VEIN_MINING:
+    name: '&ePickaxe of Vein Mining'
+    lore:
+    - ''
+    - '&fThis Pickaxe will dig out'
+    - '&fwhole Veins of Ores...'
+  CLIMBING_PICK:
+    name: '&bClimbing Pick'
+    lore:
+    - ''
+    - '&fAllows you to climb certain surfaces'
+    - '&fby right-clicking.'
+    - '&fEnchant this pick with Efficiency to'
+    - '&fclimb even faster!'
+  PICKAXE_OF_THE_SEEKER:
+    name: '&aPickaxe of the Seeker'
+    lore:
+    - '&fWill always point you to the nearest Ore'
+    - '&fbut might get damaged when doing it'
+    - ''
+    - '&eRight Click&7 to be pointed to the nearest Ore'
+  LUMBER_AXE:
+    name: '&6Lumber Axe'
+    lore:
+    - '&a&oCuts down the whole Tree...'
+  SOULBOUND_SHOVEL:
+    name: '&cSoulbound Shovel'
+  SOULBOUND_AXE:
+    name: '&cSoulbound Axe'
+  PICKAXE_OF_CONTAINMENT:
+    name: '&cPickaxe of Containment'
+    lore:
+    - ''
+    - '&9Can pickup Spawners'
+  SOULBOUND_PICKAXE:
+    name: '&cSoulbound Pickaxe'

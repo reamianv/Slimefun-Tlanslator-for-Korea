@@ -1,0 +1,191 @@
+name: ElectricSpawners
+translations:
+  ELECTRIC_SPAWNER_SHEEP:
+    name: '&ePowered Spawner &7(Sheep)'
+    lore:
+    - ''
+    - '&8⇨ &e⚡ &7Max Entity Cap: 6'
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  ELECTRIC_SPAWNER_CREEPER:
+    name: '&ePowered Spawner &7(Creeper)'
+    lore:
+    - ''
+    - '&8⇨ &e⚡ &7Max Entity Cap: 6'
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  ELECTRIC_SPAWNER_WOLF:
+    name: '&ePowered Spawner &7(Wolf)'
+    lore:
+    - ''
+    - '&8⇨ &e⚡ &7Max Entity Cap: 6'
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  ELECTRIC_SPAWNER_GUARDIAN:
+    name: '&ePowered Spawner &7(Guardian)'
+    lore:
+    - ''
+    - '&8⇨ &e⚡ &7Max Entity Cap: 6'
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  ELECTRIC_SPAWNER_SPIDER:
+    name: '&ePowered Spawner &7(Spider)'
+    lore:
+    - ''
+    - '&8⇨ &e⚡ &7Max Entity Cap: 6'
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  ELECTRIC_SPAWNER_SQUID:
+    name: '&ePowered Spawner &7(Squid)'
+    lore:
+    - ''
+    - '&8⇨ &e⚡ &7Max Entity Cap: 6'
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  ELECTRIC_SPAWNER_SKELETON:
+    name: '&ePowered Spawner &7(Skeleton)'
+    lore:
+    - ''
+    - '&8⇨ &e⚡ &7Max Entity Cap: 6'
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  ELECTRIC_SPAWNER_WITCH:
+    name: '&ePowered Spawner &7(Witch)'
+    lore:
+    - ''
+    - '&8⇨ &e⚡ &7Max Entity Cap: 6'
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  ELECTRIC_SPAWNER_MAGMA_CUBE:
+    name: '&ePowered Spawner &7(Magma Cube)'
+    lore:
+    - ''
+    - '&8⇨ &e⚡ &7Max Entity Cap: 6'
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  ELECTRIC_SPAWNER_RABBIT:
+    name: '&ePowered Spawner &7(Rabbit)'
+    lore:
+    - ''
+    - '&8⇨ &e⚡ &7Max Entity Cap: 6'
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  ELECTRIC_SPAWNER_CHICKEN:
+    name: '&ePowered Spawner &7(Chicken)'
+    lore:
+    - ''
+    - '&8⇨ &e⚡ &7Max Entity Cap: 6'
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  ELECTRIC_SPAWNER_OCELOT:
+    name: '&ePowered Spawner &7(Ocelot)'
+    lore:
+    - ''
+    - '&8⇨ &e⚡ &7Max Entity Cap: 6'
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  ELECTRIC_SPAWNER_WITHER_SKELETON:
+    name: '&ePowered Spawner &7(Wither Skeleton)'
+    lore:
+    - ''
+    - '&8⇨ &e⚡ &7Max Entity Cap: 6'
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  ELECTRIC_SPAWNER_MUSHROOM_COW:
+    name: '&ePowered Spawner &7(Mushroom Cow)'
+    lore:
+    - ''
+    - '&8⇨ &e⚡ &7Max Entity Cap: 6'
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  ELECTRIC_SPAWNER_IRON_GOLEM:
+    name: '&ePowered Spawner &7(Iron Golem)'
+    lore:
+    - ''
+    - '&8⇨ &e⚡ &7Max Entity Cap: 6'
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  ELECTRIC_SPAWNER_VILLAGER:
+    name: '&ePowered Spawner &7(Villager)'
+    lore:
+    - ''
+    - '&8⇨ &e⚡ &7Max Entity Cap: 6'
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  ELECTRIC_SPAWNER_ENDERMITE:
+    name: '&ePowered Spawner &7(Endermite)'
+    lore:
+    - ''
+    - '&8⇨ &e⚡ &7Max Entity Cap: 6'
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  ELECTRIC_SPAWNER_HORSE:
+    name: '&ePowered Spawner &7(Horse)'
+    lore:
+    - ''
+    - '&8⇨ &e⚡ &7Max Entity Cap: 6'
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  ELECTRIC_SPAWNER_CAVE_SPIDER:
+    name: '&ePowered Spawner &7(Cave Spider)'
+    lore:
+    - ''
+    - '&8⇨ &e⚡ &7Max Entity Cap: 6'
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  ELECTRIC_SPAWNER_SLIME:
+    name: '&ePowered Spawner &7(Slime)'
+    lore:
+    - ''
+    - '&8⇨ &e⚡ &7Max Entity Cap: 6'
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  ELECTRIC_SPAWNER_ZOMBIE:
+    name: '&ePowered Spawner &7(Zombie)'
+    lore:
+    - ''
+    - '&8⇨ &e⚡ &7Max Entity Cap: 6'
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  ELECTRIC_SPAWNER_ENDERMAN:
+    name: '&ePowered Spawner &7(Enderman)'
+    lore:
+    - ''
+    - '&8⇨ &e⚡ &7Max Entity Cap: 6'
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  ELECTRIC_SPAWNER_GHAST:
+    name: '&ePowered Spawner &7(Ghast)'
+    lore:
+    - ''
+    - '&8⇨ &e⚡ &7Max Entity Cap: 6'
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  ELECTRIC_SPAWNER_SILVERFISH:
+    name: '&ePowered Spawner &7(Silverfish)'
+    lore:
+    - ''
+    - '&8⇨ &e⚡ &7Max Entity Cap: 6'
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  ELECTRIC_SPAWNER_COW:
+    name: '&ePowered Spawner &7(Cow)'
+    lore:
+    - ''
+    - '&8⇨ &e⚡ &7Max Entity Cap: 6'
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  ELECTRIC_SPAWNER_PIG:
+    name: '&ePowered Spawner &7(Pig)'
+    lore:
+    - ''
+    - '&8⇨ &e⚡ &7Max Entity Cap: 6'
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'
+  ELECTRIC_SPAWNER_BLAZE:
+    name: '&ePowered Spawner &7(Blaze)'
+    lore:
+    - ''
+    - '&8⇨ &e⚡ &7Max Entity Cap: 6'
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7240 J/Mob'

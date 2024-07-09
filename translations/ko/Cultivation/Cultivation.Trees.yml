@@ -1,0 +1,137 @@
+name: Cultivation
+translations:
+  CLT_TREE_GREEN_APPLE:
+    name: '&x&A&2&4&1&B&FCultivation Tree: Green Apple'
+    lore:
+    - ''
+    - '&7Grows large and crisp green apples.'
+    - ''
+    - '&x&E&4&E&D&3&2Sapling'
+    - ''
+    - '&x&E&4&E&D&3&2Design By: &7BWhite'
+  CLT_TREE_MANGO:
+    name: '&x&A&2&4&1&B&FCultivation Tree: Mango'
+    lore:
+    - ''
+    - '&7Best when at it''s ripest.'
+    - ''
+    - '&x&E&4&E&D&3&2Sapling'
+    - ''
+    - '&x&E&4&E&D&3&2Design By: &7BWhite'
+  CLT_TREE_HAZELNUT:
+    name: '&x&A&2&4&1&B&FCultivation Tree: Hazelnut'
+    lore:
+    - ''
+    - '&7Shaking this tree is a childhood past-time.'
+    - ''
+    - '&x&E&4&E&D&3&2Sapling'
+    - ''
+    - '&x&E&4&E&D&3&2Design By: &7ABitOddish'
+  CLT_TREE_PEACH:
+    name: '&x&A&2&4&1&B&FCultivation Tree: Peach'
+    lore:
+    - ''
+    - '&7James was looking for this, I think?'
+    - ''
+    - '&x&E&4&E&D&3&2Sapling'
+    - ''
+    - '&x&E&4&E&D&3&2Design By: &7ABitOddish'
+  CLT_TREE_PEAR:
+    name: '&x&A&2&4&1&B&FCultivation Tree: Pear'
+    lore:
+    - ''
+    - '&7A Pair of Pears were paired for parity.'
+    - ''
+    - '&x&E&4&E&D&3&2Sapling'
+    - ''
+    - '&x&E&4&E&D&3&2Design By: &7BWhite'
+  CLT_TREE_CHESTNUT:
+    name: '&x&A&2&4&1&B&FCultivation Tree: Chestnut'
+    lore:
+    - ''
+    - '&7A tree clearly designed to be climbed.'
+    - ''
+    - '&x&E&4&E&D&3&2Sapling'
+    - ''
+    - '&x&E&4&E&D&3&2Design By: &7ABitOddish'
+  CLT_TREE_PECAN:
+    name: '&x&A&2&4&1&B&FCultivation Tree: Pecan'
+    lore:
+    - ''
+    - '&7Can we grow this tree? Yes pe-can!'
+    - ''
+    - '&x&E&4&E&D&3&2Sapling'
+    - ''
+    - '&x&E&4&E&D&3&2Design By: &7BWhite'
+  CLT_TREE_LEMON:
+    name: '&x&A&2&4&1&B&FCultivation Tree: Lemon'
+    lore:
+    - ''
+    - '&7Just looking at this tree taste sour.'
+    - ''
+    - '&x&E&4&E&D&3&2Sapling'
+    - ''
+    - '&x&E&4&E&D&3&2Design By: &7Jeff'
+  CLT_TREE_KIWI:
+    name: '&x&A&2&4&1&B&FCultivation Tree: Kiwi'
+    lore:
+    - ''
+    - '&7A New Zealand Tree? Have I got that right?'
+    - ''
+    - '&x&E&4&E&D&3&2Sapling'
+    - ''
+    - '&x&E&4&E&D&3&2Design By: &7ABitOddish'
+  CLT_TREE_LIME:
+    name: '&x&A&2&4&1&B&FCultivation Tree: Lime'
+    lore:
+    - ''
+    - '&7Did you know Limes are just Lemons holding their breath?'
+    - ''
+    - '&x&E&4&E&D&3&2Sapling'
+    - ''
+    - '&x&E&4&E&D&3&2Design By: &7ABitOddish'
+  CLT_TREE_APRICOT:
+    name: '&x&A&2&4&1&B&FCultivation Tree: Apricot'
+    lore:
+    - ''
+    - '&7Inside is a single pit of despair.'
+    - ''
+    - '&x&E&4&E&D&3&2Sapling'
+    - ''
+    - '&x&E&4&E&D&3&2Design By: &7BWhite'
+  CLT_TREE_CHERRY:
+    name: '&x&A&2&4&1&B&FCultivation Tree: Cherry'
+    lore:
+    - ''
+    - '&7Tie the knot!'
+    - ''
+    - '&x&E&4&E&D&3&2Sapling'
+    - ''
+    - '&x&E&4&E&D&3&2Design By: &7ReasonFoundDecoy'
+  CLT_TREE_BANANA:
+    name: '&x&A&2&4&1&B&FCultivation Tree: Banana'
+    lore:
+    - ''
+    - '&7A tree that grows fingers, grim!'
+    - ''
+    - '&x&E&4&E&D&3&2Sapling'
+    - ''
+    - '&x&E&4&E&D&3&2Design By: &7Sefiraat'
+  CLT_TREE_PINEAPPLE:
+    name: '&x&A&2&4&1&B&FCultivation Tree: Pineapple'
+    lore:
+    - ''
+    - '&7WHERE IS MY PIZZA?'
+    - ''
+    - '&x&E&4&E&D&3&2Sapling'
+    - ''
+    - '&x&E&4&E&D&3&2Design By: &7ABitOddish'
+  CLT_TREE_ORANGE:
+    name: '&x&A&2&4&1&B&FCultivation Tree: Orange'
+    lore:
+    - ''
+    - '&7Little orbs of sunshine.'
+    - ''
+    - '&x&E&4&E&D&3&2Sapling'
+    - ''
+    - '&x&E&4&E&D&3&2Design By: &7Jeff'

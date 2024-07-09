@@ -1,0 +1,25 @@
+name: FluffyMachines
+translations:
+  SUPERHEATED_FURNACE:
+    name: '&cSuper Heated Furnace'
+    lore:
+    - ''
+    - '&7Multiblock component of the Foundry'
+    - '&cMust be used in the Foundry'
+  EXP_DISPENSER:
+    name: '&aExp Dispenser'
+    lore:
+    - ''
+    - '&7Right click to receive all exp'
+    - '&7from exp bottles in the dispenser'
+    - '&7and barrel the dispenser is facing'
+    - ''
+    - '&cThis is a Multiblock machine!'
+  FOUNDRY:
+    name: '&cFoundry'
+    lore:
+    - ''
+    - '&eMelts and stores dusts and ingots'
+    - '&7Stores 138,240 dust (40 Double Chests)'
+    - ''
+    - '&cThis is a Multiblock machine!'

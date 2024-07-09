@@ -1,0 +1,224 @@
+name: CrystamaeHistoria
+translations:
+  CRY_IMBUED_GLASS:
+    name: '&x&D&B&C&E&A&9Imbued Glass'
+    lore:
+    - ''
+    - '&7Glass imbued with Crysta that has'
+    - '&7some strange properties.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  CRY_MYSTICAL_PIGMENTATO:
+    name: '&x&D&B&C&E&A&9Mystical Pigmentato'
+    lore:
+    - ''
+    - '&7A condensed essence of color'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  CRY_AMALGAMATE_INGOT_MYTHICAL:
+    name: '&x&D&B&C&E&A&9Amalgamate Ingot (Mythical)'
+    lore:
+    - ''
+    - '&7An ingot crafted of pure magics.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  CRY_AMALGAMATE_DUST_EPIC:
+    name: '&x&D&B&C&E&A&9Amalgamate Dust (Epic)'
+    lore:
+    - ''
+    - '&7A dust combining all magic types.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  CRY_AMALGAMATE_INGOT_COMMON:
+    name: '&x&D&B&C&E&A&9Amalgamate Ingot (Common)'
+    lore:
+    - ''
+    - '&7An ingot crafted of pure magics.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  CRY_AMALGAMATE_DUST_UNCOMMON:
+    name: '&x&D&B&C&E&A&9Amalgamate Dust (Uncommon)'
+    lore:
+    - ''
+    - '&7A dust combining all magic types.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  CRY_MIND_STAND:
+    name: '&x&D&B&C&E&A&9Armorstand of the Mind'
+    lore:
+    - ''
+    - '&7Something about this stand is off.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  CRY_AMALGAMATE_INGOT_UNIQUE:
+    name: '&x&D&B&C&E&A&9Amalgamate Ingot (Unique)'
+    lore:
+    - ''
+    - '&7An ingot crafted of pure magics.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  CRY_BODY_STAND:
+    name: '&x&D&B&C&E&A&9Armorstand of the Body'
+    lore:
+    - ''
+    - '&7Something about this stand is off.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  CRY_CRYSTAL_PRISMATIC:
+    name: '&x&D&B&C&E&A&9Prismatic Crystal'
+    lore:
+    - ''
+    - '&7This crystal has so much magic it''s'
+    - '&7near to bursting.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  CRY_GILDED_PEARL:
+    name: '&x&D&B&C&E&A&9Gilded Pearl'
+    lore:
+    - ''
+    - '&7With the pearl quelled, it can'
+    - '&7be safely gilded and used in certain'
+    - '&7crafts.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  CRY_AMALGAMATE_INGOT_EPIC:
+    name: '&x&D&B&C&E&A&9Amalgamate Ingot (Epic)'
+    lore:
+    - ''
+    - '&7An ingot crafted of pure magics.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  CRY_AMALGAMATE_INGOT_RARE:
+    name: '&x&D&B&C&E&A&9Amalgamate Ingot (Rare)'
+    lore:
+    - ''
+    - '&7An ingot crafted of pure magics.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  CRY_MYSTICAL_ATTITUDINIZER:
+    name: '&x&D&B&C&E&A&9Mystical Attitudinizer'
+    lore:
+    - ''
+    - '&7A condensed essence of posture'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  CRY_CRYSTAL_MOTLEY:
+    name: '&x&D&B&C&E&A&9Motley Crystal'
+    lore:
+    - ''
+    - '&7A Crystal shell with multiple crysta'
+    - '&7types infused within.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  CRY_AMALGAMATE_DUST_RARE:
+    name: '&x&D&B&C&E&A&9Amalgamate Dust (Rare)'
+    lore:
+    - ''
+    - '&7A dust combining all magic types.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  CRY_POWDERED_ESSENCE:
+    name: '&x&D&B&C&E&A&9Powdered Essence'
+    lore:
+    - ''
+    - '&7A refined crafting material.'
+    - '&7Can be used as bone meal.'
+    - '&7'
+    - '&e250 Uses &7left'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  CRY_AMALGAMATE_INGOT_UNCOMMON:
+    name: '&x&D&B&C&E&A&9Amalgamate Ingot (Uncommon)'
+    lore:
+    - ''
+    - '&7An ingot crafted of pure magics.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  CRY_ARCANE_SIGIL:
+    name: '&x&D&B&C&E&A&9Arcane Sigil'
+    lore:
+    - ''
+    - '&7An ancient mark left in the world'
+    - '&7by previous Crysta users.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  CRY_AMALGAMATE_DUST_COMMON:
+    name: '&x&D&B&C&E&A&9Amalgamate Dust (Common)'
+    lore:
+    - ''
+    - '&7A dust combining all magic types.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  CRY_BASIC_FIBRES:
+    name: '&x&D&B&C&E&A&9Basic Fibres'
+    lore:
+    - ''
+    - '&7Very basic and coarse fibres.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  CRY_AMALGAMATE_DUST_MYTHICAL:
+    name: '&x&D&B&C&E&A&9Amalgamate Dust (Mythical)'
+    lore:
+    - ''
+    - '&7A dust combining all magic types.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  CRY_CRYSTAL_POLYCHROMATIC:
+    name: '&x&D&B&C&E&A&9Polychromatic Crystal'
+    lore:
+    - ''
+    - '&7A Crystal shell with multiple crysta'
+    - '&7types infused within.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  CRY_CRYSTAL_BLANK:
+    name: '&x&D&B&C&E&A&9Blank Crystal'
+    lore:
+    - ''
+    - '&7A Crystal with all of it''s Crysta drained.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  CRY_CRYSTAL_KALEIDOSCOPIC:
+    name: '&x&D&B&C&E&A&9Kaleidoscopic Crystal'
+    lore:
+    - ''
+    - '&7A Crystal shell with multiple crysta'
+    - '&7types infused within.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  CRY_MAGICAL_MILK_POWDER:
+    name: '&x&D&B&C&E&A&9Magical Milk Powder'
+    lore:
+    - ''
+    - '&7This powdered milk has something about it...'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  CRY_AMALGAMATE_DUST_UNIQUE:
+    name: '&x&D&B&C&E&A&9Amalgamate Dust (Unique)'
+    lore:
+    - ''
+    - '&7A dust combining all magic types.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  CRY_MYSTICAL_TINTANNO:
+    name: '&x&D&B&C&E&A&9Mystical Tintanno'
+    lore:
+    - ''
+    - '&7A condensed essence of color'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  CRY_SOUL_STAND:
+    name: '&x&D&B&C&E&A&9Armorstand of the Soul'
+    lore:
+    - ''
+    - '&7Something about this stand is off.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  CRY_UNCANNY_PEARL:
+    name: '&x&D&B&C&E&A&9Uncanny Pearl'
+    lore:
+    - ''
+    - '&7The internal resonance of this pearl'
+    - '&7has been quelled using crysta.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'

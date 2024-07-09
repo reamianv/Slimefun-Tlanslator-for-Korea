@@ -1,0 +1,146 @@
+name: DankTech2
+translations:
+  DK2_PACK_1:
+    name: '&x&D&E&E&B&F&FDank Pack'
+    lore:
+    - ''
+    - '&7A Dank Pack can hold many items'
+    - '&7inside it.'
+    - ''
+    - '&x&E&4&E&D&3&2Tier 1'
+  DK2_PACK_2:
+    name: '&x&B&8&B&8&B&8Dank Pack'
+    lore:
+    - ''
+    - '&7A Dank Pack can hold many items'
+    - '&7inside it.'
+    - ''
+    - '&x&E&4&E&D&3&2Tier 2'
+  DK2_PACK_3:
+    name: '&x&B&5&F&F&9&EDank Pack'
+    lore:
+    - ''
+    - '&7A Dank Pack can hold many items'
+    - '&7inside it.'
+    - ''
+    - '&x&E&4&E&D&3&2Tier 3'
+  DK2_PACK_4:
+    name: '&x&3&4&A&1&1&2Dank Pack'
+    lore:
+    - ''
+    - '&7A Dank Pack can hold many items'
+    - '&7inside it.'
+    - ''
+    - '&x&E&4&E&D&3&2Tier 4'
+  DK2_TRASH_1:
+    name: '&x&D&E&E&B&F&FTrash Pack'
+    lore:
+    - ''
+    - '&7A Dank Pack can hold many items'
+    - '&7inside it.'
+    - ''
+    - '&x&E&4&E&D&3&2Tier 1'
+  DK2_PACK_5:
+    name: '&x&4&6&7&D&C&FDank Pack'
+    lore:
+    - ''
+    - '&7A Dank Pack can hold many items'
+    - '&7inside it.'
+    - ''
+    - '&x&E&4&E&D&3&2Tier 5'
+  DK2_TRASH_2:
+    name: '&x&B&8&B&8&B&8Trash Pack'
+    lore:
+    - ''
+    - '&7A Dank Pack can hold many items'
+    - '&7inside it.'
+    - ''
+    - '&x&E&4&E&D&3&2Tier 2'
+  DK2_PACK_6:
+    name: '&x&0&8&3&5&7&8Dank Pack'
+    lore:
+    - ''
+    - '&7A Dank Pack can hold many items'
+    - '&7inside it.'
+    - ''
+    - '&x&E&4&E&D&3&2Tier 6'
+  DK2_PACK_7:
+    name: '&x&E&C&8&C&F&FDank Pack'
+    lore:
+    - ''
+    - '&7A Dank Pack can hold many items'
+    - '&7inside it.'
+    - ''
+    - '&x&E&4&E&D&3&2Tier 7'
+  DK2_PACK_8:
+    name: '&x&B&7&0&B&D&9Dank Pack'
+    lore:
+    - ''
+    - '&7A Dank Pack can hold many items'
+    - '&7inside it.'
+    - ''
+    - '&x&E&4&E&D&3&2Tier 8'
+  DK2_PACK_9:
+    name: '&x&A&6&0&0&0&0Dank Pack'
+    lore:
+    - ''
+    - '&7A Dank Pack can hold many items'
+    - '&7inside it.'
+    - ''
+    - '&x&E&4&E&D&3&2Tier 9'
+  DK2_TRASH_7:
+    name: '&x&E&C&8&C&F&FTrash Pack'
+    lore:
+    - ''
+    - '&7A Dank Pack can hold many items'
+    - '&7inside it.'
+    - ''
+    - '&x&E&4&E&D&3&2Tier 7'
+  DK2_TRASH_8:
+    name: '&x&B&7&0&B&D&9Trash Pack'
+    lore:
+    - ''
+    - '&7A Dank Pack can hold many items'
+    - '&7inside it.'
+    - ''
+    - '&x&E&4&E&D&3&2Tier 8'
+  DK2_TRASH_9:
+    name: '&x&A&6&0&0&0&0Trash Pack'
+    lore:
+    - ''
+    - '&7A Dank Pack can hold many items'
+    - '&7inside it.'
+    - ''
+    - '&x&E&4&E&D&3&2Tier 9'
+  DK2_TRASH_3:
+    name: '&x&B&5&F&F&9&ETrash Pack'
+    lore:
+    - ''
+    - '&7A Dank Pack can hold many items'
+    - '&7inside it.'
+    - ''
+    - '&x&E&4&E&D&3&2Tier 3'
+  DK2_TRASH_4:
+    name: '&x&3&4&A&1&1&2Trash Pack'
+    lore:
+    - ''
+    - '&7A Dank Pack can hold many items'
+    - '&7inside it.'
+    - ''
+    - '&x&E&4&E&D&3&2Tier 4'
+  DK2_TRASH_5:
+    name: '&x&4&6&7&D&C&FTrash Pack'
+    lore:
+    - ''
+    - '&7A Dank Pack can hold many items'
+    - '&7inside it.'
+    - ''
+    - '&x&E&4&E&D&3&2Tier 5'
+  DK2_TRASH_6:
+    name: '&x&0&8&3&5&7&8Trash Pack'
+    lore:
+    - ''
+    - '&7A Dank Pack can hold many items'
+    - '&7inside it.'
+    - ''
+    - '&x&E&4&E&D&3&2Tier 6'

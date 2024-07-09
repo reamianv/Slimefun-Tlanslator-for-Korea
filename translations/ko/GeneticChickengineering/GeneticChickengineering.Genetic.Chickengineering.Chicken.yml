@@ -1,0 +1,138 @@
+name: GeneticChickengineering
+translations:
+  GCE_GUNPOWDER_CHICKEN_ICON:
+    name: '[Gunpowder]'
+  GCE_NETHERRACK_CHICKEN_ICON:
+    name: '[Netherrack]'
+  GCE_SHROOMLIGHT_CHICKEN_ICON:
+    name: '[Shroomlight]'
+  GCE_COAL_CHICKEN_ICON:
+    name: '[Coal]'
+  GCE_PRISMARINE_CRYSTALS_CHICKEN_ICON:
+    name: '[Prismarine Crystals]'
+  GCE_SAND_CHICKEN_ICON:
+    name: '[Sand]'
+  GCE_LAVA_CHICKEN_ICON:
+    name: '&cLava Egg'
+    lore:
+    - '&7Contains lava.'
+    - ''
+    - '&eRight Click&7 to use'
+  GCE_BLAZE_ROD_CHICKEN_ICON:
+    name: '[Blaze Rod]'
+  GCE_DIORITE_CHICKEN_ICON:
+    name: '[Diorite]'
+  GCE_SULFATE_CHICKEN_ICON:
+    name: '&6Sulfate'
+  GCE_CLAY_CHICKEN_ICON:
+    name: '[Clay]'
+  GCE_LEATHER_CHICKEN_ICON:
+    name: '[Leather]'
+  GCE_FEATHER_CHICKEN_ICON:
+    name: '[Feather]'
+  GCE_PRISMARINE_SHARD_CHICKEN_ICON:
+    name: '[Prismarine Shard]'
+  GCE_CAKE_CHICKEN_ICON:
+    name: '[Cake]'
+  GCE_ALUMINUM_DUST_CHICKEN_ICON:
+    name: '&6Aluminum Dust'
+  GCE_ICE_CHICKEN_ICON:
+    name: '[Ice]'
+  GCE_LEAD_DUST_CHICKEN_ICON:
+    name: '&6Lead Dust'
+  GCE_SUGAR_CHICKEN_ICON:
+    name: '[Sugar]'
+  GCE_DIRT_CHICKEN_ICON:
+    name: '[Dirt]'
+  GCE_COBBLESTONE_CHICKEN_ICON:
+    name: '[Cobblestone]'
+  GCE_BONE_CHICKEN_ICON:
+    name: '[Bone]'
+  GCE_END_STONE_CHICKEN_ICON:
+    name: '[End Stone]'
+  GCE_OBSIDIAN_CHICKEN_ICON:
+    name: '[Obsidian]'
+  GCE_PHANTOM_MEMBRANE_CHICKEN_ICON:
+    name: '[Phantom Membrane]'
+  GCE_MAGMA_CREAM_CHICKEN_ICON:
+    name: '[Magma Cream]'
+  GCE_ZINC_DUST_CHICKEN_ICON:
+    name: '&6Zinc Dust'
+  GCE_LAPIS_CHICKEN_ICON:
+    name: '[Lapis Lazuli]'
+  GCE_GHAST_TEAR_CHICKEN_ICON:
+    name: '[Ghast Tear]'
+  GCE_GRAVEL_CHICKEN_ICON:
+    name: '[Gravel]'
+  GCE_STRING_CHICKEN_ICON:
+    name: '[String]'
+  GCE_ENDER_PEARL_CHICKEN_ICON:
+    name: '[Ender Pearl]'
+  GCE_IRON_CHICKEN_ICON:
+    name: '[Iron Ingot]'
+  GCE_IRON_DUST_CHICKEN_ICON:
+    name: '&6Iron Dust'
+  GCE_BASALT_CHICKEN_ICON:
+    name: '[Basalt]'
+  GCE_WATER_CHICKEN_ICON:
+    name: '&9Water Egg'
+    lore:
+    - '&7Contains water.'
+    - ''
+    - '&eRight Click&7 to use'
+  GCE_GLOWSTONE_DUST_CHICKEN_ICON:
+    name: '[Glowstone Dust]'
+  GCE_GLASS_CHICKEN_ICON:
+    name: '[Glass]'
+  GCE_GOLD_CHICKEN_ICON:
+    name: '[Gold Ingot]'
+  GCE_SILVER_DUST_CHICKEN_ICON:
+    name: '&6Silver Dust'
+  GCE_QUARTZ_CHICKEN_ICON:
+    name: '[Nether Quartz]'
+  GCE_COPPER_DUST_CHICKEN_ICON:
+    name: '&6Copper Dust'
+  GCE_CACTUS_CHICKEN_ICON:
+    name: '[Cactus]'
+  GCE_SNOWBALL_CHICKEN_ICON:
+    name: '[Snowball]'
+  GCE_SLIME_BALL_CHICKEN_ICON:
+    name: '[Slimeball]'
+  GCE_REDSTONE_CHICKEN_ICON:
+    name: '[Redstone Dust]'
+  GCE_TIN_DUST_CHICKEN_ICON:
+    name: '&6Tin Dust'
+  GCE_EXPERIENCE_CHICKEN_ICON:
+    name: '[Bottle o'' Enchanting]'
+  GCE_DIAMOND_CHICKEN_ICON:
+    name: '[Diamond]'
+  GCE_SOUL_SAND_CHICKEN_ICON:
+    name: '[Soul Sand]'
+  GCE_BLACKSTONE_CHICKEN_ICON:
+    name: '[Blackstone]'
+  GCE_FLINT_CHICKEN_ICON:
+    name: '[Flint]'
+  GCE_GRANITE_CHICKEN_ICON:
+    name: '[Granite]'
+  GCE_ANDESITE_CHICKEN_ICON:
+    name: '[Andesite]'
+  GCE_SOUL_SOIL_CHICKEN_ICON:
+    name: '[Soul Soil]'
+  GCE_KELP_CHICKEN_ICON:
+    name: '[Kelp]'
+  GCE_NETHERITE_CHICKEN_ICON:
+    name: '[Netherite Ingot]'
+  GCE_MAGNESIUM_DUST_CHICKEN_ICON:
+    name: '&6Magnesium'
+  GCE_GOLD_DUST_CHICKEN_ICON:
+    name: '&6Gold Dust'
+  GCE_CRYING_OBSIDIAN_CHICKEN_ICON:
+    name: '[Crying Obsidian]'
+  GCE_SPONGE_CHICKEN_ICON:
+    name: '[Sponge]'
+  GCE_NETHER_WART_CHICKEN_ICON:
+    name: '[Nether Wart]'
+  GCE_OAK_LOG_CHICKEN_ICON:
+    name: '[Oak Log]'
+  GCE_EMERALD_CHICKEN_ICON:
+    name: '[Emerald]'

@@ -1,0 +1,302 @@
+name: MiniBlocks
+translations:
+  GOLD_BLOCKMINIBLOCK:
+    name: '&9Gold block &8(MiniBlock)'
+  COARSE_DIRTMINIBLOCK:
+    name: '&9Coarse dirt &8(MiniBlock)'
+  CRYING_OBSIDIANMINIBLOCK:
+    name: '&9Crying obsidian &8(MiniBlock)'
+  DEEPSLATE_LAPIS_OREMINIBLOCK:
+    name: '&9Deepslate lapis ore &8(MiniBlock)'
+  BIRCH_LOGMINIBLOCK:
+    name: '&9Birch log &8(MiniBlock)'
+  DEEPSLATE_REDSTONE_OREMINIBLOCK:
+    name: '&9Deepslate redstone ore &8(MiniBlock)'
+  NETHER_QUARTZ_OREMINIBLOCK:
+    name: '&9Nether quartz ore &8(MiniBlock)'
+  LODESTONEMINIBLOCK:
+    name: '&9Lodestone &8(MiniBlock)'
+  CRIMSON_STEMMINIBLOCK:
+    name: '&9Crimson stem &8(MiniBlock)'
+  BUDDING_AMETHYSTMINIBLOCK:
+    name: '&9Budding amethyst &8(MiniBlock)'
+  BLAST_FURNACEMINIBLOCK:
+    name: '&9Blast furnace &8(MiniBlock)'
+  COBBLED_DEEPSLATEMINIBLOCK:
+    name: '&9Cobbled deepslate &8(MiniBlock)'
+  DARK_OAK_LOGMINIBLOCK:
+    name: '&9Dark oak log &8(MiniBlock)'
+  OXIDIZED_COPPERMINIBLOCK:
+    name: '&9Oxidized copper &8(MiniBlock)'
+  ROSE_BUSHMINIBLOCK:
+    name: '&9Rose bush &8(MiniBlock)'
+  SCAFFOLDINGMINIBLOCK:
+    name: '&9Scaffolding &8(MiniBlock)'
+  IRON_BLOCKMINIBLOCK:
+    name: '&9Iron block &8(MiniBlock)'
+  AMETHYST_BLOCKMINIBLOCK:
+    name: '&9Amethyst block &8(MiniBlock)'
+  SLIME_BLOCKMINIBLOCK:
+    name: '&9Slime block &8(MiniBlock)'
+  GRANITEMINIBLOCK:
+    name: '&9Granite &8(MiniBlock)'
+  SLIME_BALLMINIBLOCK:
+    name: '&9Slime ball &8(MiniBlock)'
+  PUMPKINMINIBLOCK:
+    name: '&9Pumpkin &8(MiniBlock)'
+  COOKIEMINIBLOCK:
+    name: '&9Cookie &8(MiniBlock)'
+  IRON_OREMINIBLOCK:
+    name: '&9Iron ore &8(MiniBlock)'
+  DRIPSTONE_BLOCKMINIBLOCK:
+    name: '&9Dripstone block &8(MiniBlock)'
+  SMOKERMINIBLOCK:
+    name: '&9Smoker &8(MiniBlock)'
+  SMITHING_TABLEMINIBLOCK:
+    name: '&9Smithing table &8(MiniBlock)'
+  EMERALD_OREMINIBLOCK:
+    name: '&9Emerald ore &8(MiniBlock)'
+  WEATHERED_CUT_COPPERMINIBLOCK:
+    name: '&9Weathered cut copper &8(MiniBlock)'
+  RAW_COPPER_BLOCKMINIBLOCK:
+    name: '&9Raw copper block &8(MiniBlock)'
+  EXPOSED_CUT_COPPERMINIBLOCK:
+    name: '&9Exposed cut copper &8(MiniBlock)'
+  ROOTED_DIRTMINIBLOCK:
+    name: '&9Rooted dirt &8(MiniBlock)'
+  RAW_IRON_BLOCKMINIBLOCK:
+    name: '&9Raw iron block &8(MiniBlock)'
+  CAKEMINIBLOCK:
+    name: '&9Cake &8(MiniBlock)'
+  JACK_O_LANTERNMINIBLOCK:
+    name: '&9Jack o lantern &8(MiniBlock)'
+  LAPIS_OREMINIBLOCK:
+    name: '&9Lapis ore &8(MiniBlock)'
+  HONEY_BLOCKMINIBLOCK:
+    name: '&9Honey block &8(MiniBlock)'
+  SOUL_LANTERNMINIBLOCK:
+    name: '&9Soul lantern &8(MiniBlock)'
+  LAVA_BUCKETMINIBLOCK:
+    name: '&9Lava bucket &8(MiniBlock)'
+  SHROOMLIGHTMINIBLOCK:
+    name: '&9Shroomlight &8(MiniBlock)'
+  NETHER_GOLD_OREMINIBLOCK:
+    name: '&9Nether gold ore &8(MiniBlock)'
+  PUMPKIN_PIEMINIBLOCK:
+    name: '&9Pumpkin pie &8(MiniBlock)'
+  COAL_OREMINIBLOCK:
+    name: '&9Coal ore &8(MiniBlock)'
+  COAL_BLOCKMINIBLOCK:
+    name: '&9Coal block &8(MiniBlock)'
+  DARK_OAK_PLANKSMINIBLOCK:
+    name: '&9Dark oak planks &8(MiniBlock)'
+  SPRUCE_PLANKSMINIBLOCK:
+    name: '&9Spruce planks &8(MiniBlock)'
+  DEEPSLATE_COPPER_OREMINIBLOCK:
+    name: '&9Deepslate copper ore &8(MiniBlock)'
+  SPRUCE_LOGMINIBLOCK:
+    name: '&9Spruce log &8(MiniBlock)'
+  TOTEM_OF_UNDYINGMINIBLOCK:
+    name: '&9Totem of undying &8(MiniBlock)'
+  DIAMOND_OREMINIBLOCK:
+    name: '&9Diamond ore &8(MiniBlock)'
+  BUCKETMINIBLOCK:
+    name: '&9Bucket &8(MiniBlock)'
+  LOOMMINIBLOCK:
+    name: '&9Loom &8(MiniBlock)'
+  SPONGEMINIBLOCK:
+    name: '&9Sponge &8(MiniBlock)'
+  ACACIA_LOGMINIBLOCK:
+    name: '&9Acacia log &8(MiniBlock)'
+  ANCIENT_DEBRISMINIBLOCK:
+    name: '&9Ancient debris &8(MiniBlock)'
+  GRINDSTONEMINIBLOCK:
+    name: '&9Grindstone &8(MiniBlock)'
+  COPPER_OREMINIBLOCK:
+    name: '&9Copper ore &8(MiniBlock)'
+  CHAIN_COMMAND_BLOCKMINIBLOCK:
+    name: '&9Chain command block &8(MiniBlock)'
+  CARVED_PUMPKINMINIBLOCK:
+    name: '&9Carved pumpkin &8(MiniBlock)'
+  OBSERVERMINIBLOCK:
+    name: '&9Observer &8(MiniBlock)'
+  GLOWSTONEMINIBLOCK:
+    name: '&9Glowstone &8(MiniBlock)'
+  REDSTONE_LAMPMINIBLOCK:
+    name: '&9Redstone lamp &8(MiniBlock)'
+  WEATHERED_COPPERMINIBLOCK:
+    name: '&9Weathered copper &8(MiniBlock)'
+  SOUL_CAMPFIREMINIBLOCK:
+    name: '&9Soul campfire &8(MiniBlock)'
+  TUFFMINIBLOCK:
+    name: '&9Tuff &8(MiniBlock)'
+  COBBLESTONEMINIBLOCK:
+    name: '&9Cobblestone &8(MiniBlock)'
+  WARPED_STEMMINIBLOCK:
+    name: '&9Warped stem &8(MiniBlock)'
+  WET_SPONGEMINIBLOCK:
+    name: '&9Wet sponge &8(MiniBlock)'
+  CRAFTING_TABLEMINIBLOCK:
+    name: '&9Crafting table &8(MiniBlock)'
+  DEEPSLATEMINIBLOCK:
+    name: '&9Deepslate &8(MiniBlock)'
+  BONE_BLOCKMINIBLOCK:
+    name: '&9Bone block &8(MiniBlock)'
+  RED_SANDMINIBLOCK:
+    name: '&9Red sand &8(MiniBlock)'
+  JUNGLE_LOGMINIBLOCK:
+    name: '&9Jungle log &8(MiniBlock)'
+  SANDMINIBLOCK:
+    name: '&9Sand &8(MiniBlock)'
+  ANVILMINIBLOCK:
+    name: '&9Anvil &8(MiniBlock)'
+  OXIDIZED_CUT_COPPERMINIBLOCK:
+    name: '&9Oxidized cut copper &8(MiniBlock)'
+  SOUL_SANDMINIBLOCK:
+    name: '&9Soul sand &8(MiniBlock)'
+  CAMPFIREMINIBLOCK:
+    name: '&9Campfire &8(MiniBlock)'
+  POLISHED_GRANITEMINIBLOCK:
+    name: '&9Polished granite &8(MiniBlock)'
+  FURNACEMINIBLOCK:
+    name: '&9Furnace &8(MiniBlock)'
+  SPYGLASSMINIBLOCK:
+    name: '&9Spyglass &8(MiniBlock)'
+  ANDESITEMINIBLOCK:
+    name: '&9Andesite &8(MiniBlock)'
+  GOLD_OREMINIBLOCK:
+    name: '&9Gold ore &8(MiniBlock)'
+  CARTOGRAPHY_TABLEMINIBLOCK:
+    name: '&9Cartography table &8(MiniBlock)'
+  SUGAR_CANEMINIBLOCK:
+    name: '&9Sugar cane &8(MiniBlock)'
+  SCULK_SENSORMINIBLOCK:
+    name: '&9Sculk sensor &8(MiniBlock)'
+  FLETCHING_TABLEMINIBLOCK:
+    name: '&9Fletching table &8(MiniBlock)'
+  REDSTONE_OREMINIBLOCK:
+    name: '&9Redstone ore &8(MiniBlock)'
+  ACACIA_PLANKSMINIBLOCK:
+    name: '&9Acacia planks &8(MiniBlock)'
+  DEEPSLATE_DIAMOND_OREMINIBLOCK:
+    name: '&9Deepslate diamond ore &8(MiniBlock)'
+  DEEPSLATE_EMERALD_OREMINIBLOCK:
+    name: '&9Deepslate emerald ore &8(MiniBlock)'
+  POLISHED_DIORITEMINIBLOCK:
+    name: '&9Polished diorite &8(MiniBlock)'
+  EXPOSED_COPPERMINIBLOCK:
+    name: '&9Exposed copper &8(MiniBlock)'
+  COCOA_BEANSMINIBLOCK:
+    name: '&9Cocoa beans &8(MiniBlock)'
+  STONECUTTERMINIBLOCK:
+    name: '&9Stonecutter &8(MiniBlock)'
+  TARGETMINIBLOCK:
+    name: '&9Target &8(MiniBlock)'
+  DEEPSLATE_GOLD_OREMINIBLOCK:
+    name: '&9Deepslate gold ore &8(MiniBlock)'
+  COMMAND_BLOCKMINIBLOCK:
+    name: '&9Command block &8(MiniBlock)'
+  MILK_BUCKETMINIBLOCK:
+    name: '&9Milk bucket &8(MiniBlock)'
+  JUKEBOXMINIBLOCK:
+    name: '&9Jukebox &8(MiniBlock)'
+  PODZOLMINIBLOCK:
+    name: '&9Podzol &8(MiniBlock)'
+  STONEMINIBLOCK:
+    name: '&9Stone &8(MiniBlock)'
+  GRASS_BLOCKMINIBLOCK:
+    name: '&9Grass block &8(MiniBlock)'
+  ENCHANTING_TABLEMINIBLOCK:
+    name: '&9Enchanting table &8(MiniBlock)'
+  CACTUSMINIBLOCK:
+    name: '&9Cactus &8(MiniBlock)'
+  LANTERNMINIBLOCK:
+    name: '&9Lantern &8(MiniBlock)'
+  BIRCH_PLANKSMINIBLOCK:
+    name: '&9Birch planks &8(MiniBlock)'
+  LECTERNMINIBLOCK:
+    name: '&9Lectern &8(MiniBlock)'
+  SOUL_SOILMINIBLOCK:
+    name: '&9Soul soil &8(MiniBlock)'
+  ENCHANTED_BOOKMINIBLOCK:
+    name: '&9Enchanted book &8(MiniBlock)'
+  REPEATING_COMMAND_BLOCKMINIBLOCK:
+    name: '&9Repeating command block &8(MiniBlock)'
+  MELONMINIBLOCK:
+    name: '&9Melon &8(MiniBlock)'
+  CRIMSON_NYLIUMMINIBLOCK:
+    name: '&9Crimson nylium &8(MiniBlock)'
+  COPPER_BLOCKMINIBLOCK:
+    name: '&9Copper block &8(MiniBlock)'
+  MAGMA_CREAMMINIBLOCK:
+    name: '&9Magma cream &8(MiniBlock)'
+  TNTMINIBLOCK:
+    name: '&9Tnt &8(MiniBlock)'
+  DEEPSLATE_IRON_OREMINIBLOCK:
+    name: '&9Deepslate iron ore &8(MiniBlock)'
+  CUT_COPPERMINIBLOCK:
+    name: '&9Cut copper &8(MiniBlock)'
+  PISTONMINIBLOCK:
+    name: '&9Piston &8(MiniBlock)'
+  CHIPPED_ANVILMINIBLOCK:
+    name: '&9Chipped anvil &8(MiniBlock)'
+  STICKY_PISTONMINIBLOCK:
+    name: '&9Sticky piston &8(MiniBlock)'
+  BARRIERMINIBLOCK:
+    name: '&9Barrier &8(MiniBlock)'
+  OAK_LOGMINIBLOCK:
+    name: '&9Oak log &8(MiniBlock)'
+  POWDER_SNOW_BUCKETMINIBLOCK:
+    name: '&9Powder snow bucket &8(MiniBlock)'
+  OAK_PLANKSMINIBLOCK:
+    name: '&9Oak planks &8(MiniBlock)'
+  DIRTMINIBLOCK:
+    name: '&9Dirt &8(MiniBlock)'
+  DEEPSLATE_COAL_OREMINIBLOCK:
+    name: '&9Deepslate coal ore &8(MiniBlock)'
+  CALCITEMINIBLOCK:
+    name: '&9Calcite &8(MiniBlock)'
+  GRAVELMINIBLOCK:
+    name: '&9Gravel &8(MiniBlock)'
+  JUNGLE_PLANKSMINIBLOCK:
+    name: '&9Jungle planks &8(MiniBlock)'
+  BEE_NESTMINIBLOCK:
+    name: '&9Bee nest &8(MiniBlock)'
+  DIORITEMINIBLOCK:
+    name: '&9Diorite &8(MiniBlock)'
+  POLISHED_ANDESITEMINIBLOCK:
+    name: '&9Polished andesite &8(MiniBlock)'
+  BEDROCKMINIBLOCK:
+    name: '&9Bedrock &8(MiniBlock)'
+  BEACONMINIBLOCK:
+    name: '&9Beacon &8(MiniBlock)'
+  BRICKSMINIBLOCK:
+    name: '&9Bricks &8(MiniBlock)'
+  END_CRYSTALMINIBLOCK:
+    name: '&9End crystal &8(MiniBlock)'
+  WATER_BUCKETMINIBLOCK:
+    name: '&9Water bucket &8(MiniBlock)'
+  CRIMSON_PLANKSMINIBLOCK:
+    name: '&9Crimson planks &8(MiniBlock)'
+  DIAMOND_BLOCKMINIBLOCK:
+    name: '&9Diamond block &8(MiniBlock)'
+  DEAD_BUSHMINIBLOCK:
+    name: '&9Dead bush &8(MiniBlock)'
+  CAULDRONMINIBLOCK:
+    name: '&9Cauldron &8(MiniBlock)'
+  NETHERITE_BLOCKMINIBLOCK:
+    name: '&9Netherite block &8(MiniBlock)'
+  STRUCTURE_VOIDMINIBLOCK:
+    name: '&9Structure void &8(MiniBlock)'
+  DAMAGED_ANVILMINIBLOCK:
+    name: '&9Damaged anvil &8(MiniBlock)'
+  WARPED_PLANKSMINIBLOCK:
+    name: '&9Warped planks &8(MiniBlock)'
+  CHESTMINIBLOCK:
+    name: '&9Chest &8(MiniBlock)'
+  POLISHED_DEEPSLATEMINIBLOCK:
+    name: '&9Polished deepslate &8(MiniBlock)'
+  WARPED_NYLIUMMINIBLOCK:
+    name: '&9Warped nylium &8(MiniBlock)'
+  RAW_GOLD_BLOCKMINIBLOCK:
+    name: '&9Raw gold block &8(MiniBlock)'

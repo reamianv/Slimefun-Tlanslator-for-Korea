@@ -1,0 +1,40 @@
+name: Gastronomicon
+translations:
+  GN_CULINARY_WORKBENCH:
+    name: '&x&0&0&A&A&A&ACulinary Workbench'
+  GN_FERMENTER:
+    name: '&x&0&0&A&A&A&AFermenter'
+    lore:
+    - ''
+    - '&eShift Right Click &x&A&A&A&A&A&Awith a water'
+    - '&x&A&A&A&A&A&Abucket or water bottle to refill'
+    - '&x&A&A&A&A&A&A'
+    - '&8⇨ &9🪣 &72000 mB Buffer'
+    - '&8⇨ &9🪣 &7125 mB/Craft'
+  GN_MILL:
+    name: '&x&0&0&A&A&A&AGrain Mill'
+  GN_MULTI_STOVE:
+    name: '&x&0&0&A&A&A&AMulti-Stove'
+    lore:
+    - ''
+    - '&8⇨ &e⚡ &71024 J Buffer'
+    - '&8⇨ &e⚡ &764 J/Craft'
+  GN_LARGE_FERMENTER:
+    name: '&x&0&0&A&A&A&ALarge Fermenter'
+    lore:
+    - ''
+    - '&eShift Right Click &x&A&A&A&A&A&Awith a water'
+    - '&x&A&A&A&A&A&Abucket or water bottle to refill'
+    - '&x&A&A&A&A&A&A'
+    - '&8⇨ &9🪣 &716000 mB Buffer'
+    - '&8⇨ &9🪣 &7125 mB/Craft'
+  GN_CHEF_ANDROID_TRAINER:
+    name: '&x&A&A&A&A&F&FChef Android Trainer'
+  GN_REFRIDGERATOR:
+    name: '&x&0&0&A&A&A&ARefrigerator'
+    lore:
+    - ''
+    - '&8⇨ &e⚡ &71024 J Buffer'
+    - '&8⇨ &e⚡ &764 J/Craft'
+  GN_CHEF_ANDROID:
+    name: '&x&A&A&A&A&F&FChef Android'

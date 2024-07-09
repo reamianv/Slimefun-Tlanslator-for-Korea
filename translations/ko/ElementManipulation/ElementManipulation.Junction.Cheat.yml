@@ -1,0 +1,134 @@
+name: ElementManipulation
+translations:
+  EM_COAL:
+    name: '&fCoal'
+    lore:
+    - '&fUsable in vanilla workbench'
+  EM_TERRACOTA:
+    name: '&fTerracota'
+    lore:
+    - '&fUsable in vanilla workbench'
+  EM_SUGAR_CANE:
+    name: '&fSugar cane'
+    lore:
+    - '&fUsable in vanilla workbench'
+  EM_WHEAT_SEEDS:
+    name: '&fWheat seeds'
+    lore:
+    - '&fUsable in vanilla workbench'
+  EM_WATERBUCKET:
+    name: '&fWater bucket'
+    lore:
+    - '&fUsable in vanilla workbench'
+  EM_INK:
+    name: '&fInk sac'
+    lore:
+    - '&fUsable in vanilla workbench'
+  EM_BERRIES:
+    name: '&fSweet berries'
+    lore:
+    - '&fUsable in vanilla workbench'
+  EM_PUMPKIN_SEEDS:
+    name: '&fPumpkin seeds'
+    lore:
+    - '&fUsable in vanilla workbench'
+  EM_MELON_SEEDS:
+    name: '&fMelon seeds'
+    lore:
+    - '&fUsable in vanilla workbench'
+  EM_TEAR:
+    name: '&fGhast tear'
+    lore:
+    - '&fUsable in vanilla workbench'
+  EM_CARROT:
+    name: '&fCarrot'
+    lore:
+    - '&fUsable in vanilla workbench'
+  EM_WART:
+    name: '&fNether wart'
+    lore:
+    - '&fUsable in vanilla workbench'
+  EM_CLAY:
+    name: '&fClay ball'
+    lore:
+    - '&fUsable in vanilla workbench'
+  EM_LAPIS:
+    name: '&fLapis lazuli'
+    lore:
+    - '&fUsable in vanilla workbench'
+  EM_GLASS:
+    name: '&fGlass'
+    lore:
+    - '&fUsable in vanilla workbench'
+  EM_GOLD_INGOT:
+    name: '&fGold ingot'
+    lore:
+    - '&fUsable in vanilla workbench'
+  EM_MAGMA_BALL:
+    name: '&fMagma ball'
+    lore:
+    - '&fUsable in vanilla workbench'
+  EM_LEAVES:
+    name: '&fOak leaves'
+    lore:
+    - '&fUsable in vanilla workbench'
+  EM_APPLE:
+    name: '&fApple'
+    lore:
+    - '&fUsable in vanilla workbench'
+  EM_EGG:
+    name: '&fEgg'
+    lore:
+    - '&fUsable in vanilla workbench'
+  EM_HONEY:
+    name: '&fHoney bottle'
+    lore:
+    - '&fUsable in vanilla workbench'
+  EM_OBSIDIAN:
+    name: '&fObsidian'
+    lore:
+    - '&fUsable in vanilla workbench'
+  EM_SAND:
+    name: '&fSand'
+    lore:
+    - '&fUsable in vanilla workbench'
+  EM_COCOA:
+    name: '&fCocoa beans'
+    lore:
+    - '&fUsable in vanilla workbench'
+  EM_POISON_POTATO:
+    name: '&fPoisonous potato'
+    lore:
+    - '&fUsable in vanilla workbench'
+  EM_QUARTZ:
+    name: '&fNether quartz'
+    lore:
+    - '&fUsable in vanilla workbench'
+  EM_BEETROOT_SEEDS:
+    name: '&fBeetroot seeds'
+    lore:
+    - '&fUsable in vanilla workbench'
+  EM_BONE:
+    name: '&fBone'
+    lore:
+    - '&fUsable in vanilla workbench'
+  EM_SUGAR:
+    name: '&fSugar'
+    lore:
+    - '&fUsable in vanilla workbench'
+  EM_FLINT:
+    name: '&fFlint'
+    lore:
+    - '&fUsable in vanilla workbench'
+  EM_REDSTONE:
+    name: '&fRedstone'
+    lore:
+    - '&fUsable in vanilla workbench'
+  EM_EMERALD:
+    name: '&fEmerald'
+    lore:
+    - '&fUsable in vanilla workbench'
+  EM_POTATO:
+    name: '&fPotato'
+    lore:
+    - '&fUsable in vanilla workbench'

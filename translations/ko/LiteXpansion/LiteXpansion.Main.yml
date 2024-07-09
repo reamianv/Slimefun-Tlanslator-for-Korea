@@ -1,0 +1,219 @@
+name: LiteXpansion
+translations:
+  SCRAP:
+    name: '&8Scrap'
+    lore:
+    - ''
+    - '&7Can be used to create &5UU-Matter'
+  GENERATOR:
+    name: '&7Generator'
+  UU_CRAFTER:
+    name: '&7UU Crafter'
+  GOLD_ITEM_CASING:
+    name: '&7Gold Item Casing'
+  THORIUM:
+    name: '&8Thorium'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&8⇨ &4Hazmat Suit required!'
+  IRON_ITEM_CASING:
+    name: '&7Iron Item Casing'
+  UNINSULATED_GOLD_CABLE:
+    name: '&7Uninsulated Gold Cable'
+  MINING_DRILL:
+    name: '&7Mining Drill'
+    lore:
+    - ''
+    - '&7Instantly breaks stone and stone variants'
+    - '&7Right click to break block slower'
+    - ''
+    - '&8⇨ &e⚡ &70 / 1000 J'
+  DIAMOND_PLATE:
+    name: '&7Diamond Plate'
+  REINFORCED_GLASS:
+    name: '&7Reinforced Glass'
+  MACERATOR:
+    name: '&7Macerator'
+  GOLD_CABLE:
+    name: '&7Gold Cable'
+  MIXED_METAL_INGOT:
+    name: '&7Mixed Metal Ingot'
+  IRON_PLATE:
+    name: '&7Iron Plate'
+  ELECTRONIC_CIRCUIT:
+    name: '&7Electronic Circuit'
+  COPPER_ITEM_CASING:
+    name: '&7Copper Item Casing'
+  ADVANCED_ALLOY:
+    name: '&7Advanced Alloy'
+  CARBON_PLATE:
+    name: '&7Carbon Plate'
+  ENERGIZED_SOLAR_HELMET:
+    name: '&7Energized Solar Helmet'
+  REFINED_SMELTERY:
+    name: '&7Refined Smeltery'
+  CARGO_CONFIGURATOR:
+    name: '&7Cargo Configurator'
+    lore:
+    - ''
+    - '&7> &eRight Click &7- Copy node configuration'
+    - '&7> &eLeft Click  &7- Apply node configuration'
+    - '&7> &eShift+Right Click &7- Clear node configurator'
+  ADVANCED_SOLAR_PANEL:
+    name: '&7&lAdvanced Solar Panel'
+    lore:
+    - '&9Works at Night'
+    - ''
+    - '&8⇨ &e⚡ &7320,000 J Buffer'
+    - '&8⇨ &e⚡ &780 J/t (Day)'
+    - '&8⇨ &e⚡ &710 J/t (Night)'
+  HYBRID_SOLAR_PANEL:
+    name: '&b&lHybrid Solar Panel'
+    lore:
+    - '&9Works at Night'
+    - ''
+    - '&8⇨ &e⚡ &71,000,000 J Buffer'
+    - '&8⇨ &e⚡ &7640 J/t (Day + Nether)'
+    - '&8⇨ &e⚡ &780 J/t (Night + End)'
+  REFINED_IRON:
+    name: '&7Refined Iron'
+  IRIDIUM:
+    name: '&fIridium'
+  ADVANCED_SOLAR_HELMET:
+    name: '&7Advanced Solar Helmet'
+  COPPER_PLATE:
+    name: '&7Copper Plate'
+  CONVER:
+    name: '&7Converter'
+  ELECTRIC_CHESTPLATE:
+    name: '&9Electric Chestplate'
+    lore:
+    - ''
+    - '&8⇨ &7Negates all the damage dealt to player.'
+    - ''
+    - '&8⇨ &e⚡ &70 / 8192 J'
+  RAW_CARBON_FIBRE:
+    name: '&7Raw Carbon Fibre'
+  COPPER_CABLE:
+    name: '&7Copper Cable'
+  MULTI_FUNCTIONAL_ELECTRIC_STORAGE_UNIT:
+    name: '&7MFE'
+  COAL_DUST:
+    name: '&7Coal Dust'
+  UNINSULATED_COPPER_CABLE:
+    name: '&7Uninsulated Copper Cable'
+  ADVANCED_CIRCUIT:
+    name: '&7Advanced Circuit'
+  ULTIMATE_SOLAR_PANEL:
+    name: '&5&lUltimate Solar Panel'
+    lore:
+    - '&9Works at Night'
+    - ''
+    - '&8⇨ &e⚡ &710,000,000 J Buffer'
+    - '&8⇨ &e⚡ &75,120 J/t (Day)'
+    - '&8⇨ &e⚡ &7640 J/t (Night)'
+  TIN_ITEM_CASING:
+    name: '&7Tin Item Casing'
+  RAW_CARBON_MESH:
+    name: '&7Raw Carbon Mesh'
+  MACHINE_BLOCK:
+    name: '&7Machine Block'
+  METAL_FORGE:
+    name: '&7Metal Forge'
+  TIN_PLATE:
+    name: '&7Tin Plate'
+  UU_MATTER:
+    name: '&5UU-Matter'
+    lore:
+    - ''
+    - '&7Can be used to create items or resources'
+  ADVANCEDLX_SOLAR_HELMET:
+    name: '&7Super Advanced Solar Helmet'
+  SCRAP_MACHINE:
+    name: '&8Recycler'
+    lore:
+    - ''
+    - '&fProduces &8Scrap &ffrom anything'
+    - ''
+    - '&8⇨ &e⚡ &7600 J Buffer'
+    - '&8⇨ &e⚡ &7200 J/t'
+  HYBRID_SOLAR_HELMET:
+    name: '&7Hybrid Solar Helmet'
+  MAG_THOR:
+    name: '&b&lMag-Thor'
+    lore:
+    - ''
+    - '&7&oAn extremely durable alloy used'
+    - '&7&oonly in the most advanced machines'
+  THORIUM_PLATE:
+    name: '&7Thorium Plate'
+  ADVANCED_MACHINE_BLOCK:
+    name: '&7Advanced Machine Block'
+  MANUAL_MILL:
+    name: '&7Manual Mill'
+  UNINSULATED_TIN_CABLE:
+    name: '&7Uninsulated Tin Cable'
+  FOOD_SYNTHESIZER:
+    name: '&dFood Synthesizer'
+    lore:
+    - ''
+    - '&fKeeps you fed with artificial food.'
+    - '&fComes in the flavors!'
+    - ''
+    - '&8⇨ &e⚡ &70 / 100 J'
+  NANO_BLADE:
+    name: '&2Nano Blade &c(Off)'
+    lore:
+    - ''
+    - '&fAn advanced piece of technology which can'
+    - '&fcut through organic tissue with ease.'
+    - ''
+    - '&fToggle: &aRight Click'
+    - ''
+    - '&8⇨ &e⚡ &70 / 4000.0 J'
+  POWER_UNIT:
+    name: '&7Power Unit'
+  TIN_CABLE:
+    name: '&7Tin Cable'
+  MASS_FABRICATOR_MACHINE:
+    name: '&5Mass Fabricator'
+    lore:
+    - ''
+    - '&fConverts &8Scrap &fto &5UU-Matter'
+    - ''
+    - '&8⇨ &e⚡ &749,998 J Buffer'
+    - '&8⇨ &e⚡ &716,666 J/t'
+  ULTIMATE_SOLAR_HELMET:
+    name: '&7Ultimate Solar Helmet'
+  DIAMOND_DRILL:
+    name: '&bDiamond Drill'
+    lore:
+    - ''
+    - '&7Instantly breaks obsidian, stone, and stone variants'
+    - '&7Right click to break block slower'
+    - ''
+    - '&8⇨ &e⚡ &70 / 1000 J'
+  CARBONADO_SOLAR_HELMET:
+    name: '&7Carbonado Solar Helmet'
+  GOLD_PLATE:
+    name: '&7Gold Plate'
+  RE_BATTERY:
+    name: '&7RE Battery'
+  LAPOTRON_CRYSTAL:
+    name: '&7Lapotron Crystal'
+  GLASS_CUTTER:
+    name: '&bGlass Cutter'
+    lore:
+    - ''
+    - '&7> &eLeft Click &7- Cut glass quickly'
+    - '&7> &eRight Click &7- Cut glass slowly'
+    - ''
+    - '&8⇨ &e⚡ &70 / 300 J'
+  MULTI_FUNCTIONAL_STORAGE_UNIT:
+    name: '&7MFSU'
+  IRIDIUM_PLATE:
+    name: '&fIridium Plate'
+    lore:
+    - ''
+    - '&7Used to create Iridium Armor'

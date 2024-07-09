@@ -1,0 +1,101 @@
+name: SlimeFrame
+translations:
+  WF_NOSAM_PICK:
+    name: '&x&C&D&7&F&3&2Nosam Pickaxe'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3A special pickaxe capable of extracting'
+    - '&x&9&D&A&8&A&3 new resources from rocks and ores'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Utils & Tools&x&C&0&C&0&C&0>'
+  WF_PRIME_NOSAM_PICK:
+    name: '&x&F&F&D&7&0&0Prime Nosam Pickaxe'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3The best version of the Nosam Pickaxe,'
+    - '&x&9&D&A&8&A&3able to regularly get rare resources'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Utils & Tools&x&C&0&C&0&C&0>'
+  WF_FOC_NOSAM_PICK:
+    name: '&x&C&0&C&0&C&0Focused Nosam Pickaxe'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3An improved version of the Nosam Pickaxe with'
+    - '&x&9&D&A&8&A&3higher chances of extracting rare resources'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Utils & Tools&x&C&0&C&0&C&0>'
+  WF_PRIME_OROKIN_WAND:
+    name: '&ePrime Orokin Wand'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3An improved version of the Orokin Wand'
+    - '&x&9&D&A&8&A&3'
+    - '&e1024 Uses &7left'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Utils & Tools&x&C&0&C&0&C&0>'
+  WF_ITEM_PROJECTOR:
+    name: '&bItem Projector'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3This device made by the Corpus'
+    - '&x&9&D&A&8&A&3will display any item inside it'
+    - '&x&9&D&A&8&A&3as a beautiful hologram'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Utils & Tools&x&C&0&C&0&C&0>'
+  WF_ENERGY_CENTRAL:
+    name: '&eEnergy Central'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3A device that shows information'
+    - '&x&9&D&A&8&A&3about your energy network, such as'
+    - '&x&9&D&A&8&A&3energy produced, total capacity and'
+    - '&x&9&D&A&8&A&3the count of consumers,'
+    - '&x&9&D&A&8&A&3generators and capacitors'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Utils & Tools&x&C&0&C&0&C&0>'
+  WF_SOUL_CONTRACT:
+    name: '&5Merchant Soul Contract'
+    lore:
+    - ' '
+    - '&aRight click &fon a trader to make'
+    - '&fa contract with its trades'
+    - '&x&9&D&A&8&A&3'
+    - '&4WARNING: &x&F&C&7&3&0&3 It will kill the trader'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Utils & Tools&x&C&0&C&0&C&0>'
+  WF_INPUT_CONFIGURATOR:
+    name: '&5Input Configurator'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3Transfer the input items from one '
+    - '&x&9&D&A&8&A&3machine to another machine '
+    - '&x&9&D&A&8&A&3of the same type'
+    - '&x&9&D&A&8&A&3'
+    - '&aRight Click &x&9&D&A&8&A&3to copy the input'
+    - '&2Shift &aRight Click &x&9&D&A&8&A&3to paste the configuration'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Utils & Tools&x&C&0&C&0&C&0>'
+  WF_OROKIN_WAND:
+    name: '&bOrokin Wand'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3This wand has the ability to'
+    - '&x&9&D&A&8&A&3collect some special blocks such as'
+    - '&x&9&D&A&8&A&3reinforced deepslates and '
+    - '&x&9&D&A&8&A&3budding amethysts'
+    - '&x&9&D&A&8&A&3'
+    - '&e32 Uses &7left'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Utils & Tools&x&C&0&C&0&C&0>'
+  WF_SELECTOR_CONFIG:
+    name: '&x&F&F&2&8&0&0Selector Configurator'
+    lore:
+    - ' '
+    - '&x&9&D&A&8&A&3Copy the selected item in one'
+    - '&x&9&D&A&8&A&3machine and paste it in another one'
+    - '&x&9&D&A&8&A&3of the same type'
+    - '&x&9&D&A&8&A&3'
+    - '&aRight Click &x&9&D&A&8&A&3to copy the selection'
+    - '&2Shift &aRight Click &x&9&D&A&8&A&3to paste the selection'
+    - ' '
+    - '&x&C&0&C&0&C&0<&x&1&F&7&5&F&ESlimeFrame Utils & Tools&x&C&0&C&0&C&0>'

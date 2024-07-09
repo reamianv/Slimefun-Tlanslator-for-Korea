@@ -1,0 +1,159 @@
+name: Netheopoiesis
+translations:
+  NPS_HARMONISED_CRYSTAL_WATER:
+    name: '&x&D&B&C&E&A&9Harmonised Crystal: Water'
+    lore:
+    - ''
+    - '&7This crystal has been attuned and'
+    - '&7harmonised with the power of water.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  NPS_DISCORDANT_CRYSTAL_AIR:
+    name: '&x&D&B&C&E&A&9Discordant Crystal: Air'
+    lore:
+    - ''
+    - '&7This crystal has been attuned'
+    - '&7to the direct vacuum of the air'
+    - '&7element.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  NPS_DISSONANT_CRYSTAL_WATER:
+    name: '&x&D&B&C&E&A&9Dissonant Crystal: Water'
+    lore:
+    - ''
+    - '&7This crystal has been attuned'
+    - '&7to the oddities of water'
+    - '&7element.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  NPS_IRREGULAR_CRYSTAL:
+    name: '&x&D&B&C&E&A&9Irregular Crystal'
+    lore:
+    - ''
+    - '&7This crystal harnesses the oddities'
+    - '&7of the four base elements to channel'
+    - '&7purification power.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  NPS_QUARTZ_BLANK:
+    name: '&x&D&B&C&E&A&9Quartz Blank'
+    lore:
+    - ''
+    - '&7This blank can be filled with'
+    - '&7elemental power and used to focus'
+    - '&7nearby purification energies'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  NPS_HARMONISED_CRYSTAL_FIRE:
+    name: '&x&D&B&C&E&A&9Harmonised Crystal: Fire'
+    lore:
+    - ''
+    - '&7This crystal has been attuned and'
+    - '&7harmonised with the power of fire.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  NPS_ELEMENTAL_CRYSTAL:
+    name: '&x&D&B&C&E&A&9Elemental Crystal'
+    lore:
+    - ''
+    - '&7This crystal harnesses the power'
+    - '&7of the four base elements to channel'
+    - '&7purification power.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  NPS_VACUUM_CRYSTAL:
+    name: '&x&D&B&C&E&A&9Vacuum Crystal'
+    lore:
+    - ''
+    - '&7This crystal harnesses the vacuum'
+    - '&7of power from the base elements to channel'
+    - '&7purification power.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  NPS_HARMONISED_CRYSTAL_AIR:
+    name: '&x&D&B&C&E&A&9Harmonised Crystal: Air'
+    lore:
+    - ''
+    - '&7This crystal has been attuned and'
+    - '&7harmonised with the power of air.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  NPS_DISCORDANT_CRYSTAL_EARTH:
+    name: '&x&D&B&C&E&A&9Discordant Crystal: Water'
+    lore:
+    - ''
+    - '&7This crystal has been attuned'
+    - '&7to the direct vacuum of the earth'
+    - '&7element.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  NPS_DISSONANT_CRYSTAL_EARTH:
+    name: '&x&D&B&C&E&A&9Dissonant Crystal: Water'
+    lore:
+    - ''
+    - '&7This crystal has been attuned'
+    - '&7to the oddities of the earth'
+    - '&7element.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  NPS_DISSONANT_CRYSTAL_FIRE:
+    name: '&x&D&B&C&E&A&9Dissonant Crystal: Fire'
+    lore:
+    - ''
+    - '&7This crystal has been attuned'
+    - '&7to the oddities of fire'
+    - '&7element.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  NPS_HARMONISED_CRYSTAL_EARTH:
+    name: '&x&D&B&C&E&A&9Harmonised Crystal: Earth'
+    lore:
+    - ''
+    - '&7This crystal has been attuned and'
+    - '&7harmonised with the power of earth.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  NPS_DISCORDANT_CRYSTAL_WATER:
+    name: '&x&D&B&C&E&A&9Discordant Crystal: Water'
+    lore:
+    - ''
+    - '&7This crystal has been attuned'
+    - '&7to the direct vacuum of water'
+    - '&7element.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  NPS_ADDON_BERRY:
+    name: '&x&D&B&C&E&A&9Addon Berry'
+    lore:
+    - ''
+    - '&7A deliciously sweet berry that'
+    - '&7can be made into jam.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  NPS_DISCORDANT_CRYSTAL_FIRE:
+    name: '&x&D&B&C&E&A&9Discordant Crystal: Fire'
+    lore:
+    - ''
+    - '&7This crystal has been attuned'
+    - '&7to the direct vacuum of fire'
+    - '&7element.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  NPS_ADDON_JAM:
+    name: '&x&D&B&C&E&A&9Addon Jam'
+    lore:
+    - ''
+    - '&7A very sweet jam.'
+    - '&7For some reason, it feels rushed'
+    - '&7and incomplete.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  NPS_DISSONANT_CRYSTAL_AIR:
+    name: '&x&D&B&C&E&A&9Dissonant Crystal: Air'
+    lore:
+    - ''
+    - '&7This crystal has been attuned'
+    - '&7to the oddities of the air'
+    - '&7element.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'

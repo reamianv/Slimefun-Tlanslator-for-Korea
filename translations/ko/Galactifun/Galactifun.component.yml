@@ -1,0 +1,95 @@
+name: Galactifun
+translations:
+  FAN_BLADE:
+    name: '&fFan Blade'
+  LUNAR_GLASS:
+    name: '&fLunar Glass'
+    lore:
+    - ''
+    - '&7For some reason adding moon dust to'
+    - '&7glass makes it clearer...'
+  BLISTERING_VOLCANIC_INGOT:
+    name: '&6Blistering Volcanic Ingot'
+  FUEL_TANK:
+    name: '&6Fuel Tank'
+  REDSTONE_CIRCUIT:
+    name: '&7Redstone Circuit'
+  TUNGSTEN_CARBIDE:
+    name: '&7Tungsten Carbide'
+  LASERITE:
+    name: '&cLaserite'
+  LAPIS_CIRCUIT:
+    name: '&7Lapis Circuit'
+  GLOWSTONE_CIRCUIT:
+    name: '&7Glowstone Circuit'
+  ENDER_BLOCK:
+    name: '&3Ender Block'
+  SPACE_GRADE_PLATE:
+    name: '&fSpace Grade Plate'
+  OXYGEN_REGENERATOR:
+    name: '&bOxygen Regenerator'
+  VOLCANIC_INGOT:
+    name: '&4Volcanic Ingot'
+    lore:
+    - ''
+    - '&7Forged in the depths of the closest'
+    - '&7thing we know to Hell, Volcanic Ingots'
+    - '&7are a valuable commodity'
+  TUNGSTEN_INGOT:
+    name: '&bTungsten Ingot'
+    lore:
+    - ''
+    - '&7A strong metal obtained either from'
+    - '&7giving Martians reinforced plates or'
+    - '&7from smelting fallen meteors'
+  ALUMINUM_COMPOSITE_SHEET:
+    name: '&fAluminum Composite Sheet'
+  MUNPOWDER:
+    name: '&7Munpowder'
+    lore:
+    - ''
+    - '&7The gunpowder of the moon'
+  GOLD_FOIL:
+    name: '&6Gold Foil'
+  DIAMOND_CIRCUIT:
+    name: '&7Diamond Circuit'
+  NOZZLE:
+    name: '&fNozzle'
+  SPARK_PLUG_2:
+    name: '&fSpark Plug Mk 2'
+  ALUMINUM_COMPOSITE:
+    name: '&fAluminum Composite'
+    lore:
+    - ''
+    - '&7You''ll never guess how long it took us'
+    - '&7to name this material'
+  ULTRA_DUTY_SHEET:
+    name: '&fUltra Duty Sheet'
+  SPARK_PLUG:
+    name: '&fSpark Plug'
+  FUEL_TANK_2:
+    name: '&6Fuel Tank Mk 2'
+  ADVANCED_PROCESSING_UNIT:
+    name: '&4Advanced Processing Unit'
+  AIR_FILTER:
+    name: '&fFilter'
+  HEAVY_DUTY_SHEET:
+    name: '&fHeavy Duty Sheet'
+  STARGATE_CONTROLLER:
+    name: '&9Stargate Controller'
+    lore:
+    - ''
+    - '&7Used to control a stargate'
+  LASERITE_DUST:
+    name: '&cLaserite Dust'
+    lore:
+    - ''
+    - '&7I''m running out of names'
+    - ''
+  STARGATE_RING:
+    name: '&9Stargate Ring'
+    lore:
+    - ''
+    - '&7Used to construct a stargate'
+  REINFORCED_CHANNEL:
+    name: '&fReinforced Channel'

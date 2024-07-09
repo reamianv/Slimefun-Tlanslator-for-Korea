@@ -1,0 +1,18 @@
+name: MiniBlocks
+translations:
+  BLOCKEXPANDER:
+    name: '&6Block Expander'
+    lore:
+    - ''
+    - '&7Turns the desired MiniBlock into'
+    - '&7its original form.'
+    - ''
+    - '&8⇨ &e⚡ &7128 J/s'
+  BLOCKREDUCER:
+    name: '&6Block Reducer'
+    lore:
+    - ''
+    - '&7Turns the desired block into a'
+    - '&7smaller version of itself.'
+    - ''
+    - '&8⇨ &e⚡ &7128 J/s'

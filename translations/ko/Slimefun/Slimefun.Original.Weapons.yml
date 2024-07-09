@@ -1,0 +1,45 @@
+name: Slimefun
+translations:
+  GRANDPAS_WALKING_STICK:
+    name: '&7Grandpas Walking Stick'
+  SOULBOUND_TRIDENT:
+    name: '&cSoulbound Trident'
+  SWORD_OF_BEHEADING:
+    name: '&6Sword of Beheading'
+    lore:
+    - '&7Beheading II'
+    - ''
+    - '&fHas a chance to behead Mobs'
+    - '&f(even a higher chance for Wither Skeletons)'
+  SOULBOUND_BOW:
+    name: '&cSoulbound Bow'
+  EXPLOSIVE_BOW:
+    name: '&cExplosive Bow'
+    lore:
+    - '&fAny Arrows fired using this Bow'
+    - '&fwill launch hit enemys into the air'
+  ICY_BOW:
+    name: '&bIcy Bow'
+    lore:
+    - '&fAny Arrows fired using this Bow'
+    - '&fwill prevent hit enemys from moving'
+    - '&ffor 2 seconds'
+  BLADE_OF_VAMPIRES:
+    name: '&cBlade of Vampires'
+    lore:
+    - '&7Life Steal I'
+    - ''
+    - '&fEverytime you attack something'
+    - '&fyou have a 45% chance to'
+    - '&frecover 2 Hearts of your Health'
+  SOULBOUND_SWORD:
+    name: '&cSoulbound Sword'
+  GRANDMAS_WALKING_STICK:
+    name: '&7Grandmas Walking Stick'
+  SEISMIC_AXE:
+    name: '&aSeismic Axe'
+    lore:
+    - ''
+    - '&7&oA portable Earthquake...'
+    - ''
+    - '&eRight Click&7 to use'

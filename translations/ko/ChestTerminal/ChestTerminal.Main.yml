@@ -1,0 +1,77 @@
+name: ChestTerminal
+translations:
+  MILKY_QUARTZ:
+    name: '&fMilky Quartz'
+  CHEST_TERMINAL:
+    name: '&3CT Access Terminal'
+    lore:
+    - '&7If this Block is connected to a'
+    - '&7Cargo Network, it will allow you to remotely'
+    - '&7interact with any Items supplied by'
+    - '&7Nodes tuned into the ChestTerminal Channel'
+  CT_WIRELESS_ACCESS_TERMINAL_TRANSDIMENSIONAL:
+    name: '&3CT Wireless Access Terminal &b(Transdimensional)'
+    lore:
+    - '&8⇨ &7Linked to: &cNowhere'
+    - '&8⇨ &7Range: &eUnlimited'
+    - '&8⇨ &e⚡ &70 / 50 J'
+    - ''
+    - '&7If this Block is linked to an Access Terminal'
+    - '&7it will be able to remotely access that Terminal'
+    - ''
+    - '&eRight Click on an Access Terminal &7to link'
+    - '&eRight Click&7 to open the linked Terminal'
+  CT_WIRELESS_ACCESS_TERMINAL_16:
+    name: '&3CT Wireless Access Terminal &b(16)'
+    lore:
+    - '&8⇨ &7Linked to: &cNowhere'
+    - '&8⇨ &7Range: &e16 Blocks'
+    - '&8⇨ &e⚡ &70 / 10 J'
+    - ''
+    - '&7If this Block is linked to an Access Terminal'
+    - '&7it will be able to remotely access that Terminal'
+    - ''
+    - '&eRight Click on an Access Terminal &7to link'
+    - '&eRight Click&7 to open the linked Terminal'
+  CT_IMPORT_BUS:
+    name: '&3CT Import Bus'
+    lore:
+    - '&7If this Block is connected to a'
+    - '&7Cargo Network, it will pull any Items from'
+    - '&7the Inventory it is attached to and place it'
+    - '&7into the CT Network Channel'
+  CT_PANEL:
+    name: '&3CT Illuminated Panel'
+    lore:
+    - '&7Crafting Component'
+  CT_EXPORT_BUS:
+    name: '&3CT Export Bus'
+    lore:
+    - '&7If this Block is connected to a'
+    - '&7Cargo Network, it will pull any Items from'
+    - '&7the CT Network Channel and place these'
+    - '&7into the Inventory it is attached to'
+  CT_WIRELESS_ACCESS_TERMINAL_128:
+    name: '&3CT Wireless Access Terminal &b(128)'
+    lore:
+    - '&8⇨ &7Linked to: &cNowhere'
+    - '&8⇨ &7Range: &e128 Blocks'
+    - '&8⇨ &e⚡ &70 / 50 J'
+    - ''
+    - '&7If this Block is linked to an Access Terminal'
+    - '&7it will be able to remotely access that Terminal'
+    - ''
+    - '&eRight Click on an Access Terminal &7to link'
+    - '&eRight Click&7 to open the linked Terminal'
+  CT_WIRELESS_ACCESS_TERMINAL_64:
+    name: '&3CT Wireless Access Terminal &b(64)'
+    lore:
+    - '&8⇨ &7Linked to: &cNowhere'
+    - '&8⇨ &7Range: &e64 Blocks'
+    - '&8⇨ &e⚡ &70 / 25 J'
+    - ''
+    - '&7If this Block is linked to an Access Terminal'
+    - '&7it will be able to remotely access that Terminal'
+    - ''
+    - '&eRight Click on an Access Terminal &7to link'
+    - '&eRight Click&7 to open the linked Terminal'

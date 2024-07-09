@@ -1,0 +1,118 @@
+name: EcoPower
+translations:
+  WIND_TURBINE_2_MULTIBLOCK:
+    name: '&cAdvanced Wind Turbine Generator'
+    lore:
+    - ''
+    - '&6Advanced Generator'
+    - '&8⇨ &e⚡ &70 J Buffer'
+    - '&8⇨ &e⚡ &722 J/s'
+  STEAM_TURBINE_MULTIBLOCK:
+    name: '&eSimple Steam Turbine Generator'
+    lore:
+    - ''
+    - '&aMedium Generator'
+    - '&8⇨ &e⚡ &70 J Buffer'
+    - '&8⇨ &e⚡ &78 J/s'
+  STEEL_ROTOR:
+    name: '&bSteel Rotor'
+  LUNAR_GENERATOR:
+    name: '&5Lunar Generator'
+    lore:
+    - ''
+    - '&fThis Lunar Generator only'
+    - '&fruns at night!'
+    - ''
+    - '&4End-Game Generator'
+    - '&8⇨ &e⚡ &70 J Buffer'
+    - '&8⇨ &e⚡ &7256 J/s'
+  HIGH_ENERGY_SOLAR_HELMET:
+    name: '&9High-Energy Solar Helmet'
+    lore:
+    - ''
+    - '&fThis Solar Helmet charges'
+    - '&fany held or worn items'
+    - ''
+    - '&8⇨ &e⚡ &75 J/charge'
+  STEAM_TURBINE:
+    name: '&eSimple Steam Turbine'
+    lore:
+    - '&7Component of the &eSimple Steam Turbine Generator'
+  WIND_TURBINE_MULTIBLOCK:
+    name: '&eSimple Wind Turbine Generator'
+    lore:
+    - ''
+    - '&aMedium Generator'
+    - '&8⇨ &e⚡ &70 J Buffer'
+    - '&8⇨ &e⚡ &710 J/s'
+  WIND_TURBINE_3:
+    name: '&4Carbonado Wind Turbine'
+    lore:
+    - '&7Component of the &4Carbonado Wind Turbine Generator'
+  HIGH_ENERGY_SOLAR_GENERATOR:
+    name: '&9High-Energy Solar Generator'
+    lore:
+    - ''
+    - '&fThis Solar Generator runs'
+    - '&fall day and night!'
+    - ''
+    - '&4End-Game Generator'
+    - '&8⇨ &e⚡ &70 J Buffer'
+    - '&8⇨ &e⚡ &7512 J/s'
+  STEAM_TURBINE_2:
+    name: '&cAdvanced Steam Turbine'
+    lore:
+    - '&7Component of the &cAdvanced Steam Turbine Generator'
+  STEAM_TURBINE_3:
+    name: '&4Carbonado Steam Turbine'
+    lore:
+    - '&7Component of the &4Carbonado Steam Turbine Generator'
+  RADIANT_SOLAR_GENERATOR:
+    name: '&9Radiant Solar Generator'
+    lore:
+    - ''
+    - '&fThis Solar Generator runs'
+    - '&fall day and night!'
+    - ''
+    - '&4End-Game Generator'
+    - '&8⇨ &e⚡ &70 J Buffer'
+    - '&8⇨ &e⚡ &71024 J/s'
+  WIND_TURBINE:
+    name: '&eSimple Wind Turbine'
+    lore:
+    - '&7Component of the &eSimple Wind Turbine Generator'
+  STEAM_TURBINE_3_MULTIBLOCK:
+    name: '&4Carbonado Steam Turbine Generator'
+    lore:
+    - ''
+    - '&4End-Game Generator'
+    - '&8⇨ &e⚡ &70 J Buffer'
+    - '&8⇨ &e⚡ &726 J/s'
+  WIND_TURBINE_2:
+    name: '&cAdvanced Wind Turbine'
+    lore:
+    - '&7Component of the &cAdvanced Wind Turbine Generator'
+  STEAM_TURBINE_2_MULTIBLOCK:
+    name: '&cAdvanced Steam Turbine Generator'
+    lore:
+    - ''
+    - '&6Advanced Generator'
+    - '&8⇨ &e⚡ &70 J Buffer'
+    - '&8⇨ &e⚡ &712 J/s'
+  LIGHTNING_RECEPTOR:
+    name: '&eLightning Receptor'
+    lore:
+    - ''
+    - '&fThis machine can channel energy'
+    - '&ffrom lightning strikes during'
+    - '&fa thunderstorm'
+    - ''
+    - '&4End-Game Generator'
+    - '&8⇨ &e⚡ &7512 J - 8192 J per lightning strike'
+  WIND_TURBINE_3_MULTIBLOCK:
+    name: '&4Carbonado Wind Turbine Generator'
+    lore:
+    - ''
+    - '&4End-Game Generator'
+    - '&8⇨ &e⚡ &70 J Buffer'
+    - '&8⇨ &e⚡ &746 J/s'

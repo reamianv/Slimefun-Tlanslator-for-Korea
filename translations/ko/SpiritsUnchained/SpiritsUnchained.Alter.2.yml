@@ -1,0 +1,22 @@
+name: SpiritsUnchained
+translations:
+  SU_CHARGED_QUARTZ_II:
+    name: '&eCharged Quartz II'
+    lore:
+    - ''
+    - '&7Used to Build a Spiritual Altar'
+  SU_CHARGED_PILLAR_II:
+    name: '&eCharged Pillar II'
+    lore:
+    - ''
+    - '&7Used to Build a Spiritual Altar'
+  SU_CHARGED_CORE_II:
+    name: '&eCharged Core II'
+    lore:
+    - ''
+    - '&7Used to Build a Spiritual Altar'
+  SU_CHARGED_STAIRS_II:
+    name: '&eCharged Stairs II'
+    lore:
+    - ''
+    - '&7Used to Build a Spiritual Altar'

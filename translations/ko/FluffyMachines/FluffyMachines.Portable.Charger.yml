@@ -1,0 +1,42 @@
+name: FluffyMachines
+translations:
+  BIG_PORTABLE_CHARGER:
+    name: '&aBig Portable Charger'
+    lore:
+    - ''
+    - '&7A handheld charger that holds a lot of power'
+    - ''
+    - '&eCharge Speed: &764 J/s'
+    - '&8⇨ &e⚡ &70 / 1024 J'
+  MEDIUM_PORTABLE_CHARGER:
+    name: '&6Medium Portable Charger'
+    lore:
+    - ''
+    - '&7A handheld charger that holds a lot of power'
+    - ''
+    - '&eCharge Speed: &732 J/s'
+    - '&8⇨ &e⚡ &70 / 512 J'
+  LARGE_PORTABLE_CHARGER:
+    name: '&2Large Portable Charger'
+    lore:
+    - ''
+    - '&7A handheld charger that holds a lot of power'
+    - ''
+    - '&eCharge Speed: &7512 J/s'
+    - '&8⇨ &e⚡ &70 / 8192 J'
+  CARBONADO_PORTABLE_CHARGER:
+    name: '&4Carbonado Portable Charger'
+    lore:
+    - ''
+    - '&7A handheld charger that holds a lot of power'
+    - ''
+    - '&eCharge Speed: &74096 J/s'
+    - '&8⇨ &e⚡ &70 / 65526 J'
+  SMALL_PORTABLE_CHARGER:
+    name: '&eSmall Portable Charger'
+    lore:
+    - ''
+    - '&7A handheld charger that holds a lot of power'
+    - ''
+    - '&eCharge Speed: &78 J/s'
+    - '&8⇨ &e⚡ &70 / 128 J'

@@ -1,0 +1,145 @@
+name: InfinityExpansion
+translations:
+  WITHER_SKELETON_DATA_CARD:
+    name: '&bWither Skeleton Data Card'
+    lore:
+    - '&7Place in a mob simulation chamber to activate'
+    - ''
+    - '&8⇨ &e⚡ &71,200 J/s'
+  VEX_DATA_CARD:
+    name: '&bVex Data Card'
+    lore:
+    - '&7Place in a mob simulation chamber to activate'
+    - ''
+    - '&8⇨ &e⚡ &7600 J/s'
+  WITCH_DATA_CARD:
+    name: '&bWitch Data Card'
+    lore:
+    - '&7Place in a mob simulation chamber to activate'
+    - ''
+    - '&8⇨ &e⚡ &71,200 J/s'
+  SKELETON_DATA_CARD:
+    name: '&bSkeleton Data Card'
+    lore:
+    - '&7Place in a mob simulation chamber to activate'
+    - ''
+    - '&8⇨ &e⚡ &7600 J/s'
+  WITHER_DATA_CARD:
+    name: '&bWither Data Card'
+    lore:
+    - '&7Place in a mob simulation chamber to activate'
+    - ''
+    - '&8⇨ &e⚡ &79,000 J/s'
+  CREEPER_DATA_CARD:
+    name: '&bCreeper Data Card'
+    lore:
+    - '&7Place in a mob simulation chamber to activate'
+    - ''
+    - '&8⇨ &e⚡ &7600 J/s'
+  CHICKEN_DATA_CARD:
+    name: '&bChicken Data Card'
+    lore:
+    - '&7Place in a mob simulation chamber to activate'
+    - ''
+    - '&8⇨ &e⚡ &7150 J/s'
+  MAGMA_CUBE_DATA_CARD:
+    name: '&bMagma Cube Data Card'
+    lore:
+    - '&7Place in a mob simulation chamber to activate'
+    - ''
+    - '&8⇨ &e⚡ &7300 J/s'
+  EMPTY_DATA_CARD:
+    name: '&8Empty Data Card'
+    lore:
+    - '&7Infuse with a mob''s items to fill'
+  BEE_DATA_CARD:
+    name: '&bBee Data Card'
+    lore:
+    - '&7Place in a mob simulation chamber to activate'
+    - ''
+    - '&8⇨ &e⚡ &7300 J/s'
+  COW_DATA_CARD:
+    name: '&bCow Data Card'
+    lore:
+    - '&7Place in a mob simulation chamber to activate'
+    - ''
+    - '&8⇨ &e⚡ &7150 J/s'
+  ENDERMEN_DATA_CARD:
+    name: '&bEndermen Data Card'
+    lore:
+    - '&7Place in a mob simulation chamber to activate'
+    - ''
+    - '&8⇨ &e⚡ &71,200 J/s'
+  IRON_GOLEM_DATA_CARD:
+    name: '&bIron Golem Data Card'
+    lore:
+    - '&7Place in a mob simulation chamber to activate'
+    - ''
+    - '&8⇨ &e⚡ &71,200 J/s'
+  VILLAGER_DATA_CARD:
+    name: '&bVillager Data Card'
+    lore:
+    - '&7Place in a mob simulation chamber to activate'
+    - ''
+    - '&8⇨ &e⚡ &7300 J/s'
+  SLIME_DATA_CARD:
+    name: '&bSlime Data Card'
+    lore:
+    - '&7Place in a mob simulation chamber to activate'
+    - ''
+    - '&8⇨ &e⚡ &7300 J/s'
+  SHEEP_DATA_CARD:
+    name: '&bSheep Data Card'
+    lore:
+    - '&7Place in a mob simulation chamber to activate'
+    - ''
+    - '&8⇨ &e⚡ &7150 J/s'
+  BLAZE_DATA_CARD:
+    name: '&bBlaze Data Card'
+    lore:
+    - '&7Place in a mob simulation chamber to activate'
+    - ''
+    - '&8⇨ &e⚡ &71,200 J/s'
+  PHANTOM_DATA_CARD:
+    name: '&bPhantom Data Card'
+    lore:
+    - '&7Place in a mob simulation chamber to activate'
+    - ''
+    - '&8⇨ &e⚡ &7600 J/s'
+  DATA_INFUSER:
+    name: '&8Mob Data Infuser'
+    lore:
+    - '&7Infused empty data cards with mob items'
+    - ''
+    - '&8⇨ &e⚡ &720,000 J per use'
+  MOB_SIMULATION_CHAMBER:
+    name: '&8Mob Simulation Chamber'
+    lore:
+    - '&7Use mob data cards to activate'
+    - ''
+    - '&8⇨ &e⚡ &715,000 J Buffer'
+    - '&8⇨ &e⚡ &7300 J/s'
+  SPIDER_DATA_CARD:
+    name: '&bSpider Data Card'
+    lore:
+    - '&7Place in a mob simulation chamber to activate'
+    - ''
+    - '&8⇨ &e⚡ &7600 J/s'
+  ENDER_DRAGON_DATA_CARD:
+    name: '&bEnder Dragon Data Card'
+    lore:
+    - '&7Place in a mob simulation chamber to activate'
+    - ''
+    - '&8⇨ &e⚡ &718,000 J/s'
+  ZOMBIE_DATA_CARD:
+    name: '&bZombie Data Card'
+    lore:
+    - '&7Place in a mob simulation chamber to activate'
+    - ''
+    - '&8⇨ &e⚡ &7600 J/s'
+  GUARDIAN_DATA_CARD:
+    name: '&bGuardian Data Card'
+    lore:
+    - '&7Place in a mob simulation chamber to activate'
+    - ''
+    - '&8⇨ &e⚡ &7600 J/s'

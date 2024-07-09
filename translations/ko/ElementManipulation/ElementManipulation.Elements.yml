@@ -1,0 +1,602 @@
+name: ElementManipulation
+translations:
+  EM_TENNESSINE:
+    name: '&x&E&E&F&F&0&0T&x&E&5&F&F&1&7e&x&D&D&F&F&2&En&x&D&4&F&F&4&5n&x&C&B&F&F&5&Ce&x&C&3&F&F&7&3s&x&B&A&F&F&8&9s&x&B&1&F&F&A&0i&x&A&8&F&F&B&7n&x&A&0&F&F&C&Ee'
+    lore:
+    - '&8Symbol: Ts'
+    - '&8Atomic number: 117'
+    - '&8Atomic mass: [294]'
+    - '&aElement group: halogens'
+  EM_COBALT:
+    name: '&x&F&0&8&0&8&0C&x&F&3&8&F&8&Ao&x&F&5&9&E&9&3b&x&F&8&A&D&9&Da&x&F&A&B&C&A&6l&x&F&D&C&B&B&0t'
+    lore:
+    - '&8Symbol: Co'
+    - '&8Atomic number: 27'
+    - '&8Atomic mass: 58.933'
+    - '&aElement group: Transition metals'
+  EM_HASSIUM:
+    name: '&x&F&0&8&0&8&0H&x&F&2&8&D&8&8a&x&F&4&9&A&9&0s&x&F&6&A&7&9&8s&x&F&9&B&3&A&1i&x&F&B&C&0&A&9u&x&F&D&C&D&B&1m'
+    lore:
+    - '&8Symbol: Hs'
+    - '&8Atomic number: 108'
+    - '&8Atomic mass: [277]'
+    - '&aElement group: Transition metals'
+  EM_SODIUM:
+    name: '&x&F&3&A&3&3&BS&x&F&5&A&1&3&Co&x&F&7&9&E&3&Cd&x&F&9&9&C&3&Di&x&F&B&9&A&3&Du&x&F&D&9&7&3&Em'
+    lore:
+    - '&8Symbol: Na'
+    - '&8Atomic number: 11'
+    - '&8Atomic mass: 22.990'
+    - '&aElement group: alkalines'
+  EM_FLEROVIUM:
+    name: '&x&8&B&8&B&8&BF&x&8&8&8&8&8&8l&x&8&5&8&5&8&5e&x&8&1&8&1&8&1r&x&7&E&7&E&7&Eo&x&7&B&7&B&7&Bv&x&7&8&7&8&7&8i&x&7&4&7&4&7&4u&x&7&1&7&1&7&1m'
+    lore:
+    - '&8Symbol: Fl'
+    - '&8Atomic number: 114'
+    - '&8Atomic mass: [289]'
+    - '&aElement group: other metals'
+  EM_YTTRIUM:
+    name: '&x&F&0&8&0&8&0Y&x&F&2&8&D&8&8t&x&F&4&9&A&9&0t&x&F&6&A&7&9&8r&x&F&9&B&3&A&1i&x&F&B&C&0&A&9u&x&F&D&C&D&B&1m'
+    lore:
+    - '&8Symbol: Y'
+    - '&8Atomic number: 39'
+    - '&8Atomic mass: 88.906'
+    - '&aElement group: Transition metals'
+  SULFUR:
+    name: '&x&3&8&C&A&0&8S&x&3&5&D&3&0&8u&x&3&2&D&C&0&8l&x&2&F&E&5&0&9f&x&2&B&E&D&0&9u&x&2&8&F&6&0&9r'
+    lore:
+    - '&8Symbol: S'
+    - '&8Atomic number: 16'
+    - '&8Atomic mass: 32.065'
+    - '&aElement group: non-metals'
+  EM_ZINC:
+    name: '&x&F&0&8&0&8&0Z&x&F&4&9&7&8&Ei&x&F&8&A&D&9&Dn&x&F&B&C&4&A&Bc'
+    lore:
+    - '&8Symbol: Zn'
+    - '&8Atomic number: 30'
+    - '&8Atomic mass: 65.409'
+    - '&aElement group: Transition metals'
+  EM_BROMINE:
+    name: '&x&E&E&F&F&0&0B&x&E&2&F&F&2&1r&x&D&5&F&F&4&1o&x&C&9&F&F&6&2m&x&B&C&F&F&8&3i&x&B&0&F&F&A&4n&x&A&3&F&F&C&4e'
+    lore:
+    - '&8Symbol: Br'
+    - '&8Atomic number: 35'
+    - '&8Atomic mass: 79.904'
+    - '&aElement group: halogens'
+  EM_PALLADIUM:
+    name: '&x&F&0&8&0&8&0P&x&F&2&8&A&8&6a&x&F&3&9&4&8&Dl&x&F&5&9&E&9&3l&x&F&7&A&8&9&9a&x&F&8&B&2&A&0d&x&F&A&B&C&A&6i&x&F&C&C&6&A&Cu&x&F&D&D&0&B&3m'
+    lore:
+    - '&8Symbol: Pd'
+    - '&8Atomic number: 46'
+    - '&8Atomic mass: 106.42'
+    - '&aElement group: Transition metals'
+  EM_RADON:
+    name: '&x&0&0&9&7&B&1R&x&0&5&A&B&A&9a&x&0&B&C&0&A&1d&x&1&0&D&4&9&9o&x&1&6&E&9&9&1n'
+    lore:
+    - '&8Symbol: Rn'
+    - '&8Atomic number: 86'
+    - '&8Atomic mass: [220]'
+    - '&aElement group: Noble gasses'
+    - '&aDo not breathe &7(Main hand only)'
+  EM_TELLURIUM:
+    name: '&x&8&B&8&B&8&BT&x&8&8&8&8&8&8e&x&8&5&8&5&8&5l&x&8&1&8&1&8&1l&x&7&E&7&E&7&Eu&x&7&B&7&B&7&Br&x&7&8&7&8&7&8i&x&7&4&7&4&7&4u&x&7&1&7&1&7&1m'
+    lore:
+    - '&8Symbol: Te'
+    - '&8Atomic number: 52'
+    - '&8Atomic mass: 127.6'
+    - '&aElement group: semi metals'
+  EM_RHODIUM:
+    name: '&x&F&0&8&0&8&0R&x&F&2&8&D&8&8h&x&F&4&9&A&9&0o&x&F&6&A&7&9&8d&x&F&9&B&3&A&1i&x&F&B&C&0&A&9u&x&F&D&C&D&B&1m'
+    lore:
+    - '&8Symbol: Rh'
+    - '&8Atomic number: 45'
+    - '&8Atomic mass: 102.905 50'
+    - '&aElement group: Transition metals'
+  EM_NICKEL:
+    name: '&x&F&0&8&0&8&0N&x&F&3&8&F&8&Ai&x&F&5&9&E&9&3c&x&F&8&A&D&9&Dk&x&F&A&B&C&A&6e&x&F&D&C&B&B&0l'
+    lore:
+    - '&8Symbol: Ni'
+    - '&8Atomic number: 28'
+    - '&8Atomic mass: 58.693'
+    - '&aElement group: Transition metals'
+  EM_MOLYBDENUM:
+    name: '&x&F&0&8&0&8&0M&x&F&2&8&9&8&6o&x&F&3&9&2&8&Bl&x&F&5&9&B&9&1y&x&F&6&A&4&9&7b&x&F&8&A&D&9&Dd&x&F&9&B&6&A&2e&x&F&B&B&F&A&8n&x&F&C&C&8&A&Eu&x&F&E&D&1&B&3m'
+    lore:
+    - '&8Symbol: Mo'
+    - '&8Atomic number: 42'
+    - '&8Atomic mass: 95.94'
+    - '&aElement group: Transition metals'
+  EM_PHOSPHORUS:
+    name: '&x&3&8&C&A&0&8P&x&3&6&C&F&0&8h&x&3&4&D&5&0&8o&x&3&2&D&A&0&8s&x&3&0&D&F&0&8p&x&2&F&E&5&0&9h&x&2&D&E&A&0&9o&x&2&B&E&F&0&9r&x&2&9&F&4&0&9u&x&2&7&F&A&0&9s'
+    lore:
+    - '&8Symbol: P'
+    - '&8Atomic number: 15'
+    - '&8Atomic mass: 30.974'
+    - '&aElement group: non-metals'
+  EM_RUTHENIUM:
+    name: '&x&F&0&8&0&8&0R&x&F&2&8&A&8&6u&x&F&3&9&4&8&Dt&x&F&5&9&E&9&3h&x&F&7&A&8&9&9e&x&F&8&B&2&A&0n&x&F&A&B&C&A&6i&x&F&C&C&6&A&Cu&x&F&D&D&0&B&3m'
+    lore:
+    - '&8Symbol: Ru'
+    - '&8Atomic number: 44'
+    - '&8Atomic mass: 101.07'
+    - '&aElement group: Transition metals'
+  EM_HELIUM:
+    name: '&x&0&0&9&7&B&1H&x&0&5&A&8&A&Ae&x&0&9&B&9&A&4l&x&0&E&C&A&9&Di&x&1&2&D&B&9&6u&x&1&7&E&C&9&0m'
+    lore:
+    - '&8Symbol: He'
+    - '&8Atomic number: 2'
+    - '&8Atomic mass: 4.008'
+    - '&aElement group: Noble gasses'
+    - '&aRight-click to levitate &7(Main hand only)'
+  EM_CHANGE:
+    name: '&x&E&E&F&F&0&0C&x&E&3&F&F&1&Dh&x&D&8&F&F&3&9l&x&C&D&F&F&5&6o&x&C&3&F&F&7&3r&x&B&8&F&F&8&Fi&x&A&D&F&F&A&Cn&x&A&2&F&F&C&8e'
+    lore:
+    - '&8Symbol: Cl'
+    - '&8Atomic number: 17'
+    - '&8Atomic mass: 35.453'
+    - '&aElement group: halogens'
+  EM_LITHIUM:
+    name: '&x&F&3&A&3&3&BL&x&F&5&A&1&3&Bi&x&F&6&9&F&3&Ct&x&F&8&9&D&3&Ch&x&F&A&9&B&3&Di&x&F&C&9&9&3&Du&x&F&D&9&7&3&Em'
+    lore:
+    - '&8Symbol: Li'
+    - '&8Atomic number: 3'
+    - '&8Atomic mass: 6.941'
+    - '&aElement group: alkalines'
+  EM_BOHRIUM:
+    name: '&x&F&0&8&0&8&0B&x&F&2&8&D&8&8o&x&F&4&9&A&9&0h&x&F&6&A&7&9&8r&x&F&9&B&3&A&1i&x&F&B&C&0&A&9u&x&F&D&C&D&B&1m'
+    lore:
+    - '&8Symbol: Bh'
+    - '&8Atomic number: 107'
+    - '&8Atomic mass: [264]'
+    - '&aElement group: Transition metals'
+  EM_HYDROGEN:
+    name: '&x&3&8&C&A&0&8H&x&3&6&D&1&0&8y&x&3&3&D&7&0&8d&x&3&1&D&E&0&8r&x&2&F&E&5&0&9o&x&2&C&E&B&0&9g&x&2&A&F&2&0&9e&x&2&7&F&8&0&9n'
+    lore:
+    - '&8Symbol: H'
+    - '&8Atomic number: 1'
+    - '&8Atomic mass: 1.008'
+    - '&aElement group: non-metals'
+  EM_ALUMINUM:
+    name: '&x&8&B&8&B&8&BA&x&8&7&8&7&8&7l&x&8&4&8&4&8&4u&x&8&0&8&0&8&0m&x&7&D&7&D&7&Di&x&7&9&7&9&7&9n&x&7&5&7&5&7&5u&x&7&2&7&2&7&2m'
+    lore:
+    - '&8Symbol: Al'
+    - '&8Atomic number: 13'
+    - '&8Atomic mass: 26.982'
+    - '&aElement group: other metals'
+  EM_DUBNIUM:
+    name: '&x&F&0&8&0&8&0D&x&F&2&8&D&8&8u&x&F&4&9&A&9&0b&x&F&6&A&7&9&8n&x&F&9&B&3&A&1i&x&F&B&C&0&A&9u&x&F&D&C&D&B&1m'
+    lore:
+    - '&8Symbol: Db'
+    - '&8Atomic number: 105'
+    - '&8Atomic mass: [262]'
+    - '&aElement group: Transition metals'
+  EM_MOSCOVIUM:
+    name: '&x&8&B&8&B&8&BM&x&8&8&8&8&8&8o&x&8&5&8&5&8&5s&x&8&1&8&1&8&1c&x&7&E&7&E&7&Eo&x&7&B&7&B&7&Bv&x&7&8&7&8&7&8i&x&7&4&7&4&7&4u&x&7&1&7&1&7&1m'
+    lore:
+    - '&8Symbol: Mc'
+    - '&8Atomic number: 115'
+    - '&8Atomic mass: [288]'
+    - '&aElement group: other metals'
+  EM_SCANDIUM:
+    name: '&x&F&0&8&0&8&0S&x&F&2&8&B&8&7c&x&F&4&9&7&8&Ea&x&F&6&A&2&9&5n&x&F&8&A&D&9&Dd&x&F&9&B&8&A&4i&x&F&B&C&4&A&Bu&x&F&D&C&F&B&2m'
+    lore:
+    - '&8Symbol: Sc'
+    - '&8Atomic number: 21'
+    - '&8Atomic mass: 44.956'
+    - '&aElement group: Transition metals'
+  EM_RUBIDIUM:
+    name: '&x&F&3&A&3&3&BR&x&F&5&A&1&3&Bu&x&F&6&A&0&3&Cb&x&F&8&9&E&3&Ci&x&F&9&9&C&3&Dd&x&F&B&9&A&3&Di&x&F&C&9&9&3&Du&x&F&E&9&7&3&Em'
+    lore:
+    - '&8Symbol: Rb'
+    - '&8Atomic number: 37'
+    - '&8Atomic mass: 85.468'
+    - '&aElement group: alkalines'
+  EM_ZIRCONIUM:
+    name: '&x&F&0&8&0&8&0Z&x&F&2&8&A&8&6i&x&F&3&9&4&8&Dr&x&F&5&9&E&9&3c&x&F&7&A&8&9&9o&x&F&8&B&2&A&0n&x&F&A&B&C&A&6i&x&F&C&C&6&A&Cu&x&F&D&D&0&B&3m'
+    lore:
+    - '&8Symbol: Zr'
+    - '&8Atomic number: 40'
+    - '&8Atomic mass: 91.224'
+    - '&aElement group: Transition metals'
+  EM_THALLIUM:
+    name: '&x&8&B&8&B&8&BT&x&8&7&8&7&8&7h&x&8&4&8&4&8&4a&x&8&0&8&0&8&0l&x&7&D&7&D&7&Dl&x&7&9&7&9&7&9i&x&7&5&7&5&7&5u&x&7&2&7&2&7&2m'
+    lore:
+    - '&8Symbol: Tl'
+    - '&8Atomic number: 81'
+    - '&8Atomic mass: 204.383'
+    - '&aElement group: other metals'
+  EM_ARSENIC:
+    name: '&x&8&B&8&B&8&BA&x&8&7&8&7&8&7r&x&8&3&8&3&8&3s&x&7&F&7&F&7&Fe&x&7&A&7&A&7&An&x&7&6&7&6&7&6i&x&7&2&7&2&7&2c'
+    lore:
+    - '&8Symbol: As'
+    - '&8Atomic number: 33'
+    - '&8Atomic mass: 74.922'
+    - '&aElement group: semi metals'
+  EM_IRON:
+    name: '&x&F&0&8&0&8&0I&x&F&4&9&7&8&Er&x&F&8&A&D&9&Do&x&F&B&C&4&A&Bn'
+    lore:
+    - '&8Symbol: Fe'
+    - '&8Atomic number: 26'
+    - '&8Atomic mass: 55.845'
+    - '&aElement group: Transition metals'
+  EM_MANGANESE:
+    name: '&x&F&0&8&0&8&0M&x&F&2&8&A&8&6a&x&F&3&9&4&8&Dn&x&F&5&9&E&9&3g&x&F&7&A&8&9&9a&x&F&8&B&2&A&0n&x&F&A&B&C&A&6e&x&F&C&C&6&A&Cs&x&F&D&D&0&B&3e'
+    lore:
+    - '&8Symbol: Mn'
+    - '&8Atomic number: 25'
+    - '&8Atomic mass: 54.938'
+    - '&aElement group: Transition metals'
+  EM_BARIUM:
+    name: '&x&E&D&E&3&4&2B&x&E&5&D&C&3&Ba&x&D&C&D&5&3&3r&x&D&4&C&E&2&Ci&x&C&C&C&6&2&5u&x&C&3&B&F&1&Dm'
+    lore:
+    - '&8Symbol: Ba'
+    - '&8Atomic number: 56'
+    - '&8Atomic mass: 137.327'
+    - '&aElement group: alkaline earth metals'
+  EM_POLONIUM:
+    name: '&x&8&B&8&B&8&BP&x&8&7&8&7&8&7o&x&8&4&8&4&8&4l&x&8&0&8&0&8&0o&x&7&D&7&D&7&Dn&x&7&9&7&9&7&9i&x&7&5&7&5&7&5u&x&7&2&7&2&7&2m'
+    lore:
+    - '&8Symbol: Po'
+    - '&8Atomic number: 84'
+    - '&8Atomic mass: [210]'
+    - '&aElement group: semi metals'
+  EM_MEITNERIUM:
+    name: '&x&F&0&8&0&8&0M&x&F&2&8&9&8&6e&x&F&3&9&2&8&Bi&x&F&5&9&B&9&1t&x&F&6&A&4&9&7n&x&F&8&A&D&9&De&x&F&9&B&6&A&2r&x&F&B&B&F&A&8i&x&F&C&C&8&A&Eu&x&F&E&D&1&B&3m'
+    lore:
+    - '&8Symbol: Mt'
+    - '&8Atomic number: 109'
+    - '&8Atomic mass: [268]'
+    - '&aElement group: Transition metals'
+  EM_RHENIUM:
+    name: '&x&F&0&8&0&8&0R&x&F&2&8&D&8&8h&x&F&4&9&A&9&0e&x&F&6&A&7&9&8n&x&F&9&B&3&A&1i&x&F&B&C&0&A&9u&x&F&D&C&D&B&1m'
+    lore:
+    - '&8Symbol: Re'
+    - '&8Atomic number: 75'
+    - '&8Atomic mass: 186.207'
+    - '&aElement group: Transition metals'
+  EM_BORON:
+    name: '&x&8&B&8&B&8&BB&x&8&5&8&5&8&5o&x&7&F&7&F&7&Fr&x&7&A&7&A&7&Ao&x&7&4&7&4&7&4n'
+    lore:
+    - '&8Symbol: B'
+    - '&8Atomic number: 5'
+    - '&8Atomic mass: 10.811'
+    - '&aElement group: semi metals'
+  EM_VANADIUM:
+    name: '&x&F&0&8&0&8&0V&x&F&2&8&B&8&7a&x&F&4&9&7&8&En&x&F&6&A&2&9&5a&x&F&8&A&D&9&Dd&x&F&9&B&8&A&4i&x&F&B&C&4&A&Bu&x&F&D&C&F&B&2m'
+    lore:
+    - '&8Symbol: V'
+    - '&8Atomic number: 23'
+    - '&8Atomic mass: 50.942'
+    - '&aElement group: Transition metals'
+  EM_CADMIUM:
+    name: '&x&F&0&8&0&8&0C&x&F&2&8&D&8&8a&x&F&4&9&A&9&0d&x&F&6&A&7&9&8m&x&F&9&B&3&A&1i&x&F&B&C&0&A&9u&x&F&D&C&D&B&1m'
+    lore:
+    - '&8Symbol: Cd'
+    - '&8Atomic number: 48'
+    - '&8Atomic mass: 112.411'
+    - '&aElement group: Transition metals'
+  EM_IODINE:
+    name: '&x&E&E&F&F&0&0I&x&E&0&F&F&2&6o&x&D&1&F&F&4&Cd&x&C&3&F&F&7&3i&x&B&4&F&F&9&9n&x&A&6&F&F&B&Fe'
+    lore:
+    - '&8Symbol: I'
+    - '&8Atomic number: 53'
+    - '&8Atomic mass: 126.904 47'
+    - '&aElement group: halogens'
+  EM_RADIUM:
+    name: '&x&E&D&E&3&4&2R&x&E&5&D&C&3&Ba&x&D&C&D&5&3&3d&x&D&4&C&E&2&Ci&x&C&C&C&6&2&5u&x&C&3&B&F&1&Dm'
+    lore:
+    - '&8Symbol: Ra'
+    - '&8Atomic number: 88'
+    - '&8Atomic mass: [226]'
+    - '&aElement group: alkaline earth metals'
+  EM_COPERNICIUM:
+    name: '&x&F&0&8&0&8&0C&x&F&1&8&8&8&5o&x&F&3&9&0&8&Ap&x&F&4&9&9&9&0e&x&F&5&A&1&9&5r&x&F&7&A&9&9&An&x&F&8&B&1&9&Fi&x&F&A&B&9&A&4c&x&F&B&C&1&A&9i&x&F&C&C&A&A&Fu&x&F&E&D&2&B&4m'
+    lore:
+    - '&8Symbol: Cn'
+    - '&8Atomic number: 112'
+    - '&8Atomic mass: [277]'
+    - '&aElement group: Transition metals'
+  EM_LEAD:
+    name: '&x&8&B&8&B&8&BL&x&8&4&8&4&8&4e&x&7&D&7&D&7&Da&x&7&5&7&5&7&5d'
+    lore:
+    - '&8Symbol: Pb'
+    - '&8Atomic number: 82'
+    - '&8Atomic mass: 207.2'
+    - '&aElement group: other metals'
+  EM_KRYPTON:
+    name: '&x&0&0&9&7&B&1K&x&0&4&A&6&A&Br&x&0&8&B&4&A&6y&x&0&C&C&3&A&0p&x&0&F&D&1&9&At&x&1&3&E&0&9&4o&x&1&7&E&E&8&Fn'
+    lore:
+    - '&8Symbol:  Kr'
+    - '&8Atomic number: 36'
+    - '&8Atomic mass: 83.798'
+    - '&aElement group: Noble gasses'
+  EM_SELENIUM:
+    name: '&x&3&8&C&A&0&8S&x&3&6&D&1&0&8e&x&3&3&D&7&0&8l&x&3&1&D&E&0&8e&x&2&F&E&5&0&9n&x&2&C&E&B&0&9i&x&2&A&F&2&0&9u&x&2&7&F&8&0&9m'
+    lore:
+    - '&8Symbol: Se'
+    - '&8Atomic number: 34'
+    - '&8Atomic mass: 78.96'
+    - '&aElement group: non-metals'
+  EM_POTASSIUM:
+    name: '&x&F&3&A&3&3&BP&x&F&4&A&1&3&Bo&x&F&6&A&0&3&Ct&x&F&7&9&E&3&Ca&x&F&8&9&D&3&Cs&x&F&A&9&B&3&Ds&x&F&B&9&A&3&Di&x&F&C&9&8&3&Du&x&F&E&9&7&3&Em'
+    lore:
+    - '&8Symbol: K'
+    - '&8Atomic number: 19'
+    - '&8Atomic mass: 39.098'
+    - '&aElement group: alkalines'
+  EM_TIN:
+    name: '&x&8&B&8&B&8&BT&x&8&1&8&1&8&1i&x&7&8&7&8&7&8n'
+    lore:
+    - '&8Symbol: Sn'
+    - '&8Atomic number: 50'
+    - '&8Atomic mass: 118.71'
+    - '&aElement group: other metals'
+  EM_LIVERMORIUM:
+    name: '&x&8&B&8&B&8&BL&x&8&8&8&8&8&8i&x&8&6&8&6&8&6v&x&8&3&8&3&8&3e&x&8&0&8&0&8&0r&x&7&E&7&E&7&Em&x&7&B&7&B&7&Bo&x&7&9&7&9&7&9r&x&7&6&7&6&7&6i&x&7&3&7&3&7&3u&x&7&1&7&1&7&1m'
+    lore:
+    - '&8Symbol: Lv'
+    - '&8Atomic number: 116'
+    - '&8Atomic mass: [293]'
+    - '&aElement group: other metals'
+  EM_ASTATINE:
+    name: '&x&E&E&F&F&0&0A&x&E&3&F&F&1&Ds&x&D&8&F&F&3&9t&x&C&D&F&F&5&6a&x&C&3&F&F&7&3t&x&B&8&F&F&8&Fi&x&A&D&F&F&A&Cn&x&A&2&F&F&C&8e'
+    lore:
+    - '&8Symbol: At'
+    - '&8Atomic number: 85'
+    - '&8Atomic mass: [210]'
+    - '&aElement group: halogens'
+  EM_OGANESSON:
+    name: '&x&0&0&9&7&B&1O&x&0&3&A&2&A&Dg&x&0&6&A&E&A&8a&x&0&9&B&9&A&4n&x&0&C&C&4&9&Fe&x&0&F&D&0&9&Bs&x&1&2&D&B&9&6s&x&1&5&E&6&9&2o&x&1&8&F&2&8&Dn'
+    lore:
+    - '&8Symbol: Og'
+    - '&8Atomic number: 118'
+    - '&8Atomic mass: [294]'
+    - '&aElement group: Noble gasses'
+  EM_XENON:
+    name: '&x&0&0&9&7&B&1X&x&0&5&A&B&A&9e&x&0&B&C&0&A&1n&x&1&0&D&4&9&9o&x&1&6&E&9&9&1n'
+    lore:
+    - '&8Symbol: Xe'
+    - '&8Atomic number: 54'
+    - '&8Atomic mass: 131.293'
+    - '&aElement group: Noble gasses'
+  EM_MERCURY:
+    name: '&x&F&0&8&0&8&0M&x&F&2&8&D&8&8e&x&F&4&9&A&9&0r&x&F&6&A&7&9&8c&x&F&9&B&3&A&1u&x&F&B&C&0&A&9r&x&F&D&C&D&B&1y'
+    lore:
+    - '&8Symbol: Hg'
+    - '&8Atomic number: 80'
+    - '&8Atomic mass: 200.59'
+    - '&aElement group: Transition metals'
+  EM_CARBON:
+    name: '&x&3&8&C&A&0&8C&x&3&5&D&3&0&8a&x&3&2&D&C&0&8r&x&2&F&E&5&0&9b&x&2&B&E&D&0&9o&x&2&8&F&6&0&9n'
+    lore:
+    - '&8Symbol: C'
+    - '&8Atomic number: 6'
+    - '&8Atomic mass: 12.011'
+    - '&aElement group: non-metals'
+  EM_FLUORINE:
+    name: '&x&E&E&F&F&0&0F&x&E&3&F&F&1&Dl&x&D&8&F&F&3&9u&x&C&D&F&F&5&6o&x&C&3&F&F&7&3r&x&B&8&F&F&8&Fi&x&A&D&F&F&A&Cn&x&A&2&F&F&C&8e'
+    lore:
+    - '&8Symbol: F'
+    - '&8Atomic number: 9'
+    - '&8Atomic mass: 19.998'
+    - '&aElement group: halogens'
+  EM_NITROGEN:
+    name: '&x&3&8&C&A&0&8N&x&3&6&D&1&0&8i&x&3&3&D&7&0&8t&x&3&1&D&E&0&8r&x&2&F&E&5&0&9o&x&2&C&E&B&0&9g&x&2&A&F&2&0&9e&x&2&7&F&8&0&9n'
+    lore:
+    - '&8Symbol: N'
+    - '&8Atomic number: 7'
+    - '&8Atomic mass: 14.007'
+    - '&aElement group: non-metals'
+    - '&aRight click to "un-breathe" &7(Main hand only)'
+  EM_MAGNESIUM:
+    name: '&x&E&D&E&3&4&2M&x&E&7&D&E&3&Da&x&E&2&D&9&3&8g&x&D&C&D&5&3&3n&x&D&7&D&0&2&Ee&x&D&1&C&B&2&As&x&C&C&C&6&2&5i&x&C&6&C&2&2&0u&x&C&1&B&D&1&Bm'
+    lore:
+    - '&8Symbol: Mg'
+    - '&8Atomic number: 12'
+    - '&8Atomic mass: 24.305'
+    - '&aElement group: alkaline earth metals'
+  EM_GOLD:
+    name: '&x&F&0&8&0&8&0G&x&F&4&9&7&8&Eo&x&F&8&A&D&9&Dl&x&F&B&C&4&A&Bd'
+    lore:
+    - '&8Symbol: Au'
+    - '&8Atomic number: 79'
+    - '&8Atomic mass: 196.967'
+    - '&aElement group: Transition metals'
+  EM_STRONTIUM:
+    name: '&x&E&D&E&3&4&2S&x&E&7&D&E&3&Dt&x&E&2&D&9&3&8r&x&D&C&D&5&3&3o&x&D&7&D&0&2&En&x&D&1&C&B&2&At&x&C&C&C&6&2&5i&x&C&6&C&2&2&0u&x&C&1&B&D&1&Bm'
+    lore:
+    - '&8Symbol: Sr'
+    - '&8Atomic number: 38'
+    - '&8Atomic mass: 87.62'
+    - '&aElement group: alkaline earth metals'
+  EM_NIOBIUM:
+    name: '&x&F&0&8&0&8&0N&x&F&2&8&D&8&8i&x&F&4&9&A&9&0o&x&F&6&A&7&9&8b&x&F&9&B&3&A&1i&x&F&B&C&0&A&9u&x&F&D&C&D&B&1m'
+    lore:
+    - '&8Symbol: Nb'
+    - '&8Atomic number: 41'
+    - '&8Atomic mass: 92.906'
+    - '&aElement group: Transition metals'
+  EM_SEABORGIUM:
+    name: '&x&F&0&8&0&8&0S&x&F&2&8&9&8&6e&x&F&3&9&2&8&Ba&x&F&5&9&B&9&1b&x&F&6&A&4&9&7o&x&F&8&A&D&9&Dr&x&F&9&B&6&A&2g&x&F&B&B&F&A&8i&x&F&C&C&8&A&Eu&x&F&E&D&1&B&3m'
+    lore:
+    - '&8Symbol: Sg'
+    - '&8Atomic number: 106'
+    - '&8Atomic mass: [266]'
+    - '&aElement group: Transition metals'
+  EM_NEON:
+    name: '&x&0&0&9&7&B&1N&x&0&7&B&1&A&7e&x&0&E&C&A&9&Do&x&1&4&E&4&9&3n'
+    lore:
+    - '&8Symbol: Ne'
+    - '&8Atomic number: 10'
+    - '&8Atomic mass: 20.18'
+    - '&aElement group: Noble gasses'
+    - '&aRight-click in a sign to make it glow &7(Main hand only)'
+  EM_SILICON:
+    name: '&x&8&B&8&B&8&BS&x&8&7&8&7&8&7i&x&8&3&8&3&8&3l&x&7&F&7&F&7&Fi&x&7&A&7&A&7&Ac&x&7&6&7&6&7&6o&x&7&2&7&2&7&2n'
+    lore:
+    - '&8Symbol: Si'
+    - '&8Atomic number: 14'
+    - '&8Atomic mass: 28.086'
+    - '&aElement group: semi metals'
+  EM_INDIUM:
+    name: '&x&8&B&8&B&8&BI&x&8&6&8&6&8&6n&x&8&1&8&1&8&1d&x&7&D&7&D&7&Di&x&7&8&7&8&7&8u&x&7&3&7&3&7&3m'
+    lore:
+    - '&8Symbol: In'
+    - '&8Atomic number: 49'
+    - '&8Atomic mass: 114.818'
+    - '&aElement group: other metals'
+  EM_BISMUTH:
+    name: '&x&8&B&8&B&8&BB&x&8&7&8&7&8&7i&x&8&3&8&3&8&3s&x&7&F&7&F&7&Fm&x&7&A&7&A&7&Au&x&7&6&7&6&7&6t&x&7&2&7&2&7&2h'
+    lore:
+    - '&8Symbol: Bi'
+    - '&8Atomic number: 83'
+    - '&8Atomic mass: 208.98'
+    - '&aElement group: other metals'
+  EM_SILVER:
+    name: '&x&F&0&8&0&8&0S&x&F&3&8&F&8&Ai&x&F&5&9&E&9&3l&x&F&8&A&D&9&Dv&x&F&A&B&C&A&6e&x&F&D&C&B&B&0r'
+    lore:
+    - '&8Symbol: Ag'
+    - '&8Atomic number: 47'
+    - '&8Atomic mass: 107.868'
+    - '&aElement group: Transition metals'
+  EM_TUNGSTEN:
+    name: '&x&F&0&8&0&8&0T&x&F&2&8&B&8&7u&x&F&4&9&7&8&En&x&F&6&A&2&9&5g&x&F&8&A&D&9&Ds&x&F&9&B&8&A&4t&x&F&B&C&4&A&Be&x&F&D&C&F&B&2n'
+    lore:
+    - '&8Symbol: W'
+    - '&8Atomic number: 74'
+    - '&8Atomic mass: 183.84'
+    - '&aElement group: Transition metals'
+  EM_PLATINUM:
+    name: '&x&F&0&8&0&8&0P&x&F&2&8&B&8&7l&x&F&4&9&7&8&Ea&x&F&6&A&2&9&5t&x&F&8&A&D&9&Di&x&F&9&B&8&A&4n&x&F&B&C&4&A&Bu&x&F&D&C&F&B&2m'
+    lore:
+    - '&8Symbol: Pt'
+    - '&8Atomic number: 78'
+    - '&8Atomic mass: 195.084'
+    - '&aElement group: Transition metals'
+  EM_FRANCIUM:
+    name: '&x&F&3&A&3&3&BF&x&F&5&A&1&3&Br&x&F&6&A&0&3&Ca&x&F&8&9&E&3&Cn&x&F&9&9&C&3&Dc&x&F&B&9&A&3&Di&x&F&C&9&9&3&Du&x&F&E&9&7&3&Em'
+    lore:
+    - '&8Symbol: Fr'
+    - '&8Atomic number: 87'
+    - '&8Atomic mass: [223]'
+    - '&aElement group: alkalines'
+  EM_CAESIUM:
+    name: '&x&F&3&A&3&3&BC&x&F&5&A&1&3&Ba&x&F&6&9&F&3&Ce&x&F&8&9&D&3&Cs&x&F&A&9&B&3&Di&x&F&C&9&9&3&Du&x&F&D&9&7&3&Em'
+    lore:
+    - '&8Symbol: Cs'
+    - '&8Atomic number: 55'
+    - '&8Atomic mass: 132.905'
+    - '&aElement group: alkalines'
+  EM_GERMANIUM:
+    name: '&x&8&B&8&B&8&BG&x&8&8&8&8&8&8e&x&8&5&8&5&8&5r&x&8&1&8&1&8&1m&x&7&E&7&E&7&Ea&x&7&B&7&B&7&Bn&x&7&8&7&8&7&8i&x&7&4&7&4&7&4u&x&7&1&7&1&7&1m'
+    lore:
+    - '&8Symbol: Ge'
+    - '&8Atomic number: 32'
+    - '&8Atomic mass: 72.64'
+    - '&aElement group: semi metals'
+  EM_NIHONIUM:
+    name: '&x&8&B&8&B&8&BN&x&8&7&8&7&8&7i&x&8&4&8&4&8&4h&x&8&0&8&0&8&0o&x&7&D&7&D&7&Dn&x&7&9&7&9&7&9i&x&7&5&7&5&7&5u&x&7&2&7&2&7&2m'
+    lore:
+    - '&8Symbol: Nh'
+    - '&8Atomic number: 113'
+    - '&8Atomic mass: [286]'
+    - '&aElement group: other metals'
+  EM_ROENTGENIUM:
+    name: '&x&F&0&8&0&8&0R&x&F&1&8&8&8&5o&x&F&3&9&0&8&Ae&x&F&4&9&9&9&0n&x&F&5&A&1&9&5t&x&F&7&A&9&9&Ag&x&F&8&B&1&9&Fe&x&F&A&B&9&A&4n&x&F&B&C&1&A&9i&x&F&C&C&A&A&Fu&x&F&E&D&2&B&4m'
+    lore:
+    - '&8Symbol: Rg'
+    - '&8Atomic number: 111'
+    - '&8Atomic mass: [272]'
+    - '&aElement group: Transition metals'
+  EM_BERYLLIUM:
+    name: '&x&E&D&E&3&4&2B&x&E&7&D&E&3&De&x&E&2&D&9&3&8r&x&D&C&D&5&3&3y&x&D&7&D&0&2&El&x&D&1&C&B&2&Al&x&C&C&C&6&2&5i&x&C&6&C&2&2&0u&x&C&1&B&D&1&Bm'
+    lore:
+    - '&8Symbol: Be'
+    - '&8Atomic number: 4'
+    - '&8Atomic mass: 9.012'
+    - '&aElement group: alkaline earth metals'
+  EM_HAFNIUM:
+    name: '&x&F&0&8&0&8&0H&x&F&2&8&D&8&8a&x&F&4&9&A&9&0f&x&F&6&A&7&9&8n&x&F&9&B&3&A&1i&x&F&B&C&0&A&9u&x&F&D&C&D&B&1m'
+    lore:
+    - '&8Symbol: Hf'
+    - '&8Atomic number: 72'
+    - '&8Atomic mass: 178.49'
+    - '&aElement group: Transition metals'
+  EM_DARMSTADTIUM:
+    name: '&x&F&0&8&0&8&0D&x&F&1&8&8&8&5a&x&F&3&8&F&8&Ar&x&F&4&9&7&8&Em&x&F&5&9&E&9&3s&x&F&6&A&6&9&8t&x&F&8&A&D&9&Da&x&F&9&B&5&A&1d&x&F&A&B&C&A&6t&x&F&B&C&4&A&Bi&x&F&D&C&B&B&0u&x&F&E&D&3&B&4m'
+    lore:
+    - '&8Symbol: Ds'
+    - '&8Atomic number: 110'
+    - '&8Atomic mass: [271]'
+    - '&aElement group: Transition metals'
+  EM_ANTIMONY:
+    name: '&x&8&B&8&B&8&BA&x&8&7&8&7&8&7n&x&8&4&8&4&8&4t&x&8&0&8&0&8&0i&x&7&D&7&D&7&Dm&x&7&9&7&9&7&9o&x&7&5&7&5&7&5n&x&7&2&7&2&7&2y'
+    lore:
+    - '&8Symbol: Sb'
+    - '&8Atomic number: 51'
+    - '&8Atomic mass: 121.76'
+    - '&aElement group: semi metals'
+  EM_TECHNETIUM:
+    name: '&x&F&0&8&0&8&0T&x&F&2&8&9&8&6e&x&F&3&9&2&8&Bc&x&F&5&9&B&9&1h&x&F&6&A&4&9&7n&x&F&8&A&D&9&De&x&F&9&B&6&A&2t&x&F&B&B&F&A&8i&x&F&C&C&8&A&Eu&x&F&E&D&1&B&3m'
+    lore:
+    - '&8Symbol: Tc'
+    - '&8Atomic number: 43'
+    - '&8Atomic mass: [98]'
+    - '&aElement group: Transition metals'
+  EM_CHROMIUM:
+    name: '&x&F&0&8&0&8&0C&x&F&2&8&B&8&7h&x&F&4&9&7&8&Er&x&F&6&A&2&9&5o&x&F&8&A&D&9&Dm&x&F&9&B&8&A&4i&x&F&B&C&4&A&Bu&x&F&D&C&F&B&2m'
+    lore:
+    - '&8Symbol: Cr'
+    - '&8Atomic number: 24'
+    - '&8Atomic mass: 51.996'
+    - '&aElement group: Transition metals'
+  EM_RUTHERFORDIUM:
+    name: '&x&F&0&8&0&8&0R&x&F&1&8&7&8&4u&x&F&2&8&E&8&9t&x&F&3&9&5&8&Dh&x&F&5&9&C&9&2e&x&F&6&A&3&9&6r&x&F&7&A&A&9&Af&x&F&8&B&0&9&Fo&x&F&9&B&7&A&3r&x&F&A&B&E&A&7d&x&F&C&C&5&A&Ci&x&F&D&C&C&B&0u&x&F&E&D&3&B&5m'
+    lore:
+    - '&8Symbol: Rf'
+    - '&8Atomic number: 104'
+    - '&8Atomic mass: 261'
+    - '&aElement group: Transition metals'
+  EM_GALLIUM:
+    name: '&x&8&B&8&B&8&BG&x&8&7&8&7&8&7a&x&8&3&8&3&8&3l&x&7&F&7&F&7&Fl&x&7&A&7&A&7&Ai&x&7&6&7&6&7&6u&x&7&2&7&2&7&2m'
+    lore:
+    - '&8Symbol: Ga'
+    - '&8Atomic number: 31'
+    - '&8Atomic mass: 69.723'
+    - '&aElement group: other metals'
+  EM_ARGON:
+    name: '&x&0&0&9&7&B&1A&x&0&5&A&B&A&9r&x&0&B&C&0&A&1g&x&1&0&D&4&9&9o&x&1&6&E&9&9&1n'
+    lore:
+    - '&8Symbol: Ar'
+    - '&8Atomic number: 18'
+    - '&8Atomic mass: 39.948'
+    - '&aElement group: Noble gasses'
+  EM_OXYGEN:
+    name: '&x&3&8&C&A&0&8O&x&3&5&D&3&0&8x&x&3&2&D&C&0&8y&x&2&F&E&5&0&9g&x&2&B&E&D&0&9e&x&2&8&F&6&0&9n'
+    lore:
+    - '&8Symbol: O'
+    - '&8Atomic number: 8'
+    - '&8Atomic mass: 15.999'
+    - '&aElement group: non-metals'
+    - '&aRight-click to breathe &7(Main hand only)'
+  EM_TANTALUM:
+    name: '&x&F&0&8&0&8&0T&x&F&2&8&B&8&7a&x&F&4&9&7&8&En&x&F&6&A&2&9&5t&x&F&8&A&D&9&Da&x&F&9&B&8&A&4l&x&F&B&C&4&A&Bu&x&F&D&C&F&B&2m'
+    lore:
+    - '&8Symbol: Ta'
+    - '&8Atomic number: 73'
+    - '&8Atomic mass: 180.948'
+    - '&aElement group: Transition metals'
+  EM_CALCIUM:
+    name: '&x&E&D&E&3&4&2C&x&E&6&D&D&3&Ca&x&D&F&D&7&3&5l&x&D&8&D&1&2&Fc&x&D&0&C&A&2&9i&x&C&9&C&4&2&3u&x&C&2&B&E&1&Cm'
+    lore:
+    - '&8Symbol: Ca'
+    - '&8Atomic number: 20'
+    - '&8Atomic mass: 40.078'
+    - '&aElement group: alkaline earth metals'
+  EM_COPPER:
+    name: '&x&F&0&8&0&8&0C&x&F&3&8&F&8&Ao&x&F&5&9&E&9&3p&x&F&8&A&D&9&Dp&x&F&A&B&C&A&6e&x&F&D&C&B&B&0r'
+    lore:
+    - '&8Symbol: Cu'
+    - '&8Atomic number: 29'
+    - '&8Atomic mass: 63.546'
+    - '&aElement group: Transition metals'

@@ -1,0 +1,34 @@
+name: SpiritsUnchained
+translations:
+  SU_INFUSED_FEATHER:
+    name: '&5Infused Feather'
+    lore:
+    - ''
+    - '&7A Feather infused with Magic'
+  SU_UNIDENTIFIED_SPIRIT:
+    name: '&fUnidentified Spirit'
+    lore:
+    - ''
+    - '&7A Captured Unidentified Spirit'
+    - '&7Useless on its Own'
+  SU_SPIRIT_BOTTLE:
+    name: '&fSpirit in a Bottle'
+    lore:
+    - ''
+    - '&7A Spirit in a Bottle'
+    - '&7Use it to get Ectoplasm'
+  SU_ECTOPLASM:
+    name: '&aEctoplasm'
+    lore:
+    - ''
+    - '&7Attained from those Impassable'
+  SU_INFUSED_MEMBRANE:
+    name: '&5Infused Membrane'
+    lore:
+    - ''
+    - '&7A Membrane infused with Magic'
+  SU_SOUL_STAINED_GLASS:
+    name: '&5Soul Stained Glass'
+    lore:
+    - ''
+    - '&7Peer into Another Plane'

@@ -1,0 +1,101 @@
+name: Networks
+translations:
+  NTW_RADIOACTIVE_OPTIC_STAR:
+    name: '&x&D&B&C&E&A&9Radioactive Optic Star'
+    lore:
+    - ''
+    - '&7A crystalline star structure that'
+    - '&7can store insane amounts of information.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  NTW_ADVANCED_NANOBOTS:
+    name: '&x&D&B&C&E&A&9Advanced Nanobots'
+    lore:
+    - ''
+    - '&7Teeny Tiny little bots that can'
+    - '&7help you with precise tasks.'
+    - '&7This version is smarter and faster.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  NTW_OPTIC_GLASS:
+    name: '&x&D&B&C&E&A&9Optic Glass'
+    lore:
+    - ''
+    - '&7A simple glass that is able to'
+    - '&7transfer small bits of information.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  NTW_AI_CORE:
+    name: '&x&D&B&C&E&A&9A.I. Core'
+    lore:
+    - ''
+    - '&7A burgeoning artificial intelligence'
+    - '&7resides within this weak shell.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  NTW_SIMPLE_NANOBOTS:
+    name: '&x&D&B&C&E&A&9Simple Nanobots'
+    lore:
+    - ''
+    - '&7Teeny Tiny little bots that can'
+    - '&7help you with precise tasks.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  NTW_INTERDIMENSIONAL_PRESENCE:
+    name: '&x&D&B&C&E&A&9Interdimensional Presence'
+    lore:
+    - ''
+    - '&7An artificial intelligence that has'
+    - '&7grown too powerful for just a'
+    - '&7single dimension.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  NTW_OPTIC_STAR:
+    name: '&x&D&B&C&E&A&9Optic Star'
+    lore:
+    - ''
+    - '&7A crystalline star structure that'
+    - '&7can transfer large bits of information.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  NTW_SYNTHETIC_EMERALD_SHARD:
+    name: '&x&D&B&C&E&A&9Synthetic Emerald Shard'
+    lore:
+    - ''
+    - '&7A shard of synthetic emerald that'
+    - '&7is the backbone for information'
+    - '&7transference.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  NTW_EMPOWERED_AI_CORE:
+    name: '&x&D&B&C&E&A&9Empowered A.I. Core'
+    lore:
+    - ''
+    - '&7A flourishing artificial intelligence'
+    - '&7resides within this shell.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  NTW_OPTIC_CABLE:
+    name: '&x&D&B&C&E&A&9Optic Cable'
+    lore:
+    - ''
+    - '&7A simple wire that is able to'
+    - '&7transfer large bits of information.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  NTW_SHRINKING_BASE:
+    name: '&x&D&B&C&E&A&9Shrinking Base'
+    lore:
+    - ''
+    - '&7An advanced construct able to make'
+    - '&7big things go small.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  NTW_PRISTINE_AI_CORE:
+    name: '&x&D&B&C&E&A&9Pristine A.I. Core'
+    lore:
+    - ''
+    - '&7A perfected artificial intelligence'
+    - '&7resides within this defined shell.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'

@@ -1,0 +1,118 @@
+name: SimpleMaterialGenerators
+translations:
+  SMG_GENERATOR_OBSIDIAN_BADLY_FORMED:
+    name: '&5Obsidian generator &8(Badly Formed)'
+    lore:
+    - '&8Needs to be reformed'
+    - ''
+    - '&9&oSimpleMaterialGenerators'
+  SMG_GENERATOR_OBSIDIAN_BROKEN:
+    name: '&5Obsidian generator &8(Broken)'
+    lore:
+    - '&8Needs to be repaired'
+    - ''
+    - '&9&oSimpleMaterialGenerators'
+  SMG_GENERATOR_SAND:
+    name: '&eSand generator'
+    lore:
+    - '&6Rate: &e8 ticks'
+    - ''
+    - '&9&oSimpleMaterialGenerators'
+  SMG_GENERATOR_STONE_BROKEN:
+    name: '&7Stone generator &8(Broken)'
+    lore:
+    - '&8Needs to be repaired'
+    - ''
+    - '&9&oSimpleMaterialGenerators'
+  SMG_GENERATOR_REDSTONE:
+    name: '&cRedstone generator'
+    lore:
+    - '&6Rate: &e24 ticks'
+    - ''
+    - '&9&oSimpleMaterialGenerators'
+  SMG_GENERATOR_SMOOTH_STONE:
+    name: '&7Smooth stone generator'
+    lore:
+    - '&6Rate: &e12 ticks'
+    - ''
+    - '&9&oSimpleMaterialGenerators'
+  SMG_GENERATOR_SAND_BROKEN:
+    name: '&eSand generator &8(Broken)'
+    lore:
+    - '&8Needs to be repaired'
+    - ''
+    - '&9&oSimpleMaterialGenerators'
+  SMG_GENERATOR_SMOOTH_STONE_BROKEN:
+    name: '&7Smooth stone generator &8(Broken)'
+    lore:
+    - '&8Needs to be repaired'
+    - ''
+    - '&9&oSimpleMaterialGenerators'
+  SMG_GENERATOR_MULTIBLOCK:
+    name: '&9Generator multiblock'
+    lore:
+    - ''
+    - '&dBuild any of this addon''s'
+    - '&dgenerators like this.'
+    - '&aThey will only output to a chest'
+    - '&adirectly above it.'
+  SMG_GENERATOR_GLASS:
+    name: '&fGlass generator'
+    lore:
+    - '&6Rate: &e12 ticks'
+    - ''
+    - '&9&oSimpleMaterialGenerators'
+  SMG_GENERATOR_NETHERRACK:
+    name: '&cNetherrack generator'
+    lore:
+    - '&6Rate: &e6 ticks'
+    - ''
+    - '&9&oSimpleMaterialGenerators'
+  SMG_GENERATOR_GRAVEL_BROKEN:
+    name: '&7Gravel generator &8(Broken)'
+    lore:
+    - '&8Needs to be repaired'
+    - ''
+    - '&9&oSimpleMaterialGenerators'
+  SMG_GENERATOR_GRAVEL:
+    name: '&7Gravel generator'
+    lore:
+    - '&6Rate: &e6 ticks'
+    - ''
+    - '&9&oSimpleMaterialGenerators'
+  SMG_GENERATOR_REDSTONE_BROKEN:
+    name: '&cRedstone generator &8(Broken)'
+    lore:
+    - '&8Needs to be repaired'
+    - ''
+    - '&9&oSimpleMaterialGenerators'
+  SMG_GENERATOR_COBBLESTONE:
+    name: '&7Cobblestone generator'
+    lore:
+    - '&6Rate: &e4 ticks'
+    - ''
+    - '&9&oSimpleMaterialGenerators'
+  SMG_GENERATOR_SOUL_SAND:
+    name: '&8Soul sand generator'
+    lore:
+    - '&6Rate: &e8 ticks'
+    - ''
+    - '&9&oSimpleMaterialGenerators'
+  SMG_GENERATOR_OBSIDIAN:
+    name: '&5Obsidian generator'
+    lore:
+    - '&6Rate: &e128 ticks'
+    - ''
+    - '&9&oSimpleMaterialGenerators'
+  SMG_GENERATOR_REDSTONE_BADLY_FORMED:
+    name: '&cRedstone generator &8(Badly Formed)'
+    lore:
+    - '&8Needs to be reformed'
+    - ''
+    - '&9&oSimpleMaterialGenerators'
+  SMG_GENERATOR_STONE:
+    name: '&7Stone generator'
+    lore:
+    - '&6Rate: &e8 ticks'
+    - ''
+    - '&9&oSimpleMaterialGenerators'

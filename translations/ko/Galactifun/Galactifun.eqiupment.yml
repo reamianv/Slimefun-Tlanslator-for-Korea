@@ -1,0 +1,40 @@
+name: Galactifun
+translations:
+  SPACE_SUIT_PANTS:
+    name: '&fSpace Suit Pants'
+    lore:
+    - ''
+    - '&7Basic pair of space suit pants'
+  HEAT_RESISTANCE_UPGRADE:
+    name: '&7Heat Resistance Upgrade'
+    lore:
+    - ''
+    - '&8Add to your space suit to increase heat resistance'
+  SPACE_SUIT_HELMET:
+    name: '&fSpace Suit Helmet'
+    lore:
+    - ''
+    - '&7A basic space suit helmet'
+    - '&eRight Click&7 to use'
+  RADIATION_RESISTANCE_UPGRADE:
+    name: '&7Radiation Resistance Upgrade'
+    lore:
+    - ''
+    - '&8Add to your space suit to increase radiation resistance'
+  SPACE_SUIT_CHEST:
+    name: '&fSpace Suit Chest'
+    lore:
+    - ''
+    - '&7A basic space suit chest'
+    - ''
+    - '&bOxygen: &70 / 3600'
+  COLD_RESISTANCE_UPGRADE:
+    name: '&7Cold Resistance Upgrade'
+    lore:
+    - ''
+    - '&8Add to your space suit to increase cold resistance'
+  SPACE_SUIT_BOOTS:
+    name: '&fSpace Suit Boots'
+    lore:
+    - ''
+    - '&7Basic pair of space suit boots'

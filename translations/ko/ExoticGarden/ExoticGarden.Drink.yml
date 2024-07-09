@@ -1,0 +1,212 @@
+name: ExoticGarden
+translations:
+  PEAR_JUICE:
+    name: '&aPear Juice'
+    lore:
+    - ''
+    - '&7&oRestores &b&o3.0 &7&oHunger'
+  ORANGE_JUICE:
+    name: '&6Orange Juice'
+    lore:
+    - ''
+    - '&7&oRestores &b&o3.0 &7&oHunger'
+  CHERRY_ICED_TEA:
+    name: '&cCherry Iced Tea'
+    lore:
+    - ''
+    - '&7&oRestores &b&o6.5 &7&oHunger'
+  ELDERBERRY_SMOOTHIE:
+    name: '&cElderberry Smoothie'
+    lore:
+    - ''
+    - '&7&oRestores &b&o5.0 &7&oHunger'
+  LEMONADE:
+    name: '&eLemonade'
+    lore:
+    - ''
+    - '&7&oRestores &b&o4.0 &7&oHunger'
+  LEMON_ICED_TEA:
+    name: '&eLemon Iced Tea'
+    lore:
+    - ''
+    - '&7&oRestores &b&o6.5 &7&oHunger'
+  ELDERBERRY_JUICE:
+    name: '&cElderberry Juice'
+    lore:
+    - ''
+    - '&7&oRestores &b&o3.0 &7&oHunger'
+  PINEAPPLE_JUICE:
+    name: '&6Pineapple Juice'
+    lore:
+    - ''
+    - '&7&oRestores &b&o3.0 &7&oHunger'
+  PLUM_JUICE:
+    name: '&5Plum Juice'
+    lore:
+    - ''
+    - '&7&oRestores &b&o3.0 &7&oHunger'
+  BLUEBERRY_SMOOTHIE:
+    name: '&9Blueberry Smoothie'
+    lore:
+    - ''
+    - '&7&oRestores &b&o5.0 &7&oHunger'
+  STRAWBERRY_ICED_TEA:
+    name: '&4Strawberry Iced Tea'
+    lore:
+    - ''
+    - '&7&oRestores &b&o6.5 &7&oHunger'
+  OAK_APPLE_JUICE:
+    name: '&cOak Apple Juice'
+    lore:
+    - ''
+    - '&7&oRestores &b&o3.0 &7&oHunger'
+  CRANBERRY_JUICE:
+    name: '&cCranberry Juice'
+    lore:
+    - ''
+    - '&7&oRestores &b&o3.0 &7&oHunger'
+  GRAPE_SMOOTHIE:
+    name: '&cGrape Smoothie'
+    lore:
+    - ''
+    - '&7&oRestores &b&o5.0 &7&oHunger'
+  TOMATO_JUICE:
+    name: '&4Tomato Juice'
+    lore:
+    - ''
+    - '&7&oRestores &b&o3.0 &7&oHunger'
+  POMEGRANATE_JUICE:
+    name: '&4Pomegranate Juice'
+    lore:
+    - ''
+    - '&7&oRestores &b&o3.0 &7&oHunger'
+  CHERRY_JUICE:
+    name: '&cCherry Juice'
+    lore:
+    - ''
+    - '&7&oRestores &b&o3.0 &7&oHunger'
+  PINACOLADA:
+    name: '&6Pinacolada'
+    lore:
+    - ''
+    - '&7&oRestores &b&o7.0 &7&oHunger'
+  PINEAPPLE_SMOOTHIE:
+    name: '&6Pineapple Smoothie'
+    lore:
+    - ''
+    - '&7&oRestores &b&o5.0 &7&oHunger'
+  HOT_CHOCOLATE:
+    name: '&6Hot Chocolate'
+    lore:
+    - ''
+    - '&7&oRestores &b&o4.0 &7&oHunger'
+  PEACH_ICED_TEA:
+    name: '&dPeach Iced Tea'
+    lore:
+    - ''
+    - '&7&oRestores &b&o6.5 &7&oHunger'
+  WINE:
+    name: '&cWine'
+    lore:
+    - ''
+    - '&7&oRestores &b&o5.0 &7&oHunger'
+  RASPBERRY_SMOOTHIE:
+    name: '&dRaspberry Smoothie'
+    lore:
+    - ''
+    - '&7&oRestores &b&o5.0 &7&oHunger'
+  COWBERRY_JUICE:
+    name: '&cCowberry Juice'
+    lore:
+    - ''
+    - '&7&oRestores &b&o3.0 &7&oHunger'
+  BLUEBERRY_JUICE:
+    name: '&9Blueberry Juice'
+    lore:
+    - ''
+    - '&7&oRestores &b&o3.0 &7&oHunger'
+  LIME_JUICE:
+    name: '&aLime Juice'
+    lore:
+    - ''
+    - '&7&oRestores &b&o3.0 &7&oHunger'
+  BLACKBERRY_SMOOTHIE:
+    name: '&8Blackberry Smoothie'
+    lore:
+    - ''
+    - '&7&oRestores &b&o5.0 &7&oHunger'
+  LEMON_JUICE:
+    name: '&eLemon Juice'
+    lore:
+    - ''
+    - '&7&oRestores &b&o3.0 &7&oHunger'
+  BLACKBERRY_JUICE:
+    name: '&8Blackberry Juice'
+    lore:
+    - ''
+    - '&7&oRestores &b&o3.0 &7&oHunger'
+  RASPBERRY_JUICE:
+    name: '&dRaspberry Juice'
+    lore:
+    - ''
+    - '&7&oRestores &b&o3.0 &7&oHunger'
+  LIME_SMOOTHIE:
+    name: '&aLime Smoothie'
+    lore:
+    - ''
+    - '&7&oRestores &b&o5.0 &7&oHunger'
+  COCONUT_MILK:
+    name: '&6Coconut Milk'
+    lore:
+    - ''
+    - '&7&oRestores &b&o3.0 &7&oHunger'
+  CRANBERRY_SMOOTHIE:
+    name: '&cCranberry Smoothie'
+    lore:
+    - ''
+    - '&7&oRestores &b&o5.0 &7&oHunger'
+  COWBERRY_SMOOTHIE:
+    name: '&cCowberry Smoothie'
+    lore:
+    - ''
+    - '&7&oRestores &b&o5.0 &7&oHunger'
+  THAI_TEA:
+    name: '&6Thai Tea'
+    lore:
+    - ''
+    - '&7&oRestores &b&o7.0 &7&oHunger'
+  RASPBERRY_ICED_TEA:
+    name: '&dRaspberry Iced Tea'
+    lore:
+    - ''
+    - '&7&oRestores &b&o6.5 &7&oHunger'
+  STRAWBERRY_JUICE:
+    name: '&4Strawberry Juice'
+    lore:
+    - ''
+    - '&7&oRestores &b&o3.0 &7&oHunger'
+  SWEETENED_TEA:
+    name: '&aSweetened Tea'
+    lore:
+    - ''
+    - '&7&oRestores &b&o3.0 &7&oHunger'
+  GRAPE_JUICE:
+    name: '&cGrape Juice'
+    lore:
+    - ''
+    - '&7&oRestores &b&o3.0 &7&oHunger'
+  PEACH_JUICE:
+    name: '&5Peach Juice'
+    lore:
+    - ''
+    - '&7&oRestores &b&o3.0 &7&oHunger'
+  STRAWBERRY_SMOOTHIE:
+    name: '&4Strawberry Smoothie'
+    lore:
+    - ''
+    - '&7&oRestores &b&o5.0 &7&oHunger'
+  DRAGON_FRUIT_JUICE:
+    name: '&dDragon Fruit Juice'
+    lore:
+    - ''
+    - '&7&oRestores &b&o3.0 &7&oHunger'

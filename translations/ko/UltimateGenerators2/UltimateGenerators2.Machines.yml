@@ -1,0 +1,30 @@
+name: UltimateGenerators2
+translations:
+  DIESEL_REFINERY:
+    name: '&cDiesel Refinery'
+    lore:
+    - ''
+    - '&fRefines oil into diesel'
+    - ''
+    - '&6Advanced Machine'
+    - '&8⇨ &e⚡ &716 J/t'
+  BIOFUEL_REFINERY:
+    name: '&cBiofuel Refinery'
+    lore:
+    - ''
+    - '&fRefines biomass into biofuel'
+    - ''
+    - '&6Advanced Machine'
+    - '&8⇨ &e⚡ &718 J/t'
+  BIOMASS_EXTRACTION_MACHINE:
+    name: '&aBiomass Extraction Machine'
+    lore:
+    - ''
+    - '&7Medium Machine'
+    - '&8⇨ &e⚡ &73 J/t'
+  HEAVY_WATER_REFINING_MACHINE:
+    name: '&7Heavy Water Refining Machine'
+    lore:
+    - ''
+    - '&6Advanced Machine'
+    - '&8⇨ &e⚡ &79 J/t'

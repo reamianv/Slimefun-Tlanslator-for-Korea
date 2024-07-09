@@ -1,0 +1,56 @@
+name: InfinityExpansion
+translations:
+  BASIC_VIRTUAL_FARM:
+    name: '&9Basic &aVirtual Farm'
+    lore:
+    - '&7Automatically grows, harvests, and replants crops'
+    - ''
+    - '&8⇨ &e⚡ &7Speed: &b1x'
+    - '&8⇨ &e⚡ &736 J/s'
+  BASIC_TREE_GROWER:
+    name: '&9Basic &2Tree Grower'
+    lore:
+    - '&7Automatically grows, harvests, and replants trees'
+    - ''
+    - '&8⇨ &e⚡ &7Speed: &b1x'
+    - '&8⇨ &e⚡ &772 J/s'
+  BASIC_STRAINER:
+    name: '&9Basic Strainer'
+    lore:
+    - '&7Collects materials from flowing water'
+    - ''
+    - '&8⇨ &b⚡ &7Speed: &b1.0x'
+  ADVANCED_STRAINER:
+    name: '&cAdvanced Strainer'
+    lore:
+    - '&7Collects materials from flowing water'
+    - ''
+    - '&8⇨ &b⚡ &7Speed: &b4.0x'
+  BASIC_PANEL:
+    name: '&9Basic Solar Panel'
+    lore:
+    - '&7Generates energy from the sun'
+    - ''
+    - '&8⇨ &e⚡ &7900 J Buffer'
+    - '&8⇨ &e⚡ &718 J/s'
+  HYDRO_GENERATOR:
+    name: '&9Hydro Generator'
+    lore:
+    - '&7Generates energy from the movement of water'
+    - ''
+    - '&8⇨ &e⚡ &7500 J Buffer'
+    - '&8⇨ &e⚡ &710 J/s'
+  REINFORCED_STRAINER:
+    name: '&fReinforced Strainer'
+    lore:
+    - '&7Collects materials from flowing water'
+    - ''
+    - '&8⇨ &b⚡ &7Speed: &b20.0x'
+  BASIC_COBBLE_GEN:
+    name: '&9Basic &8Cobble Generator'
+    lore:
+    - ''
+    - '&8⇨ &e⚡ &7Speed: &b1x'
+    - '&8⇨ &e⚡ &748 J/s'
+  STRAINER_BASE:
+    name: '&7Strainer Base'

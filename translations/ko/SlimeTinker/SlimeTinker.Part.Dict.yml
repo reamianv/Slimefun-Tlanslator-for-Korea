@@ -1,0 +1,5320 @@
+name: SlimeTinker
+translations:
+  PART_HEAD_PICKREINFORCED_SLIME_STEEL:
+    name: '&x&A&E&D&1&9&7Reinforced Slime Steel&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Reinforced Slime Steel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKFORTUNE_SINGULARITY:
+    name: '&x&F&0&D&5&4&1Fortune Singularity&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Fortune Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELMIXED_METAL:
+    name: '&x&6&E&7&A&6&6Mixed Metal&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Mixed Metal.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSREFINED_IRON:
+    name: '&x&A&B&A&B&A&BRefined Iron&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Refined Iron.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELSOLDER:
+    name: '&x&B&7&A&F&B&DSolder&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Solder.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKZINC_SINGULARITY:
+    name: '&x&9&B&A&8&A&6Zinc Singularity&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Zinc Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEDAMASCUS_STEEL:
+    name: '&x&A&3&8&C&8&CDamascus Steel&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Damascus Steel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEINFINITE:
+    name: '&x&D&1&E&B&F&0Infinite&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Infinite.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_BRONZE:
+    name: '&x&8&7&7&4&3&5Bronze&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Bronze.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_DAXI_ABSORPTION:
+    name: '&x&8&3&2&1&C&FDaxi Absorption&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Daxi Absorption.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_SOLDER:
+    name: '&x&B&7&A&F&B&DSolder&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Solder.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETREDSTONE_ALLOY:
+    name: '&x&7&0&0&D&2&1Redstone Alloy&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Redstone Alloy.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEMETAL_SINGULARITY:
+    name: '&x&5&B&6&1&5&BMetal Singularity&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Metal Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKSCRAP:
+    name: '&x&5&C&4&5&1&DScrap&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Scrap.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATESTEEL:
+    name: '&x&D&1&D&1&D&1Steel&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Steel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSTITANIUM:
+    name: '&x&A&D&A&D&A&DTitanium&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Titanium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKMAGNONIUM:
+    name: '&x&4&A&0&4&4&6Magnonium&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Magnonium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOEIRON:
+    name: '&x&8&C&8&C&8&CIron&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Iron.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_IRON:
+    name: '&x&8&C&8&C&8&CIron&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Iron.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSFORTUNE_SINGULARITY:
+    name: '&x&F&0&D&5&4&1Fortune Singularity&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Fortune Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_MAGIC_SINGULARITY:
+    name: '&x&C&9&4&1&E&8Magic Singularity&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Magic Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDZINC_SINGULARITY:
+    name: '&x&9&B&A&8&A&6Zinc Singularity&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Zinc Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSMAGSTEEL:
+    name: '&x&7&3&0&0&0&0Magsteel&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Magsteel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXEADVANCED_ALLOY:
+    name: '&x&7&8&A&B&A&2Advanced Alloy&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Advanced Alloy.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_HARDENED_METAL:
+    name: '&x&2&9&2&5&1&AHardened Metal&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Hardened Metal.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_BILLON:
+    name: '&x&B&0&C&2&B&EBillon&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Billon.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKBILLON:
+    name: '&x&B&0&C&2&B&EBillon&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Billon.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDDAMASCUS_STEEL:
+    name: '&x&A&3&8&C&8&CDamascus Steel&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Damascus Steel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELDAMASCUS_STEEL:
+    name: '&x&A&3&8&C&8&CDamascus Steel&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Damascus Steel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXEFERROSILICON:
+    name: '&x&F&2&F&2&F&2Ferrosilicon&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Ferrosilicon.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKMETAL_SINGULARITY:
+    name: '&x&5&B&6&1&5&BMetal Singularity&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Metal Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSMAGNESIUM:
+    name: '&x&E&8&C&E&F&5Magnesium&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Magnesium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_ALUMINUM_SINGULARITY:
+    name: '&x&B&0&B&0&B&0Aluminum Singularity&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Aluminum Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_FERROSILICON:
+    name: '&x&F&2&F&2&F&2Ferrosilicon&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Ferrosilicon.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXENICEINIUM:
+    name: '&x&8&0&5&5&0&DNiceinium&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Niceinium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETCOPPER:
+    name: '&x&C&9&9&7&3&2Copper&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Copper.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSVOID:
+    name: '&x&5&C&5&7&5&6Void&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Void.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSSTEEL:
+    name: '&x&D&1&D&1&D&1Steel&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Steel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_TIN_SINGULARITY:
+    name: '&x&A&8&9&B&9&BTin Singularity&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Tin Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETBRASS:
+    name: '&x&D&B&C&D&4&BBrass&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Brass.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_MAGNONIUM:
+    name: '&x&4&A&0&4&4&6Magnonium&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Magnonium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKINFINITE:
+    name: '&x&D&1&E&B&F&0Infinite&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Infinite.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKGOLD:
+    name: '&x&F&F&E&1&3&8Gold&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Gold.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_COPPER:
+    name: '&x&C&9&9&7&3&2Copper&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Copper.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKMAGIC_SINGULARITY:
+    name: '&x&C&9&4&1&E&8Magic Singularity&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Magic Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOEMAGNESIUM:
+    name: '&x&E&8&C&E&F&5Magnesium&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Magnesium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_UNPATENTABLIUM:
+    name: '&x&8&D&D&6&C&0Unpatentablium&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Unpatentablium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDVOID:
+    name: '&x&5&C&5&7&5&6Void&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Void.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETIRIDIUM:
+    name: '&x&C&9&9&9&C&9Iridium&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Iridium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOEREINFORCED_SLIME_STEEL:
+    name: '&x&A&E&D&1&9&7Reinforced Slime Steel&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Reinforced Slime Steel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETALUMINUM_SINGULARITY:
+    name: '&x&B&0&B&0&B&0Aluminum Singularity&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Aluminum Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATESILVER_SINGULARITY:
+    name: '&x&D&4&D&4&D&4Silver Singularity&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Silver Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSREFINED_IRON:
+    name: '&x&A&B&A&B&A&BRefined Iron&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Refined Iron.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETDAXI_ABSORPTION:
+    name: '&x&8&3&2&1&C&FDaxi Absorption&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Daxi Absorption.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELSTEEL:
+    name: '&x&D&1&D&1&D&1Steel&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Steel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDTITANIUM:
+    name: '&x&A&D&A&D&A&DTitanium&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Titanium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSMYTHRIL:
+    name: '&x&4&E&B&D&C&7Mythril&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Mythril.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETADVANCED_ALLOY:
+    name: '&x&7&8&A&B&A&2Advanced Alloy&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Advanced Alloy.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXESMITHIUM:
+    name: '&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Smithium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETNICKEL:
+    name: '&x&E&B&E&B&E&BNickel&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Nickel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXEMAGSTEEL:
+    name: '&x&7&3&0&0&0&0Magsteel&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Magsteel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSSILVER_SINGULARITY:
+    name: '&x&D&4&D&4&D&4Silver Singularity&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Silver Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDADAMANTITE:
+    name: '&x&C&9&3&E&C&2Adamantite&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Adamantite.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_STEEL:
+    name: '&x&D&1&D&1&D&1Steel&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Steel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOESEGGANESSON:
+    name: '&x&4&B&A&C&B&FSegganesson&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Segganesson.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_INFINITE:
+    name: '&x&D&1&E&B&F&0Infinite&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Infinite.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXETIN:
+    name: '&x&A&8&9&B&9&BTin&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Tin.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXEBRASS:
+    name: '&x&D&B&C&D&4&BBrass&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Brass.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKDAMASCUS_STEEL:
+    name: '&x&A&3&8&C&8&CDamascus Steel&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Damascus Steel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_DAXI_SATURATION:
+    name: '&x&8&3&2&1&C&FDaxi Saturation&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Daxi Saturation.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSMAGNONIUM:
+    name: '&x&4&A&0&4&4&6Magnonium&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Magnonium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSEARTH_SINGULARITY:
+    name: '&x&4&4&E&3&4&FEarth Singularity&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Earth Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELCOPPER:
+    name: '&x&C&9&9&7&3&2Copper&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Copper.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSREINFORCED_SLIME_STEEL:
+    name: '&x&A&E&D&1&9&7Reinforced Slime Steel&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Reinforced Slime Steel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_METAL_SINGULARITY:
+    name: '&x&5&B&6&1&5&BMetal Singularity&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Metal Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSSMITHIUM:
+    name: '&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Smithium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELMYTHRIL:
+    name: '&x&4&E&B&D&C&7Mythril&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Mythril.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSOSMIUM_SUPERALLOY:
+    name: '&x&8&D&D&6&C&0Osmium Superalloy&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Osmium Superalloy.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSIRIDIUM:
+    name: '&x&C&9&9&9&C&9Iridium&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Iridium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETMETAL_SINGULARITY:
+    name: '&x&5&B&6&1&5&BMetal Singularity&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Metal Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETALUMINUM_BRASS:
+    name: '&x&D&B&D&2&7&9Aluminum Brass&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Aluminum Brass.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_GOLD:
+    name: '&x&F&F&E&1&3&8Gold&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Gold.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOEEARTH_SINGULARITY:
+    name: '&x&4&4&E&3&4&FEarth Singularity&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Earth Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSTIN_SINGULARITY:
+    name: '&x&A&8&9&B&9&BTin Singularity&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Tin Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOEREFINED_IRON:
+    name: '&x&A&B&A&B&A&BRefined Iron&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Refined Iron.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETSOLDER:
+    name: '&x&B&7&A&F&B&DSolder&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Solder.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSZINC:
+    name: '&x&9&B&A&8&A&6Zinc&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Zinc.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_REFINED_IRON:
+    name: '&x&A&B&A&B&A&BRefined Iron&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Refined Iron.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSSILVER_SINGULARITY:
+    name: '&x&D&4&D&4&D&4Silver Singularity&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Silver Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSZINC:
+    name: '&x&9&B&A&8&A&6Zinc&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Zinc.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDALUMINUM_BRASS:
+    name: '&x&D&B&D&2&7&9Aluminum Brass&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Aluminum Brass.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_MAGSTEEL:
+    name: '&x&7&3&0&0&0&0Magsteel&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Magsteel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSADVANCED_ALLOY:
+    name: '&x&7&8&A&B&A&2Advanced Alloy&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Advanced Alloy.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOESILVER:
+    name: '&x&D&4&D&4&D&4Silver&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Silver.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDSMITHIUM:
+    name: '&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Smithium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOEDURALIUM:
+    name: '&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Duralium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELMAG_THOR:
+    name: '&x&3&3&D&E&4&DMag Thor&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Mag Thor.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXESTEEL:
+    name: '&x&D&1&D&1&D&1Steel&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Steel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_DAXI_STRENGTH:
+    name: '&x&8&3&2&1&C&FDaxi Strength&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Daxi Strength.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDTIN:
+    name: '&x&A&8&9&B&9&BTin&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Tin.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSTIN:
+    name: '&x&A&8&9&B&9&BTin&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Tin.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSBRONZE:
+    name: '&x&8&7&7&4&3&5Bronze&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Bronze.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELBRASS:
+    name: '&x&D&B&C&D&4&BBrass&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Brass.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXEZINC_SINGULARITY:
+    name: '&x&9&B&A&8&A&6Zinc Singularity&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Zinc Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDMAGNONIUM:
+    name: '&x&4&A&0&4&4&6Magnonium&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Magnonium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKIRON:
+    name: '&x&8&C&8&C&8&CIron&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Iron.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_FORTUNE_SINGULARITY:
+    name: '&x&F&0&D&5&4&1Fortune Singularity&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Fortune Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEIRON_SINGULARITY:
+    name: '&x&8&C&8&C&8&CIron Singularity&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Iron Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSINFINITE:
+    name: '&x&D&1&E&B&F&0Infinite&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Infinite.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_ALUMINUM:
+    name: '&x&B&0&B&0&B&0Aluminum&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Aluminum.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETFORTUNE_SINGULARITY:
+    name: '&x&F&0&D&5&4&1Fortune Singularity&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Fortune Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOEOSMIUM_SUPERALLOY:
+    name: '&x&8&D&D&6&C&0Osmium Superalloy&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Osmium Superalloy.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_IRIDIUM:
+    name: '&x&C&9&9&9&C&9Iridium&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Iridium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEFERROSILICON:
+    name: '&x&F&2&F&2&F&2Ferrosilicon&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Ferrosilicon.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSZINC_SINGULARITY:
+    name: '&x&9&B&A&8&A&6Zinc Singularity&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Zinc Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_GOLD:
+    name: '&x&F&F&E&1&3&8Gold&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Gold.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDBRASS:
+    name: '&x&D&B&C&D&4&BBrass&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Brass.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETMAGIC_SINGULARITY:
+    name: '&x&C&9&4&1&E&8Magic Singularity&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Magic Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKMAGNESIUM:
+    name: '&x&E&8&C&E&F&5Magnesium&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Magnesium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_SILVER_SINGULARITY:
+    name: '&x&D&4&D&4&D&4Silver Singularity&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Silver Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_REINFORCED_ALLOY:
+    name: '&x&4&6&5&8&9&9Reinforced Alloy&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Reinforced Alloy.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKALUMINUM_BRONZE:
+    name: '&x&B&D&A&A&6&DAluminum Bronze&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Aluminum Bronze.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXESOLDER:
+    name: '&x&B&7&A&F&B&DSolder&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Solder.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_NICKEL:
+    name: '&x&E&B&E&B&E&BNickel&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Nickel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSDAXI_SATURATION:
+    name: '&x&8&3&2&1&C&FDaxi Saturation&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Daxi Saturation.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELCOPPER_SINGULARITY:
+    name: '&x&C&9&9&7&3&2Copper Singularity&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Copper Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_MAGNESIUM_SINGULARITY:
+    name: '&x&E&8&C&E&F&5Magnesium Singularity&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Magnesium Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSHARDENED_METAL:
+    name: '&x&2&9&2&5&1&AHardened Metal&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Hardened Metal.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXEBILLON:
+    name: '&x&B&0&C&2&B&EBillon&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Billon.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_MAG_THOR:
+    name: '&x&3&3&D&E&4&DMag Thor&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Mag Thor.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATELEAD:
+    name: '&x&9&0&4&3&B&ALead&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Lead.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATELEAD_SINGULARITY:
+    name: '&x&9&0&4&3&B&ALead Singularity&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Lead Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDTIN_SINGULARITY:
+    name: '&x&A&8&9&B&9&BTin Singularity&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Tin Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_METAL_SINGULARITY:
+    name: '&x&5&B&6&1&5&BMetal Singularity&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Metal Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSBILLON:
+    name: '&x&B&0&C&2&B&EBillon&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Billon.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDCOPPER_SINGULARITY:
+    name: '&x&C&9&9&7&3&2Copper Singularity&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Copper Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_REDSTONE_ALLOY:
+    name: '&x&7&0&0&D&2&1Redstone Alloy&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Redstone Alloy.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOEDAMASCUS_STEEL:
+    name: '&x&A&3&8&C&8&CDamascus Steel&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Damascus Steel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDREFINED_IRON:
+    name: '&x&A&B&A&B&A&BRefined Iron&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Refined Iron.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSBRASS:
+    name: '&x&D&B&C&D&4&BBrass&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Brass.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSHARDENED_METAL:
+    name: '&x&2&9&2&5&1&AHardened Metal&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Hardened Metal.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSANNIVERSARIUM:
+    name: '&x&3&2&B&4&1&EAnniversarium&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Anniversarium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_ZINC:
+    name: '&x&9&B&A&8&A&6Zinc&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Zinc.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOEBRONZE:
+    name: '&x&8&7&7&4&3&5Bronze&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Bronze.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSMAGSTEEL:
+    name: '&x&7&3&0&0&0&0Magsteel&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Magsteel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELLEAD:
+    name: '&x&9&0&4&3&B&ALead&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Lead.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEBRASS:
+    name: '&x&D&B&C&D&4&BBrass&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Brass.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_REINFORCED_ALLOY:
+    name: '&x&4&6&5&8&9&9Reinforced Alloy&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Reinforced Alloy.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_ALUMINUM:
+    name: '&x&B&0&B&0&B&0Aluminum&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Aluminum.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOESCRAP:
+    name: '&x&5&C&4&5&1&DScrap&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Scrap.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEREINFORCED_SLIME_STEEL:
+    name: '&x&A&E&D&1&9&7Reinforced Slime Steel&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Reinforced Slime Steel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSVOID:
+    name: '&x&5&C&5&7&5&6Void&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Void.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_BRONZE:
+    name: '&x&8&7&7&4&3&5Bronze&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Bronze.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDFERROSILICON:
+    name: '&x&F&2&F&2&F&2Ferrosilicon&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Ferrosilicon.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELNICKEL:
+    name: '&x&E&B&E&B&E&BNickel&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Nickel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETSILVER_SINGULARITY:
+    name: '&x&D&4&D&4&D&4Silver Singularity&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Silver Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_IRON:
+    name: '&x&8&C&8&C&8&CIron&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Iron.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELOSMIUM:
+    name: '&x&8&D&D&6&C&0Osmium&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Osmium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELALUMINUM_BRASS:
+    name: '&x&D&B&D&2&7&9Aluminum Brass&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Aluminum Brass.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_ULTIMANINIUM:
+    name: '&x&A&C&A&C&A&CUltimaninium&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Ultimaninium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOEIRIDIUM:
+    name: '&x&C&9&9&9&C&9Iridium&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Iridium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETDAMASCUS_STEEL:
+    name: '&x&A&3&8&C&8&CDamascus Steel&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Damascus Steel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKSMITHIUM:
+    name: '&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Smithium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEREDSTONE_ALLOY:
+    name: '&x&7&0&0&D&2&1Redstone Alloy&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Redstone Alloy.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATESMITHIUM:
+    name: '&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Smithium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOEZINC:
+    name: '&x&9&B&A&8&A&6Zinc&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Zinc.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEALUMINUM_BRONZE:
+    name: '&x&B&D&A&A&6&DAluminum Bronze&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Aluminum Bronze.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_COPPER_SINGULARITY:
+    name: '&x&C&9&9&7&3&2Copper Singularity&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Copper Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELMETAL_SINGULARITY:
+    name: '&x&5&B&6&1&5&BMetal Singularity&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Metal Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSZINC_SINGULARITY:
+    name: '&x&9&B&A&8&A&6Zinc Singularity&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Zinc Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEMAGNESIUM_SINGULARITY:
+    name: '&x&E&8&C&E&F&5Magnesium Singularity&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Magnesium Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSBOOMERITE:
+    name: '&x&D&9&4&C&0&0Boomerite&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Boomerite.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDBILLON:
+    name: '&x&B&0&C&2&B&EBillon&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Billon.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXELEAD:
+    name: '&x&9&0&4&3&B&ALead&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Lead.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKZINC:
+    name: '&x&9&B&A&8&A&6Zinc&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Zinc.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSIRON:
+    name: '&x&8&C&8&C&8&CIron&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Iron.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_DURALIUM:
+    name: '&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Duralium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOEOSMIUM:
+    name: '&x&8&D&D&6&C&0Osmium&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Osmium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOEFORTUNE_SINGULARITY:
+    name: '&x&F&0&D&5&4&1Fortune Singularity&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Fortune Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOEALUMINUM:
+    name: '&x&B&0&B&0&B&0Aluminum&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Aluminum.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDBRONZE:
+    name: '&x&8&7&7&4&3&5Bronze&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Bronze.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELOSMIUM_SUPERALLOY:
+    name: '&x&8&D&D&6&C&0Osmium Superalloy&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Osmium Superalloy.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_ZINC_SINGULARITY:
+    name: '&x&9&B&A&8&A&6Zinc Singularity&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Zinc Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_MAGNESIUM_SINGULARITY:
+    name: '&x&E&8&C&E&F&5Magnesium Singularity&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Magnesium Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_MAGNESIUM:
+    name: '&x&E&8&C&E&F&5Magnesium&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Magnesium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXEALUMINUM_BRASS:
+    name: '&x&D&B&D&2&7&9Aluminum Brass&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Aluminum Brass.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELBILLON:
+    name: '&x&B&0&C&2&B&EBillon&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Billon.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_TIN:
+    name: '&x&A&8&9&B&9&BTin&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Tin.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_CRINGLEIUM:
+    name: '&x&0&0&C&C&3&6Cringleium&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Cringleium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXETIN_SINGULARITY:
+    name: '&x&A&8&9&B&9&BTin Singularity&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Tin Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_TITANIUM:
+    name: '&x&A&D&A&D&A&DTitanium&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Titanium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDEARTH_SINGULARITY:
+    name: '&x&4&4&E&3&4&FEarth Singularity&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Earth Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOEDAXI_STRENGTH:
+    name: '&x&8&3&2&1&C&FDaxi Strength&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Daxi Strength.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKREINFORCED_ALLOY:
+    name: '&x&4&6&5&8&9&9Reinforced Alloy&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Reinforced Alloy.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDIRON:
+    name: '&x&8&C&8&C&8&CIron&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Iron.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETBILLON:
+    name: '&x&B&0&C&2&B&EBillon&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Billon.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSGOLD_SINGULARITY:
+    name: '&x&F&F&E&1&3&8Gold Singularity&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Gold Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOEALUMINUM_BRASS:
+    name: '&x&D&B&D&2&7&9Aluminum Brass&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Aluminum Brass.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKADAMANTITE:
+    name: '&x&C&9&3&E&C&2Adamantite&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Adamantite.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELINFINITY_SINGULARITY:
+    name: '&x&E&8&C&E&F&5Infinity Singularity&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Infinity Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEDAXI_REGENERATION:
+    name: '&x&8&3&2&1&C&FDaxi Regeneration&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Daxi Regeneration.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXELEAD_SINGULARITY:
+    name: '&x&9&0&4&3&B&ALead Singularity&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Lead Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOENICEINIUM:
+    name: '&x&8&0&5&5&0&DNiceinium&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Niceinium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEOSMIUM_SUPERALLOY:
+    name: '&x&8&D&D&6&C&0Osmium Superalloy&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Osmium Superalloy.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_BILLON:
+    name: '&x&B&0&C&2&B&EBillon&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Billon.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOEINFINITY_SINGULARITY:
+    name: '&x&E&8&C&E&F&5Infinity Singularity&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Infinity Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_OSMIUM_SUPERALLOY:
+    name: '&x&8&D&D&6&C&0Osmium Superalloy&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Osmium Superalloy.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_SCRAP:
+    name: '&x&5&C&4&5&1&DScrap&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Scrap.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDIRIDIUM:
+    name: '&x&C&9&9&9&C&9Iridium&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Iridium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELVOID:
+    name: '&x&5&C&5&7&5&6Void&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Void.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSTIN:
+    name: '&x&A&8&9&B&9&BTin&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Tin.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSCORINTHIAN_BRONZE:
+    name: '&x&8&A&6&5&0&0Corinthian Bronze&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Corinthian Bronze.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSREINFORCED_ALLOY:
+    name: '&x&4&6&5&8&9&9Reinforced Alloy&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Reinforced Alloy.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELREINFORCED_ALLOY:
+    name: '&x&4&6&5&8&9&9Reinforced Alloy&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Reinforced Alloy.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_IRON_SINGULARITY:
+    name: '&x&8&C&8&C&8&CIron Singularity&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Iron Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_ALUMINUM_BRONZE:
+    name: '&x&B&D&A&A&6&DAluminum Bronze&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Aluminum Bronze.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDSTEEL:
+    name: '&x&D&1&D&1&D&1Steel&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Steel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKOSMIUM_SUPERALLOY:
+    name: '&x&8&D&D&6&C&0Osmium Superalloy&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Osmium Superalloy.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSGOLD:
+    name: '&x&F&F&E&1&3&8Gold&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Gold.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSTIN_SINGULARITY:
+    name: '&x&A&8&9&B&9&BTin Singularity&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Tin Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSFERROSILICON:
+    name: '&x&F&2&F&2&F&2Ferrosilicon&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Ferrosilicon.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETSILVER:
+    name: '&x&D&4&D&4&D&4Silver&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Silver.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_UNPATENTABLIUM:
+    name: '&x&8&D&D&6&C&0Unpatentablium&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Unpatentablium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXEIRIDIUM:
+    name: '&x&C&9&9&9&C&9Iridium&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Iridium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSMAGNESIUM_SINGULARITY:
+    name: '&x&E&8&C&E&F&5Magnesium Singularity&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Magnesium Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEADVANCED_ALLOY:
+    name: '&x&7&8&A&B&A&2Advanced Alloy&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Advanced Alloy.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_SILVER:
+    name: '&x&D&4&D&4&D&4Silver&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Silver.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_ZINC:
+    name: '&x&9&B&A&8&A&6Zinc&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Zinc.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATESEGGANESSON:
+    name: '&x&4&B&A&C&B&FSegganesson&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Segganesson.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKMYTHRIL:
+    name: '&x&4&E&B&D&C&7Mythril&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Mythril.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSREDSTONE_ALLOY:
+    name: '&x&7&0&0&D&2&1Redstone Alloy&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Redstone Alloy.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXESILVER_SINGULARITY:
+    name: '&x&D&4&D&4&D&4Silver Singularity&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Silver Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELNICEINIUM:
+    name: '&x&8&0&5&5&0&DNiceinium&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Niceinium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEREFINED_IRON:
+    name: '&x&A&B&A&B&A&BRefined Iron&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Refined Iron.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOEBOOMERITE:
+    name: '&x&D&9&4&C&0&0Boomerite&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Boomerite.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETTIN_SINGULARITY:
+    name: '&x&A&8&9&B&9&BTin Singularity&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Tin Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETOSMIUM:
+    name: '&x&8&D&D&6&C&0Osmium&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Osmium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELGOLD_SINGULARITY:
+    name: '&x&F&F&E&1&3&8Gold Singularity&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Gold Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSDAXI_ABSORPTION:
+    name: '&x&8&3&2&1&C&FDaxi Absorption&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Daxi Absorption.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_COPPER_SINGULARITY:
+    name: '&x&C&9&9&7&3&2Copper Singularity&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Copper Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKNICKEL:
+    name: '&x&E&B&E&B&E&BNickel&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Nickel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKMAGNESIUM_SINGULARITY:
+    name: '&x&E&8&C&E&F&5Magnesium Singularity&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Magnesium Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSDAXI_SATURATION:
+    name: '&x&8&3&2&1&C&FDaxi Saturation&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Daxi Saturation.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETSCRAP:
+    name: '&x&5&C&4&5&1&DScrap&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Scrap.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSGOLD:
+    name: '&x&F&F&E&1&3&8Gold&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Gold.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_NICEINIUM:
+    name: '&x&8&0&5&5&0&DNiceinium&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Niceinium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_REINFORCED_ALLOY:
+    name: '&x&4&6&5&8&9&9Reinforced Alloy&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Reinforced Alloy.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_EARTH_SINGULARITY:
+    name: '&x&4&4&E&3&4&FEarth Singularity&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Earth Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_METAL_SINGULARITY:
+    name: '&x&5&B&6&1&5&BMetal Singularity&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Metal Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKMIXED_METAL:
+    name: '&x&6&E&7&A&6&6Mixed Metal&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Mixed Metal.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSBOOMERITE:
+    name: '&x&D&9&4&C&0&0Boomerite&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Boomerite.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSSTEEL:
+    name: '&x&D&1&D&1&D&1Steel&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Steel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_SEFIRITE:
+    name: '&x&9&B&E&B&3&4Sefirite&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Sefirite.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSDAXI_FORTITUDE:
+    name: '&x&8&3&2&1&C&FDaxi Fortitude&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Daxi Fortitude.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXEMETAL_SINGULARITY:
+    name: '&x&5&B&6&1&5&BMetal Singularity&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Metal Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDINFINITY_SINGULARITY:
+    name: '&x&E&8&C&E&F&5Infinity Singularity&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Infinity Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_MIXED_METAL:
+    name: '&x&6&E&7&A&6&6Mixed Metal&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Mixed Metal.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELSILVER:
+    name: '&x&D&4&D&4&D&4Silver&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Silver.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSSOLDER:
+    name: '&x&B&7&A&F&B&DSolder&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Solder.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSOSMIUM_SUPERALLOY:
+    name: '&x&8&D&D&6&C&0Osmium Superalloy&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Osmium Superalloy.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKREFINED_IRON:
+    name: '&x&A&B&A&B&A&BRefined Iron&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Refined Iron.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSSOLDER:
+    name: '&x&B&7&A&F&B&DSolder&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Solder.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_DURALIUM:
+    name: '&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Duralium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_LEAD:
+    name: '&x&9&0&4&3&B&ALead&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Lead.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSIRIDIUM:
+    name: '&x&C&9&9&9&C&9Iridium&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Iridium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_DAMASCUS_STEEL:
+    name: '&x&A&3&8&C&8&CDamascus Steel&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Damascus Steel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXEADAMANTITE:
+    name: '&x&C&9&3&E&C&2Adamantite&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Adamantite.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOEMAGSTEEL:
+    name: '&x&7&3&0&0&0&0Magsteel&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Magsteel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEDAXI_ABSORPTION:
+    name: '&x&8&3&2&1&C&FDaxi Absorption&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Daxi Absorption.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_IRON:
+    name: '&x&8&C&8&C&8&CIron&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Iron.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSGOLD_SINGULARITY:
+    name: '&x&F&F&E&1&3&8Gold Singularity&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Gold Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSMETAL_SINGULARITY:
+    name: '&x&5&B&6&1&5&BMetal Singularity&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Metal Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDUNPATENTABLIUM:
+    name: '&x&8&D&D&6&C&0Unpatentablium&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Unpatentablium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_BOOMERITE:
+    name: '&x&D&9&4&C&0&0Boomerite&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Boomerite.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKSEGGANESSON:
+    name: '&x&4&B&A&C&B&FSegganesson&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Segganesson.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_OSMIUM:
+    name: '&x&8&D&D&6&C&0Osmium&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Osmium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSFORTUNE_SINGULARITY:
+    name: '&x&F&0&D&5&4&1Fortune Singularity&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Fortune Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKVOID:
+    name: '&x&5&C&5&7&5&6Void&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Void.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDMAG_THOR:
+    name: '&x&3&3&D&E&4&DMag Thor&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Mag Thor.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETREINFORCED_SLIME_STEEL:
+    name: '&x&A&E&D&1&9&7Reinforced Slime Steel&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Reinforced Slime Steel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETLEAD:
+    name: '&x&9&0&4&3&B&ALead&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Lead.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELCORINTHIAN_BRONZE:
+    name: '&x&8&A&6&5&0&0Corinthian Bronze&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Corinthian Bronze.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_ALUMINUM_SINGULARITY:
+    name: '&x&B&0&B&0&B&0Aluminum Singularity&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Aluminum Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETDAXI_SATURATION:
+    name: '&x&8&3&2&1&C&FDaxi Saturation&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Daxi Saturation.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDMAGSTEEL:
+    name: '&x&7&3&0&0&0&0Magsteel&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Magsteel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATETIN:
+    name: '&x&A&8&9&B&9&BTin&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Tin.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOESILVER_SINGULARITY:
+    name: '&x&D&4&D&4&D&4Silver Singularity&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Silver Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSMAGNESIUM:
+    name: '&x&E&8&C&E&F&5Magnesium&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Magnesium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSIRON_SINGULARITY:
+    name: '&x&8&C&8&C&8&CIron Singularity&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Iron Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETREINFORCED_ALLOY:
+    name: '&x&4&6&5&8&9&9Reinforced Alloy&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Reinforced Alloy.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETHARDENED_METAL:
+    name: '&x&2&9&2&5&1&AHardened Metal&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Hardened Metal.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_MAG_THOR:
+    name: '&x&3&3&D&E&4&DMag Thor&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Mag Thor.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEGOLD_SINGULARITY:
+    name: '&x&F&F&E&1&3&8Gold Singularity&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Gold Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELREINFORCED_SLIME_STEEL:
+    name: '&x&A&E&D&1&9&7Reinforced Slime Steel&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Reinforced Slime Steel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEBILLON:
+    name: '&x&B&0&C&2&B&EBillon&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Billon.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKFERROSILICON:
+    name: '&x&F&2&F&2&F&2Ferrosilicon&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Ferrosilicon.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELBOOMERITE:
+    name: '&x&D&9&4&C&0&0Boomerite&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Boomerite.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_TIN_SINGULARITY:
+    name: '&x&A&8&9&B&9&BTin Singularity&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Tin Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_ALUMINUM_BRONZE:
+    name: '&x&B&D&A&A&6&DAluminum Bronze&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Aluminum Bronze.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETGOLD_SINGULARITY:
+    name: '&x&F&F&E&1&3&8Gold Singularity&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Gold Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEMYTHRIL:
+    name: '&x&4&E&B&D&C&7Mythril&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Mythril.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOELEAD_SINGULARITY:
+    name: '&x&9&0&4&3&B&ALead Singularity&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Lead Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELINFINITE:
+    name: '&x&D&1&E&B&F&0Infinite&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Infinite.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSIRON:
+    name: '&x&8&C&8&C&8&CIron&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Iron.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_MAGSTEEL:
+    name: '&x&7&3&0&0&0&0Magsteel&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Magsteel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_ADAMANTITE:
+    name: '&x&C&9&3&E&C&2Adamantite&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Adamantite.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSMIXED_METAL:
+    name: '&x&6&E&7&A&6&6Mixed Metal&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Mixed Metal.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_VOID:
+    name: '&x&5&C&5&7&5&6Void&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Void.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDREINFORCED_DRACONIUM:
+    name: '&x&9&5&3&2&A&8Reinforced Draconium&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Reinforced Draconium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETINFINITY_SINGULARITY:
+    name: '&x&E&8&C&E&F&5Infinity Singularity&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Infinity Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEGOLD:
+    name: '&x&F&F&E&1&3&8Gold&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Gold.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETMAGNESIUM_SINGULARITY:
+    name: '&x&E&8&C&E&F&5Magnesium Singularity&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Magnesium Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSADAMANTITE:
+    name: '&x&C&9&3&E&C&2Adamantite&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Adamantite.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_VOID:
+    name: '&x&5&C&5&7&5&6Void&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Void.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELMAGSTEEL:
+    name: '&x&7&3&0&0&0&0Magsteel&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Magsteel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_TIN:
+    name: '&x&A&8&9&B&9&BTin&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Tin.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOEGOLD:
+    name: '&x&F&F&E&1&3&8Gold&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Gold.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETMAGNESIUM:
+    name: '&x&E&8&C&E&F&5Magnesium&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Magnesium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATESILVER:
+    name: '&x&D&4&D&4&D&4Silver&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Silver.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_REINFORCED_SLIME_STEEL:
+    name: '&x&A&E&D&1&9&7Reinforced Slime Steel&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Reinforced Slime Steel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_DAMASCUS_STEEL:
+    name: '&x&A&3&8&C&8&CDamascus Steel&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Damascus Steel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETIRON_SINGULARITY:
+    name: '&x&8&C&8&C&8&CIron Singularity&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Iron Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSBRONZE:
+    name: '&x&8&7&7&4&3&5Bronze&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Bronze.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETFERROSILICON:
+    name: '&x&F&2&F&2&F&2Ferrosilicon&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Ferrosilicon.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXEUNPATENTABLIUM:
+    name: '&x&8&D&D&6&C&0Unpatentablium&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Unpatentablium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEINFINITY_SINGULARITY:
+    name: '&x&E&8&C&E&F&5Infinity Singularity&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Infinity Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELALUMINUM:
+    name: '&x&B&0&B&0&B&0Aluminum&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Aluminum.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDALUMINUM:
+    name: '&x&B&0&B&0&B&0Aluminum&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Aluminum.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_COPPER:
+    name: '&x&C&9&9&7&3&2Copper&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Copper.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELUNPATENTABLIUM:
+    name: '&x&8&D&D&6&C&0Unpatentablium&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Unpatentablium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSTITANIUM:
+    name: '&x&A&D&A&D&A&DTitanium&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Titanium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_REINFORCED_DRACONIUM:
+    name: '&x&9&5&3&2&A&8Reinforced Draconium&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Reinforced Draconium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKCORINTHIAN_BRONZE:
+    name: '&x&8&A&6&5&0&0Corinthian Bronze&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Corinthian Bronze.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDCOPPER:
+    name: '&x&C&9&9&7&3&2Copper&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Copper.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELREINFORCED_DRACONIUM:
+    name: '&x&9&5&3&2&A&8Reinforced Draconium&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Reinforced Draconium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDZINC:
+    name: '&x&9&B&A&8&A&6Zinc&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Zinc.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKALUMINUM_BRASS:
+    name: '&x&D&B&D&2&7&9Aluminum Brass&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Aluminum Brass.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_COBALT:
+    name: '&x&9&E&9&E&9&ECobalt&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Cobalt.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDINFINITE:
+    name: '&x&D&1&E&B&F&0Infinite&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Infinite.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_SMITHIUM:
+    name: '&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Smithium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKCOPPER_SINGULARITY:
+    name: '&x&C&9&9&7&3&2Copper Singularity&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Copper Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSALUMINUM:
+    name: '&x&B&0&B&0&B&0Aluminum&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Aluminum.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKALUMINUM_SINGULARITY:
+    name: '&x&B&0&B&0&B&0Aluminum Singularity&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Aluminum Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSMAGIC_SINGULARITY:
+    name: '&x&C&9&4&1&E&8Magic Singularity&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Magic Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOEREINFORCED_DRACONIUM:
+    name: '&x&9&5&3&2&A&8Reinforced Draconium&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Reinforced Draconium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXEALUMINUM_SINGULARITY:
+    name: '&x&B&0&B&0&B&0Aluminum Singularity&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Aluminum Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSUNPATENTABLIUM:
+    name: '&x&8&D&D&6&C&0Unpatentablium&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Unpatentablium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDDURALIUM:
+    name: '&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Duralium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKGOLD_SINGULARITY:
+    name: '&x&F&F&E&1&3&8Gold Singularity&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Gold Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEDAXI_FORTITUDE:
+    name: '&x&8&3&2&1&C&FDaxi Fortitude&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Daxi Fortitude.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_LEAD_SINGULARITY:
+    name: '&x&9&0&4&3&B&ALead Singularity&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Lead Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSCOBALT:
+    name: '&x&9&E&9&E&9&ECobalt&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Cobalt.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_MYTHRIL:
+    name: '&x&4&E&B&D&C&7Mythril&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Mythril.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXEGOLD:
+    name: '&x&F&F&E&1&3&8Gold&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Gold.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_STEEL:
+    name: '&x&D&1&D&1&D&1Steel&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Steel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETREFINED_IRON:
+    name: '&x&A&B&A&B&A&BRefined Iron&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Refined Iron.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_ZINC:
+    name: '&x&9&B&A&8&A&6Zinc&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Zinc.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDMIXED_METAL:
+    name: '&x&6&E&7&A&6&6Mixed Metal&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Mixed Metal.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELDURALIUM:
+    name: '&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Duralium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSUNPATENTABLIUM:
+    name: '&x&8&D&D&6&C&0Unpatentablium&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Unpatentablium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEREINFORCED_ALLOY:
+    name: '&x&4&6&5&8&9&9Reinforced Alloy&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Reinforced Alloy.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_ALUMINUM_BRONZE:
+    name: '&x&B&D&A&A&6&DAluminum Bronze&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Aluminum Bronze.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELDAXI_STRENGTH:
+    name: '&x&8&3&2&1&C&FDaxi Strength&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Daxi Strength.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSDAXI_REGENERATION:
+    name: '&x&8&3&2&1&C&FDaxi Regeneration&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Daxi Regeneration.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSINFINITE:
+    name: '&x&D&1&E&B&F&0Infinite&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Infinite.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOECORINTHIAN_BRONZE:
+    name: '&x&8&A&6&5&0&0Corinthian Bronze&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Corinthian Bronze.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATECORINTHIAN_BRONZE:
+    name: '&x&8&A&6&5&0&0Corinthian Bronze&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Corinthian Bronze.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_ALUMINUM_BRASS:
+    name: '&x&D&B&D&2&7&9Aluminum Brass&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Aluminum Brass.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_FORTUNE_SINGULARITY:
+    name: '&x&F&0&D&5&4&1Fortune Singularity&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Fortune Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXEDAXI_STRENGTH:
+    name: '&x&8&3&2&1&C&FDaxi Strength&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Daxi Strength.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSIRON_SINGULARITY:
+    name: '&x&8&C&8&C&8&CIron Singularity&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Iron Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKSTEEL:
+    name: '&x&D&1&D&1&D&1Steel&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Steel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSMAGIC_SINGULARITY:
+    name: '&x&C&9&4&1&E&8Magic Singularity&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Magic Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_DAXI_FORTITUDE:
+    name: '&x&8&3&2&1&C&FDaxi Fortitude&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Daxi Fortitude.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKSILVER:
+    name: '&x&D&4&D&4&D&4Silver&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Silver.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKTIN:
+    name: '&x&A&8&9&B&9&BTin&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Tin.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_COPPER:
+    name: '&x&C&9&9&7&3&2Copper&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Copper.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_ALUMINUM_BRASS:
+    name: '&x&D&B&D&2&7&9Aluminum Brass&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Aluminum Brass.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDNICKEL:
+    name: '&x&E&B&E&B&E&BNickel&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Nickel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSLEAD:
+    name: '&x&9&0&4&3&B&ALead&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Lead.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_EARTH_SINGULARITY:
+    name: '&x&4&4&E&3&4&FEarth Singularity&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Earth Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_TIN_SINGULARITY:
+    name: '&x&A&8&9&B&9&BTin Singularity&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Tin Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATESCRAP:
+    name: '&x&5&C&4&5&1&DScrap&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Scrap.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXEDURALIUM:
+    name: '&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Duralium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELBRONZE:
+    name: '&x&8&7&7&4&3&5Bronze&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Bronze.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_CORINTHIAN_BRONZE:
+    name: '&x&8&A&6&5&0&0Corinthian Bronze&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Corinthian Bronze.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEANNIVERSARIUM:
+    name: '&x&3&2&B&4&1&EAnniversarium&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Anniversarium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSREDSTONE_ALLOY:
+    name: '&x&7&0&0&D&2&1Redstone Alloy&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Redstone Alloy.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSSEFIRITE:
+    name: '&x&9&B&E&B&3&4Sefirite&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Sefirite.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDMAGIC_SINGULARITY:
+    name: '&x&C&9&4&1&E&8Magic Singularity&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Magic Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_INFINITY_SINGULARITY:
+    name: '&x&E&8&C&E&F&5Infinity Singularity&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Infinity Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXEOSMIUM_SUPERALLOY:
+    name: '&x&8&D&D&6&C&0Osmium Superalloy&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Osmium Superalloy.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETIRON:
+    name: '&x&8&C&8&C&8&CIron&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Iron.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDHARDENED_METAL:
+    name: '&x&2&9&2&5&1&AHardened Metal&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Hardened Metal.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_OSMIUM:
+    name: '&x&8&D&D&6&C&0Osmium&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Osmium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEIRON:
+    name: '&x&8&C&8&C&8&CIron&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Iron.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEALUMINUM:
+    name: '&x&B&0&B&0&B&0Aluminum&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Aluminum.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELTITANIUM:
+    name: '&x&A&D&A&D&A&DTitanium&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Titanium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKALUMINUM:
+    name: '&x&B&0&B&0&B&0Aluminum&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Aluminum.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSALUMINUM_BRASS:
+    name: '&x&D&B&D&2&7&9Aluminum Brass&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Aluminum Brass.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXEZINC:
+    name: '&x&9&B&A&8&A&6Zinc&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Zinc.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSALUMINUM_SINGULARITY:
+    name: '&x&B&0&B&0&B&0Aluminum Singularity&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Aluminum Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDNICEINIUM:
+    name: '&x&8&0&5&5&0&DNiceinium&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Niceinium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSANNIVERSARIUM:
+    name: '&x&3&2&B&4&1&EAnniversarium&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Anniversarium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKMAG_THOR:
+    name: '&x&3&3&D&E&4&DMag Thor&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Mag Thor.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXEMAGNESIUM_SINGULARITY:
+    name: '&x&E&8&C&E&F&5Magnesium Singularity&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Magnesium Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSSCRAP:
+    name: '&x&5&C&4&5&1&DScrap&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Scrap.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_REDSTONE_ALLOY:
+    name: '&x&7&0&0&D&2&1Redstone Alloy&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Redstone Alloy.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_GOLD_SINGULARITY:
+    name: '&x&F&F&E&1&3&8Gold Singularity&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Gold Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_BRONZE:
+    name: '&x&8&7&7&4&3&5Bronze&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Bronze.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKIRON_SINGULARITY:
+    name: '&x&8&C&8&C&8&CIron Singularity&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Iron Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETADAMANTITE:
+    name: '&x&C&9&3&E&C&2Adamantite&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Adamantite.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXEREINFORCED_DRACONIUM:
+    name: '&x&9&5&3&2&A&8Reinforced Draconium&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Reinforced Draconium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEFORTUNE_SINGULARITY:
+    name: '&x&F&0&D&5&4&1Fortune Singularity&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Fortune Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXEEARTH_SINGULARITY:
+    name: '&x&4&4&E&3&4&FEarth Singularity&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Earth Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSDURALIUM:
+    name: '&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Duralium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDIRON_SINGULARITY:
+    name: '&x&8&C&8&C&8&CIron Singularity&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Iron Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEMAG_THOR:
+    name: '&x&3&3&D&E&4&DMag Thor&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Mag Thor.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSDURALIUM:
+    name: '&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Duralium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXECORINTHIAN_BRONZE:
+    name: '&x&8&A&6&5&0&0Corinthian Bronze&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Corinthian Bronze.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDFORTUNE_SINGULARITY:
+    name: '&x&F&0&D&5&4&1Fortune Singularity&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Fortune Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETBRONZE:
+    name: '&x&8&7&7&4&3&5Bronze&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Bronze.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSNICKEL:
+    name: '&x&E&B&E&B&E&BNickel&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Nickel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSMETAL_SINGULARITY:
+    name: '&x&5&B&6&1&5&BMetal Singularity&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Metal Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_NICKEL:
+    name: '&x&E&B&E&B&E&BNickel&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Nickel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEOSMIUM:
+    name: '&x&8&D&D&6&C&0Osmium&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Osmium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATECOPPER_SINGULARITY:
+    name: '&x&C&9&9&7&3&2Copper Singularity&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Copper Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_MAGNESIUM:
+    name: '&x&E&8&C&E&F&5Magnesium&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Magnesium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATESEFIRITE:
+    name: '&x&9&B&E&B&3&4Sefirite&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Sefirite.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSOSMIUM:
+    name: '&x&8&D&D&6&C&0Osmium&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Osmium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKDAXI_STRENGTH:
+    name: '&x&8&3&2&1&C&FDaxi Strength&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Daxi Strength.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_OSMIUM_SUPERALLOY:
+    name: '&x&8&D&D&6&C&0Osmium Superalloy&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Osmium Superalloy.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSMAG_THOR:
+    name: '&x&3&3&D&E&4&DMag Thor&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Mag Thor.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_BRASS:
+    name: '&x&D&B&C&D&4&BBrass&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Brass.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATENICKEL:
+    name: '&x&E&B&E&B&E&BNickel&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Nickel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSLEAD:
+    name: '&x&9&0&4&3&B&ALead&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Lead.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSCOPPER_SINGULARITY:
+    name: '&x&C&9&9&7&3&2Copper Singularity&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Copper Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELSCRAP:
+    name: '&x&5&C&4&5&1&DScrap&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Scrap.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETEARTH_SINGULARITY:
+    name: '&x&4&4&E&3&4&FEarth Singularity&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Earth Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKHARDENED_METAL:
+    name: '&x&2&9&2&5&1&AHardened Metal&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Hardened Metal.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSNICKEL:
+    name: '&x&E&B&E&B&E&BNickel&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Nickel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDMETAL_SINGULARITY:
+    name: '&x&5&B&6&1&5&BMetal Singularity&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Metal Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDMAGNESIUM_SINGULARITY:
+    name: '&x&E&8&C&E&F&5Magnesium Singularity&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Magnesium Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_ADAMANTITE:
+    name: '&x&C&9&3&E&C&2Adamantite&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Adamantite.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_OSMIUM_SUPERALLOY:
+    name: '&x&8&D&D&6&C&0Osmium Superalloy&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Osmium Superalloy.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOEMIXED_METAL:
+    name: '&x&6&E&7&A&6&6Mixed Metal&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Mixed Metal.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_COBALT:
+    name: '&x&9&E&9&E&9&ECobalt&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Cobalt.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_SCRAP:
+    name: '&x&5&C&4&5&1&DScrap&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Scrap.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDBOOMERITE:
+    name: '&x&D&9&4&C&0&0Boomerite&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Boomerite.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_ADVANCED_ALLOY:
+    name: '&x&7&8&A&B&A&2Advanced Alloy&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Advanced Alloy.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_SOLDER:
+    name: '&x&B&7&A&F&B&DSolder&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Solder.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDDAXI_STRENGTH:
+    name: '&x&8&3&2&1&C&FDaxi Strength&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Daxi Strength.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSDAXI_FORTITUDE:
+    name: '&x&8&3&2&1&C&FDaxi Fortitude&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Daxi Fortitude.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSMYTHRIL:
+    name: '&x&4&E&B&D&C&7Mythril&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Mythril.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOEUNPATENTABLIUM:
+    name: '&x&8&D&D&6&C&0Unpatentablium&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Unpatentablium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSOSMIUM:
+    name: '&x&8&D&D&6&C&0Osmium&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Osmium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELIRON:
+    name: '&x&8&C&8&C&8&CIron&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Iron.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKOSMIUM:
+    name: '&x&8&D&D&6&C&0Osmium&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Osmium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSCOPPER_SINGULARITY:
+    name: '&x&C&9&9&7&3&2Copper Singularity&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Copper Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_REINFORCED_SLIME_STEEL:
+    name: '&x&A&E&D&1&9&7Reinforced Slime Steel&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Reinforced Slime Steel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEHARDENED_METAL:
+    name: '&x&2&9&2&5&1&AHardened Metal&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Hardened Metal.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSALUMINUM:
+    name: '&x&B&0&B&0&B&0Aluminum&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Aluminum.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXEIRON:
+    name: '&x&8&C&8&C&8&CIron&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Iron.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_ALUMINUM:
+    name: '&x&B&0&B&0&B&0Aluminum&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Aluminum.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_REDSTONE_ALLOY:
+    name: '&x&7&0&0&D&2&1Redstone Alloy&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Redstone Alloy.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEZINC:
+    name: '&x&9&B&A&8&A&6Zinc&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Zinc.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_COPPER_SINGULARITY:
+    name: '&x&C&9&9&7&3&2Copper Singularity&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Copper Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_ZINC_SINGULARITY:
+    name: '&x&9&B&A&8&A&6Zinc Singularity&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Zinc Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_INFINITE:
+    name: '&x&D&1&E&B&F&0Infinite&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Infinite.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELZINC:
+    name: '&x&9&B&A&8&A&6Zinc&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Zinc.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXESCRAP:
+    name: '&x&5&C&4&5&1&DScrap&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Scrap.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_MAGNESIUM:
+    name: '&x&E&8&C&E&F&5Magnesium&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Magnesium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEADAMANTITE:
+    name: '&x&C&9&3&E&C&2Adamantite&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Adamantite.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_NICKEL:
+    name: '&x&E&B&E&B&E&BNickel&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Nickel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_SMITHIUM:
+    name: '&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Smithium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELLEAD_SINGULARITY:
+    name: '&x&9&0&4&3&B&ALead Singularity&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Lead Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELREFINED_IRON:
+    name: '&x&A&B&A&B&A&BRefined Iron&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Refined Iron.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXEOSMIUM:
+    name: '&x&8&D&D&6&C&0Osmium&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Osmium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETDAXI_REGENERATION:
+    name: '&x&8&3&2&1&C&FDaxi Regeneration&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Daxi Regeneration.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXEREINFORCED_ALLOY:
+    name: '&x&4&6&5&8&9&9Reinforced Alloy&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Reinforced Alloy.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATECOPPER:
+    name: '&x&C&9&9&7&3&2Copper&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Copper.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEUNPATENTABLIUM:
+    name: '&x&8&D&D&6&C&0Unpatentablium&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Unpatentablium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETMIXED_METAL:
+    name: '&x&6&E&7&A&6&6Mixed Metal&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Mixed Metal.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_MAGIC_SINGULARITY:
+    name: '&x&C&9&4&1&E&8Magic Singularity&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Magic Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSSILVER:
+    name: '&x&D&4&D&4&D&4Silver&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Silver.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXESEGGANESSON:
+    name: '&x&4&B&A&C&B&FSegganesson&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Segganesson.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_REFINED_IRON:
+    name: '&x&A&B&A&B&A&BRefined Iron&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Refined Iron.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOEMETAL_SINGULARITY:
+    name: '&x&5&B&6&1&5&BMetal Singularity&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Metal Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDCOBALT:
+    name: '&x&9&E&9&E&9&ECobalt&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Cobalt.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_REINFORCED_SLIME_STEEL:
+    name: '&x&A&E&D&1&9&7Reinforced Slime Steel&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Reinforced Slime Steel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDSEGGANESSON:
+    name: '&x&4&B&A&C&B&FSegganesson&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Segganesson.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKNICEINIUM:
+    name: '&x&8&0&5&5&0&DNiceinium&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Niceinium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETDAXI_FORTITUDE:
+    name: '&x&8&3&2&1&C&FDaxi Fortitude&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Daxi Fortitude.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOEBILLON:
+    name: '&x&B&0&C&2&B&EBillon&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Billon.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDSILVER_SINGULARITY:
+    name: '&x&D&4&D&4&D&4Silver Singularity&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Silver Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_DURALIUM:
+    name: '&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Duralium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOELEAD:
+    name: '&x&9&0&4&3&B&ALead&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Lead.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXEINFINITY_SINGULARITY:
+    name: '&x&E&8&C&E&F&5Infinity Singularity&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Infinity Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXEVOID:
+    name: '&x&5&C&5&7&5&6Void&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Void.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSADAMANTITE:
+    name: '&x&C&9&3&E&C&2Adamantite&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Adamantite.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELHARDENED_METAL:
+    name: '&x&2&9&2&5&1&AHardened Metal&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Hardened Metal.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_CORINTHIAN_BRONZE:
+    name: '&x&8&A&6&5&0&0Corinthian Bronze&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Corinthian Bronze.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_LIQUID_LOVE:
+    name: '&x&E&B&3&4&D&2Liquid Love&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Liquid Love.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_GOLD_SINGULARITY:
+    name: '&x&F&F&E&1&3&8Gold Singularity&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Gold Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETGOLD:
+    name: '&x&F&F&E&1&3&8Gold&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Gold.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSCOPPER:
+    name: '&x&C&9&9&7&3&2Copper&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Copper.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELMAGNESIUM:
+    name: '&x&E&8&C&E&F&5Magnesium&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Magnesium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELSMITHIUM:
+    name: '&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Smithium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_INFINITE:
+    name: '&x&D&1&E&B&F&0Infinite&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Infinite.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDOSMIUM:
+    name: '&x&8&D&D&6&C&0Osmium&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Osmium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDGOLD:
+    name: '&x&F&F&E&1&3&8Gold&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Gold.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_ALUMINUM_BRASS:
+    name: '&x&D&B&D&2&7&9Aluminum Brass&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Aluminum Brass.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDSOLDER:
+    name: '&x&B&7&A&F&B&DSolder&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Solder.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXESILVER:
+    name: '&x&D&4&D&4&D&4Silver&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Silver.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_SILVER:
+    name: '&x&D&4&D&4&D&4Silver&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Silver.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETALUMINUM_BRONZE:
+    name: '&x&B&D&A&A&6&DAluminum Bronze&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Aluminum Bronze.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELIRON_SINGULARITY:
+    name: '&x&8&C&8&C&8&CIron Singularity&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Iron Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOENICKEL:
+    name: '&x&E&B&E&B&E&BNickel&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Nickel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDSILVER:
+    name: '&x&D&4&D&4&D&4Silver&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Silver.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETCOPPER_SINGULARITY:
+    name: '&x&C&9&9&7&3&2Copper Singularity&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Copper Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSSEGGANESSON:
+    name: '&x&4&B&A&C&B&FSegganesson&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Segganesson.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOESTEEL:
+    name: '&x&D&1&D&1&D&1Steel&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Steel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_MIXED_METAL:
+    name: '&x&6&E&7&A&6&6Mixed Metal&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Mixed Metal.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOEZINC_SINGULARITY:
+    name: '&x&9&B&A&8&A&6Zinc Singularity&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Zinc Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKUNPATENTABLIUM:
+    name: '&x&8&D&D&6&C&0Unpatentablium&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Unpatentablium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_CORINTHIAN_BRONZE:
+    name: '&x&8&A&6&5&0&0Corinthian Bronze&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Corinthian Bronze.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETCORINTHIAN_BRONZE:
+    name: '&x&8&A&6&5&0&0Corinthian Bronze&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Corinthian Bronze.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETBOOMERITE:
+    name: '&x&D&9&4&C&0&0Boomerite&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Boomerite.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEMIXED_METAL:
+    name: '&x&6&E&7&A&6&6Mixed Metal&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Mixed Metal.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEALUMINUM_SINGULARITY:
+    name: '&x&B&0&B&0&B&0Aluminum Singularity&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Aluminum Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDLEAD_SINGULARITY:
+    name: '&x&9&0&4&3&B&ALead Singularity&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Lead Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEVOID:
+    name: '&x&5&C&5&7&5&6Void&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Void.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_SILVER_SINGULARITY:
+    name: '&x&D&4&D&4&D&4Silver Singularity&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Silver Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXEBRONZE:
+    name: '&x&8&7&7&4&3&5Bronze&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Bronze.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXEREFINED_IRON:
+    name: '&x&A&B&A&B&A&BRefined Iron&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Refined Iron.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEMAGNESIUM:
+    name: '&x&E&8&C&E&F&5Magnesium&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Magnesium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELSEGGANESSON:
+    name: '&x&4&B&A&C&B&FSegganesson&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Segganesson.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSREINFORCED_SLIME_STEEL:
+    name: '&x&A&E&D&1&9&7Reinforced Slime Steel&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Reinforced Slime Steel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_DAXI_REGENERATION:
+    name: '&x&8&3&2&1&C&FDaxi Regeneration&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Daxi Regeneration.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOETITANIUM:
+    name: '&x&A&D&A&D&A&DTitanium&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Titanium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOEMAGNESIUM_SINGULARITY:
+    name: '&x&E&8&C&E&F&5Magnesium Singularity&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Magnesium Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXEMAGNONIUM:
+    name: '&x&4&A&0&4&4&6Magnonium&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Magnonium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_IRIDIUM:
+    name: '&x&C&9&9&9&C&9Iridium&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Iridium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_MAGSTEEL:
+    name: '&x&7&3&0&0&0&0Magsteel&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Magsteel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEMAGNONIUM:
+    name: '&x&4&A&0&4&4&6Magnonium&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Magnonium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_ADVANCED_ALLOY:
+    name: '&x&7&8&A&B&A&2Advanced Alloy&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Advanced Alloy.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_SOLDER:
+    name: '&x&B&7&A&F&B&DSolder&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Solder.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSSEGGANESSON:
+    name: '&x&4&B&A&C&B&FSegganesson&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Segganesson.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_DAMASCUS_STEEL:
+    name: '&x&A&3&8&C&8&CDamascus Steel&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Damascus Steel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOEINFINITE:
+    name: '&x&D&1&E&B&F&0Infinite&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Infinite.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSCOBALT:
+    name: '&x&9&E&9&E&9&ECobalt&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Cobalt.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_MIXED_METAL:
+    name: '&x&6&E&7&A&6&6Mixed Metal&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Mixed Metal.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSREINFORCED_ALLOY:
+    name: '&x&4&6&5&8&9&9Reinforced Alloy&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Reinforced Alloy.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXEMAGIC_SINGULARITY:
+    name: '&x&C&9&4&1&E&8Magic Singularity&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Magic Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSDAXI_ABSORPTION:
+    name: '&x&8&3&2&1&C&FDaxi Absorption&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Daxi Absorption.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELFERROSILICON:
+    name: '&x&F&2&F&2&F&2Ferrosilicon&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Ferrosilicon.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_IRON_SINGULARITY:
+    name: '&x&8&C&8&C&8&CIron Singularity&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Iron Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELADVANCED_ALLOY:
+    name: '&x&7&8&A&B&A&2Advanced Alloy&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Advanced Alloy.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_LEAD_SINGULARITY:
+    name: '&x&9&0&4&3&B&ALead Singularity&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Lead Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSINFINITY_SINGULARITY:
+    name: '&x&E&8&C&E&F&5Infinity Singularity&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Infinity Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELMAGNONIUM:
+    name: '&x&4&A&0&4&4&6Magnonium&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Magnonium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_TITANIUM:
+    name: '&x&A&D&A&D&A&DTitanium&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Titanium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOEMYTHRIL:
+    name: '&x&4&E&B&D&C&7Mythril&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Mythril.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOESOLDER:
+    name: '&x&B&7&A&F&B&DSolder&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Solder.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_MYTHRIL:
+    name: '&x&4&E&B&D&C&7Mythril&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Mythril.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSADVANCED_ALLOY:
+    name: '&x&7&8&A&B&A&2Advanced Alloy&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Advanced Alloy.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKCOPPER:
+    name: '&x&C&9&9&7&3&2Copper&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Copper.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXEDAMASCUS_STEEL:
+    name: '&x&A&3&8&C&8&CDamascus Steel&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Damascus Steel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKBRONZE:
+    name: '&x&8&7&7&4&3&5Bronze&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Bronze.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSMIXED_METAL:
+    name: '&x&6&E&7&A&6&6Mixed Metal&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Mixed Metal.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_BRASS:
+    name: '&x&D&B&C&D&4&BBrass&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Brass.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_MAGIC_SINGULARITY:
+    name: '&x&C&9&4&1&E&8Magic Singularity&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Magic Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXEMAGNESIUM:
+    name: '&x&E&8&C&E&F&5Magnesium&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Magnesium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDREINFORCED_ALLOY:
+    name: '&x&4&6&5&8&9&9Reinforced Alloy&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Reinforced Alloy.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_INFINITY_SINGULARITY:
+    name: '&x&E&8&C&E&F&5Infinity Singularity&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Infinity Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDADVANCED_ALLOY:
+    name: '&x&7&8&A&B&A&2Advanced Alloy&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Advanced Alloy.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_MAGNONIUM:
+    name: '&x&4&A&0&4&4&6Magnonium&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Magnonium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_VOID:
+    name: '&x&5&C&5&7&5&6Void&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Void.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDSCRAP:
+    name: '&x&5&C&4&5&1&DScrap&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Scrap.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKREINFORCED_DRACONIUM:
+    name: '&x&9&5&3&2&A&8Reinforced Draconium&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Reinforced Draconium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_ADAMANTITE:
+    name: '&x&C&9&3&E&C&2Adamantite&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Adamantite.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSEARTH_SINGULARITY:
+    name: '&x&4&4&E&3&4&FEarth Singularity&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Earth Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETUNPATENTABLIUM:
+    name: '&x&8&D&D&6&C&0Unpatentablium&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Unpatentablium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELTIN:
+    name: '&x&A&8&9&B&9&BTin&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Tin.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELIRIDIUM:
+    name: '&x&C&9&9&9&C&9Iridium&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Iridium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOEFERROSILICON:
+    name: '&x&F&2&F&2&F&2Ferrosilicon&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Ferrosilicon.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDMAGNESIUM:
+    name: '&x&E&8&C&E&F&5Magnesium&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Magnesium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSALUMINUM_SINGULARITY:
+    name: '&x&B&0&B&0&B&0Aluminum Singularity&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Aluminum Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_MYTHRIL:
+    name: '&x&4&E&B&D&C&7Mythril&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Mythril.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXENICKEL:
+    name: '&x&E&B&E&B&E&BNickel&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Nickel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSALUMINUM_BRASS:
+    name: '&x&D&B&D&2&7&9Aluminum Brass&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Aluminum Brass.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_SILVER_SINGULARITY:
+    name: '&x&D&4&D&4&D&4Silver Singularity&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Silver Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKLEAD:
+    name: '&x&9&0&4&3&B&ALead&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Lead.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_BILLON:
+    name: '&x&B&0&C&2&B&EBillon&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Billon.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETSTEEL:
+    name: '&x&D&1&D&1&D&1Steel&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Steel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSINFINITY_SINGULARITY:
+    name: '&x&E&8&C&E&F&5Infinity Singularity&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Infinity Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSMAGNESIUM_SINGULARITY:
+    name: '&x&E&8&C&E&F&5Magnesium Singularity&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Magnesium Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETTIN:
+    name: '&x&A&8&9&B&9&BTin&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Tin.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXEMIXED_METAL:
+    name: '&x&6&E&7&A&6&6Mixed Metal&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Mixed Metal.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOEALUMINUM_BRONZE:
+    name: '&x&B&D&A&A&6&DAluminum Bronze&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Aluminum Bronze.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXECOPPER_SINGULARITY:
+    name: '&x&C&9&9&7&3&2Copper Singularity&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Copper Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETMAGSTEEL:
+    name: '&x&7&3&0&0&0&0Magsteel&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Magsteel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXEGOLD_SINGULARITY:
+    name: '&x&F&F&E&1&3&8Gold Singularity&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Gold Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSDAMASCUS_STEEL:
+    name: '&x&A&3&8&C&8&CDamascus Steel&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Damascus Steel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXEHARDENED_METAL:
+    name: '&x&2&9&2&5&1&AHardened Metal&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Hardened Metal.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOEVOID:
+    name: '&x&5&C&5&7&5&6Void&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Void.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETMYTHRIL:
+    name: '&x&4&E&B&D&C&7Mythril&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Mythril.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETLEAD_SINGULARITY:
+    name: '&x&9&0&4&3&B&ALead Singularity&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Lead Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSSCRAP:
+    name: '&x&5&C&4&5&1&DScrap&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Scrap.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKINFINITY_SINGULARITY:
+    name: '&x&E&8&C&E&F&5Infinity Singularity&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Infinity Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_SEGGANESSON:
+    name: '&x&4&B&A&C&B&FSegganesson&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Segganesson.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOEMAG_THOR:
+    name: '&x&3&3&D&E&4&DMag Thor&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Mag Thor.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_SILVER:
+    name: '&x&D&4&D&4&D&4Silver&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Silver.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETMAG_THOR:
+    name: '&x&3&3&D&E&4&DMag Thor&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Mag Thor.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELALUMINUM_BRONZE:
+    name: '&x&B&D&A&A&6&DAluminum Bronze&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Aluminum Bronze.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOEREINFORCED_ALLOY:
+    name: '&x&4&6&5&8&9&9Reinforced Alloy&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Reinforced Alloy.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_HARDENED_METAL:
+    name: '&x&2&9&2&5&1&AHardened Metal&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Hardened Metal.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELSILVER_SINGULARITY:
+    name: '&x&D&4&D&4&D&4Silver Singularity&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Silver Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDOSMIUM_SUPERALLOY:
+    name: '&x&8&D&D&6&C&0Osmium Superalloy&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Osmium Superalloy.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_TITANIUM:
+    name: '&x&A&D&A&D&A&DTitanium&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Titanium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_MAGNONIUM:
+    name: '&x&4&A&0&4&4&6Magnonium&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Magnonium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKIRIDIUM:
+    name: '&x&C&9&9&9&C&9Iridium&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Iridium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOECOBALT:
+    name: '&x&9&E&9&E&9&ECobalt&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Cobalt.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKSOLDER:
+    name: '&x&B&7&A&F&B&DSolder&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Solder.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOEADVANCED_ALLOY:
+    name: '&x&7&8&A&B&A&2Advanced Alloy&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Advanced Alloy.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXECOBALT:
+    name: '&x&9&E&9&E&9&ECobalt&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Cobalt.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXEMYTHRIL:
+    name: '&x&4&E&B&D&C&7Mythril&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Mythril.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_OSMIUM:
+    name: '&x&8&D&D&6&C&0Osmium&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Osmium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_LEAD:
+    name: '&x&9&0&4&3&B&ALead&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Lead.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSALUMINUM_BRONZE:
+    name: '&x&B&D&A&A&6&DAluminum Bronze&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Aluminum Bronze.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATESOLDER:
+    name: '&x&B&7&A&F&B&DSolder&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Solder.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKEARTH_SINGULARITY:
+    name: '&x&4&4&E&3&4&FEarth Singularity&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Earth Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDGOLD_SINGULARITY:
+    name: '&x&F&F&E&1&3&8Gold Singularity&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Gold Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETZINC_SINGULARITY:
+    name: '&x&9&B&A&8&A&6Zinc Singularity&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Zinc Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEEARTH_SINGULARITY:
+    name: '&x&4&4&E&3&4&FEarth Singularity&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Earth Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETVOID:
+    name: '&x&5&C&5&7&5&6Void&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Void.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKTITANIUM:
+    name: '&x&A&D&A&D&A&DTitanium&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Titanium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATETITANIUM:
+    name: '&x&A&D&A&D&A&DTitanium&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Titanium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETSMITHIUM:
+    name: '&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Smithium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDMYTHRIL:
+    name: '&x&4&E&B&D&C&7Mythril&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Mythril.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELFORTUNE_SINGULARITY:
+    name: '&x&F&0&D&5&4&1Fortune Singularity&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Fortune Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELMAGIC_SINGULARITY:
+    name: '&x&C&9&4&1&E&8Magic Singularity&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Magic Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOEMAGNONIUM:
+    name: '&x&4&A&0&4&4&6Magnonium&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Magnonium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOESMITHIUM:
+    name: '&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Smithium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEBRONZE:
+    name: '&x&8&7&7&4&3&5Bronze&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Bronze.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_SMITHIUM:
+    name: '&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Smithium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_FORTUNE_SINGULARITY:
+    name: '&x&F&0&D&5&4&1Fortune Singularity&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Fortune Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOECOPPER:
+    name: '&x&C&9&9&7&3&2Copper&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Copper.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSFERROSILICON:
+    name: '&x&F&2&F&2&F&2Ferrosilicon&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Ferrosilicon.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOECOPPER_SINGULARITY:
+    name: '&x&C&9&9&7&3&2Copper Singularity&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Copper Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXEALUMINUM_BRONZE:
+    name: '&x&B&D&A&A&6&DAluminum Bronze&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Aluminum Bronze.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELEARTH_SINGULARITY:
+    name: '&x&4&4&E&3&4&FEarth Singularity&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Earth Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSCOPPER:
+    name: '&x&C&9&9&7&3&2Copper&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Copper.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_FERROSILICON:
+    name: '&x&F&2&F&2&F&2Ferrosilicon&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Ferrosilicon.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSSILVER:
+    name: '&x&D&4&D&4&D&4Silver&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Silver.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOEHARDENED_METAL:
+    name: '&x&2&9&2&5&1&AHardened Metal&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Hardened Metal.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXEFORTUNE_SINGULARITY:
+    name: '&x&F&0&D&5&4&1Fortune Singularity&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Fortune Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSBRASS:
+    name: '&x&D&B&C&D&4&BBrass&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Brass.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_GOLD:
+    name: '&x&F&F&E&1&3&8Gold&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Gold.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_HARDENED_METAL:
+    name: '&x&2&9&2&5&1&AHardened Metal&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Hardened Metal.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKDURALIUM:
+    name: '&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Duralium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETOSMIUM_SUPERALLOY:
+    name: '&x&8&D&D&6&C&0Osmium Superalloy&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Osmium Superalloy.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXEALUMINUM:
+    name: '&x&B&0&B&0&B&0Aluminum&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Aluminum.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSBILLON:
+    name: '&x&B&0&C&2&B&EBillon&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Billon.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEALUMINUM_BRASS:
+    name: '&x&D&B&D&2&7&9Aluminum Brass&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Aluminum Brass.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_MAG_THOR:
+    name: '&x&3&3&D&E&4&DMag Thor&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Mag Thor.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_LEAD:
+    name: '&x&9&0&4&3&B&ALead&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Lead.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXEINFINITE:
+    name: '&x&D&1&E&B&F&0Infinite&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Infinite.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSMAG_THOR:
+    name: '&x&3&3&D&E&4&DMag Thor&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Mag Thor.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_TIN:
+    name: '&x&A&8&9&B&9&BTin&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Tin.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKCOBALT:
+    name: '&x&9&E&9&E&9&ECobalt&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Cobalt.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKLEAD_SINGULARITY:
+    name: '&x&9&0&4&3&B&ALead Singularity&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Lead Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_COBALT:
+    name: '&x&9&E&9&E&9&ECobalt&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Cobalt.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOEGOLD_SINGULARITY:
+    name: '&x&F&F&E&1&3&8Gold Singularity&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Gold Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELADAMANTITE:
+    name: '&x&C&9&3&E&C&2Adamantite&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Adamantite.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETTITANIUM:
+    name: '&x&A&D&A&D&A&DTitanium&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Titanium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATETIN_SINGULARITY:
+    name: '&x&A&8&9&B&9&BTin Singularity&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Tin Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETSEGGANESSON:
+    name: '&x&4&B&A&C&B&FSegganesson&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Segganesson.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDALUMINUM_SINGULARITY:
+    name: '&x&B&0&B&0&B&0Aluminum Singularity&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Aluminum Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDREINFORCED_SLIME_STEEL:
+    name: '&x&A&E&D&1&9&7Reinforced Slime Steel&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Reinforced Slime Steel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_GOLD_SINGULARITY:
+    name: '&x&F&F&E&1&3&8Gold Singularity&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Gold Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKSILVER_SINGULARITY:
+    name: '&x&D&4&D&4&D&4Silver Singularity&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Silver Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_EARTH_SINGULARITY:
+    name: '&x&4&4&E&3&4&FEarth Singularity&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Earth Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXEMAG_THOR:
+    name: '&x&3&3&D&E&4&DMag Thor&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Mag Thor.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETSEFIRITE:
+    name: '&x&9&B&E&B&3&4Sefirite&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Sefirite.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSDAMASCUS_STEEL:
+    name: '&x&A&3&8&C&8&CDamascus Steel&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Damascus Steel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETDURALIUM:
+    name: '&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Duralium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSALUMINUM_BRONZE:
+    name: '&x&B&D&A&A&6&DAluminum Bronze&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Aluminum Bronze.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELTIN_SINGULARITY:
+    name: '&x&A&8&9&B&9&BTin Singularity&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Tin Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_SEGGANESSON:
+    name: '&x&4&B&A&C&B&FSegganesson&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Segganesson.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXEIRON_SINGULARITY:
+    name: '&x&8&C&8&C&8&CIron Singularity&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Iron Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEZINC_SINGULARITY:
+    name: '&x&9&B&A&8&A&6Zinc Singularity&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Zinc Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_REFINED_IRON:
+    name: '&x&A&B&A&B&A&BRefined Iron&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Refined Iron.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDLEAD:
+    name: '&x&9&0&4&3&B&ALead&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Lead.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOEBRASS:
+    name: '&x&D&B&C&D&4&BBrass&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Brass.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSSMITHIUM:
+    name: '&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Smithium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETZINC:
+    name: '&x&9&B&A&8&A&6Zinc&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Zinc.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKMAGSTEEL:
+    name: '&x&7&3&0&0&0&0Magsteel&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Magsteel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXECOPPER:
+    name: '&x&C&9&9&7&3&2Copper&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Copper.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXEBOOMERITE:
+    name: '&x&D&9&4&C&0&0Boomerite&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Boomerite.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSLEAD_SINGULARITY:
+    name: '&x&9&0&4&3&B&ALead Singularity&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Lead Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETMAGNONIUM:
+    name: '&x&4&A&0&4&4&6Magnonium&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Magnonium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELGOLD:
+    name: '&x&F&F&E&1&3&8Gold&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Gold.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSSEFIRITE:
+    name: '&x&9&B&E&B&3&4Sefirite&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Sefirite.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSLEAD_SINGULARITY:
+    name: '&x&9&0&4&3&B&ALead Singularity&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Lead Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOEADAMANTITE:
+    name: '&x&C&9&3&E&C&2Adamantite&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Adamantite.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_IRIDIUM:
+    name: '&x&C&9&9&9&C&9Iridium&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Iridium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOEMAGIC_SINGULARITY:
+    name: '&x&C&9&4&1&E&8Magic Singularity&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Magic Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELCOBALT:
+    name: '&x&9&E&9&E&9&ECobalt&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Cobalt.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDALUMINUM_BRONZE:
+    name: '&x&B&D&A&A&6&DAluminum Bronze&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Aluminum Bronze.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETCOBALT:
+    name: '&x&9&E&9&E&9&ECobalt&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Cobalt.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEMAGSTEEL:
+    name: '&x&7&3&0&0&0&0Magsteel&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Magsteel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_ZINC_SINGULARITY:
+    name: '&x&9&B&A&8&A&6Zinc Singularity&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Zinc Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_MAGNESIUM_SINGULARITY:
+    name: '&x&E&8&C&E&F&5Magnesium Singularity&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Magnesium Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATECOBALT:
+    name: '&x&9&E&9&E&9&ECobalt&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Cobalt.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEMAGIC_SINGULARITY:
+    name: '&x&C&9&4&1&E&8Magic Singularity&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Magic Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_BOOTSMAGNONIUM:
+    name: '&x&4&A&0&4&4&6Magnonium&x&4&2&C&8&F&5 Boots Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Magnonium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKBRASS:
+    name: '&x&D&B&C&D&4&BBrass&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Brass.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEDAXI_SATURATION:
+    name: '&x&8&3&2&1&C&FDaxi Saturation&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Daxi Saturation.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_ANNIVERSARIUM:
+    name: '&x&3&2&B&4&1&EAnniversarium&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Anniversarium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOETIN:
+    name: '&x&A&8&9&B&9&BTin&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Tin.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSDAXI_REGENERATION:
+    name: '&x&8&3&2&1&C&FDaxi Regeneration&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Daxi Regeneration.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_ADVANCED_ALLOY:
+    name: '&x&7&8&A&B&A&2Advanced Alloy&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Advanced Alloy.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_STEEL:
+    name: '&x&D&1&D&1&D&1Steel&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Steel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_IRON_SINGULARITY:
+    name: '&x&8&C&8&C&8&CIron Singularity&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Iron Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_SEGGANESSON:
+    name: '&x&4&B&A&C&B&FSegganesson&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Segganesson.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEBOOMERITE:
+    name: '&x&D&9&4&C&0&0Boomerite&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Boomerite.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEDURALIUM:
+    name: '&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Duralium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_SCRAP:
+    name: '&x&5&C&4&5&1&DScrap&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Scrap.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETINFINITE:
+    name: '&x&D&1&E&B&F&0Infinite&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Infinite.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LINKS_BRASS:
+    name: '&x&D&B&C&D&4&BBrass&x&4&2&C&8&F&5 Mail Links'
+    lore:
+    - ''
+    - '&7A set of mail links made of Brass.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_LEAD_SINGULARITY:
+    name: '&x&9&0&4&3&B&ALead Singularity&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Lead Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKADVANCED_ALLOY:
+    name: '&x&7&8&A&B&A&2Advanced Alloy&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Advanced Alloy.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_LEGGINGSCORINTHIAN_BRONZE:
+    name: '&x&8&A&6&5&0&0Corinthian Bronze&x&4&2&C&8&F&5 Leggings Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Corinthian Bronze.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETANNIVERSARIUM:
+    name: '&x&3&2&B&4&1&EAnniversarium&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Anniversarium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXEREINFORCED_SLIME_STEEL:
+    name: '&x&A&E&D&1&9&7Reinforced Slime Steel&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Reinforced Slime Steel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOETIN_SINGULARITY:
+    name: '&x&A&8&9&B&9&BTin Singularity&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Tin Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKTIN_SINGULARITY:
+    name: '&x&A&8&9&B&9&BTin Singularity&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Tin Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT_ALUMINUM_SINGULARITY:
+    name: '&x&B&0&B&0&B&0Aluminum Singularity&x&4&2&C&8&F&5 Repair Kit'
+    lore:
+    - ''
+    - '&7A kit that is able to repair items'
+    - '&7made out of Aluminum Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_HELMETALUMINUM:
+    name: '&x&B&0&B&0&B&0Aluminum&x&4&2&C&8&F&5 Helmet Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Aluminum.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOEALUMINUM_SINGULARITY:
+    name: '&x&B&0&B&0&B&0Aluminum Singularity&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Aluminum Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELMAGNESIUM_SINGULARITY:
+    name: '&x&E&8&C&E&F&5Magnesium Singularity&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Magnesium Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_PICKBOOMERITE:
+    name: '&x&D&9&4&C&0&0Boomerite&x&4&2&C&8&F&5 Pick Head'
+    lore:
+    - ''
+    - '&7A tool head made of Boomerite.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_HOEIRON_SINGULARITY:
+    name: '&x&8&C&8&C&8&CIron Singularity&x&4&2&C&8&F&5 Hoe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Iron Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PLATES_CHESTPLATEIRIDIUM:
+    name: '&x&C&9&9&9&C&9Iridium&x&4&2&C&8&F&5 Chestplate Plates'
+    lore:
+    - ''
+    - '&7A set of armour plates made of Iridium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELALUMINUM_SINGULARITY:
+    name: '&x&B&0&B&0&B&0Aluminum Singularity&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Aluminum Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_ROD_UNPATENTABLIUM:
+    name: '&x&8&D&D&6&C&0Unpatentablium&x&4&2&C&8&F&5 Rod'
+    lore:
+    - ''
+    - '&7A tool rod made of Unpatentablium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SWORDCORINTHIAN_BRONZE:
+    name: '&x&8&A&6&5&0&0Corinthian Bronze&x&4&2&C&8&F&5 Sword Head'
+    lore:
+    - ''
+    - '&7A tool head made of Corinthian Bronze.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_SHOVELZINC_SINGULARITY:
+    name: '&x&9&B&A&8&A&6Zinc Singularity&x&4&2&C&8&F&5 Shovel Head'
+    lore:
+    - ''
+    - '&7A tool head made of Zinc Singularity.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HEAD_AXETITANIUM:
+    name: '&x&A&D&A&D&A&DTitanium&x&4&2&C&8&F&5 Axe Head'
+    lore:
+    - ''
+    - '&7A tool head made of Titanium.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'

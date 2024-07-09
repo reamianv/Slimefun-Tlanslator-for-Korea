@@ -1,0 +1,525 @@
+name: SoulJars
+translations:
+  FOX_SOUL_JAR:
+    name: '&cSoul Jar &7(Fox)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e1'
+  LLAMA_BROKEN_SPAWNER:
+    name: '&cBroken Spawner &7(Llama)'
+  IRON_GOLEM_SOUL_JAR:
+    name: '&cSoul Jar &7(Iron Golem)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e1'
+  FILLED_SQUID_SOUL_JAR:
+    name: '&cFilled Soul Jar &7(Squid)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e128'
+  PHANTOM_BROKEN_SPAWNER:
+    name: '&cBroken Spawner &7(Phantom)'
+  RAVAGER_SOUL_JAR:
+    name: '&cSoul Jar &7(Ravager)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e1'
+  ILLUSIONER_BROKEN_SPAWNER:
+    name: '&cBroken Spawner &7(Illusioner)'
+  FILLED_PILLAGER_SOUL_JAR:
+    name: '&cFilled Soul Jar &7(Pillager)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e128'
+  VILLAGER_BROKEN_SPAWNER:
+    name: '&cBroken Spawner &7(Villager)'
+  ZOMBIE_SOUL_JAR:
+    name: '&cSoul Jar &7(Zombie)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e1'
+  FILLED_VILLAGER_SOUL_JAR:
+    name: '&cFilled Soul Jar &7(Villager)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e128'
+  WITHER_SKELETON_SOUL_JAR:
+    name: '&cSoul Jar &7(Wither Skeleton)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e1'
+  POLAR_BEAR_SOUL_JAR:
+    name: '&cSoul Jar &7(Polar Bear)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e1'
+  HORSE_BROKEN_SPAWNER:
+    name: '&cBroken Spawner &7(Horse)'
+  FILLED_WITHER_SKELETON_SOUL_JAR:
+    name: '&cFilled Soul Jar &7(Wither Skeleton)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e128'
+  DROWNED_SOUL_JAR:
+    name: '&cSoul Jar &7(Drowned)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e1'
+  WITCH_BROKEN_SPAWNER:
+    name: '&cBroken Spawner &7(Witch)'
+  FILLED_SKELETON_SOUL_JAR:
+    name: '&cFilled Soul Jar &7(Skeleton)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e128'
+  FILLED_BLAZE_SOUL_JAR:
+    name: '&cFilled Soul Jar &7(Blaze)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e128'
+  FILLED_FOX_SOUL_JAR:
+    name: '&cFilled Soul Jar &7(Fox)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e128'
+  WITCH_SOUL_JAR:
+    name: '&cSoul Jar &7(Witch)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e1'
+  FILLED_OCELOT_SOUL_JAR:
+    name: '&cFilled Soul Jar &7(Ocelot)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e128'
+  SHEEP_SOUL_JAR:
+    name: '&cSoul Jar &7(Sheep)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e1'
+  RAVAGER_BROKEN_SPAWNER:
+    name: '&cBroken Spawner &7(Ravager)'
+  SQUID_BROKEN_SPAWNER:
+    name: '&cBroken Spawner &7(Squid)'
+  ENDERMITE_BROKEN_SPAWNER:
+    name: '&cBroken Spawner &7(Endermite)'
+  FILLED_EVOKER_SOUL_JAR:
+    name: '&cFilled Soul Jar &7(Evoker)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e128'
+  PIG_BROKEN_SPAWNER:
+    name: '&cBroken Spawner &7(Pig)'
+  ZOMBIFIED_PIGLIN_SOUL_JAR:
+    name: '&cSoul Jar &7(Zombified Piglin)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e1'
+  FILLED_ZOMBIFIED_PIGLIN_SOUL_JAR:
+    name: '&cFilled Soul Jar &7(Zombified Piglin)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e128'
+  ENDERMITE_SOUL_JAR:
+    name: '&cSoul Jar &7(Endermite)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e1'
+  OCELOT_SOUL_JAR:
+    name: '&cSoul Jar &7(Ocelot)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e1'
+  FILLED_HORSE_SOUL_JAR:
+    name: '&cFilled Soul Jar &7(Horse)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e128'
+  ENDERMAN_SOUL_JAR:
+    name: '&cSoul Jar &7(Enderman)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e1'
+  ZOMBIE_VILLAGER_SOUL_JAR:
+    name: '&cSoul Jar &7(Zombie Villager)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e1'
+  FILLED_CREEPER_SOUL_JAR:
+    name: '&cFilled Soul Jar &7(Creeper)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e128'
+  CHICKEN_SOUL_JAR:
+    name: '&cSoul Jar &7(Chicken)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e1'
+  SKELETON_SOUL_JAR:
+    name: '&cSoul Jar &7(Skeleton)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e1'
+  FILLED_SLIME_SOUL_JAR:
+    name: '&cFilled Soul Jar &7(Slime)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e128'
+  FILLED_SHEEP_SOUL_JAR:
+    name: '&cFilled Soul Jar &7(Sheep)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e128'
+  PARROT_BROKEN_SPAWNER:
+    name: '&cBroken Spawner &7(Parrot)'
+  SILVERFISH_SOUL_JAR:
+    name: '&cSoul Jar &7(Silverfish)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e1'
+  RABBIT_SOUL_JAR:
+    name: '&cSoul Jar &7(Rabbit)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e1'
+  FILLED_CHICKEN_SOUL_JAR:
+    name: '&cFilled Soul Jar &7(Chicken)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e128'
+  STRAY_SOUL_JAR:
+    name: '&cSoul Jar &7(Stray)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e1'
+  PANDA_SOUL_JAR:
+    name: '&cSoul Jar &7(Panda)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e1'
+  CAVE_SPIDER_BROKEN_SPAWNER:
+    name: '&cBroken Spawner &7(Cave Spider)'
+  MAGMA_CUBE_SOUL_JAR:
+    name: '&cSoul Jar &7(Magma Cube)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e1'
+  ZOMBIE_VILLAGER_BROKEN_SPAWNER:
+    name: '&cBroken Spawner &7(Zombie Villager)'
+  HORSE_SOUL_JAR:
+    name: '&cSoul Jar &7(Horse)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e1'
+  ILLUSIONER_SOUL_JAR:
+    name: '&cSoul Jar &7(Illusioner)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e1'
+  FILLED_WOLF_SOUL_JAR:
+    name: '&cFilled Soul Jar &7(Wolf)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e128'
+  PARROT_SOUL_JAR:
+    name: '&cSoul Jar &7(Parrot)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e1'
+  SLIME_SOUL_JAR:
+    name: '&cSoul Jar &7(Slime)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e1'
+  FILLED_IRON_GOLEM_SOUL_JAR:
+    name: '&cFilled Soul Jar &7(Iron Golem)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e128'
+  FILLED_DROWNED_SOUL_JAR:
+    name: '&cFilled Soul Jar &7(Drowned)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e128'
+  VINDICATOR_BROKEN_SPAWNER:
+    name: '&cBroken Spawner &7(Vindicator)'
+  FILLED_SPIDER_SOUL_JAR:
+    name: '&cFilled Soul Jar &7(Spider)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e128'
+  IRON_GOLEM_BROKEN_SPAWNER:
+    name: '&cBroken Spawner &7(Iron Golem)'
+  GUARDIAN_BROKEN_SPAWNER:
+    name: '&cBroken Spawner &7(Guardian)'
+  GUARDIAN_SOUL_JAR:
+    name: '&cSoul Jar &7(Guardian)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e1'
+  HUSK_BROKEN_SPAWNER:
+    name: '&cBroken Spawner &7(Husk)'
+  PIG_SOUL_JAR:
+    name: '&cSoul Jar &7(Pig)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e1'
+  CREEPER_SOUL_JAR:
+    name: '&cSoul Jar &7(Creeper)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e1'
+  FILLED_POLAR_BEAR_SOUL_JAR:
+    name: '&cFilled Soul Jar &7(Polar Bear)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e128'
+  FILLED_PIG_SOUL_JAR:
+    name: '&cFilled Soul Jar &7(Pig)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e128'
+  BLAZE_SOUL_JAR:
+    name: '&cSoul Jar &7(Blaze)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e1'
+  PHANTOM_SOUL_JAR:
+    name: '&cSoul Jar &7(Phantom)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e1'
+  COW_BROKEN_SPAWNER:
+    name: '&cBroken Spawner &7(Cow)'
+  CAVE_SPIDER_SOUL_JAR:
+    name: '&cSoul Jar &7(Cave Spider)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e1'
+  FOX_BROKEN_SPAWNER:
+    name: '&cBroken Spawner &7(Fox)'
+  MAGMA_CUBE_BROKEN_SPAWNER:
+    name: '&cBroken Spawner &7(Magma Cube)'
+  PILLAGER_BROKEN_SPAWNER:
+    name: '&cBroken Spawner &7(Pillager)'
+  VINDICATOR_SOUL_JAR:
+    name: '&cSoul Jar &7(Vindicator)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e1'
+  STRAY_BROKEN_SPAWNER:
+    name: '&cBroken Spawner &7(Stray)'
+  FILLED_GHAST_SOUL_JAR:
+    name: '&cFilled Soul Jar &7(Ghast)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e128'
+  FILLED_MAGMA_CUBE_SOUL_JAR:
+    name: '&cFilled Soul Jar &7(Magma Cube)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e128'
+  DROWNED_BROKEN_SPAWNER:
+    name: '&cBroken Spawner &7(Drowned)'
+  EVOKER_SOUL_JAR:
+    name: '&cSoul Jar &7(Evoker)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e1'
+  FILLED_ENDERMAN_SOUL_JAR:
+    name: '&cFilled Soul Jar &7(Enderman)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e128'
+  FILLED_ENDERMITE_SOUL_JAR:
+    name: '&cFilled Soul Jar &7(Endermite)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e128'
+  FILLED_STRAY_SOUL_JAR:
+    name: '&cFilled Soul Jar &7(Stray)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e128'
+  PILLAGER_SOUL_JAR:
+    name: '&cSoul Jar &7(Pillager)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e1'
+  FILLED_ILLUSIONER_SOUL_JAR:
+    name: '&cFilled Soul Jar &7(Illusioner)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e128'
+  FILLED_HUSK_SOUL_JAR:
+    name: '&cFilled Soul Jar &7(Husk)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e128'
+  FILLED_COW_SOUL_JAR:
+    name: '&cFilled Soul Jar &7(Cow)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e128'
+  VILLAGER_SOUL_JAR:
+    name: '&cSoul Jar &7(Villager)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e1'
+  GHAST_BROKEN_SPAWNER:
+    name: '&cBroken Spawner &7(Ghast)'
+  LLAMA_SOUL_JAR:
+    name: '&cSoul Jar &7(Llama)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e1'
+  FILLED_GUARDIAN_SOUL_JAR:
+    name: '&cFilled Soul Jar &7(Guardian)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e128'
+  SKELETON_BROKEN_SPAWNER:
+    name: '&cBroken Spawner &7(Skeleton)'
+  FILLED_ZOMBIE_SOUL_JAR:
+    name: '&cFilled Soul Jar &7(Zombie)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e128'
+  ZOMBIE_BROKEN_SPAWNER:
+    name: '&cBroken Spawner &7(Zombie)'
+  ZOMBIFIED_PIGLIN_BROKEN_SPAWNER:
+    name: '&cBroken Spawner &7(Zombified Piglin)'
+  ENDERMAN_BROKEN_SPAWNER:
+    name: '&cBroken Spawner &7(Enderman)'
+  SPIDER_SOUL_JAR:
+    name: '&cSoul Jar &7(Spider)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e1'
+  FILLED_PHANTOM_SOUL_JAR:
+    name: '&cFilled Soul Jar &7(Phantom)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e128'
+  CREEPER_BROKEN_SPAWNER:
+    name: '&cBroken Spawner &7(Creeper)'
+  OCELOT_BROKEN_SPAWNER:
+    name: '&cBroken Spawner &7(Ocelot)'
+  POLAR_BEAR_BROKEN_SPAWNER:
+    name: '&cBroken Spawner &7(Polar Bear)'
+  RABBIT_BROKEN_SPAWNER:
+    name: '&cBroken Spawner &7(Rabbit)'
+  SQUID_SOUL_JAR:
+    name: '&cSoul Jar &7(Squid)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e1'
+  MUSHROOM_COW_SOUL_JAR:
+    name: '&cSoul Jar &7(Mushroom Cow)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e1'
+  WOLF_SOUL_JAR:
+    name: '&cSoul Jar &7(Wolf)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e1'
+  HUSK_SOUL_JAR:
+    name: '&cSoul Jar &7(Husk)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e1'
+  FILLED_PANDA_SOUL_JAR:
+    name: '&cFilled Soul Jar &7(Panda)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e128'
+  WOLF_BROKEN_SPAWNER:
+    name: '&cBroken Spawner &7(Wolf)'
+  FILLED_MUSHROOM_COW_SOUL_JAR:
+    name: '&cFilled Soul Jar &7(Mushroom Cow)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e128'
+  FILLED_SILVERFISH_SOUL_JAR:
+    name: '&cFilled Soul Jar &7(Silverfish)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e128'
+  SOUL_JAR:
+    name: '&bSoul Jar &7(Empty)'
+    lore:
+    - ''
+    - Kill a Mob while having this
+    - Item in your Inventory to bind
+    - their Soul to this Jar
+  SLIME_BROKEN_SPAWNER:
+    name: '&cBroken Spawner &7(Slime)'
+  GHAST_SOUL_JAR:
+    name: '&cSoul Jar &7(Ghast)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e1'
+  COW_SOUL_JAR:
+    name: '&cSoul Jar &7(Cow)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e1'
+  FILLED_LLAMA_SOUL_JAR:
+    name: '&cFilled Soul Jar &7(Llama)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e128'
+  SILVERFISH_BROKEN_SPAWNER:
+    name: '&cBroken Spawner &7(Silverfish)'
+  EVOKER_BROKEN_SPAWNER:
+    name: '&cBroken Spawner &7(Evoker)'
+  FILLED_RAVAGER_SOUL_JAR:
+    name: '&cFilled Soul Jar &7(Ravager)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e128'
+  MUSHROOM_COW_BROKEN_SPAWNER:
+    name: '&cBroken Spawner &7(Mushroom Cow)'
+  FILLED_VINDICATOR_SOUL_JAR:
+    name: '&cFilled Soul Jar &7(Vindicator)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e128'
+  WITHER_SKELETON_BROKEN_SPAWNER:
+    name: '&cBroken Spawner &7(Wither Skeleton)'
+  FILLED_RABBIT_SOUL_JAR:
+    name: '&cFilled Soul Jar &7(Rabbit)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e128'
+  FILLED_CAVE_SPIDER_SOUL_JAR:
+    name: '&cFilled Soul Jar &7(Cave Spider)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e128'
+  CHICKEN_BROKEN_SPAWNER:
+    name: '&cBroken Spawner &7(Chicken)'
+  SHEEP_BROKEN_SPAWNER:
+    name: '&cBroken Spawner &7(Sheep)'
+  FILLED_WITCH_SOUL_JAR:
+    name: '&cFilled Soul Jar &7(Witch)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e128'
+  PANDA_BROKEN_SPAWNER:
+    name: '&cBroken Spawner &7(Panda)'
+  FILLED_PARROT_SOUL_JAR:
+    name: '&cFilled Soul Jar &7(Parrot)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e128'
+  FILLED_ZOMBIE_VILLAGER_SOUL_JAR:
+    name: '&cFilled Soul Jar &7(Zombie Villager)'
+    lore:
+    - ''
+    - '&7Infused Souls: &e128'
+  SPIDER_BROKEN_SPAWNER:
+    name: '&cBroken Spawner &7(Spider)'
+  BLAZE_BROKEN_SPAWNER:
+    name: '&cBroken Spawner &7(Blaze)'

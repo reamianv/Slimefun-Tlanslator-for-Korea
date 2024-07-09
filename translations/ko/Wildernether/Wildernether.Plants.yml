@@ -1,0 +1,146 @@
+name: Wildernether
+translations:
+  CRYSTAL_MUSHROOM:
+    name: '&x&9&E&3&5&5&ACrystal Mushroom'
+    lore:
+    - '&7'
+    - '&x&F&C&F&B&D&6An excess of quartz in its surroundings'
+    - '&x&F&C&F&B&D&6has given rise to this strange mushroom,'
+    - '&x&F&C&F&B&D&6growing crystals of quartz in its cap'
+  TULIP_OF_PARTINGS:
+    name: '&x&D&9&F&9&E&FTulip of Partings'
+    lore:
+    - '&7Chapter 2'
+    - '&x&F&C&F&B&D&6'
+    - '&x&F&C&F&B&D&6His oasis, the winds of the wastes'
+    - '&x&F&C&F&B&D&6scattered and warped. In the end'
+    - '&x&F&C&F&B&D&6the adventurer was left with a single'
+    - '&x&F&C&F&B&D&6fragile tulip, the only reminder of'
+    - '&x&F&C&F&B&D&6the world from which he came'
+  RED_SPIDER_LILY:
+    name: '&x&9&E&3&5&5&ARed Spider Lily'
+    lore:
+    - '&7'
+    - '&x&F&C&F&B&D&6Its curling petals seem to be grabbing'
+    - '&x&F&C&F&B&D&6at you'
+  WARPED_ROSE:
+    name: '&x&0&0&8&C&8&AWarped Rose'
+    lore:
+    - '&7'
+    - '&x&F&C&F&B&D&6This rose''s thorns are bigger than its'
+    - '&x&F&C&F&B&D&6leaves'
+  SMOLDERING_HERBS:
+    name: '&x&7&0&1&5&1&5Smoldering Herbs'
+    lore:
+    - '&7'
+    - '&x&F&C&F&B&D&6They don''t actually burn'
+  BLOOM_OF_UNHEARD_CRIES:
+    name: '&x&D&9&F&9&E&FBloom of Unheard Cries'
+    lore:
+    - '&7Chapter 3'
+    - '&x&F&C&F&B&D&6'
+    - '&x&F&C&F&B&D&6Gone was his sanctuary, every last'
+    - '&x&F&C&F&B&D&6bloom warped into horror. Fearing the'
+    - '&x&F&C&F&B&D&6dangers of staying there, he set out'
+    - '&x&F&C&F&B&D&6to find a way home. Alas, his shouts'
+    - '&x&F&C&F&B&D&6reached nothing but the domineering'
+    - '&x&F&C&F&B&D&6netherrack sky, and the brown sand'
+    - '&x&F&C&F&B&D&6dragging down his feet'
+  SHROOMLIGHT_SPORES:
+    name: '&x&9&E&3&5&5&AShroomlight Spores'
+    lore:
+    - '&7'
+    - '&x&F&C&F&B&D&6These spores don''t appear to glow, unlike'
+    - '&x&F&C&F&B&D&6the bulbs that they dropped from.'
+  NETHER_TUBERS:
+    name: '&x&0&0&8&C&8&ANether Tubers'
+    lore:
+    - '&7'
+    - '&x&F&C&F&B&D&6It''s a potato.'
+  GARDEN_OF_THE_LOST_SOUL:
+    name: '&x&D&9&F&9&E&FGarden of the Lost Soul'
+    lore:
+    - '&7Chapter 1'
+    - '&x&F&C&F&B&D&6'
+    - '&x&F&C&F&B&D&6The only refuge in this blazing land'
+    - '&x&F&C&F&B&D&6for the adventurer trapped in hell.'
+    - '&x&F&C&F&B&D&6He cultivated this garden with the'
+    - '&x&F&C&F&B&D&6flora of a peaceful world, escaping'
+    - '&x&F&C&F&B&D&6into a transient dream'
+  BLAZESPROUT:
+    name: '&x&9&E&3&5&5&ABlazesprout'
+    lore:
+    - '&7'
+    - '&x&F&C&F&B&D&6The hypha of a nether fungus has'
+    - '&x&F&C&F&B&D&6absorbed some powder from a blaze,'
+    - '&x&F&C&F&B&D&6leading to the formation of a fiery'
+    - '&x&F&C&F&B&D&6blister.'
+    - '&x&F&C&F&B&D&6'
+    - '&7&oUse in the Nether Composter'
+  BLOSSOM_OF_SOLITUDE:
+    name: '&x&D&9&F&9&E&FBlossom of Solitude'
+    lore:
+    - '&7Chapter 4'
+    - '&x&F&C&F&B&D&6'
+    - '&x&F&C&F&B&D&6After days of walking, the adventurer'
+    - '&x&F&C&F&B&D&6could move no longer. He collapsed on the'
+    - '&x&F&C&F&B&D&6hard rock, scarlet blood flowing from'
+    - '&x&F&C&F&B&D&6festering wounds. No more did he feel the'
+    - '&x&F&C&F&B&D&6itch of a stinging scrape, nor the aching'
+    - '&x&F&C&F&B&D&6of an empty stomach.'
+  WARPED_CACTUS:
+    name: '&x&0&0&8&C&8&AWarped Cactus'
+    lore:
+    - '&7'
+    - '&x&F&C&F&B&D&6A tiny, twisted cactus growing from the'
+    - '&x&F&C&F&B&D&6hypha of a warped fungus. Be careful not'
+    - '&x&F&C&F&B&D&6to step on it!'
+  WARPED_LOTUS:
+    name: '&x&0&0&8&C&8&AWarped Lotus'
+    lore:
+    - '&7'
+    - '&x&F&C&F&B&D&6Don''t they normally grow on water?'
+  OCTARINE_NETHERCAP:
+    name: '&x&0&F&4&2&3&EOctarine Nethercap'
+    lore:
+    - '&7'
+    - '&x&F&C&F&B&D&6A fluorescent greenish-yellow purple'
+  LAMENT_OF_THE_DAMNED:
+    name: '&x&D&9&F&9&E&FLament of the Damned'
+    lore:
+    - '&7Chapter 5'
+    - '&x&F&C&F&B&D&6'
+    - '&x&F&C&F&B&D&6Once fiery brimstone, this land became'
+    - '&x&F&C&F&B&D&6overgrown with the twisted forms of flora'
+    - '&x&F&C&F&B&D&6that flew on the wind, and mutated with'
+    - '&x&F&C&F&B&D&6time. However, no more could his soul be'
+    - '&x&F&C&F&B&D&6soothed, for he was damned to this'
+    - '&x&F&C&F&B&D&6unknown land for the rest of eternity'
+  RED_CARROT:
+    name: '&x&9&E&3&5&5&ARed Carrot'
+    lore:
+    - '&7'
+    - '&x&F&C&F&B&D&6It''s red'
+  IMMOLATED_VINES:
+    name: '&x&7&0&1&5&1&5Immolated Vines'
+    lore:
+    - '&7'
+    - '&x&F&C&F&B&D&6Even after being cut from the fungus,'
+    - '&x&F&C&F&B&D&6it pulsates like a heart'
+  EMERALD_FIREBLOOM:
+    name: '&x&0&F&4&2&3&EEmerald Firebloom'
+    lore:
+    - '&7'
+    - '&x&F&C&F&B&D&6Its petals undulate like the flames'
+    - '&x&F&C&F&B&D&6of a fire'
+  CRIMSON_DREADLOCKS:
+    name: '&x&9&E&3&5&5&ACrimson Dreadlocks'
+    lore:
+    - '&7'
+    - '&x&F&C&F&B&D&6Each one of these vines is as thick as'
+    - '&x&F&C&F&B&D&6your arm...'
+  TWISTED_BEAN_SPROUT:
+    name: '&x&0&0&8&C&8&ATwisted Bean Sprout'
+    lore:
+    - '&7'
+    - '&x&F&C&F&B&D&6High source of fibre!'

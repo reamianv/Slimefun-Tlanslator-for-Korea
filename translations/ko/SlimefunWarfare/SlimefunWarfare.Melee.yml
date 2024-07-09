@@ -1,0 +1,34 @@
+name: SlimefunWarfare
+translations:
+  BATTLE_AXE:
+    name: '&6&lBattle Axe'
+    lore:
+    - ''
+    - '&7This axe is designed for battle. No more annoying cooldowns!'
+    - ''
+    - '&7When In Main Hand:'
+    - '&2 9 Attack Damage'
+    - '&2 1.6 Attack Speed'
+  ENERGY_BLADE:
+    name: '&bEnergy Blade'
+    lore:
+    - ''
+    - '&7Known in some circles as a "lightsaber",'
+    - '&7this advanced sword uses pure energy to'
+    - '&7slice through living tissue'
+    - ''
+    - '&9Uses 5J per hit'
+    - '&8⇨ &e⚡ &70 / 2500 J'
+    - ''
+    - '&7When In Main Hand:'
+    - '&2 14 Attack Damage'
+    - '&2 1.6 Attack Speed'
+  OSMIUM_SWORD:
+    name: '&6Osmium Sword'
+    lore:
+    - ''
+    - '&7Heavy in the hand'
+    - ''
+    - '&7When In Main Hand:'
+    - '&2 10 Attack Damage'
+    - '&2 1.6 Attack Speed'

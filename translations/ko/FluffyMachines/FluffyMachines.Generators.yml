@@ -1,0 +1,17 @@
+name: FluffyMachines
+translations:
+  CRANK_GENERATOR:
+    name: '&7Crank Generator'
+    lore:
+    - ''
+    - '&eRight click &7the lever to generate power'
+    - ''
+    - '&8⇨ &e⚡ &716 J/Crank'
+    - '&8⇨ &e⚡ &764 J Buffer'
+    - ''
+    - '&cThis is a Multiblock machine!'
+  GENERATOR_CORE:
+    name: '&7Generator Core'
+    lore:
+    - ''
+    - '&7Multiblock component of generators'

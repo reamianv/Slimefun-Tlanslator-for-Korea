@@ -1,0 +1,42 @@
+name: Cultivation
+translations:
+  CLT_LEAVES_TREE_LIME:
+    name: Cultivation Leaves
+  CLT_LEAVES_TREE_CHESTNUT:
+    name: Cultivation Leaves
+  CLT_LEAVES_TREE_KIWI:
+    name: Cultivation Leaves
+  CLT_LEAVES_TREE_BANANA:
+    name: Cultivation Leaves
+  CLT_LEAVES_TREE_MANGO:
+    name: Cultivation Leaves
+  CLT_LEAVES_TREE_APRICOT:
+    name: Cultivation Leaves
+  CLT_LEAVES_TREE_GREEN_APPLE:
+    name: Cultivation Leaves
+  CLT_LEAVES_TREE_LEMON:
+    name: Cultivation Leaves
+  CLT_LEAVES_TREE_PECAN:
+    name: Cultivation Leaves
+  CLT_LEAVES_TREE_PINEAPPLE:
+    name: Cultivation Leaves
+  CLT_RECIPE_UNLOCK:
+    name: '&x&3&2&9&5&A&8Cultivation Knowledge Script'
+    lore:
+    - ''
+    - '&7Right click to learn a Cultivation'
+    - '&7breeding recipe.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Unlocks: &7{0}'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  CLT_LEAVES_TREE_HAZELNUT:
+    name: Cultivation Leaves
+  CLT_LEAVES_TREE_ORANGE:
+    name: Cultivation Leaves
+  CLT_LEAVES_TREE_CHERRY:
+    name: Cultivation Leaves
+  CLT_LEAVES_TREE_PEACH:
+    name: Cultivation Leaves
+  CLT_LEAVES_TREE_PEAR:
+    name: Cultivation Leaves

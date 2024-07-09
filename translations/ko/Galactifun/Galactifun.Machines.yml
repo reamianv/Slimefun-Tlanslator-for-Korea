@@ -1,0 +1,189 @@
+name: Galactifun
+translations:
+  ATMOSPHERIC_HARVESTER:
+    name: '&fAtmospheric Harvester'
+    lore:
+    - ''
+    - '&7Collects gases from the atmosphere'
+    - '&8⇨ &e⚡ &764 J/s'
+    - '&8⇨ &e⚡ &7128 J Buffer'
+    - ''
+    - '&f&oTexture by haseir'
+  OXYGEN_SEALER:
+    name: '&fOxygen Sealer'
+    lore:
+    - ''
+    - '&7Fills a sealed area with oxygen. Range 1000 blocks'
+  COOLING_UNIT_2:
+    name: '&bCooling Unit II'
+    lore:
+    - ''
+    - '&7Effect: Heat'
+    - '&7Protection: 4'
+    - '&7Range: 1500 blocks'
+    - '&8⇨ &e⚡ &72048 J/s'
+    - '&8⇨ &e⚡ &74096 J Buffer'
+  SPACE_HEATER_3:
+    name: '&6Space Heater III'
+    lore:
+    - ''
+    - '&7Effect: Cold'
+    - '&7Protection: 6'
+    - '&7Range: 2000 blocks'
+    - '&8⇨ &e⚡ &72048 J/s'
+    - '&8⇨ &e⚡ &74096 J Buffer'
+  OBSERVATORY:
+    name: '&fObservatory'
+    lore:
+    - ''
+    - '&7Allows you to discover basic info about'
+    - '&7a world remotely. Only works on worlds'
+    - '&7closer than 0.25 ly (2,365,200,000,000 km)'
+  COOLING_UNIT_1:
+    name: '&bCooling Unit I'
+    lore:
+    - ''
+    - '&7Effect: Heat'
+    - '&7Protection: 2'
+    - '&7Range: 1000 blocks'
+    - '&8⇨ &e⚡ &71024 J/s'
+    - '&8⇨ &e⚡ &72048 J Buffer'
+  SPACE_HEATER_1:
+    name: '&6Space Heater I'
+    lore:
+    - ''
+    - '&7Effect: Cold'
+    - '&7Protection: 2'
+    - '&7Range: 1000 blocks'
+    - '&8⇨ &e⚡ &7512 J/s'
+    - '&8⇨ &e⚡ &71024 J Buffer'
+  COOLING_UNIT_3:
+    name: '&bCooling Unit III'
+    lore:
+    - ''
+    - '&7Effect: Heat'
+    - '&7Protection: 6'
+    - '&7Range: 2000 blocks'
+    - '&8⇨ &e⚡ &73072 J/s'
+    - '&8⇨ &e⚡ &76144 J Buffer'
+  SPACE_HEATER_2:
+    name: '&6Space Heater II'
+    lore:
+    - ''
+    - '&7Effect: Cold'
+    - '&7Protection: 4'
+    - '&7Range: 1500 blocks'
+    - '&8⇨ &e⚡ &71024 J/s'
+    - '&8⇨ &e⚡ &72048 J Buffer'
+  ION_DISPERSER_2:
+    name: '&fIon Disperser II'
+    lore:
+    - ''
+    - '&7Effect: Radiation'
+    - '&7Protection: 4'
+    - '&7Range: 1500 blocks'
+    - '&8⇨ &e⚡ &71024 J/s'
+    - '&8⇨ &e⚡ &72048 J Buffer'
+  ELECTROLYZER:
+    name: '&fElectrolyzer'
+    lore:
+    - ''
+    - '&7Uses electricity to split'
+    - '&7chemicals into their constituents'
+    - '&8⇨ &e⚡ &7256 J/s'
+    - '&8⇨ &e⚡ &7512 J Buffer'
+  ION_DISPERSER_1:
+    name: '&fIon Disperser I'
+    lore:
+    - ''
+    - '&7Effect: Radiation'
+    - '&7Protection: 2'
+    - '&7Range: 1000 blocks'
+    - '&8⇨ &e⚡ &7512 J/s'
+    - '&8⇨ &e⚡ &71024 J Buffer'
+  SPACE_SUIT_UPGRADER:
+    name: '&fSpace Suit Upgrader'
+    lore:
+    - ''
+    - '&7Adds upgrades to your space suit'
+    - ''
+    - '&6Average Machine'
+    - '&8⇨ &e⚡ &7200 J/s'
+    - '&8⇨ &b⚡ &7Speed: &b1.0x'
+  DIAMOND_ANVIL:
+    name: '&fDiamond Anvil'
+    lore:
+    - ''
+    - '&7Compresses material so hard'
+    - '&7it becomes something else entirely'
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &71024 J/s'
+    - '&8⇨ &e⚡ &72048 J Buffer'
+  OXYGEN_FILLER:
+    name: '&fOxygen Filler'
+    lore:
+    - ''
+    - '&7Fills space suits with oxygen'
+    - ''
+    - '&6Average Machine'
+    - '&8⇨ &e⚡ &7100 J/s'
+    - '&8⇨ &b⚡ &7Speed: &b1.0x'
+  ASSEMBLY_TABLE:
+    name: '&fAssembly Table'
+    lore:
+    - ''
+    - '&7Used to construct many things'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &72048 J/Craft'
+  PLANETARY_ANALYZER:
+    name: '&fPlanetary Analyzer'
+    lore:
+    - ''
+    - '&7Allows you to discover advanced info'
+    - '&7about the current planet'
+  CHEMICAL_REACTOR:
+    name: '&fChemical Reactor'
+    lore:
+    - ''
+    - '&7Reacts chemicals together'
+    - '&7to create new ones'
+    - '&8⇨ &e⚡ &7256 J/s'
+    - '&8⇨ &e⚡ &7512 J Buffer'
+  CIRCUIT_PRESS:
+    name: '&fCircuit Press'
+    lore:
+    - ''
+    - '&7Creates circuits'
+    - '&6Advanced Machine'
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7256 J/s'
+  AUTOMATIC_DOOR:
+    name: '&fAutomatic Door'
+    lore:
+    - ''
+    - '&7Automatically places/removes the blocks inside'
+    - '&7when you go to/away from it'
+  FUSION_REACTOR:
+    name: '&fFusion Reactor'
+    lore:
+    - ''
+    - '&7Uses lasers to fuse Helium-3 pellets'
+    - '&7and generate a whale a lot of energy'
+    - '&7in the process'
+    - ''
+    - '&8⇨ &e⚡ &765536 J/s'
+    - '&8⇨ &e⚡ &765536 J Buffer'
+  ENVIRONMENTAL_FORCEFIELD_GENERATOR:
+    name: '&fEnvironmental Forcefield Generator'
+    lore:
+    - ''
+    - '&7Produces a forcefield that keeps air from'
+    - '&7going through, but allows entities'
+  TECHNOLOGICAL_SALVAGER:
+    name: '&fTechnological Salvager'
+    lore:
+    - ''
+    - '&7Salvages anything salvageable from relics'
+    - '&8⇨ &e⚡ &764 J/s'
+    - '&8⇨ &e⚡ &764 J Buffer'

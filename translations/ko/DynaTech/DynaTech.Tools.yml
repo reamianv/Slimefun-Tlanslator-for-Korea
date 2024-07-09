@@ -1,0 +1,121 @@
+name: DynaTech
+translations:
+  SCOOP:
+    name: '&6Scoop'
+    lore:
+    - ''
+    - '&fUsed to capture bees.'
+    - ''
+    - '&f&oMake sure not to get stung'
+    - ''
+    - '&8⇨ &e⚡ &70 / 512 J'
+  SOULBOUND_PICNIC_BASKET:
+    name: '&6Soulbound Picnic Basket'
+    lore:
+    - ''
+    - '&fAllows you to store food'
+    - '&fAutomatically consumes them when you''re hungry'
+    - '&fMust be in your inventory'
+    - ''
+    - '&fSize: &e27'
+    - ''
+    - '&7ID: <ID>'
+    - ''
+    - '&eRight Click &7to open.'
+    - ''
+    - '&dSoulbound'
+  INVENTORY_FILTER:
+    name: '&6Inventory Filter'
+    lore:
+    - ''
+    - '&fFilters out items on the floor that are in it''s inventory'
+    - ''
+    - '&7ID: <ID>'
+    - ''
+    - '&eRight Click &7to open.'
+  ITEM_BAND_HASTE:
+    name: '&6Hasty Item Band'
+    lore:
+    - ''
+    - '&fWhen applied to armor or tools'
+    - '&fgives you 2 levels of Haste'
+    - ''
+    - '&f&oPowerup!'
+  TESSERACT_BINDER:
+    name: '&6Tesseract Binder'
+    lore:
+    - ''
+    - '&f Used to bind 2 Tesseract together.'
+    - ''
+    - '&fRight click to get Location of Tesseract'
+    - '&fCrouch Right Click to bind location to Tesseract'
+    - ''
+  PICNIC_BASKET:
+    name: '&6Picnic Basket'
+    lore:
+    - ''
+    - '&fAllows you to store food'
+    - '&fAutomatically consumes them when you''re hungry'
+    - '&fMust be in your inventory'
+    - ''
+    - '&fSize: &e27'
+    - ''
+    - '&7ID: <ID>'
+    - ''
+    - '&eRight Click &7to open.'
+  DIMENSIONAL_HOME:
+    name: '&6Dimensional Home'
+    lore:
+    - ''
+    - '&fTeleports you to a'
+    - '&fseperate dimensional home and back'
+    - ''
+    - '&f&oHome Sweet Home'
+    - ''
+    - '&7CHUNK ID: <id>'
+  WITHER_GOLEM:
+    name: '&6Wither Golem MultiBlock'
+    lore:
+    - ''
+    - Spawns a Wither Skeleton
+    - ''
+  ITEM_BAND_HEALTH:
+    name: '&6Healthy Item Band'
+    lore:
+    - ''
+    - '&fWhen applied to armor or tools'
+    - '&fgives you 2 levels of Health Boost'
+    - ''
+    - '&f&oPowerup!'
+  ANGEL_GEM:
+    name: '&6Flight Gem'
+    lore:
+    - ''
+    - '&fPermanent Creative Flight.'
+    - '&fHas some speed adjustment settings.'
+    - ''
+    - '&f&oFly just like a bird~'
+    - ''
+    - '&7Flight: <enabled>'
+    - '&7Flight Speed: <speed>'
+  LIQUID_TANK:
+    name: '&6Portable Liquid Tank'
+    lore:
+    - ''
+    - '&fSimple Liquid Snatcher.'
+    - ''
+    - Right click to grab a fluid
+    - Shift click to place a fluid
+    - ''
+    - '&fFluid Held: NO_FLUID'
+    - '&fAmount: 0mb / 16000'
+    - ''
+  ELECTRICAL_STIMULATOR:
+    name: '&6Electrical Stimulator'
+    lore:
+    - ''
+    - '&fAutomatically feed you for energy'
+    - ''
+    - '&f&oStimulate your senses.'
+    - ''
+    - '&8⇨ &e⚡ &70 / 1024 J'

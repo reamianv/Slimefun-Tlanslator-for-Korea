@@ -1,0 +1,52 @@
+name: UltimateGenerators2
+translations:
+  DIESEL_GENERATOR:
+    name: '&7Diesel Generator'
+    lore:
+    - ''
+    - '&6Advanced Generator'
+    - '&8⇨ &e⚡ &7256 J Buffer'
+    - '&8⇨ &e⚡ &718 J/t'
+  ENDLESS_GENERATOR:
+    name: '&6Endless Generator'
+    lore:
+    - '&7Generates power based on'
+    - '&7the redstone signal strength.'
+    - ''
+    - '&8⇨ &e⚡ &7256 J/signal strength'
+  QUANTUM_SOLAR_GENERATOR:
+    name: '&dQuantum Solar Generator'
+    lore:
+    - ''
+    - '&9Generates power at night'
+    - ''
+    - '&4Ultimate Generator'
+    - '&8⇨ &e⚡ &765536 J Buffer'
+    - '&8⇨ &e⚡ &72048 J/s (Day)'
+    - '&8⇨ &e⚡ &71024 J/s (Night)'
+  BIOFUEL_GENERATOR:
+    name: '&2Biofuel Generator'
+    lore:
+    - ''
+    - '&6Advanced Generator'
+    - '&8⇨ &e⚡ &7256 J Buffer'
+    - '&8⇨ &e⚡ &718 J/t'
+  DRAGON_BREATH_GENERATOR:
+    name: '&5Dragon Breath Generator'
+    lore:
+    - ''
+    - '&6Advanced Generator'
+    - '&8⇨ &e⚡ &7256 J Buffer'
+    - '&8⇨ &e⚡ &79 J/t'
+  REACTION_GENERATOR:
+    name: '&2Reaction Generator'
+    lore:
+    - ''
+    - Small nuclear reaction generator
+    - without the need of cooling.
+    - Directly consumes low-energy nuclear fuel,
+    - but the fuel utilization rate is low.
+    - ''
+    - '&6Advanced Generator'
+    - '&8⇨ &e⚡ &7256 J Buffer'
+    - '&8⇨ &e⚡ &78 J/t'

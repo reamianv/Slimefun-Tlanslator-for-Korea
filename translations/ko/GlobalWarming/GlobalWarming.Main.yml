@@ -1,0 +1,41 @@
+name: GlobalWarming
+translations:
+  CINNABARITE:
+    name: '&cCinnabarite'
+  MERCURY:
+    name: '&7Mercury'
+  THERMOMETER:
+    name: '&eThermometer'
+    lore:
+    - ''
+    - '&7Indicates the current temperature'
+    - ''
+    - '&eRight Click &7to switch between'
+    - '&7temperature types'
+  CO2_CANISTER:
+    name: '&7CO2 Canister'
+    lore:
+    - ''
+    - '&8&oCompressed CO2'
+  AIR_COMPRESSOR:
+    name: '&bAir Compressor'
+    lore:
+    - ''
+    - '&aCompresses CO2'
+    - ''
+    - '&6Advanced Machine'
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &716 J/s'
+  EMPTY_CANISTER:
+    name: '&7Empty Canister'
+  AIR_QUALITY_METER:
+    name: '&bAir Quality Meter'
+    lore:
+    - ''
+    - '&7Indicates the current temperature rise'
+    - '&7due to climate change'
+    - ''
+    - '&eRight Click &7to switch between'
+    - '&7temperature types'
+  AIR_COMPRESSOR_FILTER:
+    name: '&7Filter'

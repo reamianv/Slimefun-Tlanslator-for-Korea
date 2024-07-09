@@ -1,0 +1,113 @@
+name: Slimefun
+translations:
+  ENDER_LUMP_2:
+    name: '&5Ender Lump &7- &eII'
+    lore:
+    - ''
+    - '&c&oTier: II'
+  ENDER_LUMP_3:
+    name: '&5Ender Lump &7- &eIII'
+    lore:
+    - ''
+    - '&c&oTier: III'
+  ENDER_LUMP_1:
+    name: '&5Ender Lump &7- &eI'
+    lore:
+    - ''
+    - '&c&oTier: I'
+  STRANGE_NETHER_GOO:
+    name: '&5Strange Nether Goo'
+    lore:
+    - ''
+    - '&fA strange bio matter that'
+    - '&fcan be acquired from'
+    - '&fbartering with Piglins'
+  COMMON_TALISMAN:
+    name: '&6Common Talisman'
+  ESSENCE_OF_AFTERLIFE:
+    name: '&4Essence of Afterlife'
+  ANCIENT_RUNE_SOULBOUND:
+    name: '&7Ancient Rune &8&l[&5&lSoulbound&8&l]'
+    lore:
+    - '&eDrop this rune onto a dropped item to'
+    - '&5bind &ethat item to your soul.'
+    - ' '
+    - '&eIt is advised that you only use this rune'
+    - '&eon &6important &eitems.'
+    - ' '
+    - '&eItems bound to your soul won''t drop on death.'
+  BLANK_RUNE:
+    name: '&8Blank Rune'
+  MAGICAL_BOOK_COVER:
+    name: '&6Magical Book Cover'
+    lore:
+    - ''
+    - '&a&oUsed for various Magic Books'
+  SYNTHETIC_SHULKER_SHELL:
+    name: '&dSynthetic Shulker Shell'
+    lore:
+    - ''
+    - '&fThis item can be used in a'
+    - '&fworkbench like a normal Shulker Shell'
+  BROKEN_SPAWNER:
+    name: '&cBroken Spawner'
+    lore:
+    - '&7Type: &b<Type>'
+    - ''
+    - '&cFractured, must be repaired in an Ancient Altar'
+  MAGIC_LUMP_3:
+    name: '&6Magical Lump &7- &eIII'
+    lore:
+    - ''
+    - '&c&oTier: III'
+  LAVA_CRYSTAL:
+    name: '&4Lava Crystal'
+  ANCIENT_RUNE_ENCHANTMENT:
+    name: '&7Ancient Rune &8&l[&6&lEnchantment&8&l]'
+    lore:
+    - '&eDrop this rune onto a dropped item to'
+    - '&6enchant &ethat item with a random enchantment.'
+  MAGIC_LUMP_2:
+    name: '&6Magical Lump &7- &eII'
+    lore:
+    - ''
+    - '&c&oTier: II'
+  MAGIC_LUMP_1:
+    name: '&6Magical Lump &7- &eI'
+    lore:
+    - ''
+    - '&c&oTier: I'
+  ANCIENT_RUNE_AIR:
+    name: '&7Ancient Rune &8&l[&b&lAir&8&l]'
+  ANCIENT_RUNE_LIGHTNING:
+    name: '&7Ancient Rune &8&l[&e&lLightning&8&l]'
+  ANCIENT_RUNE_FIRE:
+    name: '&7Ancient Rune &8&l[&4&lFire&8&l]'
+  ANCIENT_RUNE_RAINBOW:
+    name: '&7Ancient Rune &8&l[&d&lRainbow&8&l]'
+  NECROTIC_SKULL:
+    name: '&cNecrotic Skull'
+  ANCIENT_RUNE_WATER:
+    name: '&7Ancient Rune &8&l[&1&lWater&8&l]'
+  MAGICAL_GLASS:
+    name: '&6Magical Glass'
+    lore:
+    - ''
+    - '&a&oUsed for various Magical Gadgets'
+  ANCIENT_RUNE_VILLAGERS:
+    name: '&7Ancient Rune &8&l[&4&lVillagers&8&l]'
+    lore:
+    - '&eRight click a villager to clear'
+    - '&etheir current job and trades.'
+    - '&eThe villager will start looking'
+    - '&efor a job again after some'
+    - '&etime has passed.'
+  ANCIENT_RUNE_ENDER:
+    name: '&7Ancient Rune &8&l[&5&lEnder&8&l]'
+  ANCIENT_RUNE_EARTH:
+    name: '&7Ancient Rune &8&l[&c&lEarth&8&l]'
+  RAINBOW_LEATHER:
+    name: '&dRainbow Leather'
+    lore:
+    - ''
+    - '&fCan be used to craft rainbow armor'

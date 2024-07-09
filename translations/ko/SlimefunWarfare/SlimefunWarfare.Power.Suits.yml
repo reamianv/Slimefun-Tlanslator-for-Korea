@@ -1,0 +1,138 @@
+name: SlimefunWarfare
+translations:
+  AQUAMASK:
+    name: '&6AquaMask™'
+    lore:
+    - ''
+    - '&7Effect: &aConduit Power 1'
+    - '&7Install on helmet'
+    - '&eUses 2J'
+  POWER_SUIT_GENERATOR:
+    name: '&6Power Suit Generator'
+    lore:
+    - ''
+    - '&7The central power'
+    - '&7source of any power'
+    - '&7suit'
+  MINI_JETS:
+    name: '&6Mini Jets'
+    lore:
+    - ''
+    - '&7Gives you creative flight'
+    - ''
+    - '&7Install on boots'
+    - '&eUses 8J'
+  POWER_SUIT_HELMET:
+    name: '&4Power Suit Helmet'
+    lore:
+    - ''
+    - '&7A powerful piece of armor'
+    - '&7that is designed to be modified.'
+    - '&8⇨ &e⚡ &75 J/s'
+    - '&8⇨ &e⚡ &70 / 1000 J'
+  LIFE_SUPPORT:
+    name: '&6Life Support Systems'
+    lore:
+    - ''
+    - '&7Effect: &aRegeneration 3'
+    - '&7Install on chestplate'
+    - '&eUses 5J'
+  MINI_PISTONS:
+    name: '&6Mini Pistons'
+    lore:
+    - ''
+    - '&7Effect: &aFast Digging 4'
+    - '&7Install on chestplate'
+    - '&eUses 3J'
+  POWER_SUIT_BOOTS:
+    name: '&4Power Suit Boots'
+    lore:
+    - ''
+    - '&7A powerful piece of armor'
+    - '&7that is designed to be modified.'
+    - '&8⇨ &e⚡ &75 J/s'
+    - '&8⇨ &e⚡ &70 / 1000 J'
+  POWER_SUIT_LEGGINGS:
+    name: '&4Power Suit Leggings'
+    lore:
+    - ''
+    - '&7A powerful piece of armor'
+    - '&7that is designed to be modified.'
+    - '&8⇨ &e⚡ &75 J/s'
+    - '&8⇨ &e⚡ &70 / 1000 J'
+  AUXILIARY_GENERATOR:
+    name: '&6Auxiliary Generator'
+    lore:
+    - ''
+    - '&7Boosts the suit''s energy production'
+    - ''
+    - '&7Install anywhere'
+    - '&eUses 5J'
+  NANOFIBER_CUSHION:
+    name: '&6Nanofober Cushion'
+    lore:
+    - ''
+    - '&7This module keeps you from'
+    - '&7taking fall damage'
+    - ''
+    - '&7Install on boots'
+    - '&eUses 5J'
+  REACTION_WHEELS:
+    name: '&6Reaction Wheels'
+    lore:
+    - ''
+    - '&7This module makes you'
+    - '&7sprint faster'
+    - ''
+    - '&7Install on leggings'
+    - '&eUses 5J'
+  ENERGY_SHIELD:
+    name: '&6Personal Energy Shield'
+    lore:
+    - ''
+    - '&7Effect: &aDamage Resistance 3'
+    - '&7Install on chestplate'
+    - '&eUses 3J'
+  HEAT_SINKS:
+    name: '&6Heat Sinks'
+    lore:
+    - ''
+    - '&7Effect: &aFire Resistance 1'
+    - '&7Install on chestplate'
+    - '&eUses 1J'
+  POWER_SUIT_CHESTPLATE:
+    name: '&4Power Suit Chestplate'
+    lore:
+    - ''
+    - '&7A powerful piece of armor'
+    - '&7that is designed to be modified.'
+    - '&8⇨ &e⚡ &75 J/s'
+    - '&8⇨ &e⚡ &70 / 1000 J'
+  MODULE_CASE:
+    name: '&6Module Case'
+  ELECTRONIC_SPRINGS:
+    name: '&6Electronic Springs'
+    lore:
+    - ''
+    - '&7Effect: &aJump 2'
+    - '&7Install on leggings'
+    - '&eUses 3J'
+  ELEMENT_FORGE:
+    name: '&cElement Forge'
+    lore:
+    - ''
+    - '&7Used to create new elements'
+    - '&cMultiblock Structure'
+  MODULE_MANIPULATOR:
+    name: '&fModule Manipulator'
+    lore:
+    - ''
+    - '&7Allows you to install, uninstall'
+    - '&7and view modules'
+  HYDRAULICS:
+    name: '&6Integrated Hydraulics'
+    lore:
+    - ''
+    - '&7Effect: &aIncrease Damage 2'
+    - '&7Install on chestplate'
+    - '&eUses 3J'

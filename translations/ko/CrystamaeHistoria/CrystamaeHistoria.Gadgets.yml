@@ -1,0 +1,428 @@
+name: CrystamaeHistoria
+translations:
+  CRY_MOB_DIRT_1:
+    name: '&x&8&7&3&2&A&8Cursed Earth'
+    lore:
+    - ''
+    - '&7Dark magics seep from this dirt giving'
+    - '&7a very ominous vibe!'
+    - '&7'
+    - '&x&E&4&E&D&3&2Tick Rate: &720'
+    - '&x&E&4&E&D&3&2Light Level: &77'
+    - '&x&E&4&E&D&3&2Spawns: &7Basic'
+    - ''
+    - '&x&E&4&E&D&3&2Gadget'
+  CRY_MOB_DIRT_2:
+    name: '&x&8&7&3&2&A&8Dreadful Dirt'
+    lore:
+    - ''
+    - '&7Dark magics seep from this dirt giving'
+    - '&7a very ominous vibe!'
+    - '&7'
+    - '&x&E&4&E&D&3&2Tick Rate: &710'
+    - '&x&E&4&E&D&3&2Light Level: &715'
+    - '&x&E&4&E&D&3&2Spawns: &7Advanced'
+    - ''
+    - '&x&E&4&E&D&3&2Gadget'
+  CRY_MOB_DIRT_3:
+    name: '&x&8&7&3&2&A&8Soulfilled Soil'
+    lore:
+    - ''
+    - '&7Dark magics have been purified clean.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Tick Rate: &710'
+    - '&x&E&4&E&D&3&2Light Level: &715'
+    - '&x&E&4&E&D&3&2Spawns: &7Friendly'
+    - ''
+    - '&x&E&4&E&D&3&2Gadget'
+  CRY_MOB_PLATE_TRAP:
+    name: '&x&8&7&3&2&A&8Trap Plate'
+    lore:
+    - ''
+    - '&7This plate no longer deals'
+    - '&7damage but now applies potion'
+    - '&7effects. Right click with'
+    - '&7a potion to assign.'
+    - ''
+    - '&x&E&4&E&D&3&2Gadget'
+  CRY_FRAGMENTED_VOID:
+    name: '&x&8&7&3&2&A&8Fragmented Void'
+    lore:
+    - ''
+    - '&7A portable hole in the universe.'
+    - '&7Will pull any nearby items into it.'
+    - '&7'
+    - '&eRange: &75'
+    - ''
+    - '&x&E&4&E&D&3&2Gadget'
+  CRY_ANGEL_BLOCK:
+    name: '&x&8&7&3&2&A&8Angel Block'
+    lore:
+    - ''
+    - '&7Can be placed anywhere, even in'
+    - '&7the air.'
+    - ''
+    - '&x&E&4&E&D&3&2Gadget'
+  CRY_MYSTERIOUS_CONCRETE:
+    name: '&x&8&7&3&2&A&8Mysterious Concrete'
+    lore:
+    - ''
+    - '&7Like rainbow concrete but far'
+    - '&7more random.'
+    - ''
+    - '&x&E&4&E&D&3&2Gadget'
+  CRY_TROPHY_DISPLAY_1:
+    name: '&x&8&7&3&2&A&8Trophy Display'
+    lore:
+    - ''
+    - '&7Used to place your trophies on to show'
+    - '&7off to the world.'
+    - '&7'
+    - '&7Currently allowable trophies include:'
+    - '&x&E&4&E&D&3&2A block in which you have a S.M.E. rank'
+    - ''
+    - '&x&E&4&E&D&3&2Gadget'
+  CRY_MYSTERIOUS_TERRACOTTA:
+    name: '&x&8&7&3&2&A&8Mysterious Terracotta'
+    lore:
+    - ''
+    - '&7Like rainbow terracotta but far'
+    - '&7more random.'
+    - ''
+    - '&x&E&4&E&D&3&2Gadget'
+  CRY_MOB_LAMP_1:
+    name: '&x&8&7&3&2&A&8Abstraction Lamp'
+    lore:
+    - ''
+    - '&7The abstraction lamp will push all'
+    - '&7nearby mobs away from it.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Range: &75 Blocks'
+    - '&x&E&4&E&D&3&2Force: &73 CrystaPow™'
+    - ''
+    - '&x&E&4&E&D&3&2Gadget'
+  CRY_MOB_LAMP_2:
+    name: '&x&8&7&3&2&A&8Dispersion Lamp'
+    lore:
+    - ''
+    - '&7The dispersion lamp will push all'
+    - '&7nearby mobs away from it.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Range: &77 Blocks'
+    - '&x&E&4&E&D&3&2Force: &75 CrystaPow™'
+    - ''
+    - '&x&E&4&E&D&3&2Gadget'
+  CRY_MYSTERIOUS_PLANT:
+    name: '&x&8&7&3&2&A&8Mysterious Plant'
+    lore:
+    - ''
+    - '&7Removing it from that pot took work.'
+    - ''
+    - '&x&E&4&E&D&3&2Gadget'
+  CRY_MOB_LAMP_3:
+    name: '&x&8&7&3&2&A&8Exodus Lamp'
+    lore:
+    - ''
+    - '&7The exodus lamp will push all'
+    - '&7nearby mobs away from it.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Range: &710 Blocks'
+    - '&x&E&4&E&D&3&2Force: &710 CrystaPow™'
+    - ''
+    - '&x&E&4&E&D&3&2Gadget'
+  CRY_MOB_PLATE_3:
+    name: '&x&8&7&3&2&A&8Eviscerating Plate'
+    lore:
+    - ''
+    - '&7A plate that is magically super-heated.'
+    - '&7Anything standing on this plate gets'
+    - '&7damaged.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Damage: &72'
+    - '&x&E&4&E&D&3&2Player Drops: &7Yes'
+    - ''
+    - '&x&E&4&E&D&3&2Gadget'
+  CRY_MOB_PLATE_4:
+    name: '&x&8&7&3&2&A&8Shredding Plate'
+    lore:
+    - ''
+    - '&7A plate that is just too powerful.'
+    - '&7Anything standing on this plate gets'
+    - '&7damaged.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Damage: &73'
+    - '&x&E&4&E&D&3&2Player Drops: &7Yes'
+    - ''
+    - '&x&E&4&E&D&3&2Gadget'
+  CRY_MOB_PLATE_1:
+    name: '&x&8&7&3&2&A&8Searing Plate'
+    lore:
+    - ''
+    - '&7A plate that is magically super-heated.'
+    - '&7Anything standing on this plate gets'
+    - '&7damaged.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Damage: &71'
+    - '&x&E&4&E&D&3&2Player Drops: &7No'
+    - ''
+    - '&x&E&4&E&D&3&2Gadget'
+  CRY_MYSTERIOUS_WOOL:
+    name: '&x&8&7&3&2&A&8Mysterious Wool'
+    lore:
+    - ''
+    - '&7Like rainbow wool but far'
+    - '&7more random.'
+    - ''
+    - '&x&E&4&E&D&3&2Gadget'
+  CRY_MOB_PLATE_2:
+    name: '&x&8&7&3&2&A&8Doomed Plate'
+    lore:
+    - ''
+    - '&7A plate that is magically super-heated.'
+    - '&7Anything standing on this plate gets'
+    - '&7damaged.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Damage: &71'
+    - '&x&E&4&E&D&3&2Player Drops: &7Yes'
+    - ''
+    - '&x&E&4&E&D&3&2Gadget'
+  CRY_MOB_FAN_3:
+    name: '&x&8&7&3&2&A&8Counterpole Vacuum'
+    lore:
+    - ''
+    - '&7Creates a magically induced vacuum'
+    - '&7that pulls entities away from the'
+    - '&7mechanism.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Push Distance: &715 Blocks'
+    - ''
+    - '&x&E&4&E&D&3&2Gadget'
+  CRY_MYSTERIOUS_GLAZED_TERRACOTTA:
+    name: '&x&8&7&3&2&A&8Mysterious Glazed Terracotta'
+    lore:
+    - ''
+    - '&7Like rainbow terracotta but far'
+    - '&7more random.'
+    - ''
+    - '&x&E&4&E&D&3&2Gadget'
+  CRY_CROP_GLASS_2:
+    name: '&x&8&7&3&2&A&8Focused Greenhouse Glass'
+    lore:
+    - ''
+    - '&7Crops under this glass will grow faster.'
+    - '&7Works during the day in light worlds only.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Rate: &710'
+    - ''
+    - '&x&E&4&E&D&3&2Gadget'
+  CRY_MOB_FAN_2:
+    name: '&x&8&7&3&2&A&8Antipodal Vacuum'
+    lore:
+    - ''
+    - '&7Creates a magically induced vacuum'
+    - '&7that pulls entities away from the'
+    - '&7mechanism.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Push Distance: &710 Blocks'
+    - ''
+    - '&x&E&4&E&D&3&2Gadget'
+  CRY_CROP_GLASS_1:
+    name: '&x&8&7&3&2&A&8Greenhouse Glass'
+    lore:
+    - ''
+    - '&7Crops under this glass will grow faster.'
+    - '&7Works during the day in light worlds only.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Rate: &75'
+    - ''
+    - '&x&E&4&E&D&3&2Gadget'
+  CRY_MOB_FAN_1:
+    name: '&x&8&7&3&2&A&8Inversion Vacuum'
+    lore:
+    - ''
+    - '&7Creates a magically induced vacuum'
+    - '&7that pulls entities away from the'
+    - '&7mechanism.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Push Distance: &75 Blocks'
+    - ''
+    - '&x&E&4&E&D&3&2Gadget'
+  CRY_CROP_GLASS_3:
+    name: '&x&8&7&3&2&A&8Magnifying Greenhouse Glass'
+    lore:
+    - ''
+    - '&7Crops under this glass will grow faster.'
+    - '&7Works during the day in light worlds only.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Rate: &720'
+    - ''
+    - '&x&E&4&E&D&3&2Gadget'
+  CRY_WAYSTONE:
+    name: '&x&8&7&3&2&A&8Diverging Waystone'
+    lore:
+    - ''
+    - '&7Can be used as a marker to recall'
+    - '&7back to.'
+    - ''
+    - '&x&E&4&E&D&3&2Gadget'
+  CRY_MOB_CANDLE_3:
+    name: '&x&8&7&3&2&A&8Scintillating Verache Candle'
+    lore:
+    - ''
+    - '&7This candle stops mobs spawning'
+    - '&7in a radius around it.'
+    - '&7Doesn''t last forever.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Range: &764'
+    - '&x&E&4&E&D&3&2Duration: &748 Hours (real time)'
+    - ''
+    - '&x&E&4&E&D&3&2Gadget'
+  CRY_MOB_CANDLE_2:
+    name: '&x&8&7&3&2&A&8Bright Verache Candle'
+    lore:
+    - ''
+    - '&7This candle stops mobs spawning'
+    - '&7in a radius around it.'
+    - '&7Doesn''t last forever.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Range: &732'
+    - '&x&E&4&E&D&3&2Duration: &724 hours (real time)'
+    - ''
+    - '&x&E&4&E&D&3&2Gadget'
+  CRY_MYSTERIOUS_GLASS:
+    name: '&x&8&7&3&2&A&8Mysterious Glass'
+    lore:
+    - ''
+    - '&7Like rainbow glass but far'
+    - '&7more random.'
+    - ''
+    - '&x&E&4&E&D&3&2Gadget'
+  CRY_MOB_CANDLE_4:
+    name: '&x&8&7&3&2&A&8Coruscating Verache Candle'
+    lore:
+    - ''
+    - '&7This candle stops mobs spawning'
+    - '&7in a radius around it.'
+    - '&7Doesn''t last forever.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Range: &764'
+    - '&x&E&4&E&D&3&2Duration: &72 Weeks (real time)'
+    - ''
+    - '&x&E&4&E&D&3&2Gadget'
+  CRY_MOB_CANDLE_1:
+    name: '&x&8&7&3&2&A&8Dim Verache Candle'
+    lore:
+    - ''
+    - '&7This candle stops mobs spawning'
+    - '&7in a radius around it.'
+    - '&7Doesn''t last forever.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Range: &716'
+    - '&x&E&4&E&D&3&2Duration: &72 hour (real time)'
+    - ''
+    - '&x&E&4&E&D&3&2Gadget'
+  CRY_SHATTERED_VOID:
+    name: '&x&8&7&3&2&A&8Shattered Void'
+    lore:
+    - ''
+    - '&7A portable hole in the universe.'
+    - '&7Will pull any nearby items into it.'
+    - '&7'
+    - '&eRange: &77'
+    - ''
+    - '&x&E&4&E&D&3&2Gadget'
+  CRY_MYSTERIOUS_POTTED_PLANT:
+    name: '&x&8&7&3&2&A&8Mysterious Potted Plant'
+    lore:
+    - ''
+    - '&7Just a pinch of magic can make'
+    - '&7wonderful things happen...'
+    - ''
+    - '&x&E&4&E&D&3&2Gadget'
+  CRY_EXALTATION_STAND:
+    name: '&x&8&7&3&2&A&8Exaltation Stand'
+    lore:
+    - ''
+    - '&7Used to place ''Exalted'' items on.'
+    - '&7These items require special conditions'
+    - '&7and impart powerful effects while nearby.'
+    - ''
+    - '&x&E&4&E&D&3&2Gadget'
+  CRY_ENDER_INHIBITOR_1:
+    name: '&x&8&7&3&2&A&8Basic Ender Inhibitor'
+    lore:
+    - ''
+    - '&7By using an Enderman''s own resonance'
+    - '&7against it, we can stop theme teleporting'
+    - '&7for a brief time.'
+    - '&7Duration is extended if still in range.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Range: &74'
+    - '&x&E&4&E&D&3&2Duration: &72 seconds'
+    - ''
+    - '&x&E&4&E&D&3&2Gadget'
+  CRY_ENDER_INHIBITOR_2:
+    name: '&x&8&7&3&2&A&8Advanced Ender Inhibitor'
+    lore:
+    - ''
+    - '&7By using an Enderman''s own resonance'
+    - '&7against it, we can stop theme teleporting'
+    - '&7for a brief time.'
+    - '&7Duration is extended if still in range.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Range: &78'
+    - '&x&E&4&E&D&3&2Duration: &72 seconds'
+    - ''
+    - '&x&E&4&E&D&3&2Gadget'
+  CRY_EXP_COLLECTOR_3:
+    name: '&x&8&7&3&2&A&8Arcane Exp Collector'
+    lore:
+    - ''
+    - '&7Magic sigils allow for even'
+    - '&7more storage.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Range: &78'
+    - '&x&E&4&E&D&3&2Capacity: &7999999'
+    - ''
+    - '&x&E&4&E&D&3&2Gadget'
+  CRY_GLASS_OF_MILK:
+    name: '&x&8&7&3&2&A&8Glass of Milk'
+    lore:
+    - ''
+    - '&7Right click, when placed, to remove'
+    - '&7all active effects.'
+    - '&7'
+    - '&eCan''t be recovered when broken.'
+    - ''
+    - '&x&E&4&E&D&3&2Gadget'
+  CRY_EXP_COLLECTOR_2:
+    name: '&x&8&7&3&2&A&8Infused Exp Collector'
+    lore:
+    - ''
+    - '&7Further infusion has made the'
+    - '&7collector even more powerful.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Range: &78'
+    - '&x&E&4&E&D&3&2Capacity: &710000'
+    - ''
+    - '&x&E&4&E&D&3&2Gadget'
+  CRY_EXP_COLLECTOR_1:
+    name: '&x&8&7&3&2&A&8Basic Exp Collector'
+    lore:
+    - ''
+    - '&7Infusing the Exp Collector with'
+    - '&7magic now allows it to work'
+    - '&7without electricity and flasks.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Range: &74'
+    - '&x&E&4&E&D&3&2Capacity: &72500'
+    - ''
+    - '&x&E&4&E&D&3&2Gadget'
+  CRY_PHILOSOPHERS_SPRAY:
+    name: '&x&8&7&3&2&A&8Philosophers Spray'
+    lore:
+    - ''
+    - '&7Will ''displace'' the block above'
+    - '&7this one when triggered with Redstone.'
+    - ''
+    - '&x&E&4&E&D&3&2Gadget'

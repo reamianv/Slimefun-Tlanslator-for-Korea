@@ -1,0 +1,246 @@
+name: SlimeTinker
+translations:
+  CAST_PICKAXEHEAD:
+    name: '&x&F&F&E&1&3&8Cast: Pickaxe Head'
+    lore:
+    - ''
+    - '&7A cast for metals.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Input : &f27 Units'
+    - '&x&E&4&E&D&3&2Output : &f1 Pickaxe Head'
+    - ''
+    - '&x&F&0&E&A&4&FCast'
+  CAST_SWORDBLADE:
+    name: '&x&F&F&E&1&3&8Cast: Sword Blade'
+    lore:
+    - ''
+    - '&7A cast for metals.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Input : &f18 Units'
+    - '&x&E&4&E&D&3&2Output : &f1 Sword Blade'
+    - ''
+    - '&x&F&0&E&A&4&FCast'
+  CAST_CHEST_PLATE:
+    name: '&x&F&F&E&1&3&8Cast: Chestplate Plates'
+    lore:
+    - ''
+    - '&7A cast for metals.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Input : &f72 Units'
+    - '&x&E&4&E&D&3&2Output : &f1 Set of Chestplate plates'
+    - ''
+    - '&x&F&0&E&A&4&FCast'
+  CAST_INGOT:
+    name: '&x&F&F&E&1&3&8Cast: Metal Ingot'
+    lore:
+    - ''
+    - '&7A cast for metals.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Input : &f9 Units'
+    - '&x&E&4&E&D&3&2Output : &f1 Ingot'
+    - ''
+    - '&x&F&0&E&A&4&FCast'
+  DIE_TOOL_ROD:
+    name: '&x&F&F&E&1&3&8Die: Tool Rod'
+    lore:
+    - ''
+    - '&7A die to create a cast from'
+    - ''
+    - '&x&F&0&E&A&4&FCast'
+  CAST_HELM_PLATE:
+    name: '&x&F&F&E&1&3&8Cast: Helmet Plates'
+    lore:
+    - ''
+    - '&7A cast for metals.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Input : &f45 Units'
+    - '&x&E&4&E&D&3&2Output : &f1 Set of Helmet Plates'
+    - ''
+    - '&x&F&0&E&A&4&FCast'
+  DIE_SWORD_BLADE:
+    name: '&x&F&F&E&1&3&8Die: Stone Sword Head'
+    lore:
+    - ''
+    - '&7A die to create a cast from'
+    - ''
+    - '&x&F&0&E&A&4&FCast'
+  DIE_REPAIR_KIT:
+    name: '&x&F&F&E&1&3&8Die: Repair Kit'
+    lore:
+    - ''
+    - '&7A die to create a cast from'
+    - ''
+    - '&x&F&0&E&A&4&FCast'
+  CAST_SHOVELHEAD:
+    name: '&x&F&F&E&1&3&8Cast: Shovel Head'
+    lore:
+    - ''
+    - '&7A cast for metals.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Input : &f9 Units'
+    - '&x&E&4&E&D&3&2Output : &f1 Shovel Head'
+    - ''
+    - '&x&F&0&E&A&4&FCast'
+  CAST_REPAIRKIT:
+    name: '&x&F&F&E&1&3&8Cast: Repair Kit'
+    lore:
+    - ''
+    - '&7A cast for metals.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Input : &f27 Units'
+    - '&x&E&4&E&D&3&2Output : &f1 Repair Kit'
+    - ''
+    - '&x&F&0&E&A&4&FCast'
+  DIE_PICKAXE_HEAD:
+    name: '&x&F&F&E&1&3&8Die: Stone Pickaxe Head'
+    lore:
+    - ''
+    - '&7A die to create a cast from'
+    - ''
+    - '&x&F&0&E&A&4&FCast'
+  DIE_AXE_HEAD:
+    name: '&x&F&F&E&1&3&8Die: Stone Axe Head'
+    lore:
+    - ''
+    - '&7A die to create a cast from'
+    - ''
+    - '&x&F&0&E&A&4&FCast'
+  DIE_HELM_PLATE:
+    name: '&x&F&F&E&1&3&8Die: Stone Helmet Plates'
+    lore:
+    - ''
+    - '&7A die to create a cast from'
+    - ''
+    - '&x&F&0&E&A&4&FCast'
+  DIE_CHEST_PLATE:
+    name: '&x&F&F&E&1&3&8Die: Stone Chest Plates'
+    lore:
+    - ''
+    - '&7A die to create a cast from'
+    - ''
+    - '&x&F&0&E&A&4&FCast'
+  DIE_LEG_PLATE:
+    name: '&x&F&F&E&1&3&8Die: Stone Leg Plates'
+    lore:
+    - ''
+    - '&7A die to create a cast from'
+    - ''
+    - '&x&F&0&E&A&4&FCast'
+  CAST_LEG_PLATE:
+    name: '&x&F&F&E&1&3&8Cast: Legging Plates'
+    lore:
+    - ''
+    - '&7A cast for metals.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Input : &f63 Units'
+    - '&x&E&4&E&D&3&2Output : &f1 Set of Legging Plates'
+    - ''
+    - '&x&F&0&E&A&4&FCast'
+  CAST_HOEHEAD:
+    name: '&x&F&F&E&1&3&8Cast: Hoe Head'
+    lore:
+    - ''
+    - '&7A cast for metals.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Input : &f18 Units'
+    - '&x&E&4&E&D&3&2Output : &f1 Hoe Head'
+    - ''
+    - '&x&F&0&E&A&4&FCast'
+  CAST_AXE_HEAD:
+    name: '&x&F&F&E&1&3&8Cast: Axe Head'
+    lore:
+    - ''
+    - '&7A cast for metals.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Input : &f27 Units'
+    - '&x&E&4&E&D&3&2Output : &f1 Axe Head'
+    - ''
+    - '&x&F&0&E&A&4&FCast'
+  CAST_BLOCK:
+    name: '&x&F&F&E&1&3&8Cast: Metal Block'
+    lore:
+    - ''
+    - '&7A cast for metals.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Input : &f81 Units'
+    - '&x&E&4&E&D&3&2Output : &f1 Block'
+    - ''
+    - '&x&F&0&E&A&4&FCast'
+  DIE_BOOT_PLATE:
+    name: '&x&F&F&E&1&3&8Die: Stone Boot Plates'
+    lore:
+    - ''
+    - '&7A die to create a cast from'
+    - ''
+    - '&x&F&0&E&A&4&FCast'
+  CAST_MAIL_LINK:
+    name: '&x&F&F&E&1&3&8Cast: Mail Links'
+    lore:
+    - ''
+    - '&7A cast for metals.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Input : &f18 Units'
+    - '&x&E&4&E&D&3&2Output : &f1 set of Mail Links'
+    - ''
+    - '&x&F&0&E&A&4&FCast'
+  DIE_MAIL_LINK:
+    name: '&x&F&F&E&1&3&8Die: Mail Links'
+    lore:
+    - ''
+    - '&7A die to create a cast from'
+    - ''
+    - '&x&F&0&E&A&4&FCast'
+  DIE_SHOVEL_HEAD:
+    name: '&x&F&F&E&1&3&8Die: Stone Shovel Head'
+    lore:
+    - ''
+    - '&7A die to create a cast from'
+    - ''
+    - '&x&F&0&E&A&4&FCast'
+  DIE_HOE_HEAD:
+    name: '&x&F&F&E&1&3&8Die: Stone Hoe Head'
+    lore:
+    - ''
+    - '&7A die to create a cast from'
+    - ''
+    - '&x&F&0&E&A&4&FCast'
+  CAST_BOOT_PLATE:
+    name: '&x&F&F&E&1&3&8Cast: Boot Plates'
+    lore:
+    - ''
+    - '&7A cast for metals.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Input : &f36 Units'
+    - '&x&E&4&E&D&3&2Output : &f1 Set of Boot Plates'
+    - ''
+    - '&x&F&0&E&A&4&FCast'
+  CAST_TOOLROD:
+    name: '&x&F&F&E&1&3&8Cast: Tool Rod'
+    lore:
+    - ''
+    - '&7A cast for metals.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Input : &f9 Units'
+    - '&x&E&4&E&D&3&2Output : &f1 Tool Rod'
+    - ''
+    - '&x&F&0&E&A&4&FCast'
+  CAST_NUGGET:
+    name: '&x&F&F&E&1&3&8Cast: Metal Nugget'
+    lore:
+    - ''
+    - '&7A cast for metals.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Input : &f1 Units'
+    - '&x&E&4&E&D&3&2Output : &f1 Nugget'
+    - ''
+    - '&x&F&0&E&A&4&FCast'
+  CAST_GEM:
+    name: '&x&F&F&E&1&3&8Cast: Gem'
+    lore:
+    - ''
+    - '&7A cast for non-metallic liquids.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Input : &f9 Units'
+    - '&x&E&4&E&D&3&2Output : &f1 Gem'
+    - ''
+    - '&x&F&0&E&A&4&FCast'

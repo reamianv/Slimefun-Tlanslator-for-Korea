@@ -1,0 +1,122 @@
+name: FNAmplifications
+translations:
+  FN_POWER_XPANSION_POWER_R3:
+    name: '&d&lFN Power Xpansion R3'
+    lore:
+    - '&9This works at Night!'
+    - '&9Place and right click'
+    - '&9the block for power info'
+    - ''
+    - '&8⇨ &e⚡ &7300000 J Buffer'
+    - '&8⇨ &e⚡ &7944 J/t (Day Rate)'
+    - '&8⇨ &e⚡ &7552 J/t (Night Rate)'
+  FN_POWER_XPANSION_POWER_R2:
+    name: '&d&lFN Power Xpansion R2'
+    lore:
+    - '&9This works at Night!'
+    - '&9Place and right click'
+    - '&9the block for power info'
+    - ''
+    - '&8⇨ &e⚡ &7200000 J Buffer'
+    - '&8⇨ &e⚡ &7472 J/t (Day Rate)'
+    - '&8⇨ &e⚡ &7276 J/t (Night Rate)'
+  FN_POWER_XPANSION_POWER_R1:
+    name: '&d&lFN Power Xpansion R1'
+    lore:
+    - '&9This works at Night!'
+    - '&9Place and right click'
+    - '&9the block for power info'
+    - ''
+    - '&8⇨ &e⚡ &7100000 J Buffer'
+    - '&8⇨ &e⚡ &7236 J/t (Day Rate)'
+    - '&8⇨ &e⚡ &7138 J/t (Night Rate)'
+  FN_POWER_XPANSION_POWER_R9:
+    name: '&d&lFN Power Xpansion R9'
+    lore:
+    - '&9This works at Night!'
+    - '&9Place and right click'
+    - '&9the block for power info'
+    - ''
+    - '&8⇨ &e⚡ &7900000 J Buffer'
+    - '&8⇨ &e⚡ &711,384 J/t (Day Rate)'
+    - '&8⇨ &e⚡ &77,431 J/t (Night Rate)'
+  FN_POWER_XPANSION_POWER_R8:
+    name: '&d&lFN Power Xpansion R8'
+    lore:
+    - '&9This works at Night!'
+    - '&9Place and right click'
+    - '&9the block for power info'
+    - ''
+    - '&8⇨ &e⚡ &7800000 J Buffer'
+    - '&8⇨ &e⚡ &79,420 J/t (Day Rate)'
+    - '&8⇨ &e⚡ &76,752 J/t (Night Rate)'
+  FN_POWER_XPANSION_POWER_R10:
+    name: '&d&lFN Power Xpansion R10'
+    lore:
+    - '&9This works at Night!'
+    - '&9Place and right click'
+    - '&9the block for power info'
+    - ''
+    - '&8⇨ &e⚡ &71000000 J Buffer'
+    - '&8⇨ &e⚡ &713,692 J/t (Day Rate)'
+    - '&8⇨ &e⚡ &78,128 J/t (Night Rate)'
+  FN_POWER_XPANSION_POWER_R7:
+    name: '&d&lFN Power Xpansion R7'
+    lore:
+    - '&9This works at Night!'
+    - '&9Place and right click'
+    - '&9the block for power info'
+    - ''
+    - '&8⇨ &e⚡ &7700000 J Buffer'
+    - '&8⇨ &e⚡ &77,128 J/t (Day Rate)'
+    - '&8⇨ &e⚡ &75,142 J/t (Night Rate)'
+  FN_POWER_XPANSION_POWER_R11:
+    name: '&d&lFN Power Xpansion R11'
+    lore:
+    - '&9This works at Night!'
+    - '&9Place and right click'
+    - '&9the block for power info'
+    - ''
+    - '&8⇨ &e⚡ &71500000 J Buffer'
+    - '&8⇨ &e⚡ &715,984 J/t (Day Rate)'
+    - '&8⇨ &e⚡ &79,462 J/t (Night Rate)'
+  FN_POWER_XPANSION_POWER_R6:
+    name: '&d&lFN Power Xpansion R6'
+    lore:
+    - '&9This works at Night!'
+    - '&9Place and right click'
+    - '&9the block for power info'
+    - ''
+    - '&8⇨ &e⚡ &7600000 J Buffer'
+    - '&8⇨ &e⚡ &75,224 J/t (Day Rate)'
+    - '&8⇨ &e⚡ &73,128 J/t (Night Rate)'
+  FN_POWER_XPANSION_POWER_R12:
+    name: '&d&lFN Power Xpansion R12'
+    lore:
+    - '&9This works at Night!'
+    - '&9Place and right click'
+    - '&9the block for power info'
+    - ''
+    - '&8⇨ &e⚡ &72000000 J Buffer'
+    - '&8⇨ &e⚡ &717,421 J/t (Day Rate)'
+    - '&8⇨ &e⚡ &710,128 J/t (Night Rate)'
+  FN_POWER_XPANSION_POWER_R5:
+    name: '&d&lFN Power Xpansion R5'
+    lore:
+    - '&9This works at Night!'
+    - '&9Place and right click'
+    - '&9the block for power info'
+    - ''
+    - '&8⇨ &e⚡ &7500000 J Buffer'
+    - '&8⇨ &e⚡ &73,064 J/t (Day Rate)'
+    - '&8⇨ &e⚡ &71,784 J/t (Night Rate)'
+  FN_POWER_XPANSION_POWER_R4:
+    name: '&d&lFN Power Xpansion R4'
+    lore:
+    - '&9This works at Night!'
+    - '&9Place and right click'
+    - '&9the block for power info'
+    - ''
+    - '&8⇨ &e⚡ &7400000 J Buffer'
+    - '&8⇨ &e⚡ &71,888 J/t (Day Rate)'
+    - '&8⇨ &e⚡ &71,104 J/t (Night Rate)'

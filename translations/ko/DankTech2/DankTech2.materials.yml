@@ -1,0 +1,83 @@
+name: DankTech2
+translations:
+  DK2_CELL_7:
+    name: '&x&D&B&C&E&A&9Dank Cell - Tier 7'
+    lore:
+    - ''
+    - '&7A Dank Cell serves to provide a way'
+    - '&7to make the inside bigger than the'
+    - '&7outside.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  DK2_CELL_8:
+    name: '&x&D&B&C&E&A&9Dank Cell - Tier 8'
+    lore:
+    - ''
+    - '&7A Dank Cell serves to provide a way'
+    - '&7to make the inside bigger than the'
+    - '&7outside.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  DK2_CELL_5:
+    name: '&x&D&B&C&E&A&9Dank Cell - Tier 5'
+    lore:
+    - ''
+    - '&7A Dank Cell serves to provide a way'
+    - '&7to make the inside bigger than the'
+    - '&7outside.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  DK2_CELL_6:
+    name: '&x&D&B&C&E&A&9Dank Cell - Tier 6'
+    lore:
+    - ''
+    - '&7A Dank Cell serves to provide a way'
+    - '&7to make the inside bigger than the'
+    - '&7outside.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  DK2_CELL_3:
+    name: '&x&D&B&C&E&A&9Dank Cell - Tier 3'
+    lore:
+    - ''
+    - '&7A Dank Cell serves to provide a way'
+    - '&7to make the inside bigger than the'
+    - '&7outside.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  DK2_CELL_4:
+    name: '&x&D&B&C&E&A&9Dank Cell - Tier 4'
+    lore:
+    - ''
+    - '&7A Dank Cell serves to provide a way'
+    - '&7to make the inside bigger than the'
+    - '&7outside.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  DK2_CELL_1:
+    name: '&x&D&B&C&E&A&9Dank Cell - Tier 1'
+    lore:
+    - ''
+    - '&7A Dank Cell serves to provide a way'
+    - '&7to make the inside bigger than the'
+    - '&7outside.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  DK2_CELL_2:
+    name: '&x&D&B&C&E&A&9Dank Cell - Tier 2'
+    lore:
+    - ''
+    - '&7A Dank Cell serves to provide a way'
+    - '&7to make the inside bigger than the'
+    - '&7outside.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  DK2_CELL_9:
+    name: '&x&D&B&C&E&A&9Dank Cell - Tier ★'
+    lore:
+    - ''
+    - '&7A Dank Cell serves to provide a way'
+    - '&7to make the inside bigger than the'
+    - '&7outside.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'

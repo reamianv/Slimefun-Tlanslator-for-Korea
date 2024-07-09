@@ -1,0 +1,65 @@
+name: Slimefun
+translations:
+  BATTERY:
+    name: '&6Battery'
+  HARDENED_GLASS:
+    name: '&7Hardened Glass'
+    lore:
+    - ''
+    - '&fWithstands Explosions'
+  POWER_CRYSTAL:
+    name: '&c&lPower Crystal'
+  WITHER_PROOF_OBSIDIAN:
+    name: '&5Wither-Proof Obsidian'
+    lore:
+    - ''
+    - '&fWithstands Explosions'
+    - '&fWithstands Wither Bosses'
+  SOLAR_PANEL:
+    name: '&9Photovoltaic Cell'
+    lore:
+    - ''
+    - '&7Important component for'
+    - '&7crafting a &bSolar Generator'
+  ELECTRO_MAGNET:
+    name: '&cElectromagnet'
+  REINFORCED_CLOTH:
+    name: '&bReinforced Cloth'
+    lore:
+    - ''
+    - '&fThis cloth has been reinforced'
+    - '&fwith &bLead &fto protect against'
+    - '&fradioactive substances'
+  PLASTIC_SHEET:
+    name: '&fPlastic Sheet'
+  WITHER_PROOF_GLASS:
+    name: '&5Wither-Proof Glass'
+    lore:
+    - ''
+    - '&fWithstands Explosions'
+    - '&fWithstands Wither Bosses'
+  HEATING_COIL:
+    name: '&cHeating Coil'
+  COPPER_WIRE:
+    name: '&6Copper Wire'
+    lore:
+    - ''
+    - '&6Crucial component in electric modules'
+  MAGNET:
+    name: '&cMagnet'
+  ANDROID_MEMORY_CORE:
+    name: '&bAndroid Memory Core'
+  REACTOR_COLLANT_CELL:
+    name: '&bReactor Coolant Cell'
+  NETHER_ICE_COOLANT_CELL:
+    name: '&6Nether Ice Coolant Cell'
+  ELECTRIC_MOTOR:
+    name: '&cElectric Motor'
+  BASIC_CIRCUIT_BOARD:
+    name: '&bBasic Circuit Board'
+  COOLING_UNIT:
+    name: '&bCooling Unit'
+  ADVANCED_CIRCUIT_BOARD:
+    name: '&bAdvanced Circuit Board'
+  STEEL_THRUSTER:
+    name: '&7&lSteel Thruster'

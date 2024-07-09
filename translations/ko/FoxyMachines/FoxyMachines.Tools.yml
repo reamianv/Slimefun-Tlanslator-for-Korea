@@ -1,0 +1,99 @@
+name: FoxyMachines
+translations:
+  ELECTRIC_FIRE_STAFF_II:
+    name: '&4Electric Fire Staff &7- &eII'
+    lore:
+    - ''
+    - '&7Fire, fire, fire!'
+    - ''
+    - '&8⇨ &e⚡ &70 / 200 J'
+  REMOTE_CONTROLLER:
+    name: '&cRemote Controller'
+    lore:
+    - ''
+    - '&7Allows you to control your Forcefield Dome from distance-'
+    - '&7Bind it using Shift + Right Click.'
+    - ''
+    - '&8⇨ &e⚡ &70 / 1000 J'
+  FILL_WAND:
+    name: '&eFill Wand'
+    lore:
+    - ''
+    - '&7Select corner points with Position Selector.'
+    - '&7Shift right click to select material.'
+    - '&7Right click to fill an area.'
+    - ''
+    - '&7Material: &eNone'
+    - '&8⇨ &e⚡ &70 / 1000 J'
+  ELECTRIC_FIRE_STAFF:
+    name: '&4Electric Fire Staff'
+    lore:
+    - ''
+    - '&7Create inferno.'
+    - ''
+    - '&8⇨ &e⚡ &70 / 100 J'
+  SPONGE_WAND:
+    name: '&eSponge Wand'
+    lore:
+    - ''
+    - '&7Select corner points with Position Selector.'
+    - '&7Right click to remove Water and Lava.'
+    - ''
+    - '&8⇨ &e⚡ &70 / 2000 J'
+  BOOSTED_ACTIVATOR_RAIL:
+    name: '&fBoosted Activator Rail'
+    lore:
+    - ''
+    - '&7Supports 2.5x the speed.'
+  ELECTRIC_WIND_STAFF:
+    name: '&bElectric Wind Staff'
+    lore:
+    - ''
+    - '&7Ride on the wind.'
+    - ''
+    - '&8⇨ &e⚡ &70 / 100 J'
+  BOOSTED_POWERED_RAIL:
+    name: '&fBoosted Powered Rail'
+    lore:
+    - ''
+    - '&7Supports 2.5x the speed.'
+  POSITION_SELECTOR:
+    name: '&ePosition Selector'
+    lore:
+    - ''
+    - '&7Left click a block to select primary position.'
+    - '&7Right click a block to select secondary position.'
+    - ''
+    - '&8⇨ &e⚡ &70 / 200 J'
+  UNBREAKABLE_RUNE:
+    name: '&7Ancient Rune &8&l[&2&lUnbreakable&8&l]'
+    lore:
+    - ''
+    - '&eDrop this rune onto a dropped item to'
+    - '&emake it &2unbreakable'
+  GHOST_BLOCK_REMOVER:
+    name: '&eGhost Block Remover'
+    lore:
+    - ''
+    - '&7Right click to remove a Ghost Block.'
+  BERRY_BUSH_TRIMMER:
+    name: '&eSweet Berry Bush Trimmer'
+    lore:
+    - ''
+    - '&7Removes thorns from sweet berry bushes.'
+  POSEIDONS_FISHING_ROD:
+    name: '&bPoseidon''s Fishing Rod'
+    lore:
+    - '&7Poseidon''s Blessing'
+    - ''
+    - '&7Can catch special items.'
+  BOOSTED_RAIL:
+    name: '&fBoosted Rail'
+    lore:
+    - ''
+    - '&7Supports 2.5x the speed.'
+  BOOSTED_DETECTOR_RAIL:
+    name: '&fBoosted Detector Rail'
+    lore:
+    - ''
+    - '&7Supports 2.5x the speed.'

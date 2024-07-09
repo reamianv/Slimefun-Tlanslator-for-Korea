@@ -1,0 +1,127 @@
+name: FluffyMachines
+translations:
+  ADVANCED_CHARGING_BENCH:
+    name: '&cAdvanced Charging Bench'
+    lore:
+    - ''
+    - '&7Charges items'
+    - '&7Can be upgraded using an &6ACB Upgrade Card'
+  AUTO_MAGIC_WORKBENCH:
+    name: '&6Auto Magic Workbench'
+    lore:
+    - ''
+    - '&7Automatically crafts &6Magic Workbench &7recipes'
+    - ''
+    - '&8⇨ &e⚡ &7384 J Buffer'
+    - '&8⇨ &e⚡ &7128 J/t'
+  SMART_FACTORY:
+    name: '&cSmart Factory'
+    lore:
+    - ''
+    - '&7An all-in-one machine that crafts'
+    - '&7resources from raw materials'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &b⚡ &7Speed: &b1.0x'
+    - '&8⇨ &e⚡ &73,072 J Buffer'
+    - '&8⇨ &e⚡ &71,024 J/t'
+  AUTO_ENHANCED_CRAFTING_TABLE:
+    name: '&eAuto Enhanced Crafting Table'
+    lore:
+    - ''
+    - '&7Automatically crafts &eEnhanced Crafting Table &7recipes'
+    - ''
+    - '&8⇨ &e⚡ &7384 J Buffer'
+    - '&8⇨ &e⚡ &7128 J/t'
+  AUTO_ANCIENT_ALTAR:
+    name: '&5Auto Ancient Altar'
+    lore:
+    - ''
+    - '&7Automatically crafts &5Ancient Altar &7recipes'
+    - ''
+    - '&8⇨ &e⚡ &7384 J Buffer'
+    - '&8⇨ &e⚡ &7128 J/t'
+  ADVANCED_AUTO_DISENCHANTER:
+    name: '&cAdvanced Auto Disenchanter'
+    lore:
+    - ''
+    - '&7Removes one enchant from an item'
+    - '&7Requires an &6Ancient Book &7to operate'
+    - ''
+    - '&8⇨ &e⚡ &74,096 J Buffer'
+    - '&8⇨ &e⚡ &71,024 J/t'
+  ELECTRIC_DUST_FABRICATOR:
+    name: '&6Electric Dust Fabricator'
+    lore:
+    - ''
+    - '&7An all-in-one machine that grinds, pans, and washes'
+    - '&4End-Game Machine'
+    - '&8⇨ &b⚡ &7Speed: &b10.0x'
+    - '&8⇨ &e⚡ &7768 J Buffer'
+    - '&8⇨ &e⚡ &7256 J/t'
+  WATER_SPRINKLER:
+    name: '&bWater Sprinkler'
+    lore:
+    - ''
+    - '&7Sprinkly sprinkly'
+    - ''
+    - '&8⇨ &e⚡ &7128 J Buffer'
+    - '&8⇨ &e⚡ &716 J/t per crop'
+  ELECTRIC_DUST_RECYCLER:
+    name: '&fElectric Dust Recycler'
+    lore:
+    - ''
+    - '&7Recycles dust back into sifted ore'
+    - '&4End-Game Machine'
+    - '&8⇨ &b⚡ &7Speed: &b1.0x'
+    - '&8⇨ &e⚡ &796 J Buffer'
+    - '&8⇨ &e⚡ &732 J/t'
+  AUTO_CRAFTING_TABLE:
+    name: '&6Auto Crafting Table'
+    lore:
+    - ''
+    - '&7Automatically crafts &fvanilla &7recipes'
+    - ''
+    - '&8⇨ &e⚡ &7384 J Buffer'
+    - '&8⇨ &e⚡ &7128 J/t'
+  BACKPACK_UNLOADER:
+    name: '&eBackpack Unloader'
+    lore:
+    - ''
+    - '&7Empties the contents of backpacks'
+    - ''
+    - '&8⇨ &e⚡ &748 J Buffer'
+    - '&8⇨ &e⚡ &716 J/t'
+  AUTO_TABLE_SAW:
+    name: '&6Auto Table Saw'
+    lore:
+    - ''
+    - '&7Automatically crafts &6Table Saw &7recipes'
+    - ''
+    - '&8⇨ &e⚡ &7384 J Buffer'
+    - '&8⇨ &e⚡ &7128 J/t'
+  BACKPACK_LOADER:
+    name: '&eBackpack Loader'
+    lore:
+    - ''
+    - '&7Moves items from inventory to backpack'
+    - ''
+    - '&8⇨ &e⚡ &748 J Buffer'
+    - '&8⇨ &e⚡ &716 J/t'
+  AUTO_ARMOR_FORGE:
+    name: '&7Auto Armor Forge'
+    lore:
+    - ''
+    - '&7Automatically crafts Armor Forge recipes'
+    - ''
+    - '&8⇨ &e⚡ &7384 J Buffer'
+    - '&8⇨ &e⚡ &7128 J/t'
+  ACB_UPGRADE_CARD:
+    name: '&6ACB Upgrade Card'
+    lore:
+    - ''
+    - '&eRight Click &7onto an &cAdvanced Charging Bench'
+    - ''
+    - '&6Charge Speed &a+5J'
+    - '&6Capacity &a+128J'
+    - '&6Energy Consumption &c+10J'

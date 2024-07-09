@@ -1,0 +1,49 @@
+name: AdvancedTech
+translations:
+  FIRE_CAKE:
+    name: '&aFire Cake'
+    lore:
+    - Be Careful...
+    - '&a☢&7 Radiation level: &6HIGH'
+  HANDHELD_DIGGER_3:
+    name: '&dCarbonado Handheld Power Digger'
+    lore:
+    - '&cAllows you to mine a 7 x 7 Area.'
+  HANDHELD_DIGGER_2:
+    name: '&eAdvanced Handheld Power Digger'
+    lore:
+    - '&cAllows you to mine a 5 x 5 Area.'
+  ADVANCED_SOLAR_GEN:
+    name: '&aAdvanced Solar Generator'
+    lore:
+    - '&cBasics of AdvancedTech.'
+    - '&bThis Has to be Connected Through the Command Hub!'
+    - ''
+    - '&4End-Game Generator'
+    - '&8⇨ &e⚡ &70 J Buffer'
+    - '&8⇨ &e⚡ &74112 J/s'
+  COMMAND_HUB_ENGINE:
+    name: '&cCommand Hub Engine'
+    lore:
+    - '&lEngine For Command Hub'
+    - '&a☢&7 Radiation level: &eMODERATE'
+    - '&8⇨ &4Hazmat Suit required!'
+  BOOSTED_CARBONADO:
+    name: '&dBoosted Carbonado'
+    lore:
+    - '&lBlack Diamond V2.0'
+  HANDHELD_DIGGER_1:
+    name: '&4Basic Handheld Power Digger'
+    lore:
+    - '&cAllows you to mine a 4 x 4 Area.'
+  FRAMED_URANIUM:
+    name: '&dFramed Uranium'
+    lore:
+    - '&lHypercharged Uranium'
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&8⇨ &4Hazmat Suit required!'
+  COMMAND_HUB:
+    name: '&eCommand Hub'
+    lore:
+    - '&cMain Central Command Hub'
+    - '&a☢&7 Radiation level: &eLOW'

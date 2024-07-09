@@ -1,0 +1,711 @@
+name: Cultivation
+translations:
+  CLT_PLANT_EARTH:
+    name: '&x&A&2&4&1&B&FPrimal Plant: Earth'
+    lore:
+    - ''
+    - '&7A plant that enriches the world'
+    - '&7surrounding it.'
+    - '&7'
+    - '&ePrimal plants dont produce items'
+    - '&eand are just for breeding.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_SCRAPPY:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Scrappy'
+    lore:
+    - ''
+    - '&7This plant really is the pinnacle of'
+    - '&7horticulturalism.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_WEALTH:
+    name: '&x&A&2&4&1&B&FPrimal Plant: Wealth'
+    lore:
+    - ''
+    - '&7A plant that just screams exuberant wealth.'
+    - '&7'
+    - '&ePrimal plants dont produce items'
+    - '&eand are just for breeding.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_NETHERRACK:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Netherrack'
+    lore:
+    - ''
+    - '&7A tough hardy plant able to survive'
+    - '&7in most locales.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_WITHER:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Wither'
+    lore:
+    - ''
+    - '&7A deadly plant that must be treated'
+    - '&7with care.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_RAW_IRON:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Raw Iron'
+    lore:
+    - ''
+    - '&7A sturdy plant able to withstand most'
+    - '&7environments.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_ELDER_GUARDIAN:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Elder Guardian'
+    lore:
+    - ''
+    - '&7Being near this plants makes people'
+    - '&7sluggish.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_ENDERMAN:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Enderman'
+    lore:
+    - ''
+    - '&7If not treated carefully, this plant'
+    - '&7may teleport randomly!'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_TERRA:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Terra'
+    lore:
+    - ''
+    - '&7A hard earthy plant that cracks under pressure.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_GLASS:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Glass'
+    lore:
+    - ''
+    - '&7At the right angle, you could'
+    - '&7swear you can see through this plant.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_SKELETON:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Skeleton'
+    lore:
+    - ''
+    - '&7A plant that rattles as it sways.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_SPIDER:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Spider'
+    lore:
+    - ''
+    - '&7Kill it, kill it NAO!'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_GRAVEL:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Gravel'
+    lore:
+    - ''
+    - '&7This plant really doesn''t know how'
+    - '&7to keep itself together.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_SPECTRUM:
+    name: '&x&A&2&4&1&B&FPrimal Plant: Spectrum'
+    lore:
+    - ''
+    - '&7A plant that slightly shifts it''s color.'
+    - '&7'
+    - '&ePrimal plants dont produce items'
+    - '&eand are just for breeding.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_RAW_GOLD:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Raw Gold'
+    lore:
+    - ''
+    - '&7This plant is commonly stolen by piglins'
+    - '&7if nearby.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_WAXY:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Waxy'
+    lore:
+    - ''
+    - '&7The sap from this plant forms into'
+    - '&7perfect candle shaped wax.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_POWER:
+    name: '&x&A&2&4&1&B&FPrimal Plant: Power'
+    lore:
+    - ''
+    - '&7A plant that positively exudes power.'
+    - '&7'
+    - '&ePrimal plants dont produce items'
+    - '&eand are just for breeding.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_CHICKEN:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Chicken'
+    lore:
+    - ''
+    - '&7Rumour says that if you hold this'
+    - '&7seed above your head and jump from a'
+    - '&7high place, you will glide rather than'
+    - '&7fall.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_GHAST:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Ghast'
+    lore:
+    - ''
+    - '&7A plant that has been known to'
+    - '&7randomly shoot fire balls.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_MUD:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Mud'
+    lore:
+    - ''
+    - '&7A plant that is nearly as dirty as'
+    - '&7the ground it comes from.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_DARK_GRASS:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Dark Grass'
+    lore:
+    - ''
+    - '&7A plant that has really lost it''s'
+    - '&7identity.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_COBBLESTONE:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Cobblestone'
+    lore:
+    - ''
+    - '&7This plant is hard as a rock.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_REINFORCED:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Reinforced'
+    lore:
+    - ''
+    - '&7A plant that is able to hold itself up'
+    - '&7through anything.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_LIGHT:
+    name: '&x&A&2&4&1&B&FPrimal Plant: Light'
+    lore:
+    - ''
+    - '&7A plant that exudes an aura'
+    - '&7of pure love.'
+    - '&7'
+    - '&ePrimal plants dont produce items'
+    - '&eand are just for breeding.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_GOAT:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Goat'
+    lore:
+    - ''
+    - '&7A randomly violent plant that loves'
+    - '&7to jump around.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_BLAZE:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Blaze'
+    lore:
+    - ''
+    - '&7A plant that is scorched around the edges.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_COW:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Cow'
+    lore:
+    - ''
+    - '&7If you hold this seed up to your ear'
+    - '&7and listen very carefully, you can hear'
+    - '&7an occasional mooing.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_DIAMOND:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Diamond'
+    lore:
+    - ''
+    - '&7A plant that just speaks of riches.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_DARKNESS:
+    name: '&x&A&2&4&1&B&FPrimal Plant: Darkness'
+    lore:
+    - ''
+    - '&7A plant that seethes in unbridled'
+    - '&7rage.'
+    - '&7'
+    - '&ePrimal plants dont produce items'
+    - '&eand are just for breeding.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_PIG:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Pig'
+    lore:
+    - ''
+    - '&7A plant that snorts randomly.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_MAGMA:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Magma'
+    lore:
+    - ''
+    - '&7A plant that''s so hot it burns it''s'
+    - '&7surroundings.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_ECHO:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Echo'
+    lore:
+    - ''
+    - '&7This plant always knows how to find'
+    - '&7its way home.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_DIM_LIT:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Dim Lit'
+    lore:
+    - ''
+    - '&7A very dim light emits from within this seed.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_FROG:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Frog'
+    lore:
+    - ''
+    - '&7Ribbit!'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_WITHER_SKELETON:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Wither Skeleton'
+    lore:
+    - ''
+    - '&7A plant known to be elusive and hardy.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_VINE:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Vine'
+    lore:
+    - ''
+    - '&7A plant that instantly tangles itself'
+    - '&7up.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_BLACKSTONE:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Blackstone'
+    lore:
+    - ''
+    - '&7A plant that has been known to absorb light.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_SQUID:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Squid'
+    lore:
+    - ''
+    - '&7Be careful, just touching this plant'
+    - '&7has the chance to explode ink all over'
+    - '&7the place.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_FLOWER:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Flowering'
+    lore:
+    - ''
+    - '&7A beautiful cornucopia presented well.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_GLOWING_VINE:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Glowing Vine'
+    lore:
+    - ''
+    - '&7A faint light emits from within this seed.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_GLOW_SQUID:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Glow Squid'
+    lore:
+    - ''
+    - '&7A glittering plant with a faint glow.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_STAINED:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Stained'
+    lore:
+    - ''
+    - '&7This plant splits light into a veritable'
+    - '&7spectrum to nearby objects.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_FIRE:
+    name: '&x&A&2&4&1&B&FPrimal Plant: Fire'
+    lore:
+    - ''
+    - '&7A plant that both provides the'
+    - '&7sources of destruction as well as'
+    - '&7rebirth.'
+    - '&7'
+    - '&ePrimal plants dont produce items'
+    - '&eand are just for breeding.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_RED_SAND:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Red Sand'
+    lore:
+    - ''
+    - '&7This plant can sometimes crumble apart'
+    - '&7at a single touch - but... red-er.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_DUSTY:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Dusty'
+    lore:
+    - ''
+    - '&7This plant needs special care, the slightest'
+    - '&7strong breeze can be enough to make it fall'
+    - '&7apart.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_PURPUR:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Purpur'
+    lore:
+    - ''
+    - '&7An odd plant, seems far lighter'
+    - '&7than most.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_GLAZED:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Glazed'
+    lore:
+    - ''
+    - '&7A plant that grows with an intricate design.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_DROWNED:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Drowned'
+    lore:
+    - ''
+    - '&7A Plant that is dripping wet, all'
+    - '&7the time.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_SAND:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Sand'
+    lore:
+    - ''
+    - '&7This plant can sometimes crumble apart'
+    - '&7at a single touch.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_VILLAGER:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Villager'
+    lore:
+    - ''
+    - '&7Yup, we condensed the essence of a villager'
+    - '&7into a plant. Apparently it hurt a lot.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_EMERALD:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Emerald'
+    lore:
+    - ''
+    - '&7Owners of this plant have to jump'
+    - '&7through hoops just to be able to afford it.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_GRASS:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Grass'
+    lore:
+    - ''
+    - '&7The burgeoning life bound fourth'
+    - '&7from the ground.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_ZOMBIE:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Zombie'
+    lore:
+    - ''
+    - '&7This plant is dripping... something...'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_DIRT:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Dirt'
+    lore:
+    - ''
+    - '&7Dirty on the surface but holding the'
+    - '&7building blocks for life itself.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_MOSS:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Moss'
+    lore:
+    - ''
+    - '&7This plant tends to spread uncontrollably.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_MUSHROOM:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Mushroom'
+    lore:
+    - ''
+    - '&7Yup, a plant that makes mushrooms.'
+    - '&7Everything is totally normal over here.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_SLIME:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Slime'
+    lore:
+    - ''
+    - '&7Why is it so sticky?'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_WATER:
+    name: '&x&A&2&4&1&B&FPrimal Plant: Water'
+    lore:
+    - ''
+    - '&7A plant that nurtures and provides'
+    - '&7life to the surrounding area.'
+    - '&7'
+    - '&ePrimal plants dont produce items'
+    - '&eand are just for breeding.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_REDSTONE:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Redstone'
+    lore:
+    - ''
+    - '&7A plant brimming with power throughout.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_WOOLLY:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Woolly'
+    lore:
+    - ''
+    - '&7A woolly plant, from root to petals!.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_BEE:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Bee'
+    lore:
+    - ''
+    - '&7A plant with a very small, delicate, set of wings.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_DARK_FLORA:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Dark Flora'
+    lore:
+    - ''
+    - '&7A silent evil sits within this simple seed.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_RABBIT:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Rabbit'
+    lore:
+    - ''
+    - '&7Bugs would be proud.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_SHEEP:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Sheep'
+    lore:
+    - ''
+    - '&7A plant with a coarse woolly texture.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_NETHER_QUARTZ:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Nether Quartz'
+    lore:
+    - ''
+    - '&7This plant has thorns so sharp that'
+    - '&7it''s hard to work with.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_LAPIS:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Lapis'
+    lore:
+    - ''
+    - '&7A plant with a faint magical aura.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_COAL:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Coal'
+    lore:
+    - ''
+    - '&7A plant that holds such potential.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_SAPLING:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Sapling'
+    lore:
+    - ''
+    - '&7This plant doesn''t even make sense...'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_CONCRETE:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Concrete'
+    lore:
+    - ''
+    - '&7This plant struggle to grow as it'
+    - '&7hardens so quickly.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_DEEPSLATE:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Deepslate'
+    lore:
+    - ''
+    - '&7Deep, slatey, <insert lore here>.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_FISH:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Fish'
+    lore:
+    - ''
+    - '&7A ripe smell emanates from this seed.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_AIR:
+    name: '&x&A&2&4&1&B&FPrimal Plant: Air'
+    lore:
+    - ''
+    - '&7A plant that quietly hums with'
+    - '&7the melody of the surrounding nature.'
+    - '&7'
+    - '&ePrimal plants dont produce items'
+    - '&eand are just for breeding.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_RAINBOW:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Rainbow'
+    lore:
+    - ''
+    - '&7There may or may not be a pot of gold'
+    - '&7at the end of this plant.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_CLAY:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Clay'
+    lore:
+    - ''
+    - '&7This plant can be formed and reshaped freely.'
+    - '&7That doesn''t mean it''s a good idea to do so,'
+    - '&7though!'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_GUARDIAN:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Guardian'
+    lore:
+    - ''
+    - '&7When touched, this plant releases'
+    - '&7spines.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_SHULKER:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Shulker'
+    lore:
+    - ''
+    - '&7A plant that often levitates off'
+    - '&7of the ground.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_END_STONE:
+    name: '&x&A&2&4&1&B&FCultivation Plant: End Stone'
+    lore:
+    - ''
+    - '&7A plant that hums with the void.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_MAGMA_CUBE:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Magma Cube'
+    lore:
+    - ''
+    - '&7When not being watched, this plant'
+    - '&7likes to bounce up and down.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_SOUL:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Soul'
+    lore:
+    - ''
+    - '&7A plant that can be heard screaming'
+    - '&7when its quiet.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_WITHER_ROSE:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Wither Rose'
+    lore:
+    - ''
+    - '&7This plant, somehow, pulsates a harmful'
+    - '&7aura around itself.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_BASALT:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Basalt'
+    lore:
+    - ''
+    - '&7A very boring and dull plant.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_CREEPER:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Creeper'
+    lore:
+    - ''
+    - '&7Tsssssssssttt...'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_TURTLE:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Turtle'
+    lore:
+    - ''
+    - '&7A seed surrounded by a rock hard shell.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_PHANTOM:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Phantom'
+    lore:
+    - ''
+    - '&7A plant with lofty leaves.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_ENDER_DRAGON:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Ender Dragon'
+    lore:
+    - ''
+    - '&7A real boss of a plant.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_AMETHYST:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Amethyst'
+    lore:
+    - ''
+    - '&7This plant loves to flourish in deep, dark'
+    - '&7locales.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_WITCH:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Witch'
+    lore:
+    - ''
+    - '&7A plant that sounds like it''s softly'
+    - '&7muttering spells.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_RAW_COPPER:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Raw Copper'
+    lore:
+    - ''
+    - '&7If left alone, this plant sometimes'
+    - '&7attracts lightning.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'
+  CLT_PLANT_IGNEOUS:
+    name: '&x&A&2&4&1&B&FCultivation Plant: Igneous'
+    lore:
+    - ''
+    - '&7This plant has been formed by heat and'
+    - '&7pressure. Don''t look at me like that! All'
+    - '&7these plant descriptions make total sense.'
+    - ''
+    - '&x&E&4&E&D&3&2Plant'

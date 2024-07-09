@@ -1,0 +1,602 @@
+name: Slimefun
+translations:
+  PRODUCE_COLLECTOR:
+    name: '&bProduce Collector'
+    lore:
+    - ''
+    - '&fThis machine allows you to'
+    - '&fcollect produce from nearby animals.'
+    - ''
+    - '&6Advanced Machine'
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &732 J/s'
+  HEATED_PRESSURE_CHAMBER_2:
+    name: '&cHeated Pressure Chamber &7- &eII'
+    lore:
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &b⚡ &7Speed: &b5.0x'
+    - '&8⇨ &e⚡ &744 J/s'
+  SMALL_CAPACITOR:
+    name: '&aSmall Energy Capacitor'
+    lore:
+    - '&7Range: &c6 blocks'
+    - ''
+    - '&eBasic Capacitor'
+    - '&8⇨ &e⚡ &7128 J Capacity'
+  ELECTRIC_ORE_GRINDER_3:
+    name: '&cElectric Ore Grinder &7(&eIII&7)'
+    lore:
+    - ''
+    - '&fWorks as an Ore Crusher and Grind Stone'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &b⚡ &7Speed: &b10.0x'
+    - '&8⇨ &e⚡ &790 J/s'
+  ELECTRIC_PRESS:
+    name: '&eElectric Press'
+    lore:
+    - ''
+    - '&aMedium Machine'
+    - '&8⇨ &b⚡ &7Speed: &b1.0x'
+    - '&8⇨ &e⚡ &716 J/s'
+  ELECTRIC_SMELTERY:
+    name: '&cElectric Smeltery'
+    lore:
+    - ''
+    - '&4Alloys-Only, doesn''t smelt Dust into Ingots'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &b⚡ &7Speed: &b1.0x'
+    - '&8⇨ &e⚡ &720 J/s'
+  ELECTRIC_ORE_GRINDER_2:
+    name: '&cElectric Ore Grinder &7(&eII&7)'
+    lore:
+    - ''
+    - '&fWorks as an Ore Crusher and Grind Stone'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &b⚡ &7Speed: &b4.0x'
+    - '&8⇨ &e⚡ &730 J/s'
+  CROP_GROWTH_ACCELERATOR:
+    name: '&aCrop Growth Accelerator'
+    lore:
+    - ''
+    - '&fRuns on &aOrganic Fertilizer'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &7Radius: 7x7'
+    - '&8⇨ &7Speed: &a3/time'
+    - '&8⇨ &e⚡ &71024 J Buffer'
+    - '&8⇨ &e⚡ &750 J/s'
+  AUTO_DRIER:
+    name: '&6Auto Drier'
+    lore:
+    - ''
+    - '&aMedium Machine'
+    - '&8⇨ &b⚡ &7Speed: &b1.0x'
+    - '&8⇨ &e⚡ &710 J/s'
+  ELECTRIFIED_CRUCIBLE:
+    name: '&cElectrified Crucible'
+    lore:
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &b⚡ &7Speed: &b1.0x'
+    - '&8⇨ &e⚡ &748 J/s'
+  ELECTRIC_GOLD_PAN:
+    name: '&6Electric Gold Pan'
+    lore:
+    - ''
+    - '&eBasic Machine'
+    - '&8⇨ &b⚡ &7Speed: &b1.0x'
+    - '&8⇨ &e⚡ &72 J/s'
+  HEATED_PRESSURE_CHAMBER:
+    name: '&cHeated Pressure Chamber'
+    lore:
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &b⚡ &7Speed: &b1.0x'
+    - '&8⇨ &e⚡ &710 J/s'
+  ELECTRIC_GOLD_PAN_3:
+    name: '&6Electric Gold Pan &7(&eIII&7)'
+    lore:
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &b⚡ &7Speed: &b10.0x'
+    - '&8⇨ &e⚡ &714 J/s'
+  ELECTRIC_ORE_GRINDER:
+    name: '&cElectric Ore Grinder'
+    lore:
+    - ''
+    - '&fWorks as an Ore Crusher and Grind Stone'
+    - ''
+    - '&6Advanced Machine'
+    - '&8⇨ &b⚡ &7Speed: &b1.0x'
+    - '&8⇨ &e⚡ &712 J/s'
+  ANIMAL_GROWTH_ACCELERATOR:
+    name: '&bAnimal Growth Accelerator'
+    lore:
+    - ''
+    - '&fRuns on &aOrganic Food'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &71024 J Buffer'
+    - '&8⇨ &e⚡ &728 J/s'
+  ELECTRIC_INGOT_FACTORY:
+    name: '&cElectric Ingot Factory'
+    lore:
+    - ''
+    - '&eBasic Machine'
+    - '&8⇨ &b⚡ &7Speed: &b1.0x'
+    - '&8⇨ &e⚡ &78 J/s'
+  LARGE_CAPACITOR:
+    name: '&aLarge Energy Capacitor'
+    lore:
+    - '&7Range: &c6 blocks'
+    - ''
+    - '&2Good Capacitor'
+    - '&8⇨ &e⚡ &78192 J Capacity'
+  AUTO_BREWER:
+    name: '&6Auto Brewer'
+    lore:
+    - ''
+    - '&aMedium Machine'
+    - '&8⇨ &b⚡ &7Speed: &b1.0x'
+    - '&8⇨ &e⚡ &712 J/s'
+  ELECTRIC_GOLD_PAN_2:
+    name: '&6Electric Gold Pan &7(&eII&7)'
+    lore:
+    - ''
+    - '&eBasic Machine'
+    - '&8⇨ &b⚡ &7Speed: &b3.0x'
+    - '&8⇨ &e⚡ &74 J/s'
+  SOLAR_GENERATOR_3:
+    name: '&4Carbonado Solar Generator'
+    lore:
+    - ''
+    - '&4End-Game Generator'
+    - '&8⇨ &e⚡ &70 J Buffer'
+    - '&8⇨ &e⚡ &764 J/s'
+  ENERGY_REGULATOR:
+    name: '&6Energy Regulator'
+    lore:
+    - ''
+    - '&fCore Component of an Energy Network'
+  SOLAR_GENERATOR_2:
+    name: '&cAdvanced Solar Generator'
+    lore:
+    - ''
+    - '&aMedium Generator'
+    - '&8⇨ &e⚡ &70 J Buffer'
+    - '&8⇨ &e⚡ &716 J/s'
+  ELECTRIC_INGOT_PULVERIZER:
+    name: '&cElectric Ingot Pulverizer'
+    lore:
+    - ''
+    - '&fPulverizes Ingots into Dust'
+    - ''
+    - '&aMedium Machine'
+    - '&8⇨ &b⚡ &7Speed: &b1.0x'
+    - '&8⇨ &e⚡ &714 J/s'
+  SOLAR_GENERATOR_4:
+    name: '&eEnergized Solar Generator'
+    lore:
+    - ''
+    - '&9Works at Night'
+    - ''
+    - '&4End-Game Generator'
+    - '&8⇨ &e⚡ &70 J Buffer'
+    - '&8⇨ &e⚡ &7256 J/s (Day)'
+    - '&8⇨ &e⚡ &7128 J/s (Night)'
+  LAVA_GENERATOR_2:
+    name: '&4Lava Generator &7(&eII&7)'
+    lore:
+    - ''
+    - '&6Advanced Generator'
+    - '&8⇨ &e⚡ &71024 J Buffer'
+    - '&8⇨ &e⚡ &740 J/s'
+  BOOK_BINDER:
+    name: '&6Book Binder'
+    lore:
+    - ''
+    - '&fBinds multiple enchanted books into one.'
+    - ''
+    - '&aMedium Machine'
+    - '&8⇨ &e⚡ &716 J/s'
+  ENERGY_CONNECTOR:
+    name: '&eEnergy Connector'
+    lore:
+    - '&7Range: &c6 blocks'
+    - ''
+    - '&fPlace this between machines'
+    - '&fand generators to connect them'
+    - '&fto your regulator.'
+  AUTO_DISENCHANTER:
+    name: '&5Auto Disenchanter'
+    lore:
+    - ''
+    - '&aMedium Machine'
+    - '&8⇨ &b⚡ &7Speed: &b1.0x'
+    - '&8⇨ &e⚡ &718 J/s'
+  ELECTRIC_FURNACE:
+    name: '&cElectric Furnace'
+    lore:
+    - ''
+    - '&eBasic Machine'
+    - '&8⇨ &b⚡ &7Speed: &b1.0x'
+    - '&8⇨ &e⚡ &74 J/s'
+  MAGNESIUM_GENERATOR:
+    name: '&cMagnesium-powered Generator'
+    lore:
+    - ''
+    - '&aMedium Generator'
+    - '&8⇨ &e⚡ &7128 J Buffer'
+    - '&8⇨ &e⚡ &736 J/s'
+  IRON_GOLEM_ASSEMBLER:
+    name: '&6Iron Golem Assembler'
+    lore:
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &7Cooldown: &b30 Seconds'
+    - '&8⇨ &e⚡ &74096 J Buffer'
+    - '&8⇨ &e⚡ &72048 J/Golem'
+  FREEZER_3:
+    name: '&bFreezer &7(&eIII&7)'
+    lore:
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &b⚡ &7Speed: &b3.0x'
+    - '&8⇨ &e⚡ &7256 J Buffer'
+    - '&8⇨ &e⚡ &742 J/s'
+  FREEZER_2:
+    name: '&bFreezer &7(&eII&7)'
+    lore:
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &b⚡ &7Speed: &b2.0x'
+    - '&8⇨ &e⚡ &7256 J Buffer'
+    - '&8⇨ &e⚡ &730 J/s'
+  CHARGING_BENCH:
+    name: '&6Charging Bench'
+    lore:
+    - ''
+    - '&fCharges Items such as Jetpacks'
+    - ''
+    - '&eBasic Machine'
+    - '&8⇨ &e⚡ &7128 J Buffer'
+    - '&8⇨ &e⚡ &7Energy Loss: &c50%'
+  ELECTRIC_PRESS_2:
+    name: '&eElectric Press &7- &eII'
+    lore:
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &b⚡ &7Speed: &b3.0x'
+    - '&8⇨ &e⚡ &740 J/s'
+  ELECTRIFIED_CRUCIBLE_3:
+    name: '&cElectrified Crucible &7- &eIII'
+    lore:
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &b⚡ &7Speed: &b4.0x'
+    - '&8⇨ &e⚡ &7120 J/s'
+  WITHER_ASSEMBLER:
+    name: '&5Wither Assembler'
+    lore:
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &7Cooldown: &b30 Seconds'
+    - '&8⇨ &e⚡ &74096 J Buffer'
+    - '&8⇨ &e⚡ &74096 J/Wither'
+  ELECTRIFIED_CRUCIBLE_2:
+    name: '&cElectrified Crucible &7- &eII'
+    lore:
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &b⚡ &7Speed: &b2.0x'
+    - '&8⇨ &e⚡ &780 J/s'
+  AUTO_ANVIL:
+    name: '&7Auto Anvil'
+    lore:
+    - ''
+    - '&6Advanced Machine'
+    - '&8⇨ &7Repair Factor: 10%'
+    - '&8⇨ &e⚡ &724 J/s'
+  REFINERY:
+    name: '&cRefinery'
+    lore:
+    - ''
+    - '&fRefines Oil to create Fuel'
+  AUTO_ENCHANTER:
+    name: '&5Auto Enchanter'
+    lore:
+    - ''
+    - '&aMedium Machine'
+    - '&8⇨ &b⚡ &7Speed: &b1.0x'
+    - '&8⇨ &e⚡ &718 J/s'
+  XP_COLLECTOR:
+    name: '&aEXP Collector'
+    lore:
+    - ''
+    - '&fCollects nearby Exp and stores it'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &71024 J Buffer'
+    - '&8⇨ &e⚡ &720 J/s'
+  COAL_GENERATOR_2:
+    name: '&cCoal Generator &7(&eII&7)'
+    lore:
+    - ''
+    - '&6Advanced Generator'
+    - '&8⇨ &e⚡ &7256 J Buffer'
+    - '&8⇨ &e⚡ &730 J/s'
+  ELECTRIC_INGOT_FACTORY_2:
+    name: '&cElectric Ingot Factory &7(&eII&7)'
+    lore:
+    - ''
+    - '&eBasic Machine'
+    - '&8⇨ &b⚡ &7Speed: &b2.0x'
+    - '&8⇨ &e⚡ &714 J/s'
+  ELECTRIC_FURNACE_3:
+    name: '&cElectric Furnace &7- &eIII'
+    lore:
+    - ''
+    - '&aMedium Machine'
+    - '&8⇨ &b⚡ &7Speed: &b4.0x'
+    - '&8⇨ &e⚡ &710 J/s'
+  MEDIUM_CAPACITOR:
+    name: '&aMedium Energy Capacitor'
+    lore:
+    - '&7Range: &c6 blocks'
+    - ''
+    - '&6Average Capacitor'
+    - '&8⇨ &e⚡ &7512 J Capacity'
+  ELECTRIC_INGOT_FACTORY_3:
+    name: '&cElectric Ingot Factory &7(&eIII&7)'
+    lore:
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &b⚡ &7Speed: &b8.0x'
+    - '&8⇨ &e⚡ &740 J/s'
+  CARBONADO_EDGED_CAPACITOR:
+    name: '&aCarbonado Edged Energy Capacitor'
+    lore:
+    - '&7Range: &c6 blocks'
+    - ''
+    - '&4End-Game Capacitor'
+    - '&8⇨ &e⚡ &765536 J Capacity'
+  ELECTRIC_FURNACE_2:
+    name: '&cElectric Furnace &7- &eII'
+    lore:
+    - ''
+    - '&aMedium Machine'
+    - '&8⇨ &b⚡ &7Speed: &b2.0x'
+    - '&8⇨ &e⚡ &76 J/s'
+  CARBON_PRESS_2:
+    name: '&cCarbon Press &7- &eII'
+    lore:
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &b⚡ &7Speed: &b3.0x'
+    - '&8⇨ &e⚡ &750 J/s'
+  CARBON_PRESS_3:
+    name: '&cCarbon Press &7- &eIII'
+    lore:
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &b⚡ &7Speed: &b15.0x'
+    - '&8⇨ &e⚡ &7180 J/s'
+  ENERGIZED_CAPACITOR:
+    name: '&aEnergized Energy Capacitor'
+    lore:
+    - '&7Range: &c6 blocks'
+    - ''
+    - '&4End-Game Capacitor'
+    - '&8⇨ &e⚡ &7524288 J Capacity'
+  FREEZER:
+    name: '&bFreezer'
+    lore:
+    - ''
+    - '&6Advanced Machine'
+    - '&8⇨ &b⚡ &7Speed: &b1.0x'
+    - '&8⇨ &e⚡ &7256 J Buffer'
+    - '&8⇨ &e⚡ &718 J/s'
+  CARBON_PRESS:
+    name: '&cCarbon Press'
+    lore:
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &b⚡ &7Speed: &b1.0x'
+    - '&8⇨ &e⚡ &720 J/s'
+  COMBUSTION_REACTOR:
+    name: '&cCombustion Reactor'
+    lore:
+    - ''
+    - '&6Advanced Generator'
+    - '&8⇨ &e⚡ &7256 J Buffer'
+    - '&8⇨ &e⚡ &724 J/s'
+  TREE_GROWTH_ACCELERATOR:
+    name: '&aTree Growth Accelerator'
+    lore:
+    - ''
+    - '&fRuns on &aOrganic Fertilizer'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &7Radius: 9x9'
+    - '&8⇨ &7Speed: &a4/time'
+    - '&8⇨ &e⚡ &71024 J Buffer'
+    - '&8⇨ &e⚡ &748 J/s'
+  LAVA_GENERATOR:
+    name: '&4Lava Generator'
+    lore:
+    - ''
+    - '&6Average Generator'
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &720 J/s'
+  FOOD_COMPOSTER:
+    name: '&cFood Composter'
+    lore:
+    - ''
+    - '&fProduces &aOrganic Fertilizer'
+    - ''
+    - '&6Advanced Machine'
+    - '&8⇨ &b⚡ &7Speed: &b1.0x'
+    - '&8⇨ &e⚡ &7256 J Buffer'
+    - '&8⇨ &e⚡ &716 J/s'
+  SOLAR_GENERATOR:
+    name: '&bSolar Generator'
+    lore:
+    - ''
+    - '&eBasic Generator'
+    - '&8⇨ &e⚡ &70 J Buffer'
+    - '&8⇨ &e⚡ &74 J/s'
+  AUTO_ENCHANTER_2:
+    name: '&5Auto Enchanter &7- &eII'
+    lore:
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &b⚡ &7Speed: &b3.0x'
+    - '&8⇨ &e⚡ &748 J/s'
+  BIG_CAPACITOR:
+    name: '&aBig Energy Capacitor'
+    lore:
+    - '&7Range: &c6 blocks'
+    - ''
+    - '&aMedium Capacitor'
+    - '&8⇨ &e⚡ &71024 J Capacity'
+  ELECTRIC_SMELTERY_2:
+    name: '&cElectric Smeltery &7- &eII'
+    lore:
+    - ''
+    - '&4Alloys-Only, doesn''t smelt Dust into Ingots'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &b⚡ &7Speed: &b3.0x'
+    - '&8⇨ &e⚡ &740 J/s'
+  COAL_GENERATOR:
+    name: '&cCoal Generator'
+    lore:
+    - ''
+    - '&6Average Generator'
+    - '&8⇨ &e⚡ &764 J Buffer'
+    - '&8⇨ &e⚡ &716 J/s'
+  FLUID_PUMP:
+    name: '&9Fluid Pump'
+    lore:
+    - ''
+    - '&6Advanced Machine'
+    - '&8⇨ &e⚡ &732 J/Block'
+  FOOD_COMPOSTER_2:
+    name: '&cFood Composter &7(&eII&7)'
+    lore:
+    - ''
+    - '&fProduces &aOrganic Fertilizer'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &b⚡ &7Speed: &b10.0x'
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &752 J/s'
+  AUTO_DISENCHANTER_2:
+    name: '&5Auto Disenchanter &7- &eII'
+    lore:
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &b⚡ &7Speed: &b3.0x'
+    - '&8⇨ &e⚡ &748 J/s'
+  ELECTRIC_DUST_WASHER_3:
+    name: '&3Electric Dust Washer &7(&eIII&7)'
+    lore:
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &b⚡ &7Speed: &b10.0x'
+    - '&8⇨ &e⚡ &730 J/s'
+  ELECTRIC_DUST_WASHER_2:
+    name: '&3Electric Dust Washer &7(&eII&7)'
+    lore:
+    - ''
+    - '&eBasic Machine'
+    - '&8⇨ &b⚡ &7Speed: &b2.0x'
+    - '&8⇨ &e⚡ &710 J/s'
+  BIO_REACTOR:
+    name: '&2Bio Reactor'
+    lore:
+    - ''
+    - '&6Average Generator'
+    - '&8⇨ &e⚡ &7128 J Buffer'
+    - '&8⇨ &e⚡ &78 J/s'
+  NETHERSTAR_REACTOR:
+    name: '&fNether Star Reactor'
+    lore:
+    - ''
+    - '&fRuns on Nether Stars'
+    - '&8⇨ &bMust be surrounded by Water'
+    - '&8⇨ &bMust be supplied with Nether Ice Coolant Cells'
+    - ''
+    - '&4End-Game Generator'
+    - '&8⇨ &e⚡ &732768 J Buffer'
+    - '&8⇨ &e⚡ &71024 J/s'
+    - '&8⇨ &4Causes nearby Entities to get Withered'
+  AUTO_ANVIL_2:
+    name: '&7Auto Anvil &7Mk.II'
+    lore:
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &7Repair Factor: 25%'
+    - '&8⇨ &e⚡ &732 J/s'
+  FOOD_FABRICATOR:
+    name: '&cFood Fabricator'
+    lore:
+    - ''
+    - '&fProduces &aOrganic Food'
+    - ''
+    - '&6Advanced Machine'
+    - '&8⇨ &b⚡ &7Speed: &b1.0x'
+    - '&8⇨ &e⚡ &7256 J Buffer'
+    - '&8⇨ &e⚡ &714 J/s'
+  FOOD_FABRICATOR_2:
+    name: '&cFood Fabricator &7(&eII&7)'
+    lore:
+    - ''
+    - '&fProduces &aOrganic Food'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &b⚡ &7Speed: &b6.0x'
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &748 J/s'
+  NUCLEAR_REACTOR:
+    name: '&2Nuclear Reactor'
+    lore:
+    - ''
+    - '&fRequires Cooling!'
+    - '&8⇨ &bMust be surrounded by Water'
+    - '&8⇨ &bMust be supplied with Reactor Coolant Cells'
+    - ''
+    - '&4End-Game Generator'
+    - '&8⇨ &e⚡ &716384 J Buffer'
+    - '&8⇨ &e⚡ &7500 J/s'
+  AUTO_BREEDER:
+    name: '&eAuto-Breeder'
+    lore:
+    - ''
+    - '&fRuns on &aOrganic Food'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &71024 J Buffer'
+    - '&8⇨ &e⚡ &760 J/Animal'
+  CROP_GROWTH_ACCELERATOR_2:
+    name: '&aCrop Growth Accelerator &7(&eII&7)'
+    lore:
+    - ''
+    - '&fRuns on &aOrganic Fertilizer'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &7Radius: 9x9'
+    - '&8⇨ &7Speed: &a4/time'
+    - '&8⇨ &e⚡ &71024 J Buffer'
+    - '&8⇨ &e⚡ &760 J/s'
+  ELECTRIC_DUST_WASHER:
+    name: '&3Electric Dust Washer'
+    lore:
+    - ''
+    - '&eBasic Machine'
+    - '&8⇨ &b⚡ &7Speed: &b1.0x'
+    - '&8⇨ &e⚡ &76 J/s'

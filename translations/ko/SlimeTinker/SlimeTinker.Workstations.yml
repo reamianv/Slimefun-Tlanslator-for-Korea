@@ -1,0 +1,57 @@
+name: SlimeTinker
+translations:
+  TINKERS_SMELTERY_CORE:
+    name: '&x&3&2&9&5&A&8Tinker''s Smeltery'
+    lore:
+    - ''
+    - '&7Melts down metals into liquids.'
+    - '&7Metals can then be alloyed and'
+    - '&7cast out into various forms.'
+    - '&7Requires lava as fuel'
+    - ''
+    - '&x&F&0&E&A&4&FMachine'
+  TINKERS_MOD_STATION:
+    name: '&x&3&2&9&5&A&8Tinker''s Modification Station'
+    lore:
+    - ''
+    - '&7Applies modifications to tools and weapons.'
+    - ''
+    - '&x&F&0&E&A&4&FMachine'
+  TINKERS_REPAIR_BENCH:
+    name: '&x&3&2&9&5&A&8Tinker''s Repair Bench'
+    lore:
+    - ''
+    - '&7Repairs tools and weapons.'
+    - ''
+    - '&x&F&0&E&A&4&FMachine'
+  TINKERS_WORKBENCH:
+    name: '&x&3&2&9&5&A&8Tinker''s Workbench'
+    lore:
+    - ''
+    - '&7Used for crafting various items'
+    - '&7and parts for Tinker''s tools and'
+    - '&7constructions. Also acts as an'
+    - '&7Enhanced Crafting Table.'
+    - ''
+    - '&x&F&0&E&A&4&FMachine'
+  TINKERS_TABLE:
+    name: '&x&3&2&9&5&A&8Tinker''s Tool Table'
+    lore:
+    - ''
+    - '&7Combines parts into tools.'
+    - ''
+    - '&x&F&0&E&A&4&FMachine'
+  TINKERS_ARMOUR_TABLE:
+    name: '&x&3&2&9&5&A&8Tinker''s Armour Table'
+    lore:
+    - ''
+    - '&7Combines parts into armour pieces.'
+    - ''
+    - '&x&F&0&E&A&4&FMachine'
+  TINKERS_SWAPPING_STATION:
+    name: '&x&3&2&9&5&A&8Tinker''s Swapping Station'
+    lore:
+    - ''
+    - '&7Swaps parts of tools with new parts.'
+    - ''
+    - '&x&F&0&E&A&4&FMachine'

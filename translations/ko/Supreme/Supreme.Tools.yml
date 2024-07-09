@@ -1,0 +1,152 @@
+name: Supreme
+translations:
+  SUPREME_MOB_COLLECTOR_TOOL_III:
+    name: '[Netherite Shovel]'
+    lore:
+    - '&8⇨ &e⚡ &750 J per use'
+    - '&8⇨ &e⚡ &70 / 50000 J'
+  SUPREME_AXE_SUPREME:
+    name: '[Netherite Axe]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_TITANIUM_PICKAXE:
+    name: '[Diamond Pickaxe]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_AURUM_AXE:
+    name: '[Diamond Axe]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_TITANIUM_SHOVEL:
+    name: '[Diamond Shovel]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_PICKAXE_RARE:
+    name: '[Netherite Pickaxe]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_PICKAXE_LEGENDARY:
+    name: '[Netherite Pickaxe]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_ADAMANTIUM_AXE:
+    name: '[Diamond Axe]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_AXE_EPIC:
+    name: '[Netherite Axe]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_PICKAXE_THORNIUM:
+    name: '[Netherite Pickaxe]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_PICKAXE_MAGIC:
+    name: '[Netherite Pickaxe]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_TITANIUM_AXE:
+    name: '[Diamond Axe]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_AURUM_PICKAXE:
+    name: '[Diamond Pickaxe]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_ADAMANTIUM_SHOVEL:
+    name: '[Diamond Shovel]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_MOB_COLLECTOR_TOOL_I:
+    name: '[Iron Shovel]'
+    lore:
+    - '&8⇨ &e⚡ &750 J per use'
+    - '&8⇨ &e⚡ &70 / 500 J'
+  SUPREME_AXE_RARE:
+    name: '[Netherite Axe]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_AURUM_SHOVEL:
+    name: '[Diamond Shovel]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_SHOVEL_MAGIC:
+    name: '[Netherite Shovel]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_AXE_LEGENDARY:
+    name: '[Netherite Axe]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_AXE_THORNIUM:
+    name: '[Netherite Axe]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_SHOVEL_EPIC:
+    name: '[Netherite Shovel]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_SHOVEL_SUPREME:
+    name: '[Netherite Shovel]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_SHOVEL_THORNIUM:
+    name: '[Netherite Shovel]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_PICKAXE_SUPREME:
+    name: '[Netherite Pickaxe]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_ADAMANTIUM_PICKAXE:
+    name: '[Diamond Pickaxe]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_PICKAXE_EPIC:
+    name: '[Netherite Pickaxe]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_AXE_MAGIC:
+    name: '[Netherite Axe]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_MOB_COLLECTOR_TOOL_II:
+    name: '[Diamond Shovel]'
+    lore:
+    - '&8⇨ &e⚡ &750 J per use'
+    - '&8⇨ &e⚡ &70 / 5000 J'
+  SUPREME_SHOVEL_RARE:
+    name: '[Netherite Shovel]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_SHOVEL_LEGENDARY:
+    name: '[Netherite Shovel]'
+    lore:
+    - ''
+    - '&bSoulbound'

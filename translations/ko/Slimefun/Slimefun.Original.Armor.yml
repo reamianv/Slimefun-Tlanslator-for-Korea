@@ -1,0 +1,82 @@
+name: Slimefun
+translations:
+  DAMASCUS_STEEL_LEGGINGS:
+    name: '&7Damascus Steel Leggings'
+  REINFORCED_ALLOY_LEGGINGS:
+    name: '&bReinforced Leggings'
+  GOLD_12K_LEGGINGS:
+    name: '&6Golden Leggings &7(12-Carat)'
+  CACTUS_BOOTS:
+    name: '&2Cactus Boots'
+  GILDED_IRON_CHESTPLATE:
+    name: '&6Gilded Iron Chestplate'
+  GOLD_12K_CHESTPLATE:
+    name: '&6Golden Chestplate &7(12-Carat)'
+  REINFORCED_ALLOY_BOOTS:
+    name: '&bReinforced Boots'
+  GILDED_IRON_HELMET:
+    name: '&6Gilded Iron Helmet'
+  HAZMAT_CHESTPLATE:
+    name: '&cHazmat Suit'
+    lore:
+    - ''
+    - '&7Allows you to walk through fire and lava'
+    - ''
+    - '&6Full set effects:'
+    - '&e- Radiation immunity'
+    - '&e- Bee Sting protection'
+  GOLD_12K_BOOTS:
+    name: '&6Golden Boots &7(12-Carat)'
+  CHAIN_HELMET:
+    name: '[Chainmail Helmet]'
+  DAMASCUS_STEEL_HELMET:
+    name: '&7Damascus Steel Helmet'
+  CACTUS_CHESTPLATE:
+    name: '&2Cactus Chestplate'
+  CHAIN_LEGGINGS:
+    name: '[Chainmail Leggings]'
+  GOLD_12K_HELMET:
+    name: '&6Golden Helmet &7(12-Carat)'
+  CHAIN_BOOTS:
+    name: '[Chainmail Boots]'
+  REINFORCED_ALLOY_HELMET:
+    name: '&bReinforced Helmet'
+  REINFORCED_ALLOY_CHESTPLATE:
+    name: '&bReinforced Chestplate'
+  HAZMAT_LEGGINGS:
+    name: '&cHazmat Suit Leggings'
+    lore:
+    - ''
+    - '&6Full set effects:'
+    - '&e- Radiation immunity'
+    - '&e- Bee Sting protection'
+  DAMASCUS_STEEL_CHESTPLATE:
+    name: '&7Damascus Steel Chestplate'
+  DAMASCUS_STEEL_BOOTS:
+    name: '&7Damascus Steel Boots'
+  SCUBA_HELMET:
+    name: '&cScuba Helmet'
+    lore:
+    - ''
+    - '&7Allows you to breathe underwater'
+    - ''
+    - '&6Full set effects:'
+    - '&e- Radiation immunity'
+    - '&e- Bee Sting protection'
+  CACTUS_LEGGINGS:
+    name: '&2Cactus Leggings'
+  CHAIN_CHESTPLATE:
+    name: '[Chainmail Chestplate]'
+  CACTUS_HELMET:
+    name: '&2Cactus Helmet'
+  RUBBER_BOOTS:
+    name: '&cHazmat Boots'
+    lore:
+    - ''
+    - '&6Full set effects:'
+    - '&e- Radiation immunity'
+    - '&e- Bee Sting protection'
+  GILDED_IRON_BOOTS:
+    name: '&6Gilded Iron Boots'
+  GILDED_IRON_LEGGINGS:
+    name: '&6Gilded Iron Leggings'

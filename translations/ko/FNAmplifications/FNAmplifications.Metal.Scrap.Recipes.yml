@@ -1,0 +1,30 @@
+name: FNAmplifications
+translations:
+  FN_MACHINERY_POWER_COMPONENT_SCRAP:
+    name: '&dPower Component'
+    lore:
+    - '&fCraft using metal scraps'
+  FN_MACHINERY_MACHINE_PART_SCRAP:
+    name: '&dMachine Part'
+    lore:
+    - '&fCraft using metal scraps'
+  FN_MACHINERY_COMPONENT_PART_SCRAP:
+    name: '&dComponent Part'
+    lore:
+    - '&fCraft using metal scraps'
+  FN_MACHINERY_FUNNEL_PART_SCRAP:
+    name: '&dFunnel Part'
+    lore:
+    - '&fCraft using metal scraps'
+  FN_MACHINERY_THREAD_PART_SCRAP:
+    name: '&dThread Part'
+    lore:
+    - '&fCraft using metal scraps'
+  FN_MACHINERY_GEAR_PART_SCRAP:
+    name: '&dGear Part'
+    lore:
+    - '&fCraft using metal scraps'
+  FN_MACHINERY_MOTOR_SWITCH_SCRAP:
+    name: '&dMotor Switch'
+    lore:
+    - '&fCraft using metal scraps'

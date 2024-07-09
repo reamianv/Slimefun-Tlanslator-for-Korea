@@ -1,0 +1,16 @@
+name: FastMachines
+translations:
+  FM_ETERNAL_FIRE:
+    name: '&4Eternal Fire'
+    lore:
+    - '&7The fire that never goes out.'
+  FM_STACKED_ANCIENT_PEDESTAL:
+    name: '&6Stacked Ancient Pedestal'
+    lore:
+    - '&74 Ancient Pedestals in 1.'
+    - '&eRight click &7to break into'
+    - '&74 Ancient Pedestals.'
+  FM_FAST_CORE:
+    name: '&bFast Core'
+    lore:
+    - '&7The core of a Fast Machine.'

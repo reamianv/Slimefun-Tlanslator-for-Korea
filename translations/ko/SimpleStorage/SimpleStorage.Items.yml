@@ -1,0 +1,11 @@
+name: SimpleStorage
+translations:
+  UPGRADE_BARREL:
+    name: '&x&8&7&3&D&F&FAugment: Barrels'
+    lore:
+    - ''
+    - '&7Augment your Network Chest with the'
+    - '&7ability to scan nearby, compatible,'
+    - '&7barrels.'
+    - ''
+    - '&x&F&0&E&A&4&FAugment'

@@ -1,0 +1,345 @@
+name: SlimeTinker
+translations:
+  PART_BINDING_CRIMSON_ROOT:
+    name: '&x&B&5&3&6&5&ECrimson Root&x&4&2&C&8&F&5 Binding'
+    lore:
+    - ''
+    - '&7A binding made of Crimson Root.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_BINDING_SLIME_STEEL:
+    name: '&x&A&E&D&1&9&7Slime Steel&x&4&2&C&8&F&5 Binding'
+    lore:
+    - ''
+    - '&7A binding made of Slime Steel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  TOOL_AXE_EXP:
+    name: '&x&4&2&C&8&F&5Error'
+    lore:
+    - ''
+    - '&7Error'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_GAMBESON_TWISTED_VINE:
+    name: '&x&1&B&8&0&4&5Twisted Vine&x&4&2&C&8&F&5 Gambeson'
+    lore:
+    - ''
+    - '&7A gambeson made of Twisted Vine.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_BINDING_STRING:
+    name: '&x&F&5&F&5&F&5String&x&4&2&C&8&F&5 Binding'
+    lore:
+    - ''
+    - '&7A binding made of String.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_BINDING_SILICON:
+    name: '&x&F&2&F&2&F&2Silicon&x&4&2&C&8&F&5 Binding'
+    lore:
+    - ''
+    - '&7A binding made of Silicon.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_GAMBESON_WEEPING_VINE:
+    name: '&x&9&C&0&9&1&DWeeping Vine&x&4&2&C&8&F&5 Gambeson'
+    lore:
+    - ''
+    - '&7A gambeson made of Weeping Vine.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_GAMBESON_SILICON:
+    name: '&x&F&2&F&2&F&2Silicon&x&4&2&C&8&F&5 Gambeson'
+    lore:
+    - ''
+    - '&7A gambeson made of Silicon.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  TOOL_SWORD:
+    name: '&x&4&2&C&8&F&5Error'
+    lore:
+    - ''
+    - '&7Error'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_GAMBESON_CARBON_MESH:
+    name: '&x&1&9&2&9&2&7Carbon Mesh&x&4&2&C&8&F&5 Gambeson'
+    lore:
+    - ''
+    - '&7A gambeson made of Carbon Mesh.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  TOOL_SHOVEL_EXP:
+    name: '&x&4&2&C&8&F&5Error'
+    lore:
+    - ''
+    - '&7Error'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_GAMBESON_RUBBER:
+    name: '&x&3&8&4&1&4&DRubber&x&4&2&C&8&F&5 Gambeson'
+    lore:
+    - ''
+    - '&7A gambeson made of Rubber.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_GAMBESON_VINE:
+    name: '&x&4&C&A&8&6&BVine&x&4&2&C&8&F&5 Gambeson'
+    lore:
+    - ''
+    - '&7A gambeson made of Vine.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  ARMOUR_CHESTPLATE:
+    name: '&x&4&2&C&8&F&5Error'
+    lore:
+    - ''
+    - '&7Error'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_TOOL_ROD:
+    name: '&x&4&2&C&8&F&5Error'
+    lore:
+    - ''
+    - '&7Error'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  ARMOUR_LEGGINGS:
+    name: '&x&4&2&C&8&F&5Error'
+    lore:
+    - ''
+    - '&7Error'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_BINDING_SLIME:
+    name: '&x&2&9&E&0&1&FSlime&x&4&2&C&8&F&5 Binding'
+    lore:
+    - ''
+    - '&7A binding made of Slime.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_LEG_PLATES:
+    name: '&x&4&2&C&8&F&5Error'
+    lore:
+    - ''
+    - '&7Error'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_BINDING_LEATHER:
+    name: '&x&9&1&8&0&5&6Leather&x&4&2&C&8&F&5 Binding'
+    lore:
+    - ''
+    - '&7A binding made of Leather.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_BINDING_TWISTED_VINE:
+    name: '&x&1&B&8&0&4&5Twisted Vine&x&4&2&C&8&F&5 Binding'
+    lore:
+    - ''
+    - '&7A binding made of Twisted Vine.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_GAMBESON_WARPED_ROOT:
+    name: '&x&3&6&B&5&4&9Warped Root&x&4&2&C&8&F&5 Gambeson'
+    lore:
+    - ''
+    - '&7A gambeson made of Warped Root.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  TOOL_PICKAXE:
+    name: '&x&4&2&C&8&F&5Error'
+    lore:
+    - ''
+    - '&7Error'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_CHEST_PLATES:
+    name: '&x&4&2&C&8&F&5Error'
+    lore:
+    - ''
+    - '&7Error'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_GAMBESON_STRING:
+    name: '&x&F&5&F&5&F&5String&x&4&2&C&8&F&5 Gambeson'
+    lore:
+    - ''
+    - '&7A gambeson made of String.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  TOOL_HOE_EXP:
+    name: '&x&4&2&C&8&F&5Error'
+    lore:
+    - ''
+    - '&7Error'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_GAMBESON_CRIMSON_ROOT:
+    name: '&x&B&5&3&6&5&ECrimson Root&x&4&2&C&8&F&5 Gambeson'
+    lore:
+    - ''
+    - '&7A gambeson made of Crimson Root.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  ARMOUR_HELM:
+    name: '&x&4&2&C&8&F&5Error'
+    lore:
+    - ''
+    - '&7Error'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_PICKAXE_HEAD:
+    name: '&x&4&2&C&8&F&5Error'
+    lore:
+    - ''
+    - '&7Error'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_BOOTS_PLATES:
+    name: '&x&4&2&C&8&F&5Error'
+    lore:
+    - ''
+    - '&7Error'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_BINDING_CARBON_MESH:
+    name: '&x&1&9&2&9&2&7Carbon Mesh&x&4&2&C&8&F&5 Binding'
+    lore:
+    - ''
+    - '&7A binding made of Carbon Mesh.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_BINDING_VINE:
+    name: '&x&4&C&A&8&6&BVine&x&4&2&C&8&F&5 Binding'
+    lore:
+    - ''
+    - '&7A binding made of Vine.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_BINDING_RUBBER:
+    name: '&x&3&8&4&1&4&DRubber&x&4&2&C&8&F&5 Binding'
+    lore:
+    - ''
+    - '&7A binding made of Rubber.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HELM_PLATES:
+    name: '&x&4&2&C&8&F&5Error'
+    lore:
+    - ''
+    - '&7Error'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_SHOVEL_HEAD:
+    name: '&x&4&2&C&8&F&5Error'
+    lore:
+    - ''
+    - '&7Error'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_REPAIR_KIT:
+    name: '&x&4&2&C&8&F&5Error'
+    lore:
+    - ''
+    - '&7Error'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  TOOL_AXE:
+    name: '&x&4&2&C&8&F&5Error'
+    lore:
+    - ''
+    - '&7Error'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_AXE_HEAD:
+    name: '&x&4&2&C&8&F&5Error'
+    lore:
+    - ''
+    - '&7Error'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_HOE_HEAD:
+    name: '&x&4&2&C&8&F&5Error'
+    lore:
+    - ''
+    - '&7Error'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  ARMOUR_BOOTS:
+    name: '&x&4&2&C&8&F&5Error'
+    lore:
+    - ''
+    - '&7Error'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_GAMBESON_SLIME:
+    name: '&x&2&9&E&0&1&FSlime&x&4&2&C&8&F&5 Gambeson'
+    lore:
+    - ''
+    - '&7A gambeson made of Slime.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_GAMBESON_LEATHER:
+    name: '&x&9&1&8&0&5&6Leather&x&4&2&C&8&F&5 Gambeson'
+    lore:
+    - ''
+    - '&7A gambeson made of Leather.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_BINDING_WARPED_ROOT:
+    name: '&x&3&6&B&5&4&9Warped Root&x&4&2&C&8&F&5 Binding'
+    lore:
+    - ''
+    - '&7A binding made of Warped Root.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_SWORD_BLADE:
+    name: '&x&4&2&C&8&F&5Error'
+    lore:
+    - ''
+    - '&7Error'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  TOOL_HOE:
+    name: '&x&4&2&C&8&F&5Error'
+    lore:
+    - ''
+    - '&7Error'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  TOOL_SHOVEL:
+    name: '&x&4&2&C&8&F&5Error'
+    lore:
+    - ''
+    - '&7Error'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  TOOL_SWORD_EXP:
+    name: '&x&4&2&C&8&F&5Error'
+    lore:
+    - ''
+    - '&7Error'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_GAMBESON_SLIME_STEEL:
+    name: '&x&A&E&D&1&9&7Slime Steel&x&4&2&C&8&F&5 Gambeson'
+    lore:
+    - ''
+    - '&7A gambeson made of Slime Steel.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  PART_BINDING_WEEPING_VINE:
+    name: '&x&9&C&0&9&1&DWeeping Vine&x&4&2&C&8&F&5 Binding'
+    lore:
+    - ''
+    - '&7A binding made of Weeping Vine.'
+    - ''
+    - '&x&F&0&E&A&4&FPart'
+  TOOL_PICKAXE_EXP:
+    name: '&x&4&2&C&8&F&5Error'
+    lore:
+    - ''
+    - '&7Error'
+    - ''
+    - '&x&F&0&E&A&4&FPart'

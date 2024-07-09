@@ -1,0 +1,10 @@
+name: SoundMuffler
+translations:
+  SOUND_MUFFLER:
+    name: '&3Sound Muffler'
+    lore:
+    - ''
+    - '&7Muffles all sound in a'
+    - '&78 block radius'
+    - ''
+    - '&e⚡ Requires power to use'

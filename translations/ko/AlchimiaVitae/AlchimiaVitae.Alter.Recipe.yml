@@ -1,0 +1,12 @@
+name: AlchimiaVitae
+translations:
+  AV_DAMASCUS_STEEL_INGOT:
+    name: '&bDamascus Steel Ingot'
+  AV_HARDENED_METAL_INGOT:
+    name: '&b&lHardened Metal'
+  AV_REINFORCED_ALLOY_INGOT:
+    name: '&b&lReinforced Alloy Ingot'
+  AV_STEEL_INGOT:
+    name: '&bSteel Ingot'
+  AV_COMPRESSED_CARBON:
+    name: '&cCompressed Carbon'

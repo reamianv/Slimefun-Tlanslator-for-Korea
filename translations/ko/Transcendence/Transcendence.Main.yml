@@ -1,0 +1,196 @@
+name: TranscEndence
+translations:
+  QUIRP_CYCLER:
+    name: '&cQuirp Cycler'
+    lore:
+    - Rotates Quirps
+    - ''
+    - '&6Advanced Machine'
+    - '&8⇨ &e⚡ &71024 J Buffer'
+    - '&8⇨ &e⚡ &7512 J/s'
+  ZOT_DOWN:
+    name: '&aZot Down'
+    lore:
+    - '&9Concentrated matter'
+    - '&7Charge: &e0/1000'
+  ZOT_UP:
+    name: '&aZot Up'
+    lore:
+    - '&9Concentrated matter'
+    - '&7Charge: &e0/1000'
+  NANOBOT_CRAFTER:
+    name: '&cNanobot Crafter'
+    lore:
+    - Allows particle manipulation
+  DAXI_SATURATION:
+    name: '&aDaxi (H)'
+    lore:
+    - '&9Right click to unleash its power'
+    - '&9F5 mode recommended!'
+  QUIRP_SCATTERER:
+    name: '&cQuirp Scatterer'
+    lore:
+    - Einstein anyone?
+    - ''
+    - '&4End-Game Generator'
+    - '&8⇨ &e⚡ &765536 J Buffer'
+    - '&8⇨ &e⚡ &71356 J/s'
+  STABLEBLOCK:
+    name: '&cStable Block'
+    lore:
+    - '&9Priceless material'
+  ZOT_LEFT_2:
+    name: '&cZot Left'
+    lore:
+    - '&9Concentrated matter'
+    - '&7Charge: &c1000/1000'
+  TE_INFO:
+    name: '&5TranscEndence Info'
+    lore:
+    - ''
+    - '&eTranscEndence Dev - 44'
+    - ''
+    - '&e/te guide &7to get a quick guide'
+    - '&e/te walkthrough &7to get the in depth'
+    - '&7guide/walkthrough link'
+  ZOT_DOWN_2:
+    name: '&cZot Down'
+    lore:
+    - '&9Concentrated matter'
+    - '&7Charge: &c1000/1000'
+  QUIRP_UP:
+    name: '&aQuirp Up'
+    lore:
+    - '&9Fundamental particle of the Universe'
+  UNSTABLEINGOT:
+    name: '&4Unstable Ingot'
+    lore:
+    - '&9Kills you if held for'
+    - '&9more than a few instants'
+    - ''
+    - '&cUNSTABLE - Use cargo if possible'
+  UNSTABLEINGOT2:
+    name: '&4Unstable Ingot 75%'
+    lore:
+    - '&9Kills you if held for'
+    - '&9more than a few instants'
+    - ''
+    - '&cUNSTABLE - Use cargo if possible'
+  DAXI_REGENERATION:
+    name: '&aDaxi (R)'
+    lore:
+    - '&9Right click to unleash its power'
+    - '&9F5 mode recommended!'
+  ZOT_RIGHT_2:
+    name: '&cZot Right'
+    lore:
+    - '&9Concentrated matter'
+    - '&7Charge: &c1000/1000'
+  ZOT_UP_2:
+    name: '&cZot Up'
+    lore:
+    - '&9Concentrated matter'
+    - '&7Charge: &c1000/1000'
+  UNSTABLEINGOT4:
+    name: '&4Unstable Ingot 25%'
+    lore:
+    - '&9Kills you if held for'
+    - '&9more than a few instants'
+    - ''
+    - '&cUNSTABLE - Use cargo if possible'
+  STABLEINGOT:
+    name: '&cStable Ingot'
+    lore:
+    - '&9Priceless material'
+  UNSTABLEINGOT3:
+    name: '&4Unstable Ingot 50%'
+    lore:
+    - '&9Kills you if held for'
+    - '&9more than a few instants'
+    - ''
+    - '&cUNSTABLE - Use cargo if possible'
+  DAXI_FORTITUDE:
+    name: '&aDaxi (F)'
+    lore:
+    - '&9Right click to unleash its power'
+    - '&9F5 mode recommended!'
+  VERTICAL_POLARIZER:
+    name: '&5Vertical Polarizer'
+    lore:
+    - '&9Focuses Oscillator on vertical spins'
+    - '&cIncreased chance for vertical spin quirps'
+  ZOT_RIGHT:
+    name: '&aZot Right'
+    lore:
+    - '&9Concentrated matter'
+    - '&7Charge: &e0/1000'
+  ZOT_OVERLOADER:
+    name: '&9Zot Overloader'
+    lore:
+    - Even higher power concentrations
+    - '&cWorks only in the end!'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &71024 J Buffer'
+    - '&8⇨ &e⚡ &7512 J/s'
+  ZOT_LEFT:
+    name: '&aZot Left'
+    lore:
+    - '&9Concentrated matter'
+    - '&7Charge: &e0/1000'
+  STABILIZER:
+    name: '&cStabilizer'
+    lore:
+    - A controlled environment
+    - ''
+    - '&6Advanced Machine'
+    - '&8⇨ &e⚡ &71024 J Buffer'
+    - '&8⇨ &e⚡ &7512 J/s'
+  QUIRP_LEFT:
+    name: '&aQuirp Left'
+    lore:
+    - '&9Fundamental particle of the Universe'
+  QUIRP_ANNIHILATOR:
+    name: '&cQuirp Annihilator'
+    lore:
+    - Condesates opposite Quirps
+    - ''
+    - '&6Advanced Machine'
+    - '&8⇨ &e⚡ &71024 J Buffer'
+    - '&8⇨ &e⚡ &7512 J/s'
+  DAXI_STRENGTH:
+    name: '&aDaxi (S)'
+    lore:
+    - '&9Right click to unleash its power'
+    - '&9F5 mode recommended!'
+  QUIRP_DOWN:
+    name: '&aQuirp Down'
+    lore:
+    - '&9Fundamental particle of the Universe'
+  QUIRP_RIGHT:
+    name: '&aQuirp Right'
+    lore:
+    - '&9Fundamental particle of the Universe'
+  QUIRPCONDENSATE:
+    name: '&5Quirp Condensate'
+    lore:
+    - '&9An energy singularity'
+  QUIRP_OSCILLATOR:
+    name: '&9Quirp Oscillator'
+    lore:
+    - Harnesses Quirps from the void
+    - '&cWorks only in the end!'
+    - ''
+    - '&6Advanced Machine'
+    - '&8⇨ &e⚡ &7512 J Buffer'
+    - '&8⇨ &e⚡ &7256 J/s'
+  HORIZONTAL_POLARIZER:
+    name: '&5Horizontal Polarizer'
+    lore:
+    - '&9Focuses Oscillator on horizontal spins'
+    - '&cIncreased chance for horizontal spin quirps'
+  DAXI_ABSORPTION:
+    name: '&aDaxi (A)'
+    lore:
+    - '&9Right click to unleash its power'
+    - '&9F5 mode recommended!'

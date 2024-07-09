@@ -1,0 +1,250 @@
+name: Supreme
+translations:
+  SUPREME_LEGGINGS_LEGENDARY:
+    name: '[Netherite Leggings]'
+    lore:
+    - ''
+    - '&bSoulbound'
+    - '&5Speed III'
+    - '&5Fast digging III'
+    - '&5Regeneration III'
+  SUPREME_LEGGINGS_EPIC:
+    name: '[Netherite Leggings]'
+    lore:
+    - ''
+    - '&bSoulbound'
+    - '&5Speed II'
+    - '&5Fast digging II'
+    - '&5Regeneration II'
+  SUPREME_BOOTS_LEGENDARY:
+    name: '[Netherite Boots]'
+    lore:
+    - ''
+    - '&bSoulbound'
+    - '&5Dolphins grace III'
+    - '&5Fire resistance III'
+  SUPREME_LEGGINGS_THORNIUM:
+    name: '[Netherite Leggings]'
+    lore:
+    - ''
+    - '&bSoulbound'
+    - '&5Speed I'
+    - '&5Fast digging I'
+    - '&5Regeneration I'
+  SUPREME_ADAMANTIUM_HELMET:
+    name: '[Diamond Helmet]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_AURUM_BOOTS:
+    name: '[Diamond Boots]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_TITANIUM_HELMET:
+    name: '[Diamond Helmet]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_AURUM_CHESTPLATE:
+    name: '[Diamond Chestplate]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_LEGGINGS_SUPREME:
+    name: '[Netherite Leggings]'
+    lore:
+    - ''
+    - '&bSoulbound'
+    - '&5Speed III'
+    - '&5Fast digging III'
+    - '&5Regeneration III'
+  SUPREME_HELMET_THORNIUM:
+    name: '[Netherite Helmet]'
+    lore:
+    - ''
+    - '&bSoulbound'
+    - '&5Night vision I'
+    - '&5Conduit power I'
+    - '&5Water breathing I'
+  SUPREME_HELMET_SUPREME:
+    name: '[Netherite Helmet]'
+    lore:
+    - ''
+    - '&bSoulbound'
+    - '&5Night vision III'
+    - '&5Conduit power III'
+    - '&5Water breathing III'
+  SUPREME_CHESTPLATE_RARE:
+    name: '[Netherite Chestplate]'
+    lore:
+    - ''
+    - '&bSoulbound'
+    - '&5Damage resistance II'
+    - '&5Increase damage II'
+    - '&5Saturation II'
+  SUPREME_HELMET_LEGENDARY:
+    name: '[Netherite Helmet]'
+    lore:
+    - ''
+    - '&bSoulbound'
+    - '&5Night vision III'
+    - '&5Conduit power III'
+    - '&5Water breathing III'
+  SUPREME_TITANIUM_LEGGINGS:
+    name: '[Diamond Leggings]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_LEGGINGS_MAGIC:
+    name: '[Netherite Leggings]'
+    lore:
+    - ''
+    - '&bSoulbound'
+    - '&5Speed I'
+    - '&5Fast digging I'
+    - '&5Regeneration I'
+  SUPREME_AURUM_HELMET:
+    name: '[Diamond Helmet]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_BOOTS_RARE:
+    name: '[Netherite Boots]'
+    lore:
+    - ''
+    - '&bSoulbound'
+    - '&5Dolphins grace II'
+    - '&5Fire resistance II'
+  SUPREME_TITANIUM_BOOTS:
+    name: '[Diamond Boots]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_ADAMANTIUM_BOOTS:
+    name: '&f&lAdamantium Boots'
+    lore:
+    - '&f&lA Boots of Adamantium'
+    - ''
+    - '&3Supreme Armor'
+    - '&bSoulbound'
+  SUPREME_ADAMANTIUM_CHESTPLATE:
+    name: '[Diamond Chestplate]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_CHESTPLATE_EPIC:
+    name: '[Netherite Chestplate]'
+    lore:
+    - ''
+    - '&bSoulbound'
+    - '&5Damage resistance II'
+    - '&5Increase damage II'
+    - '&5Saturation II'
+  SUPREME_LEGGINGS_RARE:
+    name: '[Netherite Leggings]'
+    lore:
+    - ''
+    - '&bSoulbound'
+    - '&5Speed II'
+    - '&5Fast digging II'
+    - '&5Regeneration II'
+  SUPREME_AURUM_LEGGINGS:
+    name: '[Diamond Leggings]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_HELMET_EPIC:
+    name: '[Netherite Helmet]'
+    lore:
+    - ''
+    - '&bSoulbound'
+    - '&5Night vision II'
+    - '&5Conduit power II'
+    - '&5Water breathing II'
+  SUPREME_CHESTPLATE_THORNIUM:
+    name: '[Netherite Chestplate]'
+    lore:
+    - ''
+    - '&bSoulbound'
+    - '&5Damage resistance I'
+    - '&5Increase damage I'
+    - '&5Saturation I'
+  SUPREME_HELMET_RARE:
+    name: '[Netherite Helmet]'
+    lore:
+    - ''
+    - '&bSoulbound'
+    - '&5Night vision II'
+    - '&5Conduit power II'
+    - '&5Water breathing II'
+  SUPREME_CHESTPLATE_MAGIC:
+    name: '[Netherite Chestplate]'
+    lore:
+    - ''
+    - '&bSoulbound'
+    - '&5Damage resistance I'
+    - '&5Increase damage I'
+    - '&5Saturation I'
+  SUPREME_HELMET_MAGIC:
+    name: '[Netherite Helmet]'
+    lore:
+    - ''
+    - '&bSoulbound'
+    - '&5Night vision I'
+    - '&5Conduit power I'
+    - '&5Water breathing I'
+  SUPREME_CHESTPLATE_LEGENDARY:
+    name: '[Netherite Chestplate]'
+    lore:
+    - ''
+    - '&bSoulbound'
+    - '&5Damage resistance III'
+    - '&5Increase damage III'
+    - '&5Saturation III'
+  SUPREME_BOOTS_THORNIUM:
+    name: '[Netherite Boots]'
+    lore:
+    - ''
+    - '&bSoulbound'
+    - '&5Dolphins grace I'
+    - '&5Fire resistance I'
+  SUPREME_ADAMANTIUM_LEGGINGS:
+    name: '[Diamond Leggings]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_BOOTS_MAGIC:
+    name: '[Netherite Boots]'
+    lore:
+    - ''
+    - '&bSoulbound'
+    - '&5Dolphins grace I'
+    - '&5Fire resistance I'
+  SUPREME_BOOTS_EPIC:
+    name: '[Netherite Boots]'
+    lore:
+    - ''
+    - '&bSoulbound'
+    - '&5Dolphins grace II'
+    - '&5Fire resistance II'
+  SUPREME_CHESTPLATE_SUPREME:
+    name: '[Netherite Chestplate]'
+    lore:
+    - ''
+    - '&bSoulbound'
+    - '&5Damage resistance III'
+    - '&5Increase damage III'
+    - '&5Saturation III'
+  SUPREME_TITANIUM_CHESTPLATE:
+    name: '[Diamond Chestplate]'
+    lore:
+    - ''
+    - '&bSoulbound'
+  SUPREME_BOOTS_SUPREME:
+    name: '[Netherite Boots]'
+    lore:
+    - ''
+    - '&bSoulbound'
+    - '&5Dolphins grace III'
+    - '&5Fire resistance III'

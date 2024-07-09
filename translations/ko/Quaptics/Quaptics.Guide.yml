@@ -1,0 +1,34 @@
+name: Quaptics
+translations:
+  QP_GUIDE_VIEWING_CONNECTION_INFORMATION:
+    name: '&x&6&6&C&C&F&FViewing Connection Information'
+    lore:
+    - '&8⇨ &7Click to open'
+  QP_GUIDE_INCREASING_FREQUENCY:
+    name: '&x&6&6&C&C&F&FIncreasing Frequency'
+    lore:
+    - '&8⇨ &7Click to open'
+  QP_GUIDE_BUILDING_MULTIBLOCKS:
+    name: '&x&6&6&C&C&F&FBuilding Multiblocks'
+    lore:
+    - '&8⇨ &7Click to open'
+  QP_GUIDE_GETTING_STARTED:
+    name: '&x&6&6&C&C&F&FGetting Started'
+    lore:
+    - '&8⇨ &7Click to open'
+  QP_GUIDE_GENERAL_TIPS:
+    name: '&x&6&6&C&C&F&FGeneral Tips'
+    lore:
+    - '&8⇨ &7Click to open'
+  QP_GUIDE_WHAT_IS_QUAPTICS:
+    name: '&x&6&6&C&C&F&FWhat Is Quaptics?'
+    lore:
+    - '&8⇨ &7Click to open'
+  QP_GUIDE_USING_A_RAY_GUN:
+    name: '&x&6&6&C&C&F&FUsing a Ray Gun'
+    lore:
+    - '&8⇨ &7Click to open'
+  QP_GUIDE_BURNOUT:
+    name: '&x&6&6&C&C&F&FComponent Burnout (and how to avoid it)'
+    lore:
+    - '&8⇨ &7Click to open'

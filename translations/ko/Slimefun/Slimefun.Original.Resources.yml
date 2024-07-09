@@ -1,0 +1,189 @@
+name: Slimefun
+translations:
+  SYNTHETIC_SAPPHIRE:
+    name: '&bSynthetic Sapphire'
+    lore:
+    - ''
+    - '&fThis item can be used in a'
+    - '&fworkbench and acts like Lapis Lazuli'
+  COPPER_DUST:
+    name: '&6Copper Dust'
+  BUCKET_OF_OIL:
+    name: '&fBucket of Oil'
+  GOLD_DUST:
+    name: '&6Gold Dust'
+  DURALUMIN_INGOT:
+    name: '&bDuralumin Ingot'
+  CARBONADO:
+    name: '&b&lCarbonado'
+    lore:
+    - ''
+    - '&7&o"Black Diamond"'
+  SYNTHETIC_DIAMOND:
+    name: '&bSynthetic Diamond'
+    lore:
+    - ''
+    - '&fThis item can be used in a'
+    - '&fworkbench and acts like a normal Diamond'
+  FERROSILICON:
+    name: '&bFerrosilicon'
+  BUCKET_OF_FUEL:
+    name: '&fBucket of Fuel'
+  STEEL_INGOT:
+    name: '&bSteel Ingot'
+  DAMASCUS_STEEL_INGOT:
+    name: '&bDamascus Steel Ingot'
+  SYNTHETIC_EMERALD:
+    name: '&bSynthetic Emerald'
+    lore:
+    - ''
+    - '&fThis item can be used to'
+    - '&ftrade with Villagers'
+  SULFATE:
+    name: '&6Sulfate'
+  COPPER_INGOT:
+    name: '&bCopper Ingot'
+  NICKEL_INGOT:
+    name: '&bNickel Ingot'
+  HARDENED_METAL_INGOT:
+    name: '&b&lHardened Metal'
+  SILVER_INGOT:
+    name: '&bSilver Ingot'
+  PLUTONIUM:
+    name: '&7Plutonium'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &cVERY HIGH'
+    - '&8⇨ &4Hazmat Suit required!'
+  SILICON:
+    name: '&6Silicon'
+  MAGNESIUM_DUST:
+    name: '&6Magnesium'
+  GOLD_8K:
+    name: '&fGold Ingot &7(8-Carat)'
+  GOLD_4K:
+    name: '&fGold Ingot &7(4-Carat)'
+  CARBON_CHUNK:
+    name: '&4Carbon Chunk'
+  BRASS_INGOT:
+    name: '&bBrass Ingot'
+  GOLD_14K:
+    name: '&fGold Ingot &7(14-Carat)'
+  ZINC_INGOT:
+    name: '&bZinc Ingot'
+  SOLDER_INGOT:
+    name: '&bSolder Ingot'
+  GOLD_22K:
+    name: '&fGold Ingot &7(22-Carat)'
+  GOLD_10K:
+    name: '&fGold Ingot &7(10-Carat)'
+  ALUMINUM_INGOT:
+    name: '&bAluminum Ingot'
+  GILDED_IRON:
+    name: '&6&lGilded Iron'
+  COMPRESSED_CARBON:
+    name: '&cCompressed Carbon'
+  GOLD_18K:
+    name: '&fGold Ingot &7(18-Carat)'
+  URANIUM:
+    name: '&4Uranium'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&8⇨ &4Hazmat Suit required!'
+  BILLON_INGOT:
+    name: '&bBillon Ingot'
+  BLISTERING_INGOT_2:
+    name: '&6Blistering Ingot &7(66%)'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &cVERY HIGH'
+    - '&8⇨ &4Hazmat Suit required!'
+  BLISTERING_INGOT_3:
+    name: '&6Blistering Ingot'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &cVERY HIGH'
+    - '&8⇨ &4Hazmat Suit required!'
+  TIN_DUST:
+    name: '&6Tin Dust'
+  REDSTONE_ALLOY:
+    name: '&cRedstone Alloy Ingot'
+  SILVER_DUST:
+    name: '&6Silver Dust'
+  MAGNESIUM_INGOT:
+    name: '&bMagnesium Ingot'
+  ALUMINUM_DUST:
+    name: '&6Aluminum Dust'
+  MAGNESIUM_SALT:
+    name: '&cMagnesium Salt'
+    lore:
+    - ''
+    - '&7A special type of fuel that can be'
+    - '&7used in a Magnesium-powered Generator'
+  BRONZE_INGOT:
+    name: '&bBronze Ingot'
+  ENRICHED_NETHER_ICE:
+    name: '&eEnriched Nether Ice'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &cVERY HIGH'
+    - '&8⇨ &4Hazmat Suit required!'
+  BOOSTED_URANIUM:
+    name: '&2Boosted Uranium'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &cVERY HIGH'
+    - '&8⇨ &4Hazmat Suit required!'
+  COBALT_INGOT:
+    name: '&9Cobalt Ingot'
+  BLISTERING_INGOT:
+    name: '&6Blistering Ingot &7(33%)'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&8⇨ &4Hazmat Suit required!'
+  ALUMINUM_BRASS_INGOT:
+    name: '&bAluminum Brass Ingot'
+  ALUMINUM_BRONZE_INGOT:
+    name: '&bAluminum Bronze Ingot'
+  REINFORCED_ALLOY_INGOT:
+    name: '&b&lReinforced Alloy Ingot'
+  LEAD_INGOT:
+    name: '&bLead Ingot'
+  CARBON:
+    name: '&eCarbon'
+  NETHER_ICE:
+    name: '&eNether Ice'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &eMODERATE'
+    - '&8⇨ &4Hazmat Suit required!'
+  CORINTHIAN_BRONZE_INGOT:
+    name: '&bCorinthian Bronze Ingot'
+  NEPTUNIUM:
+    name: '&aNeptunium'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&8⇨ &4Hazmat Suit required!'
+  IRON_DUST:
+    name: '&6Iron Dust'
+  GOLD_6K:
+    name: '&fGold Ingot &7(6-Carat)'
+  LEAD_DUST:
+    name: '&6Lead Dust'
+  GOLD_24K:
+    name: '&fGold Ingot &7(24-Carat)'
+  GOLD_12K:
+    name: '&fGold Ingot &7(12-Carat)'
+  TIN_INGOT:
+    name: '&bTin Ingot'
+  GOLD_20K:
+    name: '&fGold Ingot &7(20-Carat)'
+  RAW_CARBONADO:
+    name: '&bRaw Carbonado'
+  ZINC_DUST:
+    name: '&6Zinc Dust'
+  GOLD_16K:
+    name: '&fGold Ingot &7(16-Carat)'

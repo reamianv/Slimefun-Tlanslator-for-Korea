@@ -1,0 +1,78 @@
+name: Slimefun
+translations:
+  CHRISTMAS_MILK:
+    name: '&6Glass of Milk'
+    lore:
+    - ''
+    - '&7&oRestores &b&o2.5 &7&oHunger'
+  RAINBOW_WOOL_XMAS:
+    name: '&5Rainbow Wool &7(Christmas)'
+    lore:
+    - ''
+    - '&a[&cC&ah&cr&ai&cs&at&cm&aa&cs&a &cE&ad&ci&at&ci&ao&cn&a]'
+  RAINBOW_CONCRETE_XMAS:
+    name: '&5Rainbow Concrete &7(Christmas)'
+    lore:
+    - ''
+    - '&a[&cC&ah&cr&ai&cs&at&cm&aa&cs&a &cE&ad&ci&at&ci&ao&cn&a]'
+  RAINBOW_GLASS_XMAS:
+    name: '&5Rainbow Glass &7(Christmas)'
+    lore:
+    - ''
+    - '&a[&cC&ah&cr&ai&cs&at&cm&aa&cs&a &cE&ad&ci&at&ci&ao&cn&a]'
+  CHRISTMAS_APPLE_PIE:
+    name: '&fApple Pie'
+  CHRISTMAS_CAKE:
+    name: '&aC&ch&ar&ci&as&ct&am&ca&as&c &aC&ca&ak&ce'
+  CHRISTMAS_COOKIE:
+    name: '&aC&ch&ar&ci&as&ct&am&ca&as&c &aC&co&ao&ck&ai&ce'
+  CHRISTMAS_FRUIT_CAKE:
+    name: '&aF&cr&au&ci&at&c &aC&ca&ak&ce'
+  CHRISTMAS_CARAMEL_APPLE:
+    name: '&6Caramel Apple'
+  CHRISTMAS_EGG_NOG:
+    name: '&aEgg Nog'
+    lore:
+    - ''
+    - '&7&oRestores &b&o3.5 &7&oHunger'
+  CHRISTMAS_CARAMEL:
+    name: '&6Caramel'
+  CHRISTMAS_CHOCOLATE_MILK:
+    name: '&6Chocolate Milk'
+    lore:
+    - ''
+    - '&7&oRestores &b&o6.0 &7&oHunger'
+  CHRISTMAS_HOT_CHOCOLATE:
+    name: '&6Hot Chocolate'
+    lore:
+    - ''
+    - '&7&oRestores &b&o7.0 &7&oHunger'
+  RAINBOW_GLASS_PANE_XMAS:
+    name: '&5Rainbow Glass Pane &7(Christmas)'
+    lore:
+    - ''
+    - '&a[&cC&ah&cr&ai&cs&at&cm&aa&cs&a &cE&ad&ci&at&ci&ao&cn&a]'
+  CHRISTMAS_APPLE_CIDER:
+    name: '&cApple Cider'
+    lore:
+    - ''
+    - '&7&oRestores &b&o7.0 &7&oHunger'
+  CHRISTMAS_CHOCOLATE_APPLE:
+    name: '&6Chocolate Apple'
+  CHRISTMAS_PRESENT:
+    name: '&aC&ch&ar&ci&as&ct&am&ca&as&c &aP&cr&ae&cs&ae&cn&at'
+    lore:
+    - '&7From: &cTheBusyBiscuit'
+    - '&7To: &eYou'
+    - ''
+    - '&eRight Click&7 to open'
+  RAINBOW_GLAZED_TERRACOTTA_XMAS:
+    name: '&5Rainbow Glazed Terracotta &7(Christmas)'
+    lore:
+    - ''
+    - '&a[&cC&ah&cr&ai&cs&at&cm&aa&cs&a &cE&ad&ci&at&ci&ao&cn&a]'
+  RAINBOW_CLAY_XMAS:
+    name: '&5Rainbow Clay &7(Christmas)'
+    lore:
+    - ''
+    - '&a[&cC&ah&cr&ai&cs&at&cm&aa&cs&a &cE&ad&ci&at&ci&ao&cn&a]'

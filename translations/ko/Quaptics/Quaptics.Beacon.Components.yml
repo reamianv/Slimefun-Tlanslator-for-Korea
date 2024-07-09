@@ -1,0 +1,82 @@
+name: Quaptics
+translations:
+  QP_BEACON_ROD:
+    name: '&dBeacon Rod'
+    lore:
+    - '&x&F&F&D&B&4&DIntermediate'
+    - '&3★&x&6&6&6&6&9&9 Multiblock Component'
+  QP_BEACON_POWER_SUPPLY_2:
+    name: '&dBeacon Power Supply &5II'
+    lore:
+    - '&x&F&F&6&6&0&0Advanced'
+    - '&3★&x&6&6&6&6&9&9 Multiblock Component'
+  QP_BEACON_POWER_SUPPLY_1:
+    name: '&dBeacon Power Supply &5I'
+    lore:
+    - '&x&F&F&D&B&4&DIntermediate'
+    - '&3★&x&6&6&6&6&9&9 Multiblock Component'
+  QP_BEACON_TRANSMITTER:
+    name: '&dBeacon Transmitter'
+    lore:
+    - '&x&F&F&D&B&4&DIntermediate'
+    - '&3★&x&6&6&6&6&9&9 Multiblock Component'
+  QP_BEACON_BATTERY_1:
+    name: '&dBeacon Battery &5I'
+    lore:
+    - '&x&F&F&6&6&0&0Advanced'
+    - '&3★&x&6&6&6&6&9&9 Multiblock Component'
+  QP_BEACON_BATTERY_2:
+    name: '&dBeacon Battery &5II'
+    lore:
+    - '&x&F&F&6&6&0&0Advanced'
+    - '&3★&x&6&6&6&6&9&9 Multiblock Component'
+  QP_BEACON_BEAM:
+    name: '&dBeacon Beam'
+    lore:
+    - '&x&F&F&D&B&4&DIntermediate'
+    - '&3★&x&6&6&6&6&9&9 Multiblock Component'
+  QP_BEACON_COMPUTER:
+    name: '&dBeacon Computer'
+    lore:
+    - '&x&F&F&D&B&4&DIntermediate'
+    - '&3★&x&6&6&6&6&9&9 Multiblock Component'
+  QP_BEACON_PANEL:
+    name: '&dBeacon Panel'
+    lore:
+    - '&x&F&F&D&B&4&DIntermediate'
+    - '&3★&x&6&6&6&6&9&9 Multiblock Component'
+  QP_BEACON_CONTROLLER_1:
+    name: '&dBeacon Controller &5I'
+    lore:
+    - '&x&F&F&D&B&4&DIntermediate'
+    - '&3★&x&6&6&6&6&9&9 Multiblock &8(right click with the Multiblock Wand)'
+    - '&7● Applies module effects in a range around it'
+    - '&7● &eRight Click &7a module slot with a module to insert'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e700 &7- &e1,000 &8W'
+    - '&8⇨ &x&0&0&F&F&0&0∀ &7Operating Frequency &e900+ &8Hz'
+    - '&8⇨ &x&E&0&8&5&C&2↔ &7Range &e15 &8blocks'
+  QP_BEACON_CONTROLLER_2:
+    name: '&dBeacon Controller &5II'
+    lore:
+    - '&x&F&F&6&6&0&0Advanced'
+    - '&3★&x&6&6&6&6&9&9 Multiblock &8(right click with the Multiblock Wand)'
+    - '&7● Applies module effects in a range around it'
+    - '&7● &eRight Click &7a module slot with a module to insert'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e1,800 &7- &e10,000 &8W'
+    - '&8⇨ &x&0&0&F&F&0&0∀ &7Operating Frequency &e6,500+ &8Hz'
+    - '&8⇨ &x&E&0&8&5&C&2↔ &7Range &e40 &8blocks'
+  QP_BEACON_CONTROLLER_3:
+    name: '&dBeacon Controller &5III'
+    lore:
+    - '&x&F&F&6&6&0&0Advanced'
+    - '&3★&x&6&6&6&6&9&9 Multiblock &8(right click with the Multiblock Wand)'
+    - '&7● Applies module effects in a range around it'
+    - '&7● &eRight Click &7a module slot with a module to insert'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e2,200 &7- &e10,000 &8W'
+    - '&8⇨ &x&0&0&F&F&0&0∀ &7Operating Frequency &e160,000+ &8Hz'
+    - '&8⇨ &x&E&0&8&5&C&2↔ &7Range &e60 &8blocks'
+  QP_BEACON_MATRIX:
+    name: '&dBeacon Matrix'
+    lore:
+    - '&x&F&F&6&6&0&0Advanced'
+    - '&3★&x&6&6&6&6&9&9 Multiblock Component'

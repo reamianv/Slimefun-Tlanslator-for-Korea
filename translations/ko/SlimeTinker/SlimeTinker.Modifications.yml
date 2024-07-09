@@ -1,0 +1,59 @@
+name: SlimeTinker
+translations:
+  MOD_PLATE_DUMMY:
+    name: '&x&B&F&3&0&7&FModification: Reinforced Plate'
+    lore:
+    - ''
+    - '&7A tool with this modification has a'
+    - '&7chance to not take durability damage. 10%'
+    - '&7per level - at Level 10 tools are unbreakable'
+    - ''
+    - '&x&F&0&E&A&4&FModification'
+  MOD_DIAMOND_DUMMY:
+    name: '&x&B&F&3&0&7&FModification: Diamond'
+    lore:
+    - ''
+    - '&7When applied to a tool, the holder'
+    - '&7has a chance to reflect damage taken'
+    - '&7back on to the attacker. 10% per level'
+    - ''
+    - '&x&F&0&E&A&4&FModification'
+  MOD_LAPIS_DUMMY:
+    name: '&x&B&F&3&0&7&FModification: Lapis'
+    lore:
+    - ''
+    - '&7When applied to a tool, the holder'
+    - '&7will drop bonus items from blocks or'
+    - '&7kills. Calculated after fortune/looting.'
+    - '&710% per level.'
+    - ''
+    - '&x&F&0&E&A&4&FModification'
+  MOD_REDSTONE_DUMMY:
+    name: '&x&B&F&3&0&7&FModification: Redstone'
+    lore:
+    - ''
+    - '&7When applied to a tool, the holder'
+    - '&7will be given Haste matching the level'
+    - '&7of the modification.'
+    - ''
+    - '&x&F&0&E&A&4&FModification'
+  MOD_QUARTZ_DUMMY:
+    name: '&x&B&F&3&0&7&FModification: Quartz'
+    lore:
+    - ''
+    - '&7When applied to a tool, the holder'
+    - '&7will deal bonus damage. Calculated after'
+    - '&7sharpness or other damage enchants.'
+    - '&720% per level'
+    - ''
+    - '&x&F&0&E&A&4&FModification'
+  MOD_EMERALD_DUMMY:
+    name: '&x&B&F&3&0&7&FModification: Emerald'
+    lore:
+    - ''
+    - '&7When applied to a tool, the holder'
+    - '&7will gain bonus tool EXP per action'
+    - '&7undertaken. +1 exp for tools and 10%'
+    - '&7for weapons.'
+    - ''
+    - '&x&F&0&E&A&4&FModification'

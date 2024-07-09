@@ -1,0 +1,46 @@
+name: FNAmplifications
+translations:
+  FN_MYSTERY_STICK_1:
+    name: '&cMysterious Stick'
+    lore:
+    - '&fI wonder what this stick does'
+  FN_MYSTERY_STICK_5:
+    name: '&cMysterious Stick V'
+    lore:
+    - '&fI know you are tired of this stick thing'
+  FN_MYSTERY_STICK_4:
+    name: '&cMysterious Stick IV'
+    lore:
+    - '&fDid I use this before or maybe not'
+  FN_MYSTERY_STICK_11:
+    name: '&cMysterious Stick XI'
+    lore:
+    - '&fThe stick of the nords'
+  FN_MYSTERY_STICK_3:
+    name: '&cMysterious Stick III'
+    lore:
+    - '&fI feel coordinated when holding this stick'
+  FN_MYSTERY_STICK_10:
+    name: '&cMysterious Stick X'
+    lore:
+    - '&fDeadly or creepy stick'
+  FN_MYSTERY_STICK_2:
+    name: '&cMysterious Stick II'
+    lore:
+    - '&fAnother stick of no matter what is it'
+  FN_MYSTERY_STICK_9:
+    name: '&cMysterious Stick IX'
+    lore:
+    - '&fYou need more mana when using this'
+  FN_MYSTERY_STICK_8:
+    name: '&cMysterious Stick VIII'
+    lore:
+    - '&fThis stick is kinda heavy'
+  FN_MYSTERY_STICK_7:
+    name: '&cMysterious Stick VII'
+    lore:
+    - '&fThe aura on this stick is mesmerizing'
+  FN_MYSTERY_STICK_6:
+    name: '&cMysterious Stick VI'
+    lore:
+    - '&fMay the force and accuracy be with you'

@@ -1,0 +1,96 @@
+name: FoxyMachines
+translations:
+  FIERY_LEGGINGS_FRAME:
+    name: '&fFiery Leggings Frame'
+    lore:
+    - ''
+    - '&7Crafting Material'
+  DAMIENIUM:
+    name: '&aDamienium'
+  REINFORCED_STRING:
+    name: '&bReinforced String'
+  DEMONIC_PLATE:
+    name: '&cDemonic Plate'
+  PIXIE_DUST:
+    name: '&ePixie Dust'
+    lore:
+    - ''
+    - '&7Strength IV'
+  VILE_SEEDS:
+    name: '&cVile Seeds'
+    lore:
+    - ''
+    - '&7Health Boost V'
+  MAGIC_LUMP_4:
+    name: '&6Magical Lump &7- &eIV'
+    lore:
+    - ''
+    - '&c&oTier: IV'
+  STABILIZED_BLISTERING_BLOCK:
+    name: '&bStabilized Blistering Block'
+    lore:
+    - ''
+    - '&7A stable material.'
+  BLOOD_INFUSED_SKULL:
+    name: '&cBlood Infused Skull'
+  MAGIC_LUMP_5:
+    name: '&6Magical Lump &7- &eV'
+    lore:
+    - ''
+    - '&c&oTier: V'
+  CURSED_SHARD:
+    name: '&cCursed Shard'
+    lore:
+    - '&7Crafting Material'
+    - '&7Will reset a Quest when thrown into an Altar...'
+  EQUANIMOUS_GEM:
+    name: '&aEquanimous Gem'
+  SWEETENED_SWEET_INGOT:
+    name: '&eSweetened Sweet Ingot'
+  NUCLEAR_SALT:
+    name: '&aNuclear Salt'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &cVERY HIGH'
+  CELESTIAL_SHARD:
+    name: '&eCelestial Shard'
+    lore:
+    - '&7Crafting Material'
+    - '&7Will reset a Quest when thrown into an Altar...'
+  AQUATIC_NETHERITE_INGOT:
+    name: '&bAquatic Netherite Ingot'
+  BUCKET_OF_BLOOD:
+    name: '&cBucket of Blood'
+  LIGHT_BOOTS_FRAME:
+    name: '&fLight Boots Frame'
+    lore:
+    - ''
+    - '&7Crafting Material'
+  HELMET_FRAME:
+    name: '&fAquatic Helmet Frame'
+    lore:
+    - ''
+    - '&7Crafting Material'
+  WIRELESS_TRANSMITTER:
+    name: '&fWireless Transmitter'
+  COMPRESSED_SPONGE:
+    name: '&fCompressed Sponge'
+  POSEIDONS_BLESSING:
+    name: '&bPoseidon''s Blessing'
+  DEMONIC_INGOT:
+    name: '&cDemonic Ingot'
+  SWEET_INGOT:
+    name: '&eSweet Ingot'
+  RESISTANT_CHESTPLATE_FRAME:
+    name: '&fResistant Chestplate Frame'
+    lore:
+    - ''
+    - '&7Crafting Material'
+  PURIFIED_BONE:
+    name: '&bPurified Bone'
+  PURE_BONE_DUST:
+    name: '&bPure Bone Dust'
+  FORCEFIELD_ENGINE:
+    name: '&fForcefield Engine'
+  FORCEFIELD_STABILIZER:
+    name: '&fForcefield Stabilizer'

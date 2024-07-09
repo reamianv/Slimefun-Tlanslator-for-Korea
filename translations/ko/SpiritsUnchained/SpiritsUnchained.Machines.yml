@@ -1,0 +1,35 @@
+name: SpiritsUnchained
+translations:
+  SU_ELECTRIC_SPIRIT_BOTTLER:
+    name: '&aElectric Spirit Bottler'
+    lore:
+    - ''
+    - '&7Automatically bottle Spirits'
+    - '&7By bottling the Spirits in a Radius of 10 blocks around the Machine.'
+    - ''
+    - '&6Advanced Machine'
+    - '&8⇨ &b⚡ &7Speed: &b1.0x'
+    - '&8⇨ &e⚡ &72000 J Buffer'
+    - '&8⇨ &e⚡ &7250 J/s'
+  SU_ELECTRIC_SPIRIT_CATCHER:
+    name: '&aElectric Spirit Catcher'
+    lore:
+    - ''
+    - '&7Automatically catch Spirits'
+    - '&7By catching the Spirits in a Radius of 10 blocks around the Machine.'
+    - ''
+    - '&6Advanced Machine'
+    - '&8⇨ &b⚡ &7Speed: &b1.0x'
+    - '&8⇨ &e⚡ &74000 J Buffer'
+    - '&8⇨ &e⚡ &7250 J/s'
+  SU_ELECTRIC_SPIRIT_WRITER:
+    name: '&aElectric Spirit Writer'
+    lore:
+    - ''
+    - '&7Automatically let Spirits Write to A Spirit Book'
+    - '&7By inputting a Captured Spirit and a Spirit Book to the Machine'
+    - ''
+    - '&6Advanced Machine'
+    - '&8⇨ &b⚡ &7Speed: &b1.0x'
+    - '&8⇨ &e⚡ &72000 J Buffer'
+    - '&8⇨ &e⚡ &7125 J/s'

@@ -1,0 +1,32 @@
+name: Slimefun
+translations:
+  RAINBOW_GLASS_HALLOWEEN:
+    name: '&5Rainbow Glass &7(Halloween)'
+    lore:
+    - ''
+    - '&c[&6Halloween Edition&c]'
+  RAINBOW_CLAY_HALLOWEEN:
+    name: '&5Rainbow Clay &7(Halloween)'
+    lore:
+    - ''
+    - '&c[&6Halloween Edition&c]'
+  RAINBOW_GLASS_PANE_HALLOWEEN:
+    name: '&5Rainbow Glass Pane &7(Halloween)'
+    lore:
+    - ''
+    - '&c[&6Halloween Edition&c]'
+  RAINBOW_GLAZED_TERRACOTTA_HALLOWEEN:
+    name: '&5Rainbow Glazed Terracotta &7(Halloween)'
+    lore:
+    - ''
+    - '&c[&6Halloween Edition&c]'
+  RAINBOW_WOOL_HALLOWEEN:
+    name: '&5Rainbow Wool &7(Halloween)'
+    lore:
+    - ''
+    - '&c[&6Halloween Edition&c]'
+  RAINBOW_CONCRETE_HALLOWEEN:
+    name: '&5Rainbow Concrete &7(Halloween)'
+    lore:
+    - ''
+    - '&c[&6Halloween Edition&c]'

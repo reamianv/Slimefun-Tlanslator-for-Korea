@@ -1,0 +1,136 @@
+name: Slimefun
+translations:
+  COOLER:
+    name: '&bCooler'
+    lore:
+    - '&fAllows you to store Juices/Smoothies'
+    - '&fand automatically consumes them when you are hungry'
+    - '&fand you have this in your Inventory'
+    - ''
+    - '&7Size: &e27'
+    - '&7ID: <ID>'
+    - ''
+    - '&eRight Click&7 to open'
+  TAPE_MEASURE:
+    name: '&6Tape Measure'
+    lore:
+    - ''
+    - '&eCrouch & Right Click &7to set an anchor'
+    - '&eRight Click &7to measure'
+  RESTORED_BACKPACK:
+    name: '&eRestored Backpack'
+    lore:
+    - ''
+    - '&7Retrieve your lost items'
+    - '&7ID: <ID>'
+    - ''
+    - '&eRight Click&7 to open'
+  MEDICINE:
+    name: '&cMedicine'
+    lore:
+    - ''
+    - '&aLevel III - Medical Supply'
+    - ''
+    - '&fRestores 4 Hearts'
+    - '&fExtinguishes Fire'
+    - '&fCures Poison/Wither/Radiation'
+  SPLINT:
+    name: '&cSplint'
+    lore:
+    - ''
+    - '&aLevel I - Medical Supply'
+    - ''
+    - '&fRestores 2 Hearts'
+    - ''
+    - '&eRight Click&7 to use'
+  MEDIUM_BACKPACK:
+    name: '&eBackpack'
+    lore:
+    - ''
+    - '&7Size: &e18'
+    - '&7ID: <ID>'
+    - ''
+    - '&eRight Click&7 to open'
+  PORTABLE_CRAFTER:
+    name: '&6Portable Crafter'
+    lore:
+    - '&a&oA portable Crafting Table'
+    - ''
+    - '&eRight Click&7 to open'
+  PORTABLE_DUSTBIN:
+    name: '&6Portable Dustbin'
+    lore:
+    - '&fYour portable Item-Destroyer'
+    - ''
+    - '&eRight Click&7 to open'
+  GILDED_BACKPACK:
+    name: '&eGilded Backpack'
+    lore:
+    - ''
+    - '&7Size: &e45'
+    - '&7ID: <ID>'
+    - ''
+    - '&eRight Click&7 to open'
+  RADIANT_BACKPACK:
+    name: '&eRadiant Backpack'
+    lore:
+    - ''
+    - '&7Size: &e54 (Double chest)'
+    - '&7ID: <ID>'
+    - ''
+    - '&eRight Click&7 to open'
+  RAG:
+    name: '&cRag'
+    lore:
+    - ''
+    - '&aLevel I - Medical Supply'
+    - ''
+    - '&fRestores 2 Hearts'
+    - '&fExtinguishes Fire'
+    - ''
+    - '&eRight Click&7 to use'
+  SMALL_BACKPACK:
+    name: '&eSmall Backpack'
+    lore:
+    - ''
+    - '&7Size: &e9'
+    - '&7ID: <ID>'
+    - ''
+    - '&eRight Click&7 to open'
+  VITAMINS:
+    name: '&cVitamins'
+    lore:
+    - ''
+    - '&aLevel III - Medical Supply'
+    - ''
+    - '&fRestores 4 Hearts'
+    - '&fExtinguishes Fire'
+    - '&fCures Poison/Wither/Radiation'
+    - ''
+    - '&eRight Click&7 to use'
+  BANDAGE:
+    name: '&cBandage'
+    lore:
+    - ''
+    - '&aLevel II - Medical Supply'
+    - ''
+    - '&fRestores 4 Hearts'
+    - '&fExtinguishes Fire'
+    - ''
+    - '&eRight Click&7 to use'
+  LARGE_BACKPACK:
+    name: '&eLarge Backpack'
+    lore:
+    - ''
+    - '&7Size: &e27'
+    - '&7ID: <ID>'
+    - ''
+    - '&eRight Click&7 to open'
+  WOVEN_BACKPACK:
+    name: '&eWoven Backpack'
+    lore:
+    - ''
+    - '&7Size: &e36'
+    - '&7ID: <ID>'
+    - ''
+    - '&eRight Click&7 to open'

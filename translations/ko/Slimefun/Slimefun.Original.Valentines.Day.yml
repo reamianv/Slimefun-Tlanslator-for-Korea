@@ -1,0 +1,32 @@
+name: Slimefun
+translations:
+  RAINBOW_GLASS_PANE_VALENTINE:
+    name: '&5Rainbow Glass Pane &7(Valentine''s Day)'
+    lore:
+    - ''
+    - '&5[&dValentine''s Day Edition&5]'
+  RAINBOW_GLASS_VALENTINE:
+    name: '&5Rainbow Glass &7(Valentine''s Day)'
+    lore:
+    - ''
+    - '&5[&dValentine''s Day Edition&5]'
+  RAINBOW_CLAY_VALENTINE:
+    name: '&5Rainbow Clay &7(Valentine''s Day)'
+    lore:
+    - ''
+    - '&5[&dValentine''s Day Edition&5]'
+  RAINBOW_GLAZED_TERRACOTTA_VALENTINE:
+    name: '&5Rainbow Glazed Terracotta &7(Valentine''s Day)'
+    lore:
+    - ''
+    - '&5[&dValentine''s Day Edition&5]'
+  RAINBOW_WOOL_VALENTINE:
+    name: '&5Rainbow Wool &7(Valentine''s Day)'
+    lore:
+    - ''
+    - '&5[&dValentine''s Day Edition&5]'
+  RAINBOW_CONCRETE_VALENTINE:
+    name: '&5Rainbow Concrete &7(Valentine''s Day)'
+    lore:
+    - ''
+    - '&5[&dValentine''s Day Edition&5]'

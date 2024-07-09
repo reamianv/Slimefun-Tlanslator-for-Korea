@@ -1,0 +1,25 @@
+name: FluffyMachines
+translations:
+  ENDER_CHEST_EXTRACTION_NODE:
+    name: '&6Ender Chest Extraction Node'
+    lore:
+    - ''
+    - '&7Place this on the side of an &5Ender Chest &7to bind'
+    - ''
+    - '&7This will move items from the facing &5Ender Chest'
+    - '&7to the &6Container &7behind it'
+  ENDER_CHEST_INSERTION_NODE:
+    name: '&bEnder Chest Insertion Node'
+    lore:
+    - ''
+    - '&7Place this on the side of an &5Ender Chest &7to bind'
+    - ''
+    - '&7This will move items to the facing &5Ender Chest'
+    - '&7from the &6Container &7behind it'
+  CARGO_MANIPULATOR:
+    name: '&9Cargo Manipulator'
+    lore:
+    - ''
+    - '&eRight Click &7to copy cargo node settings'
+    - '&eLeft Click &7to paste cargo node settings'
+    - '&eSneak and Right Click &7to clear a cargo node'

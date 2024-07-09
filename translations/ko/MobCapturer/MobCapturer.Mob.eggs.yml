@@ -1,0 +1,440 @@
+name: MobCapturer
+translations:
+  MOB_EGG_CAMEL:
+    name: '&aMob Egg &7(Camel)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_FOX:
+    name: '&aMob Egg &7(Fox)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_ALLAY:
+    name: '&aMob Egg &7(Allay)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_WOLF:
+    name: '&aMob Egg &7(Wolf)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_PUFFERFISH:
+    name: '&aMob Egg &7(Pufferfish)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_ILLUSIONER:
+    name: '&aMob Egg &7(Illusioner)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_EVOKER:
+    name: '&aMob Egg &7(Evoker)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_PIGLIN_BRUTE:
+    name: '&aMob Egg &7(Piglin Brute)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_PHANTOM:
+    name: '&aMob Egg &7(Phantom)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_ZOMBIE_HORSE:
+    name: '&aMob Egg &7(Zombie Horse)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_ELDER_GUARDIAN:
+    name: '&aMob Egg &7(Elder Guardian)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_CAT:
+    name: '&aMob Egg &7(Cat)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_IRON_GOLEM:
+    name: '&aMob Egg &7(Iron Golem)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_SNIFFER:
+    name: '&aMob Egg &7(Sniffer)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_WITCH:
+    name: '&aMob Egg &7(Witch)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_RAVAGER:
+    name: '&aMob Egg &7(Ravager)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_SALMON:
+    name: '&aMob Egg &7(Salmon)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_PANDA:
+    name: '&aMob Egg &7(Panda)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_DONKEY:
+    name: '&aMob Egg &7(Donkey)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_STRAY:
+    name: '&aMob Egg &7(Stray)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_MUSHROOM_COW:
+    name: '&aMob Egg &7(Mushroom Cow)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_SPIDER:
+    name: '&aMob Egg &7(Spider)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_SQUID:
+    name: '&aMob Egg &7(Squid)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_SKELETON:
+    name: '&aMob Egg &7(Skeleton)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_VEX:
+    name: '&aMob Egg &7(Vex)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_SLIME:
+    name: '&aMob Egg &7(Slime)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_HORSE:
+    name: '&aMob Egg &7(Horse)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_CHICKEN:
+    name: '&aMob Egg &7(Chicken)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_GHAST:
+    name: '&aMob Egg &7(Ghast)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_TURTLE:
+    name: '&aMob Egg &7(Turtle)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_POLAR_BEAR:
+    name: '&aMob Egg &7(Polar Bear)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_STRIDER:
+    name: '&aMob Egg &7(Strider)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_DROWNED:
+    name: '&aMob Egg &7(Drowned)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_AXOLOTL:
+    name: '&aMob Egg &7(Axolotl)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_BLAZE:
+    name: '&aMob Egg &7(Blaze)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_LLAMA:
+    name: '&aMob Egg &7(Llama)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_PIGLIN:
+    name: '&aMob Egg &7(Piglin)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_COW:
+    name: '&aMob Egg &7(Cow)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_SILVERFISH:
+    name: '&aMob Egg &7(Silverfish)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_SHEEP:
+    name: '&aMob Egg &7(Sheep)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_GUARDIAN:
+    name: '&aMob Egg &7(Guardian)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_MAGMA_CUBE:
+    name: '&aMob Egg &7(Magma Cube)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_WITHER_SKELETON:
+    name: '&aMob Egg &7(Wither Skeleton)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_PIG:
+    name: '&aMob Egg &7(Pig)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_BAT:
+    name: '&aMob Egg &7(Bat)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_TRADER_LLAMA:
+    name: '&aMob Egg &7(Trader Llama)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_ZOMBIE_VILLAGER:
+    name: '&aMob Egg &7(Zombie Villager)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_ZOGLIN:
+    name: '&aMob Egg &7(Zoglin)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_GOAT:
+    name: '&aMob Egg &7(Goat)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_MULE:
+    name: '&aMob Egg &7(Mule)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_SHULKER:
+    name: '&aMob Egg &7(Shulker)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_FROG:
+    name: '&aMob Egg &7(Frog)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_CREEPER:
+    name: '&aMob Egg &7(Creeper)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_PARROT:
+    name: '&aMob Egg &7(Parrot)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_HUSK:
+    name: '&aMob Egg &7(Husk)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_BEE:
+    name: '&aMob Egg &7(Bee)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_VINDICATOR:
+    name: '&aMob Egg &7(Vindicator)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_PILLAGER:
+    name: '&aMob Egg &7(Pillager)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_TROPICAL_FISH:
+    name: '&aMob Egg &7(Tropical Fish)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_OCELOT:
+    name: '&aMob Egg &7(Ocelot)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_ZOMBIFIED_PIGLIN:
+    name: '&aMob Egg &7(Zombified Piglin)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_ENDERMAN:
+    name: '&aMob Egg &7(Enderman)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_ENDERMITE:
+    name: '&aMob Egg &7(Endermite)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_RABBIT:
+    name: '&aMob Egg &7(Rabbit)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_GLOW_SQUID:
+    name: '&aMob Egg &7(Glow Squid)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_SNOWMAN:
+    name: '&aMob Egg &7(Snowman)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_COD:
+    name: '&aMob Egg &7(Cod)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_ZOMBIE:
+    name: '&aMob Egg &7(Zombie)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_SKELETON_HORSE:
+    name: '&aMob Egg &7(Skeleton Horse)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_DOLPHIN:
+    name: '&aMob Egg &7(Dolphin)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_HOGLIN:
+    name: '&aMob Egg &7(Hoglin)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_CAVE_SPIDER:
+    name: '&aMob Egg &7(Cave Spider)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'
+  MOB_EGG_TADPOLE:
+    name: '&aMob Egg &7(Tadpole)'
+    lore:
+    - ''
+    - '&7Right Click this Item on a Block'
+    - '&7to release your captured Mob'

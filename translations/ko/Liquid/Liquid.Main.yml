@@ -1,0 +1,174 @@
+name: Liquid
+translations:
+  MOLTEN_NEPTUNIUM:
+    name: '&6Molten Neptunium'
+  MOLTEN_PLUTONIUM:
+    name: '&6Molten Plutonium'
+  MOLTEN_MAGNET:
+    name: '&6Molten Magnet'
+  MOLTEN_SULFATE:
+    name: '&6Molten Sulfate'
+  MOLTEN_[EMERALD_ORE]:
+    name: '&6Molten [Emerald Ore]'
+  MOLTEN_COPPER:
+    name: '&6Molten Copper'
+  MOLTEN_[LAPIS_LAZULI_ORE]:
+    name: '&6Molten [Lapis Lazuli Ore]'
+  MOLTEN_ALUMINUM:
+    name: '&6Molten Aluminum'
+  MELTER:
+    name: '&6Melter'
+    lore:
+    - ''
+    - '&7A high-temperature furnace'
+    - '&8⇨ &e⚡ &732 J/s'
+    - '&8⇨ &e⚡ &764 J Buffer'
+  SLAG:
+    name: '&7Slag'
+    lore:
+    - ''
+    - '&7One man''s trash is another'
+    - '&7man''s treasure...'
+  MOLTEN_ALUMINUM_BRONZE:
+    name: '&6Molten Aluminum Bronze'
+  MOLTEN_SLAG:
+    name: '&6Molten Slag'
+  MOLTEN_CARBON:
+    name: '&6Molten Carbon'
+  MOLTEN_[ANCIENT_DEBRIS]:
+    name: '&6Molten [Ancient Debris]'
+  MOLTEN_ZINC:
+    name: '&6Molten Zinc'
+  MOLTEN_DAMASCUS_STEEL:
+    name: '&6Molten Damascus Steel'
+  MOLTEN_[REDSTONE_DUST]:
+    name: '&6Molten [Redstone Dust]'
+  CENTRIFUGE:
+    name: '&6Centrifuge'
+    lore:
+    - ''
+    - '&7The centrifuge can separate liquids'
+    - '&8⇨ &e⚡ &732 J/s'
+    - '&8⇨ &e⚡ &764 J Buffer'
+  SPRAY_SOLIDIFIER:
+    name: '&bSpray Solidifier'
+    lore:
+    - ''
+    - '&7This solidifier sprays a liquid out, turning'
+    - '&7the liquid into its dust form. As a result,'
+    - '&7this machine works faster but consumes more'
+    - '&7power than a regular solidifier'
+    - '&8⇨ &e⚡ &764 J/s'
+    - '&8⇨ &e⚡ &7128 J Buffer'
+  MOLTEN_[EMERALD]:
+    name: '&6Molten [Emerald]'
+  MOLTEN_[IRON]:
+    name: '&6Molten [Iron]'
+  MOLTEN_REINFORCED_ALLOY:
+    name: '&6Molten Reinforced Alloy'
+  MOLTEN_GOLD_6K:
+    name: '&6Molten Gold (6-Carat)'
+  MOLTEN_GOLD_14K:
+    name: '&6Molten Gold (14-Carat)'
+  MOLTEN_DURALUMIN:
+    name: '&6Molten Duralumin'
+  MOLTEN_[REDSTONE_ORE]:
+    name: '&6Molten [Redstone Ore]'
+  MOLTEN_GOLD_18K:
+    name: '&6Molten Gold (18-Carat)'
+  MIXER:
+    name: '&6Mixer'
+    lore:
+    - ''
+    - '&7This upgraded melter is perfect'
+    - '&7for mixing liquids together'
+    - '&8⇨ &e⚡ &764 J/s'
+    - '&8⇨ &e⚡ &7128 J Buffer'
+  MOLTEN_FERROSILICON:
+    name: '&6Molten Ferrosilicon'
+  MOLTEN_SOLDER:
+    name: '&6Molten Solder'
+  MOLTEN_GOLD_22K:
+    name: '&6Molten Gold (22-Carat)'
+  MOLTEN_GOLD_10K:
+    name: '&6Molten Gold (10-Carat)'
+  MOLTEN_ALUMINUM_BRASS:
+    name: '&6Molten Aluminum Brass'
+  MOLTEN_NICKEL:
+    name: '&6Molten Nickel'
+  MOLTEN_BOOSTED_URANIUM:
+    name: '&6Molten Boosted Uranium'
+  CRYSTALLIZER:
+    name: '&bCrystallizer'
+    lore:
+    - ''
+    - '&7The crystallizer can solidify crystals'
+    - '&8⇨ &e⚡ &78 J/s'
+    - '&8⇨ &e⚡ &716 J Buffer'
+  MOLTEN_[LAPIS_LAZULI]:
+    name: '&6Molten [Lapis Lazuli]'
+  MOLTEN_MAGNESIUM:
+    name: '&6Molten Magnesium'
+  MOLTEN_[DIAMOND]:
+    name: '&6Molten [Diamond]'
+  MOLTEN_GILDED_IRON:
+    name: '&6Molten Gilded Iron'
+  MOLTEN_STEEL:
+    name: '&6Molten Steel'
+  SOLIDIFIER:
+    name: '&bSolidifier'
+    lore:
+    - ''
+    - '&7An advanced freezer'
+    - '&8⇨ &e⚡ &78 J/s'
+    - '&8⇨ &e⚡ &716 J Buffer'
+  MOLTEN_URANIUM:
+    name: '&6Molten Uranium'
+  MOLTEN_CORINTHIAN_BRONZE:
+    name: '&6Molten Corinthian Bronze'
+  MOLTEN_HARDENED_METAL:
+    name: '&6Molten Hardened Metal'
+  MOLTEN_BRASS:
+    name: '&6Molten Brass'
+  MOLTEN_COBALT:
+    name: '&6Molten Cobalt'
+  MOLTEN_TIN:
+    name: '&6Molten Tin'
+  MOLTEN_[GOLD_ORE]:
+    name: '&6Molten [Gold Ore]'
+  MOLTEN_[GOLD]:
+    name: '&6Molten [Gold]'
+  MOLTEN_LEAD:
+    name: '&6Molten Lead'
+  MOLTEN_SILICON:
+    name: '&6Molten Silicon'
+  MOLTEN_BILLON:
+    name: '&6Molten Billon'
+  MOLTEN_MAGNESIUM_SALT:
+    name: '&6Molten Magnesium Salt'
+  MOLTEN_GOLD_24K:
+    name: '&6Molten Gold (24-Carat)'
+  MOLTEN_SALT:
+    name: '&6Molten Salt'
+  MOLTEN_GOLD_4K:
+    name: '&6Molten Gold (4-Carat)'
+  MOLTEN_GOLD_12K:
+    name: '&6Molten Gold (12-Carat)'
+  MOLTEN_[NETHERITE]:
+    name: '&6Molten [Netherite]'
+  MOLTEN_GOLD_16K:
+    name: '&6Molten Gold (16-Carat)'
+  MOLTEN_SILVER:
+    name: '&6Molten Silver'
+  MOLTEN_BRONZE:
+    name: '&6Molten Bronze'
+  MOLTEN_[IRON_ORE]:
+    name: '&6Molten [Iron Ore]'
+  MOLTEN_[DIAMOND_ORE]:
+    name: '&6Molten [Diamond Ore]'
+  MOLTEN_GOLD_20K:
+    name: '&6Molten Gold (20-Carat)'
+  MOLTEN_GOLD_8K:
+    name: '&6Molten Gold (8-Carat)'
+  MOLTEN_REDSTONE_ALLOY:
+    name: '&6Molten Redstone Alloy'

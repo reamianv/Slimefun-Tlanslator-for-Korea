@@ -1,0 +1,921 @@
+name: SlimeTinker
+translations:
+  NUGGET_CAST_DAXI_FORTITUDE:
+    name: '&x&D&B&C&E&A&9Nugget of Fortitude Daxi'
+    lore:
+    - ''
+    - '&7A nugget of Daxi emanating defiance.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_NICE:
+    name: '&x&D&B&C&E&A&9Nice Block'
+    lore:
+    - ''
+    - '&7Nice'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  SPOUT:
+    name: '&x&D&B&C&E&A&9Seared Spout'
+    lore:
+    - ''
+    - '&7Used in building the smeltery.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_BRASS:
+    name: '&x&D&B&C&E&A&9Brass Nugget'
+    lore:
+    - ''
+    - '&7A nugget made from brass'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_LEAD:
+    name: '&x&D&B&C&E&A&9Lead Block'
+    lore:
+    - ''
+    - '&7A block made from solid lead'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  SEARED_BRICK:
+    name: '&x&D&B&C&E&A&9Seared Brick'
+    lore:
+    - ''
+    - '&7Used in crafting smeltery blocks.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_OSMIUM_SUPER_ALLOY:
+    name: '&x&D&B&C&E&A&9Osmium Superalloy Nugget'
+    lore:
+    - ''
+    - '&7A nugget of osmium superalloy'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_NICKEL:
+    name: '&x&D&B&C&E&A&9Nickel Block'
+    lore:
+    - ''
+    - '&7A block made from nickel'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_ADVANCED_ALLOY:
+    name: '&x&D&B&C&E&A&9Advanced Alloy Block'
+    lore:
+    - ''
+    - '&7A block of advacned alloy'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  INGOT_CAST_DAXI_STRENGTH:
+    name: '&x&D&B&C&E&A&9Ingot of Strength Daxi'
+    lore:
+    - ''
+    - '&7An ingot of Daxi emanating strength.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  INGOT_CAST_DAXI_FORTITUDE:
+    name: '&x&D&B&C&E&A&9Ingot of Fortitude Daxi'
+    lore:
+    - ''
+    - '&7An ingot of Daxi emanating defiance.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_OSMIUM_SUPER_ALLOY:
+    name: '&x&D&B&C&E&A&9Osmium Superalloy Block'
+    lore:
+    - ''
+    - '&7A block of osmium superalloy'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_BOOMERITE:
+    name: '&x&D&B&C&E&A&9Boomerite Block'
+    lore:
+    - ''
+    - '&7A block made from boomerite'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_COBALT:
+    name: '&x&D&B&C&E&A&9Cobalt Nugget'
+    lore:
+    - ''
+    - '&7A nugget made from cobalt'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_FERROSILICON:
+    name: '&x&D&B&C&E&A&9Ferrosilicon Block'
+    lore:
+    - ''
+    - '&7A block made from ferrosilicon'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_MYTHRIL:
+    name: '&x&D&B&C&E&A&9Mythril Nugget'
+    lore:
+    - ''
+    - '&7A nugget made from solid Mythril'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_LOVE:
+    name: '&x&D&B&C&E&A&9Love Block'
+    lore:
+    - ''
+    - '&7A block that exudes nothing but'
+    - '&7pure and unadulterated love.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_ALU_BRONZE:
+    name: '&x&D&B&C&E&A&9Aluminum Bronze Nugget'
+    lore:
+    - ''
+    - '&7A nugget made from aluminum bronze'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_HARD_METAL:
+    name: '&x&D&B&C&E&A&9Hardened Metal Nugget'
+    lore:
+    - ''
+    - '&7A nugget made from hardened metal'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_DAXI_ABSORPTION:
+    name: '&x&D&B&C&E&A&9Nugget of Absorption Daxi'
+    lore:
+    - ''
+    - '&7A nugget of Daxi emanating resolution.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_ZINC:
+    name: '&x&D&B&C&E&A&9Zinc Nugget'
+    lore:
+    - ''
+    - '&7A nugget made from solid zinc'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  INGOT_CAST_CRINGLEIUM:
+    name: '&x&D&B&C&E&A&9Cringleium Ingot'
+    lore:
+    - ''
+    - '&7A festive ingot that''s only available for a short time.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_CRINGLEIUM:
+    name: '&x&D&B&C&E&A&9Cringleium Nugget'
+    lore:
+    - ''
+    - '&7A nugget made from Cringleium.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_TITANIUM:
+    name: '&x&D&B&C&E&A&9Titanium Nugget'
+    lore:
+    - ''
+    - '&7A nugget made from solid Titanium'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_MIXED_METAL:
+    name: '&x&D&B&C&E&A&9Mixed Metal Nugget'
+    lore:
+    - ''
+    - '&7A nugget of mixed metal'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_REFINED_IRON:
+    name: '&x&D&B&C&E&A&9Refined Iron Nugget'
+    lore:
+    - ''
+    - '&7A nugget of refined iron'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_MYTHRIL:
+    name: '&x&D&B&C&E&A&9Mythril Block'
+    lore:
+    - ''
+    - '&7A block made from Mythril.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_SCRAP:
+    name: '&x&D&B&C&E&A&9Scrap Nugget'
+    lore:
+    - ''
+    - '&7A nugget of scrap'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_ALU_BRASS:
+    name: '&x&D&B&C&E&A&9Aluminum Brass Nugget'
+    lore:
+    - ''
+    - '&7A nugget made from aluminum brass'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_COR_BRONZE:
+    name: '&x&D&B&C&E&A&9Corinthian Bronze Nugget'
+    lore:
+    - ''
+    - '&7A nugget made from corinthian bronze'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_COPPER:
+    name: '&x&D&B&C&E&A&9Copper Block'
+    lore:
+    - ''
+    - '&7A block made from solid copper'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_REINFORCED_SLIMESTEEL:
+    name: '&x&D&B&C&E&A&9Reinforced Slimesteel Nugget'
+    lore:
+    - ''
+    - '&7A nugget of reinforced slimesteel'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_BRASS:
+    name: '&x&D&B&C&E&A&9Brass Block'
+    lore:
+    - ''
+    - '&7A block made from brass'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_OSMIUM:
+    name: '&x&D&B&C&E&A&9Osmium Nugget'
+    lore:
+    - ''
+    - '&7A nugget of osmium'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  INGOT_CAST_BOOMERITE:
+    name: '&x&D&B&C&E&A&9Boomerite Ingot'
+    lore:
+    - ''
+    - '&7A very rare ingot. Origins unknown.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_VOID:
+    name: '&x&D&B&C&E&A&9Void Block'
+    lore:
+    - ''
+    - '&7A block made from ... void?'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  INGOT_CAST_NICE:
+    name: '&x&D&B&C&E&A&9Nice Ingot'
+    lore:
+    - ''
+    - '&7Nice'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  INGOT_CAST_DAXI_ABSORPTION:
+    name: '&x&D&B&C&E&A&9Ingot of Absorption Daxi'
+    lore:
+    - ''
+    - '&7An ingot of Daxi emanating resolution.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  INGOT_CAST_LOVE:
+    name: '&x&D&B&C&E&A&9Love Ingot'
+    lore:
+    - ''
+    - '&7An ingot that exudes nothing but'
+    - '&7pure and unadulterated love.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_REINFORCED:
+    name: '&x&D&B&C&E&A&9Reinforced Alloy Block'
+    lore:
+    - ''
+    - '&7A block made from reinforced alloy'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_DURALIUM:
+    name: '&x&D&B&C&E&A&9Duralium Block'
+    lore:
+    - ''
+    - '&7A block made from duralium'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_ANNIVERSARIUM:
+    name: '&x&D&B&C&E&A&9Anniversarium Nugget'
+    lore:
+    - ''
+    - '&710 Years of (Slime)fun!'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_ALUMINUM:
+    name: '&x&D&B&C&E&A&9Aluminum Nugget'
+    lore:
+    - ''
+    - '&7A nugget made from solid aluminum'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_COBALT:
+    name: '&x&D&B&C&E&A&9Cobalt Block'
+    lore:
+    - ''
+    - '&7A block made from cobalt'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_REINFORCED_DRACONIUM:
+    name: '&x&D&B&C&E&A&9Reinforced Draconium Nugget'
+    lore:
+    - ''
+    - '&7An ingot that just teems with an'
+    - '&7unrivalled fury.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  SMELTERY_CONTROLLER:
+    name: '&x&3&2&9&5&A&8Smeltery Controller'
+    lore:
+    - ''
+    - '&7Used in crafting smeltery blocks.'
+    - ''
+    - '&x&F&0&E&A&4&FMachine'
+  NUGGET_CAST_DEVOTION:
+    name: '&x&D&B&C&E&A&9Devotion Nugget'
+    lore:
+    - ''
+    - '&7A nugget made from the concept'
+    - '&7of devotion.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_DAMASCUS_STEEL:
+    name: '&x&D&B&C&E&A&9Damascus Steel Block'
+    lore:
+    - ''
+    - '&7A block made from damascus steel'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_MAGNESIUM:
+    name: '&x&D&B&C&E&A&9Magnesium Block'
+    lore:
+    - ''
+    - '&7A block made from solid magnesium'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_SOLDER:
+    name: '&x&D&B&C&E&A&9Solder Nugget'
+    lore:
+    - ''
+    - '&7A nugget made from solder'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  INGOT_CAST_DEVOTION:
+    name: '&x&D&B&C&E&A&9Devotion Ingot'
+    lore:
+    - ''
+    - '&7An ingot made from the concept'
+    - '&7of devotion.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_MIXED_METAL:
+    name: '&x&D&B&C&E&A&9Mixed Metal Block'
+    lore:
+    - ''
+    - '&7A block of mixed metal'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_ADVANCED_ALLOY:
+    name: '&x&D&B&C&E&A&9Advanced Alloy Nugget'
+    lore:
+    - ''
+    - '&7A nugget of advanced alloy'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_REFINED_IRON:
+    name: '&x&D&B&C&E&A&9Refined Iron Block'
+    lore:
+    - ''
+    - '&7A block of refined iron'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_INFINITY:
+    name: '&x&D&B&C&E&A&9Infinity Nugget'
+    lore:
+    - ''
+    - '&7A nugget made from solid infinity... yup!'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  GROUT:
+    name: '&x&D&B&C&E&A&9Grout'
+    lore:
+    - ''
+    - '&7Used to make seared bricks.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_PASSION:
+    name: '&x&D&B&C&E&A&9Passion Nugget'
+    lore:
+    - ''
+    - '&7A nugget made from the concept'
+    - '&7of passion.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_DAXI_REGENERATION:
+    name: '&x&D&B&C&E&A&9Nugget of Regeneration Daxi'
+    lore:
+    - ''
+    - '&7A nugget of Daxi emanating kindness.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_COR_BRONZE:
+    name: '&x&D&B&C&E&A&9Corinthian Bronze Block'
+    lore:
+    - ''
+    - '&7A block made from corinthian bronze'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_UNPATENTABILUM:
+    name: '&x&D&B&C&E&A&9Unpatentabilum Nugget'
+    lore:
+    - ''
+    - '&7A nugget of unpatentabilum'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_IRIDIUM:
+    name: '&x&D&B&C&E&A&9Iridium Nugget'
+    lore:
+    - ''
+    - '&7A nugget of Iridium'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_TIN:
+    name: '&x&D&B&C&E&A&9Tin Block'
+    lore:
+    - ''
+    - '&7A block made from solid tin'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_NICKEL:
+    name: '&x&D&B&C&E&A&9Nickel Nugget'
+    lore:
+    - ''
+    - '&7A nugget made from nickel'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_MAGNONIUM:
+    name: '&x&D&B&C&E&A&9Magnonium Block'
+    lore:
+    - ''
+    - '&7A block made from Magnonium.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_COPPER:
+    name: '&x&D&B&C&E&A&9Copper Nugget'
+    lore:
+    - ''
+    - '&7A nugget made from solid copper'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_MAGSTEEL:
+    name: '&x&D&B&C&E&A&9MagSteel Block'
+    lore:
+    - ''
+    - '&7A block made from MagSteel.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_MAGSTEEL:
+    name: '&x&D&B&C&E&A&9MagSteel Nugget'
+    lore:
+    - ''
+    - '&7A nugget made from solid MagSteel'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_SMITHIUM:
+    name: '&x&D&B&C&E&A&9Smithium Nugget'
+    lore:
+    - ''
+    - '&7A straight-forward metal with various uses'
+    - '&7in core industry tasks.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_SMITHIUM:
+    name: '&x&D&B&C&E&A&9Smithium Block'
+    lore:
+    - ''
+    - '&7A straight-forward metal with various uses'
+    - '&7in core industry tasks.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_SEFIRITE:
+    name: '&x&D&B&C&E&A&9Sefirite Block'
+    lore:
+    - ''
+    - '&7A block made from sefirite'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_LOVE:
+    name: '&x&D&B&C&E&A&9Love Nugget'
+    lore:
+    - ''
+    - '&7A nugget that exudes nothing but'
+    - '&7pure and unadulterated love.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_REINFORCED:
+    name: '&x&D&B&C&E&A&9Reinforced Alloy Nugget'
+    lore:
+    - ''
+    - '&7A nugget made from reinforced alloy'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_SILVER:
+    name: '&x&D&B&C&E&A&9Silver Nugget'
+    lore:
+    - ''
+    - '&7A nugget made from solid silver'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_HARD_METAL:
+    name: '&x&D&B&C&E&A&9Hardened Metal Block'
+    lore:
+    - ''
+    - '&7A block made from hardened metal'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_SCRAP:
+    name: '&x&D&B&C&E&A&9Scrap Block'
+    lore:
+    - ''
+    - '&7A block of scrap'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_BRONZE:
+    name: '&x&D&B&C&E&A&9Bronze Nugget'
+    lore:
+    - ''
+    - '&7A nugget made from bronze'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_BILLON:
+    name: '&x&D&B&C&E&A&9Billon Nugget'
+    lore:
+    - ''
+    - '&7A nugget made from billon'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_ALU_BRASS:
+    name: '&x&D&B&C&E&A&9Aluminum Brass Block'
+    lore:
+    - ''
+    - '&7A block made from aluminum brass'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_DAXI_SATURATION:
+    name: '&x&D&B&C&E&A&9Nugget of Saturation Daxi'
+    lore:
+    - ''
+    - '&7A nugget of Daxi emanating warmth.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_DAMASCUS_STEEL:
+    name: '&x&D&B&C&E&A&9Damascus Steel Nugget'
+    lore:
+    - ''
+    - '&7A nugget made from damascus steel'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_SEFIRITE:
+    name: '&x&D&B&C&E&A&9Sefirite Nugget'
+    lore:
+    - ''
+    - '&7A nugget made from sefirite'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_IRIDIUM:
+    name: '&x&D&B&C&E&A&9Iridium Block'
+    lore:
+    - ''
+    - '&7A block of iridium'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_BILLON:
+    name: '&x&D&B&C&E&A&9Billon Block'
+    lore:
+    - ''
+    - '&7A block made from billon'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_SLIMESTEEL:
+    name: '&x&D&B&C&E&A&9Slimesteel Block'
+    lore:
+    - ''
+    - '&7A block of slimesteel'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_REDSTONE_ALLOY:
+    name: '&x&D&B&C&E&A&9Redstone Alloy Nugget'
+    lore:
+    - ''
+    - '&7A nugget made from redstone alloy'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  INGOT_CAST_PASSION:
+    name: '&x&D&B&C&E&A&9Passion Ingot'
+    lore:
+    - ''
+    - '&7An ingot made from the concept'
+    - '&7of passion.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_DURALIUM:
+    name: '&x&D&B&C&E&A&9Duralium Nugget'
+    lore:
+    - ''
+    - '&7A nugget made from duralium'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  INGOT_CAST_DAXI_SATURATION:
+    name: '&x&D&B&C&E&A&9Ingot of Saturation Daxi'
+    lore:
+    - ''
+    - '&7An ingot of Daxi emanating warmth.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_REDSTONE_ALLOY:
+    name: '&x&D&B&C&E&A&9Redstone Alloy Block'
+    lore:
+    - ''
+    - '&7A block made from redstone alloy'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_STEEL:
+    name: '&x&D&B&C&E&A&9Steel Nugget'
+    lore:
+    - ''
+    - '&7A nugget made from solid steel'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  MOD_PLATE:
+    name: '&x&B&F&3&0&7&FReinforced Plate'
+    lore:
+    - ''
+    - '&7A modification for tools that gives.'
+    - '&7a chance to ignore tool damage.'
+    - ''
+    - '&x&F&0&E&A&4&FModification'
+  BLOCK_CAST_INFINITY:
+    name: '&x&D&B&C&E&A&9Infinity Block'
+    lore:
+    - ''
+    - '&7A block made from *sigh* infinity.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_BRONZE:
+    name: '&x&D&B&C&E&A&9Bronze Block'
+    lore:
+    - ''
+    - '&7A block made from bronze'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_MAG_THOR:
+    name: '&x&D&B&C&E&A&9Mag-Thor Block'
+    lore:
+    - ''
+    - '&7A block of mag-thor'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_FERROSILICON:
+    name: '&x&D&B&C&E&A&9Ferrosilicon Nugget'
+    lore:
+    - ''
+    - '&7A nugget made from ferrosilicon'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_ALUMINUM:
+    name: '&x&D&B&C&E&A&9Aluminum Block'
+    lore:
+    - ''
+    - '&7A block made from solid aluminum'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  INGOT_CAST_SEFIRITE:
+    name: '&x&D&B&C&E&A&9Sefirite Ingot'
+    lore:
+    - ''
+    - '&7An ingot that''s only available for a short time.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  SEARED_TANK:
+    name: '&x&D&B&C&E&A&9Seared Tank'
+    lore:
+    - ''
+    - '&7Used in building the smeltery.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_SILVER:
+    name: '&x&D&B&C&E&A&9Silver Block'
+    lore:
+    - ''
+    - '&7A block made from solid silver'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_TIN:
+    name: '&x&D&B&C&E&A&9Tin Nugget'
+    lore:
+    - ''
+    - '&7A nugget made from solid tin'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_ANNIVERSARIUM:
+    name: '&x&D&B&C&E&A&9Anniversarium Block'
+    lore:
+    - ''
+    - '&710 Years of (Slime)fun!'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_COAL:
+    name: '&x&D&B&C&E&A&9Coal Nugget'
+    lore:
+    - ''
+    - '&7A nugget made from liquifacted coal'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_SLIMESTEEL:
+    name: '&x&D&B&C&E&A&9Slimesteel Nugget'
+    lore:
+    - ''
+    - '&7A nugget of slimesteel'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_UNPATENTABILUM:
+    name: '&x&D&B&C&E&A&9Unpatentabilum Block'
+    lore:
+    - ''
+    - '&7A block of unpatentabilum'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  INGOT_CAST_SMITHIUM:
+    name: '&x&D&B&C&E&A&9Smithium Ingot'
+    lore:
+    - ''
+    - '&7A straight-forward metal with various uses'
+    - '&7in core industry tasks.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_MAGNONIUM:
+    name: '&x&D&B&C&E&A&9Magnonium Nugget'
+    lore:
+    - ''
+    - '&7A nugget made from solid Magnonium'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_CRINGLEIUM:
+    name: '&x&D&B&C&E&A&9Cringleium Block'
+    lore:
+    - ''
+    - '&7A block made from Cringleium'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_FONDNESS:
+    name: '&x&D&B&C&E&A&9Fondness Nugget'
+    lore:
+    - ''
+    - '&7A nugget made from the concept'
+    - '&7of fondness.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_REINFORCED_SLIMESTEEL:
+    name: '&x&D&B&C&E&A&9Reinforced Slimesteel Block'
+    lore:
+    - ''
+    - '&7A block of reinforced slimesteel'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_MAGNESIUM:
+    name: '&x&D&B&C&E&A&9Magnesium Nugget'
+    lore:
+    - ''
+    - '&7A nugget made from solid magnesium'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_ZINC:
+    name: '&x&D&B&C&E&A&9Zinc Block'
+    lore:
+    - ''
+    - '&7A block made from solid zinc'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_REINFORCED_DRACONIUM:
+    name: '&x&D&B&C&E&A&9Reinforced Draconium Block'
+    lore:
+    - ''
+    - '&7A block that just teems with an'
+    - '&7unrivalled fury.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  SEARED_BRICK_BLOCK:
+    name: '&x&D&B&C&E&A&9Seared Brick Block'
+    lore:
+    - ''
+    - '&7Used in building the smeltery.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  INGOT_CAST_REINFORCED_DRACONIUM:
+    name: '&x&D&B&C&E&A&9Reinforced Draconium Ingot'
+    lore:
+    - ''
+    - '&7An ingot that just teems with an'
+    - '&7unrivalled fury.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_ADAMANTITE:
+    name: '&x&D&B&C&E&A&9Adamantite Nugget'
+    lore:
+    - ''
+    - '&7A nugget made from solid Adamantite'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_STEEL:
+    name: '&x&D&B&C&E&A&9Steel Block'
+    lore:
+    - ''
+    - '&7A block made from solid steel'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_SOLDER:
+    name: '&x&D&B&C&E&A&9Solder Block'
+    lore:
+    - ''
+    - '&7A block made from solder'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  INGOT_CAST_FONDNESS:
+    name: '&x&D&B&C&E&A&9Fondness Ingot'
+    lore:
+    - ''
+    - '&7An ingot made from the concept'
+    - '&7of fondness.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_DAXI_STRENGTH:
+    name: '&x&D&B&C&E&A&9Nugget of Strength Daxi'
+    lore:
+    - ''
+    - '&7A nugget of Daxi emanating strength.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_ALU_BRONZE:
+    name: '&x&D&B&C&E&A&9Aluminum Bronze Block'
+    lore:
+    - ''
+    - '&7A block made from aluminum bronze'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_TITANIUM:
+    name: '&x&D&B&C&E&A&9Titanium Block'
+    lore:
+    - ''
+    - '&7A block made from Titanium.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_MAG_THOR:
+    name: '&x&D&B&C&E&A&9Mag-Thor Nugget'
+    lore:
+    - ''
+    - '&7A nugget of mag-thor'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_ADAMANTITE:
+    name: '&x&D&B&C&E&A&9Adamanitite Block'
+    lore:
+    - ''
+    - '&7A block made from Adamanitite.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_LEAD:
+    name: '&x&D&B&C&E&A&9Lead Nugget'
+    lore:
+    - ''
+    - '&7A nugget made from solid lead'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_BOOMERITE:
+    name: '&x&D&B&C&E&A&9Boomerite Nugget'
+    lore:
+    - ''
+    - '&7A nugget made from boomerite'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  INGOT_CAST_ANNIVERSARIUM:
+    name: '&x&D&B&C&E&A&9Anniversarium Ingot'
+    lore:
+    - ''
+    - '&710 Years of (Slime)fun!'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  INGOT_CAST_DAXI_REGENERATION:
+    name: '&x&D&B&C&E&A&9Ingot of Regeneration Daxi'
+    lore:
+    - ''
+    - '&7An ingot of Daxi emanating kindness.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  NUGGET_CAST_NICE:
+    name: '&x&D&B&C&E&A&9Nice Nugget'
+    lore:
+    - ''
+    - '&7Nice'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_CAST_OSMIUM:
+    name: '&x&D&B&C&E&A&9Osmium Block'
+    lore:
+    - ''
+    - '&7A block of osmium'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'

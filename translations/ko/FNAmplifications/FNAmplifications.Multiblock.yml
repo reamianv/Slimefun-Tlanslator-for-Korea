@@ -1,0 +1,16 @@
+name: FNAmplifications
+translations:
+  FN_GEM_ALTAR:
+    name: '&dFN Gem Altar'
+  FN_MAGIC_ALTAR:
+    name: '&dFN Magic Altar'
+  FN_STICK_ALTAR:
+    name: '&dFN Mystery Stick Altar'
+  FN_SCRAP_RECYCLER:
+    name: '&dFN Scrap Recycler'
+  FN_GEM_UPGRADER:
+    name: '&dFN Gem Upgrader'
+  FN_GEM_DOWNGRADER:
+    name: '&dFN Gem Downgrader'
+  FN_ASSEMBLY_STATION:
+    name: '&dFN Assembly Station'

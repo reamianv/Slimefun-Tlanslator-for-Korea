@@ -1,0 +1,45 @@
+name: FoxyMachines
+translations:
+  FORCEFIELD_DOME:
+    name: '&4Forcefield Dome'
+    lore:
+    - ''
+    - '&7When powered, creates a protective barrier'
+    - '&7with a 32-block radius.'
+    - '&7Will revert once unpowered or broken'
+    - ''
+    - '&8⇨ &e⚡ &712,000 J/s'
+  IMPROVEMENT_CORE:
+    name: '&aImprovement Core'
+    lore:
+    - ''
+    - '&7Combine it with a tool in Improvement Forge to improve it.'
+  ELECTRIC_GOLD_REFINERY:
+    name: '&bElectric Gold Refinery'
+    lore:
+    - ''
+    - '&7Refines gold dust to gold ingots.'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &736 J/s'
+  IMPROVEMENT_FORGE:
+    name: '&bImprovement Forge'
+    lore:
+    - ''
+    - '&7Used to improve Slimefun tools, weapons and armor.'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &7128 J/s'
+  CHUNK_LOADER:
+    name: '&bChunk Loader'
+    lore:
+    - ''
+    - '&7Keeps chunk loaded.'
+  POTION_MIXER:
+    name: '&bPotion Mixer'
+    lore:
+    - ''
+    - '&7Used to mix potions.'
+    - ''
+    - '&2Good Machine'
+    - '&8⇨ &e⚡ &728 J/s'

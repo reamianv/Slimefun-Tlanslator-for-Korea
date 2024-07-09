@@ -1,0 +1,200 @@
+name: FNAmplifications
+translations:
+  FMG_GENERATOR_TERRACOTTA:
+    name: '&4FN Terracotta Generator'
+    lore:
+    - '&6Generates terracotta at a certain rate'
+    - '&6Right click the block for info'
+    - ''
+    - '&6Tickrate: &684 ticks'
+    - ''
+    - '&cWarning:'
+    - '&fBreaking the block will drop'
+    - '&fthe broken type'
+    - ''
+    - '&d&oFN Material Generators'
+  FMG_GENERATOR_DIRT:
+    name: '&fFN Dirt Generator'
+    lore:
+    - '&6Generates dirt at a certain rate'
+    - '&6Right click the block for info'
+    - ''
+    - '&6Tickrate: &612 ticks'
+    - ''
+    - '&cWarning:'
+    - '&fBreaking the block will drop'
+    - '&fthe broken type'
+    - ''
+    - '&d&oFN Material Generators'
+  FMG_GENERATOR_DIAMOND:
+    name: '&bFN Diamond Generator'
+    lore:
+    - '&6Generates diamond at a certain rate'
+    - '&6Right click the block for info'
+    - ''
+    - '&6Tickrate: &6192 ticks'
+    - ''
+    - '&cWarning:'
+    - '&fBreaking the block will drop'
+    - '&fthe broken type'
+    - ''
+    - '&d&oFN Material Generators'
+  FMG_GENERATOR_EMERALD:
+    name: '&aFN Emerald Generator'
+    lore:
+    - '&6Generates emerald at a certain rate'
+    - '&6Right click the block for info'
+    - ''
+    - '&6Tickrate: &6218 ticks'
+    - ''
+    - '&cWarning:'
+    - '&fBreaking the block will drop'
+    - '&fthe broken type'
+    - ''
+    - '&d&oFN Material Generators'
+  FMG_GENERATOR_EMERALD_BROKEN:
+    name: '&aFN Emerald Generator &8(Broken)'
+    lore:
+    - '&8Needs to be repaired'
+    - ''
+    - '&d&oFN Material Generators'
+  FMG_GENERATOR_QUARTZ:
+    name: '&fFN Quartz Generator'
+    lore:
+    - '&6Generates quartz at a certain rate'
+    - '&6Right click the block for info'
+    - ''
+    - '&6Tickrate: &628 ticks'
+    - ''
+    - '&cWarning:'
+    - '&fBreaking the block will drop'
+    - '&fthe broken type'
+    - ''
+    - '&d&oFN Material Generators'
+  FMG_GENERATOR_DIAMOND_BROKEN:
+    name: '&bFN Diamond Generator &8(Broken)'
+    lore:
+    - '&8Needs to be repaired'
+    - ''
+    - '&d&oFN Material Generators'
+  FMG_GENERATOR_HONEYCOMB:
+    name: '&6FN Honey Comb Generator'
+    lore:
+    - '&6Generates honey comb at a certain rate'
+    - '&6Right click the block for info'
+    - ''
+    - '&6Tickrate: &648 ticks'
+    - ''
+    - '&cWarning:'
+    - '&fBreaking the block will drop'
+    - '&fthe broken type'
+    - ''
+    - '&d&oFN Material Generators'
+  FMG_GENERATOR_MULTIBLOCK:
+    name: '&9Generator multiblock'
+    lore:
+    - ''
+    - '&dBuild any of this addon''s'
+    - '&dgenerators like this.'
+    - '&aThey will only output to a chest placed above'
+    - '&athe actual generators.'
+  FMG_GENERATOR_CLAY_BROKEN:
+    name: '&3FN Clay Generator &8(Broken)'
+    lore:
+    - '&8Needs to be repaired'
+    - ''
+    - '&d&oFN Material Generators'
+  FMG_GENERATOR_WARPED_BROKEN:
+    name: '&4FN Warped Nylium Generator &8(Broken)'
+    lore:
+    - '&8Needs to be repaired'
+    - ''
+    - '&d&oFN Material Generators'
+  FMG_GENERATOR_DIRT_BROKEN:
+    name: '&fFN Dirt Generator &8(Broken)'
+    lore:
+    - '&8Needs to be repaired'
+    - ''
+    - '&d&oFN Material Generators'
+  FMG_GENERATOR_HONEYCOMB_BROKEN:
+    name: '&6FN Honey Comb Generator &8(Broken)'
+    lore:
+    - '&8Needs to be repaired'
+    - ''
+    - '&d&oFN Material Generators'
+  FMG_GENERATOR_QUARTZ_BROKEN:
+    name: '&fFN Quartz Generator &8(Broken)'
+    lore:
+    - '&8Needs to be repaired'
+    - ''
+    - '&d&oFN Material Generators'
+  FMG_GENERATOR_AMETHYST_BROKEN:
+    name: '&dFN Amethyst Cluster Generator &8(Broken)'
+    lore:
+    - '&8Needs to be repaired'
+    - ''
+    - '&d&oFN Material Generators'
+  FMG_GENERATOR_WARPED:
+    name: '&4FN Warped Nylium Generator'
+    lore:
+    - '&6Generates warped nylium at a certain rate'
+    - '&6Right click the block for info'
+    - ''
+    - '&6Tickrate: &648 ticks'
+    - ''
+    - '&cWarning:'
+    - '&fBreaking the block will drop'
+    - '&fthe broken type'
+    - ''
+    - '&d&oFN Material Generators'
+  FMG_GENERATOR_BONE_BROKEN:
+    name: '&fFN Bone Generator &8(Broken)'
+    lore:
+    - '&8Needs to be repaired'
+    - ''
+    - '&d&oFN Material Generators'
+  FMG_GENERATOR_CLAY:
+    name: '&3FN Clay Generator'
+    lore:
+    - '&6Generates clay at a certain rate'
+    - '&6Right click the block for info'
+    - ''
+    - '&6Tickrate: &632 ticks'
+    - ''
+    - '&cWarning:'
+    - '&fBreaking the block will drop'
+    - '&fthe broken type'
+    - ''
+    - '&d&oFN Material Generators'
+  FMG_GENERATOR_TERRACOTTA_BROKEN:
+    name: '&4FN Terracotta Generator &8(Broken)'
+    lore:
+    - '&8Needs to be repaired'
+    - ''
+    - '&d&oFN Material Generators'
+  FMG_GENERATOR_BONE:
+    name: '&fFN Bone Generator'
+    lore:
+    - '&6Generates bone at a certain rate'
+    - '&6Right click the block for info'
+    - ''
+    - '&6Tickrate: &6256 ticks'
+    - ''
+    - '&cWarning:'
+    - '&fBreaking the block will drop'
+    - '&fthe broken type'
+    - ''
+    - '&d&oFN Material Generators'
+  FMG_GENERATOR_AMETHYST:
+    name: '&dFN Amethyst Cluster Generator'
+    lore:
+    - '&6Generates amethyst cluster at a certain rate'
+    - '&6Right click the block for info'
+    - ''
+    - '&6Tickrate: &6160 ticks'
+    - ''
+    - '&cWarning:'
+    - '&fBreaking the block will drop'
+    - '&fthe broken type'
+    - ''
+    - '&d&oFN Material Generators'

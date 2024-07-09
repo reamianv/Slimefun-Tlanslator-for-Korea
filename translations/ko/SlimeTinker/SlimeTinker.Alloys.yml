@@ -1,0 +1,212 @@
+name: SlimeTinker
+translations:
+  DAMASCUS_STEEL_ALLOY:
+    name: '&x&A&6&0&A&0&AMolten Damascus Steel'
+    lore:
+    - ''
+    - '&7A molten alloy metal of Damascus Steel'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  ULTIMANINIUM_ALLOY:
+    name: '&x&A&6&0&A&0&AMolten Ultimaninium'
+    lore:
+    - ''
+    - '&7A molten alloy metal of Ultimaninium'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  COBALT_ALLOY:
+    name: '&x&A&6&0&A&0&AMolten Cobalt'
+    lore:
+    - ''
+    - '&7A molten alloy metal of Cobalt'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  SOLDER_ALLOY:
+    name: '&x&A&6&0&A&0&AMolten Solder'
+    lore:
+    - ''
+    - '&7A molten alloy metal of Solder'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  REDSTONE_ALLOY_ALLOY:
+    name: '&x&A&6&0&A&0&AMolten Redstone Alloy'
+    lore:
+    - ''
+    - '&7A molten alloy metal of Redstone Alloy'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  ALUMINUM_BRASS_ALLOY:
+    name: '&x&A&6&0&A&0&AMolten Aluminum Brass'
+    lore:
+    - ''
+    - '&7A molten alloy metal of Aluminum Brass'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  REINFORCED_DRACONIUM_ALLOY:
+    name: '&x&A&6&0&A&0&AMolten Reinforced Draconium'
+    lore:
+    - ''
+    - '&7A molten alloy metal of Reinforced Draconium'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  MAGSTEEL_ALLOY:
+    name: '&x&A&6&0&A&0&AMolten Magsteel'
+    lore:
+    - ''
+    - '&7A molten alloy metal of Magsteel'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  MAG_THOR_ALLOY:
+    name: '&x&A&6&0&A&0&AMolten Mag Thor'
+    lore:
+    - ''
+    - '&7A molten alloy metal of Mag Thor'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  BILLON_ALLOY:
+    name: '&x&A&6&0&A&0&AMolten Billon'
+    lore:
+    - ''
+    - '&7A molten alloy metal of Billon'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  DURALIUM_ALLOY:
+    name: '&x&A&6&0&A&0&AMolten Duralium'
+    lore:
+    - ''
+    - '&7A molten alloy metal of Duralium'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  NICKEL_ALLOY:
+    name: '&x&A&6&0&A&0&AMolten Nickel'
+    lore:
+    - ''
+    - '&7A molten alloy metal of Nickel'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  SMITHIUM_ALLOY:
+    name: '&x&A&6&0&A&0&AMolten Smithium'
+    lore:
+    - ''
+    - '&7A molten alloy metal of Smithium'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  CRINGLEIUM_ALLOY:
+    name: '&x&A&6&0&A&0&AMolten Cringleium'
+    lore:
+    - ''
+    - '&7A molten alloy metal of Cringleium'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  FERROSILICON_ALLOY:
+    name: '&x&A&6&0&A&0&AMolten Ferrosilicon'
+    lore:
+    - ''
+    - '&7A molten alloy metal of Ferrosilicon'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  STEEL_ALLOY:
+    name: '&x&A&6&0&A&0&AMolten Steel'
+    lore:
+    - ''
+    - '&7A molten alloy metal of Steel'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  BRONZE_ALLOY:
+    name: '&x&A&6&0&A&0&AMolten Bronze'
+    lore:
+    - ''
+    - '&7A molten alloy metal of Bronze'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  TITANIUM_ALLOY:
+    name: '&x&A&6&0&A&0&AMolten Titanium'
+    lore:
+    - ''
+    - '&7A molten alloy metal of Titanium'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  BOOMERITE_ALLOY:
+    name: '&x&A&6&0&A&0&AMolten Boomerite'
+    lore:
+    - ''
+    - '&7A molten alloy metal of Boomerite'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  ALUMINUM_BRONZE_ALLOY:
+    name: '&x&A&6&0&A&0&AMolten Aluminum Bronze'
+    lore:
+    - ''
+    - '&7A molten alloy metal of Aluminum Bronze'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  REINFORCED_ALLOY_ALLOY:
+    name: '&x&A&6&0&A&0&AMolten Reinforced Alloy'
+    lore:
+    - ''
+    - '&7A molten alloy metal of Reinforced Alloy'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  BRASS_ALLOY:
+    name: '&x&A&6&0&A&0&AMolten Brass'
+    lore:
+    - ''
+    - '&7A molten alloy metal of Brass'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  MIXED_METAL_ALLOY:
+    name: '&x&A&6&0&A&0&AMolten Mixed Metal'
+    lore:
+    - ''
+    - '&7A molten alloy metal of Mixed Metal'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  NICEINIUM_ALLOY:
+    name: '&x&A&6&0&A&0&AMolten Niceinium'
+    lore:
+    - ''
+    - '&7A molten alloy metal of Niceinium'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  ANNIVERSARIUM_ALLOY:
+    name: '&x&A&6&0&A&0&AMolten Anniversarium'
+    lore:
+    - ''
+    - '&7A molten alloy metal of Anniversarium'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  SLIME_STEEL_ALLOY:
+    name: '&x&A&6&0&A&0&AMolten Slime Steel'
+    lore:
+    - ''
+    - '&7A molten alloy metal of Slime Steel'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  LIQUID_LOVE_ALLOY:
+    name: '&x&A&6&0&A&0&AMolten Liquid Love'
+    lore:
+    - ''
+    - '&7A molten alloy metal of Liquid Love'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  HARDENED_METAL_ALLOY:
+    name: '&x&A&6&0&A&0&AMolten Hardened Metal'
+    lore:
+    - ''
+    - '&7A molten alloy metal of Hardened Metal'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  REINFORCED_SLIME_STEEL_ALLOY:
+    name: '&x&A&6&0&A&0&AMolten Reinforced Slime Steel'
+    lore:
+    - ''
+    - '&7A molten alloy metal of Reinforced Slime Steel'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'
+  CORINTHIAN_BRONZE_ALLOY:
+    name: '&x&A&6&0&A&0&AMolten Corinthian Bronze'
+    lore:
+    - ''
+    - '&7A molten alloy metal of Corinthian Bronze'
+    - ''
+    - '&x&F&0&E&A&4&FMolten Metal'

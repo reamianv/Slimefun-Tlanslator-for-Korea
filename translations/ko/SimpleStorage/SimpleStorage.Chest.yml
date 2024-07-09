@@ -1,0 +1,41 @@
+name: SimpleStorage
+translations:
+  BLOCK_CHEST_DIAMOND:
+    name: '&x&3&2&9&5&A&8Diamond Chest'
+    lore:
+    - ''
+    - '&7A chest with 270 item slots.'
+    - ''
+    - '&x&F&0&E&A&4&FChest'
+  BLOCK_CHEST_GOLD:
+    name: '&x&3&2&9&5&A&8Gold Chest'
+    lore:
+    - ''
+    - '&7A chest with 180 item slots.'
+    - ''
+    - '&x&F&0&E&A&4&FChest'
+  BLOCK_CELL_BASIC:
+    name: '&x&3&2&9&5&A&8Inventory Cell'
+    lore:
+    - ''
+    - '&7An inventory cell with 270 item slots.'
+    - ''
+    - '&x&F&0&E&A&4&FChest'
+  BLOCK_CHEST_IRON:
+    name: '&x&3&2&9&5&A&8Iron Chest'
+    lore:
+    - ''
+    - '&7A chest with 90 item slots.'
+    - ''
+    - '&x&F&0&E&A&4&FChest'
+  BLOCK_CHEST_NETWORK:
+    name: '&x&3&2&9&5&A&8Network Chest'
+    lore:
+    - ''
+    - '&7This chest can access all Inventory'
+    - '&7Cells within range.'
+    - ''
+    - '&7Cells must be within &x&F&0&E&A&4&F5&7 blocks.'
+    - '&7of the Network Chest in any direction'
+    - ''
+    - '&x&F&0&E&A&4&FChest'

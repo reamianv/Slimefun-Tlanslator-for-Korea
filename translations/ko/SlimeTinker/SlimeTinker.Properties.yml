@@ -1,0 +1,2526 @@
+name: SlimeTinker
+translations:
+  REALLY_STABLE_TRAIT_PROP_HEAD_REFINED_IRON:
+    name: '&x&B&F&3&0&7&FTrait : Really Stable'
+    lore:
+    - ''
+    - '&7Does nothing. Perhaps if you level it up?.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&8&A&8&A&8&ALiteXpansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  GO_BOOMER_TRAIT_PROP_PLATES_INGOT_CAST_BOOMERITE:
+    name: '&x&B&F&3&0&7&FTrait : Go Boomer'
+    lore:
+    - ''
+    - '&7Warning... things will go boom...'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  DEFLECTION_TRAIT_PROP_LINKS_REINFORCED_SLIMESTEEL_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Deflection'
+    lore:
+    - ''
+    - '&710% chance to ignore projectile damage.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&C&1&D&B&4&DSlimefun Warfare'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  SCARPAAARR!_TRAIT_PROP_LINKS_BRASS_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Scarpaaarr!'
+    lore:
+    - ''
+    - '&7Durability loss doubled. When damaged below 1/2 health, gain Speed 3.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  ESCAPE_TRAIT_PROP_LINKS_ALUMINUM_BRASS_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Escape'
+    lore:
+    - ''
+    - '&7Randomly teleport then hit (CD: 10s)'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  BLINDING_SPEED_TRAIT_PROP_ROD_SEGGANESSON:
+    name: '&x&B&F&3&0&7&FTrait : Blinding Speed'
+    lore:
+    - ''
+    - '&7Gain insane speed but with a side effect.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&C&1&D&B&4&DSlimefun Warfare'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  PARTIAL_DECAY_TRAIT_PROP_LINKS_OSMIUM_SUPERALLOY:
+    name: '&x&B&F&3&0&7&FTrait : Partial Decay'
+    lore:
+    - ''
+    - '&7Chance to damage random nearby living'
+    - '&7things. Will never kill.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&C&1&D&B&4&DSlimefun Warfare'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  STABILITY_TRAIT_PROP_HEAD_IRON_DUST:
+    name: '&x&B&F&3&0&7&FTrait : Stability'
+    lore:
+    - ''
+    - '&7Does... nothing!'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  FALLING_APART_TRAIT_PROP_LINKS_SCRAP:
+    name: '&x&B&F&3&0&7&FTrait : Falling Apart'
+    lore:
+    - ''
+    - '&7Exp + 200%. Chance for the armour to'
+    - '&7just fall off!'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&8&A&8&A&8&ALiteXpansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  LAVA_WALKER_TRAIT_PROP_PLATES_EARTH_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Lava Walker'
+    lore:
+    - ''
+    - '&7Lava turns into magma blocks beneath your feet.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  DECAY_TRAIT_PROP_BINDING_CRIMSON_ROOTS:
+    name: '&x&B&F&3&0&7&FTrait : Decay'
+    lore:
+    - ''
+    - '&7Slowly repairs the tool at night.'
+    - '&7Stacks with mods. Must be in hand'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  MAGNESIGHT™_II_TRAIT_PROP_LINKS_MAGNESIUM_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : MagneSight™ II'
+    lore:
+    - ''
+    - '&7Gain night vision and highlight all mobs'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  ENCHANTING_TRAIT_PROP_LINKS_SILVER_DUST:
+    name: '&x&B&F&3&0&7&FTrait : Enchanting'
+    lore:
+    - ''
+    - '&7Gains a random enchantment every time this'
+    - '&7piece of armour levels up. May not be useful.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  DRAW_TRAIT_PROP_LINKS_OSMIUM_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Draw'
+    lore:
+    - ''
+    - '&75% chance to heal by damage dealt.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&C&1&D&B&4&DSlimefun Warfare'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  PROSPEROUS_TRAIT_PROP_PLATES_GOLD_DUST:
+    name: '&x&B&F&3&0&7&FTrait : Prosperous'
+    lore:
+    - ''
+    - '&71% chance to drop a gold nugget when hit'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  FOIL_TRAIT_PROP_PLATES_ALUMINUM_DUST:
+    name: '&x&B&F&3&0&7&FTrait : Foil'
+    lore:
+    - ''
+    - '&7Damage Taken +50%. Speed + 1'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  DOOM_TRAIT_PROP_GAMBESON_WEEPING_VINES:
+    name: '&x&B&F&3&0&7&FTrait : Doom'
+    lore:
+    - ''
+    - '&7Gives you bad omen. Hide your villagers!'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  EASY_FIX_TRAIT_PROP_ROD_DURALUMIN_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Easy Fix'
+    lore:
+    - ''
+    - '&7Only 1 kit is needed to fully repair.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  STEADFAST_II_TRAIT_PROP_PLATES_IRON_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Steadfast II'
+    lore:
+    - ''
+    - '&7Ignore all explosions'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  NICE_TRAIT_PROP_HEAD_INGOT_CAST_NICE:
+    name: '&x&B&F&3&0&7&FTrait : Nice'
+    lore:
+    - ''
+    - '&7Nice'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  MERCHANT'S_VEIL_TRAIT_PROP_ROD_FORTUNE_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Merchant''s Veil'
+    lore:
+    - ''
+    - '&7Invisibility with none of the drawbacks!'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  INFINITE_TRAIT_PROP_HEAD_INFINITE_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Infinite'
+    lore:
+    - ''
+    - '&7This tool will live on forever.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  REINFORCED_TRAIT_PROP_ROD_REINFORCED_ALLOY_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Reinforced'
+    lore:
+    - ''
+    - '&7Any Plate mod on the tool is counted twice.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  MIX_IT_UP!_TRAIT_PROP_LINKS_MIXED_METAL_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Mix it up!'
+    lore:
+    - ''
+    - '&7Mixes things up a bit when hit'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&8&A&8&A&8&ALiteXpansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  BEAUTIFUL_TRAIT_PROP_PLATES_ALUMINUM_BRONZE_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Beautiful'
+    lore:
+    - ''
+    - '&7Chance to grow flowers as you walk.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  REINFORCABLE_TRAIT_PROP_PLATES_REINFORCED_ALLOY_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Reinforcable'
+    lore:
+    - ''
+    - '&7Plate mods count twice.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  HYDROGEN_TRAIT_PROP_HEAD_FERROSILICON:
+    name: '&x&B&F&3&0&7&FTrait : Hydrogen'
+    lore:
+    - ''
+    - '&7Float away from danger.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  CONDUCTIVITY_TRAIT_PROP_PLATES_SILVER_DUST:
+    name: '&x&B&F&3&0&7&FTrait : Conductivity'
+    lore:
+    - ''
+    - '&7Immune to lightning and even reflect it back!'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  TUFF_STUFF_TRAIT_PROP_HEAD_HARDENED_METAL_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Tuff Stuff'
+    lore:
+    - ''
+    - '&7Knocks back anything hit with a chance'
+    - '&7to stun.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  SLOW_LEARNER_TRAIT_PROP_GAMBESON_SILICON:
+    name: '&x&B&F&3&0&7&FTrait : Slow Learner'
+    lore:
+    - ''
+    - '&7Armour exp gain = (Level * 5%)'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  HEAT_RESISTANCE_TRAIT_PROP_PLATES_INGOT_CAST_SMITHIUM:
+    name: '&x&B&F&3&0&7&FTrait : Heat Resistance'
+    lore:
+    - ''
+    - '&725% chance to ignore fire/heat damage.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  BRIGHTBURN_TRAIT_PROP_LINKS_FERROSILICON:
+    name: '&x&B&F&3&0&7&FTrait : Brightburn'
+    lore:
+    - ''
+    - '&7Gives on stack of Burning Bright! With 4 '
+    - '&7stacks, hostile mobs are repelled (not bosses).'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  EJECT!_TRAIT_PROP_LINKS_ALUMINUM_BRONZE_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Eject!'
+    lore:
+    - ''
+    - '&7If damaged when below 1/2 health - Eject!'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  EARTH_SHAKER_TRAIT_PROP_HEAD_EARTH_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Earth Shaker'
+    lore:
+    - ''
+    - '&7Knocks back hit mobs and stuns them'
+    - '&7when they land.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  MAGNETESIUM_TRAIT_PROP_ROD_MAGNESIUM_DUST:
+    name: '&x&B&F&3&0&7&FTrait : Magnetesium'
+    lore:
+    - ''
+    - '&7Random items are drawn to you from'
+    - '&7within a 5 block range'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  LIGHT_TRAIT_PROP_PLATES_MAGNESIUM_DUST:
+    name: '&x&B&F&3&0&7&FTrait : Light'
+    lore:
+    - ''
+    - '&7Damage dealt -25%. Speed + 1'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  INCORPOREAL_RIGHT_TRAIT_PROP_ROD_UNPATENTABLIUM:
+    name: '&x&B&F&3&0&7&FTrait : Incorporeal Right'
+    lore:
+    - ''
+    - '&7Tool cannot be dropped or lost on death.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&C&1&D&B&4&DSlimefun Warfare'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  BRAINS,_NOT_BRAWN_TRAIT_PROP_HEAD_COPPER_DUST:
+    name: '&x&B&F&3&0&7&FTrait : Brains, Not Brawn'
+    lore:
+    - ''
+    - '&7Tool exp gain is doubled. Damage'
+    - '&7dealt is halved.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  BOOST_TRAIT_PROP_LINKS_TIN_DUST:
+    name: '&x&B&F&3&0&7&FTrait : Boost'
+    lore:
+    - ''
+    - '&7When taking heavy damage, gain absorption'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  FOIL_II_TRAIT_PROP_PLATES_ALUMINUM_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Foil II'
+    lore:
+    - ''
+    - '&7Damage Taken +50%. Speed + 2'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  BEAUTIFUL_TRAIT_PROP_LINKS_FORTUNE_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Beautiful'
+    lore:
+    - ''
+    - '&7Plants flowers as you walk.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  LEECH_TRAIT_PROP_ROD_LEAD_DUST:
+    name: '&x&B&F&3&0&7&FTrait : Leech'
+    lore:
+    - ''
+    - '&7Bonus health, but drains your energy.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  INFINITLY_POWERFUL_TRAIT_PROP_PLATES_INFINITY_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Infinitly Powerful'
+    lore:
+    - ''
+    - '&7Every X points of damage taken (before'
+    - '&7reductions) will unlock a new, random,'
+    - '&7enchantment. No upper limits.'
+    - '&7damage required will increase each time'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  SPRINGS_TRAIT_PROP_ROD_BILLON_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Springs'
+    lore:
+    - ''
+    - '&7Makes you jump higher.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  ABRA_TRAIT_PROP_HEAD_ALUMINUM_BRASS_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Abra'
+    lore:
+    - ''
+    - '&7Any hit mob has a % chance to be'
+    - '&7randomly teleported.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  MAGNETIC_-_TRAIT_PROP_LINKS_NICKEL_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Magnetic -'
+    lore:
+    - ''
+    - '&7Gain 1 Stack of Magnetism and 1 Stack of Negativity.'
+    - '&7Magnetism draws in all nearby items.'
+    - '&7Range = Magnetism Level - (∆ Positivity/Negativity)'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  MALLEABLE_II_TRAIT_PROP_HEAD_TIN_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Malleable II'
+    lore:
+    - ''
+    - '&7Deal 50% less damage but gain lots of'
+    - '&7Luck and Speed.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  FUSED_TRAIT_PROP_ROD_SOLDER_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Fused'
+    lore:
+    - ''
+    - '&7Tool cannot be dropped either by the'
+    - '&7player or on death.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  CHARGED_HEAD_-_TRAIT_PROP_HEAD_NICKEL_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Charged Head -'
+    lore:
+    - ''
+    - '&7Doesn''t do anything... on it''s own...'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  CLEAVE_TRAIT_PROP_HEAD_ADVANCED_ALLOY:
+    name: '&x&B&F&3&0&7&FTrait : Cleave'
+    lore:
+    - ''
+    - '&7Damage all nearby mobs when you attack.'
+    - '&7Cleave damage does not trigger Tinker''s effects.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&8&A&8&A&8&ALiteXpansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  EXPERIENCED_TRAIT_PROP_LINKS_ADAMANTITE:
+    name: '&x&B&F&3&0&7&FTrait : Experienced'
+    lore:
+    - ''
+    - '&7All tool and armour exp +10%'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  FEAR_THE_VOID_TRAIT_PROP_ROD_VOID_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Fear the Void'
+    lore:
+    - ''
+    - '&7Damage +150%. 250% in the End.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  PLANEWALKER_TRAIT_PROP_PLATES_VOID_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Planewalker'
+    lore:
+    - ''
+    - '&7The void is no longer your enemy'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  NON-CORROSIVE_II_TRAIT_PROP_PLATES_TIN_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Non-Corrosive II'
+    lore:
+    - ''
+    - '&7Poison heals and immune to hunger and weakness.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  BARTER_TRAIT_PROP_LINKS_GOLD_DUST:
+    name: '&x&B&F&3&0&7&FTrait : Barter'
+    lore:
+    - ''
+    - '&7Piglins like your armour'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  REFRESHING_TRAIT_PROP_GAMBESON_WARPED_ROOTS:
+    name: '&x&B&F&3&0&7&FTrait : Refreshing'
+    lore:
+    - ''
+    - '&7Slowly heals the equipping player.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  MAGICAL_MINT_TRAIT_PROP_LINKS_MAGIC_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Magical Mint'
+    lore:
+    - ''
+    - '&7It may still be foul, but the Dragon''s'
+    - '&7breath will not hurt you.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  DOOM_TRAIT_PROP_BINDING_WEEPING_VINES:
+    name: '&x&B&F&3&0&7&FTrait : Doom'
+    lore:
+    - ''
+    - '&7I get a bad feeling from this...'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  ATTRACTION_TRAIT_PROP_GAMBESON_TWISTING_VINES:
+    name: '&x&B&F&3&0&7&FTrait : Attraction'
+    lore:
+    - ''
+    - '&7Nearby drops (5x5 area) are drawn to you.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  WARP_TRAIT_PROP_ROD_IRIDIUM:
+    name: '&x&B&F&3&0&7&FTrait : Warp'
+    lore:
+    - ''
+    - '&7Turns your opponent around. (CD: 20m)'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&8&A&8&A&8&ALiteXpansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  BOUNCY_TRAIT_PROP_GAMBESON_SLIME_BALL:
+    name: '&x&B&F&3&0&7&FTrait : Bouncy'
+    lore:
+    - ''
+    - '&7Fall damage -25%'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  MALLEABLE_TRAIT_PROP_HEAD_TIN_DUST:
+    name: '&x&B&F&3&0&7&FTrait : Malleable'
+    lore:
+    - ''
+    - '&7Deal 50% less damage but gain luck.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  UNITE_-_FORTITUDE_TRAIT_PROP_PLATES_DAXI_FORTITUDE:
+    name: '&x&B&F&3&0&7&FTrait : Unite - Fortitude'
+    lore:
+    - ''
+    - '&7When all four defensive Daxi unite,'
+    - '&7you will be granted the power to'
+    - '&7retain your Daxi through death.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&C&2&4&2&F&5TranscEndence'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  CRAFTSMANSHIP_TRAIT_PROP_LINKS_INGOT_CAST_SMITHIUM:
+    name: '&x&B&F&3&0&7&FTrait : Craftsmanship'
+    lore:
+    - ''
+    - '&725% chance to have repair costs refunded!'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  INDOMITABLE_TRAIT_PROP_PLATES_IRIDIUM:
+    name: '&x&B&F&3&0&7&FTrait : Indomitable'
+    lore:
+    - ''
+    - '&710% of all damage is ignored and reflected.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&8&A&8&A&8&ALiteXpansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  BRUTE_TRAIT_PROP_HEAD_OSMIUM_SUPERALLOY:
+    name: '&x&B&F&3&0&7&FTrait : Brute'
+    lore:
+    - ''
+    - '&7Slow swinging speed. Hit enemies are stunned'
+    - '&7briefly. Damage +100% with an additional 33%'
+    - '&7chance to crit for a further +100%'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&C&1&D&B&4&DSlimefun Warfare'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  BARTER_II_TRAIT_PROP_LINKS_GOLD_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Barter II'
+    lore:
+    - ''
+    - '&7Piglins REALLY like your armour'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  WORKS_TRAIT_PROP_BINDING_STRING:
+    name: '&x&B&F&3&0&7&FTrait : Works'
+    lore:
+    - ''
+    - '&7No special effects.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  MAGNETESIUM_II_TRAIT_PROP_ROD_MAGNESIUM_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Magnetesium II'
+    lore:
+    - ''
+    - '&7Random items are drawn to you from'
+    - '&7within a 10 block range'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  KOTR_TRAIT_PROP_LINKS_UNPATENTABLIUM:
+    name: '&x&B&F&3&0&7&FTrait : KOTR'
+    lore:
+    - ''
+    - '&7Chance, when hit, to summon a Knight'
+    - '&7of the Round. (It''s a Golem ;))'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&C&1&D&B&4&DSlimefun Warfare'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  DWARVEN_SKILLS_TRAIT_PROP_PLATES_TITANIUM:
+    name: '&x&B&F&3&0&7&FTrait : Dwarven Skills'
+    lore:
+    - ''
+    - '&7Chance to find rare artifacts while mining.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  REALLY_STAINLESS_TRAIT_PROP_HEAD_MAGSTEEL:
+    name: '&x&B&F&3&0&7&FTrait : Really Stainless'
+    lore:
+    - ''
+    - '&7Like Stainless, but.. REALLY.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  ATTRACTION_TRAIT_PROP_BINDING_TWISTING_VINES:
+    name: '&x&B&F&3&0&7&FTrait : Attraction'
+    lore:
+    - ''
+    - '&7All drops are drawn to you within a'
+    - '&75 block range.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  FLEXIBILITY_TRAIT_PROP_ROD_REINFORCED_SLIMESTEEL_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Flexibility'
+    lore:
+    - ''
+    - '&7Incoming damage reduced and durability is lost'
+    - '&7instead. Doesn''t work while tool is broken.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&C&1&D&B&4&DSlimefun Warfare'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  FAST_TRAIT_PROP_HEAD_BILLON_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Fast'
+    lore:
+    - ''
+    - '&7Move speed increased and haste applied.'
+    - '&7Stacks with modifiers.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  LADDER_SIMULATOR™_TRAIT_PROP_HEAD_INGOT_CAST_BOOMERITE:
+    name: '&x&B&F&3&0&7&FTrait : Ladder Simulator™'
+    lore:
+    - ''
+    - '&7Spawns ladders on right click.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  PROSPEROUS_II_TRAIT_PROP_PLATES_GOLD_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Prosperous II'
+    lore:
+    - ''
+    - '&71% chance to drop 1-4 gold nuggets when hit'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  EASILY_SHAPED_TRAIT_PROP_LINKS_ALUMINUM_DUST:
+    name: '&x&B&F&3&0&7&FTrait : Easily Shaped'
+    lore:
+    - ''
+    - '&7Repairs only need a single kit.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  WORKS_TRAIT_PROP_GAMBESON_STRING:
+    name: '&x&B&F&3&0&7&FTrait : Works'
+    lore:
+    - ''
+    - '&7No special effects but makes armour quickly.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  HARDY_TRAIT_PROP_HEAD_INGOT_CAST_SMITHIUM:
+    name: '&x&B&F&3&0&7&FTrait : Hardy'
+    lore:
+    - ''
+    - '&750% chance to ignore durability loss.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  TARNISHED_TRAIT_PROP_LINKS_COPPER_DUST:
+    name: '&x&B&F&3&0&7&FTrait : Tarnished'
+    lore:
+    - ''
+    - '&7Outgoing damage reduced by 25%. Armour Exp +20%'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  THE_POWER_OF_DAXI_TRAIT_PROP_HEAD_DAXI_STRENGTH:
+    name: '&x&B&F&3&0&7&FTrait : The Power of Daxi'
+    lore:
+    - ''
+    - '&7Has a chance on hit to unleash the'
+    - '&7power of the Strength Daxi for an'
+    - '&7additional 100% damage.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&C&2&4&2&F&5TranscEndence'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  FARMER_TRAIT_PROP_PLATES_BRONZE_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Farmer'
+    lore:
+    - ''
+    - '&7All crops drop 1 extra item. Not affected by fortune.'
+    - '&7Does not stack with itself but does with other effects.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  KOTR_TRAIT_PROP_PLATES_METAL_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : KOTR'
+    lore:
+    - ''
+    - '&7Chance, when hit, to summon a Knight'
+    - '&7of the Round. (It''s a Golem ;))'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  BEGINNER_TRAIT_PROP_PLATES_COPPER_DUST:
+    name: '&x&B&F&3&0&7&FTrait : Beginner'
+    lore:
+    - ''
+    - '&7Damage taken +25%. Armour Exp +20%'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  FUSED_TRAIT_PROP_LINKS_SOLDER_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Fused'
+    lore:
+    - ''
+    - '&7Cannot be dropped on death or on purpose.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  CARBON_FIBRE_TRAIT_PROP_GAMBESON_RAW_CARBON_MESH:
+    name: '&x&B&F&3&0&7&FTrait : Carbon Fibre'
+    lore:
+    - ''
+    - '&7Speed + 1'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&8&A&8&A&8&ALiteXpansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  SNEAKY_TRAIT_PROP_PLATES_ZINC_DUST:
+    name: '&x&B&F&3&0&7&FTrait : Sneaky'
+    lore:
+    - ''
+    - '&7Damage doubled if target is facing away.'
+    - '&7Small tolerance'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  RUSTY_II_TRAIT_PROP_LINKS_IRON_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Rusty II'
+    lore:
+    - ''
+    - '&7Armour durability loss +10%. Player Exp gain +20%'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  MOON_BOUNCE_TRAIT_PROP_GAMBESON_SLIMESTEEL_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Moon Bounce'
+    lore:
+    - ''
+    - '&7When on boots, fall damage is ignored.'
+    - '&7You also get more bouncy.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&C&1&D&B&4&DSlimefun Warfare'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  DWARVEN_SKILLS_TRAIT_PROP_LINKS_HARDENED_METAL_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Dwarven Skills'
+    lore:
+    - ''
+    - '&7Chance to find rare artifacts while mining.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  OXYGENATED_TRAIT_PROP_LINKS_MAGNONIUM:
+    name: '&x&B&F&3&0&7&FTrait : Oxygenated'
+    lore:
+    - ''
+    - '&7Who needs it!?'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  STAINLESS_TRAIT_PROP_HEAD_STEEL_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Stainless'
+    lore:
+    - ''
+    - '&7The tool/weapon repels blood.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  TARNISHED_TRAIT_PROP_PLATES_MAGSTEEL:
+    name: '&x&B&F&3&0&7&FTrait : Tarnished'
+    lore:
+    - ''
+    - '&7Outgoing damage reduced by 25%. Armour Exp +20%'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  ADAMANT_TRAIT_PROP_ROD_ADAMANTITE:
+    name: '&x&B&F&3&0&7&FTrait : Adamant'
+    lore:
+    - ''
+    - '&7Become immune to all explosions'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  SUPER_LIGHTWEIGHT_II_TRAIT_PROP_ROD_ZINC_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Super Lightweight II'
+    lore:
+    - ''
+    - '&7Makes you lighter than air when sneaking.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  STUDIOUS_TRAIT_PROP_ROD_ALUMINUM_BRASS_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Studious'
+    lore:
+    - ''
+    - '&7Tool and Player exp +50% but damage halved'
+    - '&7and you are slower to act.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  MYSTIC_TRAIT_PROP_HEAD_ADAMANTITE:
+    name: '&x&B&F&3&0&7&FTrait : Mystic'
+    lore:
+    - ''
+    - '&7Player Exp + 100% (Mining) +50% (Mobs)'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  ALL_THAT_GLITTERS_II_TRAIT_PROP_ROD_GOLD_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : All That Glitters II'
+    lore:
+    - ''
+    - '&7Makes you shiny AND rainbow...y'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  WITHERPROOF_TRAIT_PROP_LINKS_REINFORCED_ALLOY_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Witherproof'
+    lore:
+    - ''
+    - '&7Immune to the wither effect.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  MIXED_METALS_TRAIT_PROP_HEAD_MIXED_METAL_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Mixed Metals'
+    lore:
+    - ''
+    - '&7Has the effects of all it''s ingredients but'
+    - '&7their power is halved.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&8&A&8&A&8&ALiteXpansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  SOLAR_POWERED_TRAIT_PROP_PLATES_FERROSILICON:
+    name: '&x&B&F&3&0&7&FTrait : Solar Powered'
+    lore:
+    - ''
+    - '&7Restores durability during the day time.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  GRACEFUL_II_TRAIT_PROP_HEAD_ZINC_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Graceful II'
+    lore:
+    - ''
+    - '&7DOLPHIN POWERS, ACTIVATE... MORE!'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  FLAMMABLE_TRAIT_PROP_HEAD_MAGNESIUM_DUST:
+    name: '&x&B&F&3&0&7&FTrait : Flammable'
+    lore:
+    - ''
+    - '&7Has a (Tool level x 5)% chance to'
+    - '&7set your enemies ablaze.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  REINFORCED_TRAIT_PROP_HEAD_TITANIUM:
+    name: '&x&B&F&3&0&7&FTrait : Reinforced'
+    lore:
+    - ''
+    - '&7Any Plate mod on the tool is counted twice.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  TARNISHED_II_TRAIT_PROP_LINKS_COPPER_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Tarnished II'
+    lore:
+    - ''
+    - '&7Outgoing damage reduced by 25%. Armour Exp +40%'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  SHARP_1_TRAIT_PROP_ROD_IRON_DUST:
+    name: '&x&B&F&3&0&7&FTrait : Sharp 1'
+    lore:
+    - ''
+    - '&7Gives increased damage, stacks with'
+    - '&7mods and other properties.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  BOUNCY_II_TRAIT_PROP_BINDING_SLIMESTEEL_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Bouncy II'
+    lore:
+    - ''
+    - '&7Fall damage halved with a jump boost.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&C&1&D&B&4&DSlimefun Warfare'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  RIGID_FLEXIBILITY_TRAIT_PROP_PLATES_REINFORCED_SLIMESTEEL_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Rigid Flexibility'
+    lore:
+    - ''
+    - '&7Speed and Jump + 1. Damage Taken + 10%'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&C&1&D&B&4&DSlimefun Warfare'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  KINGSMAN_TRAIT_PROP_PLATES_REFINED_IRON:
+    name: '&x&B&F&3&0&7&FTrait : Kingsman'
+    lore:
+    - ''
+    - '&7On right click, summons a colorful cavalcade'
+    - '&7of pure destruction.'
+    - '&7Does nothing if you don''t have manners.'
+    - '&7Requires 4 pieces with Kingsman.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&8&A&8&A&8&ALiteXpansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  BREAKPOINT_TRAIT_PROP_HEAD_INFINITY_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Breakpoint'
+    lore:
+    - ''
+    - '&7Unbreakable. +200% Damage.'
+    - '&7+200% Tool Exp and 3x3 Mining.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  TERRIBLE_TRAIT_PROP_HEAD_SCRAP:
+    name: '&x&B&F&3&0&7&FTrait : Terrible'
+    lore:
+    - ''
+    - '&7+300% durability loss. 0% Exp Gain.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&8&A&8&A&8&ALiteXpansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  CLEAN_CUT_TRAIT_PROP_HEAD_METAL_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Clean Cut'
+    lore:
+    - ''
+    - '&7Damage +100%. Haste 2'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  BAND_TRAIT_PROP_PLATES_BRASS_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Band'
+    lore:
+    - ''
+    - '&7Durability loss + 200%. Damage reduced between 1-25%'
+    - '&7getting lower as durability drops.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  WIZARD_ROBES_TRAIT_PROP_PLATES_MAGIC_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Wizard Robes'
+    lore:
+    - ''
+    - '&7Chance, when attacking, to create MAGIC'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  SHARP_1_II_TRAIT_PROP_ROD_IRON_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Sharp 1 II'
+    lore:
+    - ''
+    - '&7What a bad naming convention. +Damage'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  LIGHT_II_TRAIT_PROP_PLATES_MAGNESIUM_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Light II'
+    lore:
+    - ''
+    - '&7Damage dealt -50%. Speed + 2'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  NON-CORROSIVE_TRAIT_PROP_PLATES_TIN_DUST:
+    name: '&x&B&F&3&0&7&FTrait : Non-Corrosive'
+    lore:
+    - ''
+    - '&7Immune to poison'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  STRONG_TRAIT_PROP_LINKS_STEEL_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Strong'
+    lore:
+    - ''
+    - '&7Health boost + 1'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  MAGNETIC_-_TRAIT_PROP_PLATES_NICKEL_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Magnetic -'
+    lore:
+    - ''
+    - '&7Gain 1 Stack of Magnetism and 1 Stack of Negativity.'
+    - '&7Magnetism draws in all nearby items.'
+    - '&7Range = Magnetism Level - (∆ Positivity/Negativity)'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  SECRETS_REVEALED_TRAIT_PROP_ROD_MAGIC_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Secrets Revealed'
+    lore:
+    - ''
+    - '&7Reveals all nearby living (or not!) things.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  SHARP_2_TRAIT_PROP_HEAD_ALUMINUM_BRONZE_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Sharp 2'
+    lore:
+    - ''
+    - '&7Gives increased damage, stacks with'
+    - '&7mods and other properties.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  FLAMING_HOT_TRAIT_PROP_ROD_MAGNONIUM:
+    name: '&x&B&F&3&0&7&FTrait : Flaming Hot'
+    lore:
+    - ''
+    - '&7Smelts things when possible.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  ENCHANTING_II_TRAIT_PROP_HEAD_SILVER_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Enchanting II'
+    lore:
+    - ''
+    - '&7Tool exp gain is halved. Tools add 1-3'
+    - '&7randomly selected enchants when leveling'
+    - '&7up. These enchants may not be useful!'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  RADIOACTIVE_PLATES_TRAIT_PROP_PLATES_MAG_THOR:
+    name: '&x&B&F&3&0&7&FTrait : Radioactive Plates'
+    lore:
+    - ''
+    - '&7Poisons enemies that attack you.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&8&A&8&A&8&ALiteXpansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  BRAINS,_NOT_BRAWN:
+    _TRAIT_PROP_ROD_SCRAP:
+      name: '&x&B&F&3&0&7&FTrait : Brains, Not Brawn.'
+      lore:
+      - ''
+      - '&7Tool exp gain is doubled. Damage'
+      - '&7dealt is halved.'
+      - '&7'
+      - '&x&F&0&E&A&4&FAdded by: &x&8&A&8&A&8&ALiteXpansion'
+      - ''
+      - '&x&F&0&E&A&4&FMaterial Trait'
+  MAGNESIGHT™_TRAIT_PROP_LINKS_MAGNESIUM_DUST:
+    name: '&x&B&F&3&0&7&FTrait : MagneSight™'
+    lore:
+    - ''
+    - '&7Gain Nightvision.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  INCREASED_MASS_TRAIT_PROP_PLATES_OSMIUM_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Increased Mass'
+    lore:
+    - ''
+    - '&7Attackers will be knocked back.'
+    - '&7Gives you slow when procced'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&C&1&D&B&4&DSlimefun Warfare'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  OROBORUS_TRAIT_PROP_LINKS_INFINITE_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Oroborus'
+    lore:
+    - ''
+    - '&720% chance to reflect damage taken.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  GOLDEN_VEIL_II_TRAIT_PROP_HEAD_GOLD_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Golden Veil II'
+    lore:
+    - ''
+    - '&7Makes the player invisible. If used on'
+    - '&7a weapon, +50% damage.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  RUSTY_TRAIT_PROP_LINKS_IRON_DUST:
+    name: '&x&B&F&3&0&7&FTrait : Rusty'
+    lore:
+    - ''
+    - '&7Armour durability loss +10%. Player Exp gain +10%'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  THICK_TRAIT_PROP_BINDING_LEATHER:
+    name: '&x&B&F&3&0&7&FTrait : Thick'
+    lore:
+    - ''
+    - '&7Tool exp gain + 50%'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  HEAVY_TRAIT_PROP_ROD_HARDENED_METAL_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Heavy'
+    lore:
+    - ''
+    - '&7Mines in a 3x3 area.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  CONDUCTIVITY_II_TRAIT_PROP_PLATES_SILVER_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Conductivity II'
+    lore:
+    - ''
+    - '&7Chance to summon a tempest when hit.'
+    - '&7Lightning damage heals you.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  DURABLE_TRAIT_PROP_ROD_TITANIUM:
+    name: '&x&B&F&3&0&7&FTrait : Durable'
+    lore:
+    - ''
+    - '&7Ignores being broken but damage 50%,'
+    - '&7mining will be slower and 0 exp.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  SICKLY_TRAIT_PROP_PLATES_LEAD_DUST:
+    name: '&x&B&F&3&0&7&FTrait : Sickly'
+    lore:
+    - ''
+    - '&7Lead Armour is not a good idea'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  STIFF_TRAIT_PROP_HEAD_BRASS_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Stiff'
+    lore:
+    - ''
+    - '&7Damage +50% but makes you unlucky'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  DURABLE_TRAIT_PROP_HEAD_DURALUMIN_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Durable'
+    lore:
+    - ''
+    - '&7Ignores being broken but damage 50%,'
+    - '&7mining will be slower and 0 exp.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  TOUGHENED_TRAIT_PROP_PLATES_HARDENED_METAL_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Toughened'
+    lore:
+    - ''
+    - '&7Will not lose durability.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  POWERED_ON_TRAIT_PROP_PLATES_REDSTONE_ALLOY:
+    name: '&x&B&F&3&0&7&FTrait : Powered On'
+    lore:
+    - ''
+    - '&7Randomly powers a block within a 5x2x5 range.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  TRICKS_TRAIT_PROP_HEAD_MAGIC_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Tricks'
+    lore:
+    - ''
+    - '&7Plays nasty tricks on nearby things.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  GROWTH_TRAIT_PROP_BINDING_VINE:
+    name: '&x&B&F&3&0&7&FTrait : Growth'
+    lore:
+    - ''
+    - '&7Slowly repairs the tool during the day.'
+    - '&7Stacks with mods. Must be in hand'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  ENCHANTING_II_TRAIT_PROP_LINKS_SILVER_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Enchanting II'
+    lore:
+    - ''
+    - '&7Gains 1-3 random enchantments everytime this'
+    - '&7piece of armour levels up. May not be useful.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  BULKY_TRAIT_PROP_HEAD_REINFORCED_ALLOY_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Bulky'
+    lore:
+    - ''
+    - '&7Mines in a 3x3 area'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  SHOCK_ABSORBANT_TRAIT_PROP_LINKS_DURALUMIN_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Shock Absorbant'
+    lore:
+    - ''
+    - '&710% chance to ignore damage. Not additive'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  SNROHT_TRAIT_PROP_LINKS_DAMASCUS_STEEL_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Snroht'
+    lore:
+    - ''
+    - '&7Thorns damage is ignored and reflected back'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  GLEAM_TRAIT_PROP_LINKS_METAL_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Gleam'
+    lore:
+    - ''
+    - '&7Chance when hit to reflect damage and'
+    - '&7dazzle attackers.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  TEMPEST_TRAIT_PROP_PLATES_OSMIUM_SUPERALLOY:
+    name: '&x&B&F&3&0&7&FTrait : Tempest'
+    lore:
+    - ''
+    - '&7When wearing 4 pieces, chance when hit'
+    - '&7to summon a tempest.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&C&1&D&B&4&DSlimefun Warfare'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  CONDUCTIVE_TRAIT_PROP_ROD_COPPER_DUST:
+    name: '&x&B&F&3&0&7&FTrait : Conductive'
+    lore:
+    - ''
+    - '&7All tool exp is converted to player exp.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  LIGHTWEIGHT_TRAIT_PROP_ROD_STEEL_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Lightweight'
+    lore:
+    - ''
+    - '&7Tool Exp +50%. Speed + 1'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  UNCONVENTIONAL_POWER_TRAIT_PROP_LINKS_IRIDIUM:
+    name: '&x&B&F&3&0&7&FTrait : Unconventional Power'
+    lore:
+    - ''
+    - '&7Any damage taken is remembered. Right'
+    - '&7Click to charge inventory items.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&8&A&8&A&8&ALiteXpansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  COMPOUNDING_TRAIT_PROP_PLATES_DAMASCUS_STEEL_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Compounding'
+    lore:
+    - ''
+    - '&7Gain extra health equal for each compounding'
+    - '&7piece. Amount stacks on it''s own gain'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  MANNERS_MAKETH_MAN_TRAIT_PROP_ROD_REFINED_IRON:
+    name: '&x&B&F&3&0&7&FTrait : Manners Maketh Man'
+    lore:
+    - ''
+    - '&7Speed 1, Damage + 50%. Your fights look'
+    - '&7super cool.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&8&A&8&A&8&ALiteXpansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  BRITTLE_TRAIT_PROP_LINKS_BRONZE_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Brittle'
+    lore:
+    - ''
+    - '&7Durability loss doubled.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  FLAMING_HOT_TRAIT_PROP_HEAD_CORINTHIAN_BRONZE_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Flaming Hot'
+    lore:
+    - ''
+    - '&7Smelts broken blocks when possible.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  TUFF_STUFF_TRAIT_PROP_ROD_OSMIUM_SUPERALLOY:
+    name: '&x&B&F&3&0&7&FTrait : Tuff Stuff'
+    lore:
+    - ''
+    - '&7Knocks back anything hit and stuns.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&C&1&D&B&4&DSlimefun Warfare'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  INGHEIGHTS_TRAIT_PROP_ROD_BRONZE_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Ingheights'
+    lore:
+    - ''
+    - '&7Something is wrong with this tool.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  REFRESHING_TRAIT_PROP_BINDING_WARPED_ROOTS:
+    name: '&x&B&F&3&0&7&FTrait : Refreshing'
+    lore:
+    - ''
+    - '&7Slowly heals the holder.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  BRIGHTBURN_TRAIT_PROP_PLATES_MYTHRIL:
+    name: '&x&B&F&3&0&7&FTrait : Brightburn'
+    lore:
+    - ''
+    - '&7Gives on stack of Burning Bright! With 4'
+    - '&7stacks, hostile mobs are repelled (not bosses).'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  INSULATED_TRAIT_PROP_BINDING_RUBBER:
+    name: '&x&B&F&3&0&7&FTrait : Insulated'
+    lore:
+    - ''
+    - '&7Become immune to lightning.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&8&A&8&A&8&ALiteXpansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  DECAY_TRAIT_PROP_GAMBESON_CRIMSON_ROOTS:
+    name: '&x&B&F&3&0&7&FTrait : Decay'
+    lore:
+    - ''
+    - '&7Slowly repairs during night.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  CONDUCTOR_TRAIT_PROP_ROD_METAL_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Conductor'
+    lore:
+    - ''
+    - '&7All player exp is converted to tool'
+    - '&7exp at a 10 : 1 ratio.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  STIFF_TRAIT_PROP_ROD_MIXED_METAL_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Stiff'
+    lore:
+    - ''
+    - '&7Double damage. Unlucky!'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&8&A&8&A&8&ALiteXpansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  RESISTANCE_TRAIT_PROP_HEAD_BRONZE_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Resistance'
+    lore:
+    - ''
+    - '&7Gives fire resistance while held.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  IT'S_ONLY_NATURAL_TRAIT_PROP_LINKS_EARTH_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : It''s only natural'
+    lore:
+    - ''
+    - '&7Feeds two nearby animals on right click. (CD: 2m)'
+    - '&7Cooldown fires regardless of success.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  UNITE_-_SATURATION_TRAIT_PROP_PLATES_DAXI_SATURATION:
+    name: '&x&B&F&3&0&7&FTrait : Unite - Saturation'
+    lore:
+    - ''
+    - '&7When all four defensive Daxi unite,'
+    - '&7you will be granted the power to'
+    - '&7retain your Daxi through death.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&C&2&4&2&F&5TranscEndence'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  CELEBRATE_TRAIT_PROP_HEAD_INGOT_CAST_SEFIRITE:
+    name: '&x&B&F&3&0&7&FTrait : Celebrate'
+    lore:
+    - ''
+    - '&7Time to celebrate'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  BEGINNER_II_TRAIT_PROP_PLATES_COPPER_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Beginner II'
+    lore:
+    - ''
+    - '&7Damage Taken +50%. Armour Exp +40%'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  PROTECTIVE_TRAIT_PROP_HEAD_IRIDIUM:
+    name: '&x&B&F&3&0&7&FTrait : Protective'
+    lore:
+    - ''
+    - '&7Saves you from deaths. (CD 20m)'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&8&A&8&A&8&ALiteXpansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  HIDDEN_TRAIT_PROP_HEAD_SOLDER_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Hidden'
+    lore:
+    - ''
+    - '&7Grants invisibility, breaks instantly.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  CHARGED_ROD_-_TRAIT_PROP_ROD_NICKEL_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Charged Rod -'
+    lore:
+    - ''
+    - '&7Doesn''t do anything... on it''s own...'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  CHARGED_ROD_+_TRAIT_PROP_ROD_COBALT_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Charged Rod +'
+    lore:
+    - ''
+    - '&7Doesn''t do anything... on it''s own...'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  SOFT_TRAIT_PROP_ROD_ALUMINUM_DUST:
+    name: '&x&B&F&3&0&7&FTrait : Soft'
+    lore:
+    - ''
+    - '&7Durability loss +100%, tool EXP +50%.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  VAMPIRISM_TRAIT_PROP_HEAD_DAMASCUS_STEEL_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Vampirism'
+    lore:
+    - ''
+    - '&7Chance to heal by damage given.'
+    - '&7Damage dealt varies by time of day.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  SOFT_LANDING_TRAIT_PROP_PLATES_SOLDER_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Soft Landing'
+    lore:
+    - ''
+    - '&7Hitting walls no longer hurts'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  NIMBLE_TRAIT_PROP_BINDING_RAW_CARBON_MESH:
+    name: '&x&B&F&3&0&7&FTrait : Nimble'
+    lore:
+    - ''
+    - '&7Speed 1. Take 33% less damage'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&8&A&8&A&8&ALiteXpansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  RECYCLABLE_TRAIT_PROP_HEAD_ALUMINUM_DUST:
+    name: '&x&B&F&3&0&7&FTrait : Recyclable'
+    lore:
+    - ''
+    - '&7Chance to restore durability on hit/block break'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  SUPER_LIGHTWEIGHT_TRAIT_PROP_ROD_ZINC_DUST:
+    name: '&x&B&F&3&0&7&FTrait : Super Lightweight'
+    lore:
+    - ''
+    - '&7Makes you lighter than air when not sneaking.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  SUPERHOT_TRAIT_PROP_PLATES_CORINTHIAN_BRONZE_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Superhot'
+    lore:
+    - ''
+    - '&7Chance to set nearby entities on fire'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  MAGNANIMOUS_TRAIT_PROP_HEAD_MAGNONIUM:
+    name: '&x&B&F&3&0&7&FTrait : Magnanimous'
+    lore:
+    - ''
+    - '&7You''re just far too kind'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  SUPERHOT_TRAIT_PROP_LINKS_ADVANCED_ALLOY:
+    name: '&x&B&F&3&0&7&FTrait : Superhot'
+    lore:
+    - ''
+    - '&7Chance to set nearby linving things on fire.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&8&A&8&A&8&ALiteXpansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  ESCAPE_TRAIT_PROP_PLATES_MAGNONIUM:
+    name: '&x&B&F&3&0&7&FTrait : Escape'
+    lore:
+    - ''
+    - '&7When hit, teleport away randomly (CD: 10s).'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  NARROWING_TRAIT_PROP_LINKS_REFINED_IRON:
+    name: '&x&B&F&3&0&7&FTrait : Narrowing'
+    lore:
+    - ''
+    - '&7Attackers are blinded.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&8&A&8&A&8&ALiteXpansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  MAGNETIC_+_TRAIT_PROP_PLATES_COBALT_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Magnetic +'
+    lore:
+    - ''
+    - '&7Gain 1 Stack of Magnetism and 1 Stack of Negativity.'
+    - '&7Magnetism draws in all nearby items.'
+    - '&7Range = Magnetism Level - (∆ Positivity/Negativity)'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  ACUPUNCTURE_TRAIT_PROP_LINKS_ZINC_DUST:
+    name: '&x&B&F&3&0&7&FTrait : Acupuncture'
+    lore:
+    - ''
+    - '&7Take no damage from cactus pricks'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  STING_OF_GONDOLIN_TRAIT_PROP_ROD_MYTHRIL:
+    name: '&x&B&F&3&0&7&FTrait : Sting of Gondolin'
+    lore:
+    - ''
+    - '&7All nearby, hostile, mobs are repelled.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  INTENSE_GAZE_TRAIT_PROP_PLATES_UNPATENTABLIUM:
+    name: '&x&B&F&3&0&7&FTrait : Intense Gaze'
+    lore:
+    - ''
+    - '&7Entities you look at will teleport to you.'
+    - '&7Does not work on players or bosses.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&C&1&D&B&4&DSlimefun Warfare'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  SWEATY_TRAIT_PROP_GAMBESON_RUBBER:
+    name: '&x&B&F&3&0&7&FTrait : Sweaty'
+    lore:
+    - ''
+    - '&7A rubber lining is WAY too hot.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&8&A&8&A&8&ALiteXpansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  OVERCHARGE_TRAIT_PROP_HEAD_SEGGANESSON:
+    name: '&x&B&F&3&0&7&FTrait : Overcharge'
+    lore:
+    - ''
+    - '&7Stores energy each time you hit a mob.'
+    - '&7Every 10th attack releases this back.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&C&1&D&B&4&DSlimefun Warfare'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  SLOW_LEARNER_TRAIT_PROP_BINDING_SILICON:
+    name: '&x&B&F&3&0&7&FTrait : Slow Learner'
+    lore:
+    - ''
+    - '&7Tool exp gain when breaking blocks is'
+    - '&7increased by (Tool Level x 5%)'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  SICKLY_II_TRAIT_PROP_LINKS_LEAD_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Sickly II'
+    lore:
+    - ''
+    - '&7Lead armour is a VERY BAD idea'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  PATHETIC_TRAIT_PROP_PLATES_SCRAP:
+    name: '&x&B&F&3&0&7&FTrait : Pathetic'
+    lore:
+    - ''
+    - '&7Do not wear this armour.'
+    - '&7VERY BAD THINGS MAY HAPPEN'
+    - '&7YOU HAVE BEEN WARNED'
+    - '&7Exp + 400%.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&8&A&8&A&8&ALiteXpansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  MAGNETIC_+_TRAIT_PROP_LINKS_COBALT_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Magnetic +'
+    lore:
+    - ''
+    - '&7Gain 1 Stack of Magnetism and 1 Stack of Positivity.'
+    - '&7Magnetism draws in all nearby items.'
+    - '&7Range = Magnetism Level - (∆ Positivity/Negativity)'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  HARDY_TRAIT_PROP_PLATES_STEEL_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Hardy'
+    lore:
+    - ''
+    - '&7Explosions do 25% less damage'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  OXYGENATED_TRAIT_PROP_ROD_BRASS_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Oxygenated'
+    lore:
+    - ''
+    - '&7Gives water breathing while held.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  LEECH_II_TRAIT_PROP_ROD_LEAD_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Leech II'
+    lore:
+    - ''
+    - '&7Bonus health, but drains your energy.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  CHARGED_HEAD_+_TRAIT_PROP_HEAD_COBALT_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Charged Head +'
+    lore:
+    - ''
+    - '&7Doesn''t do anything... on it''s own...'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  THICK_TRAIT_PROP_GAMBESON_LEATHER:
+    name: '&x&B&F&3&0&7&FTrait : Thick'
+    lore:
+    - ''
+    - '&7Armour exp gain + 10%'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  DEFLECTIVE_TRAIT_PROP_PLATES_ADAMANTITE:
+    name: '&x&B&F&3&0&7&FTrait : Deflective'
+    lore:
+    - ''
+    - '&7Projectile Damage -25%'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  EXPERIENCED_TRAIT_PROP_PLATES_MIXED_METAL_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Experienced'
+    lore:
+    - ''
+    - '&7All tool/armour exp + 10%'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&8&A&8&A&8&ALiteXpansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  FLAMMABLE_TRAIT_PROP_ROD_MAGSTEEL:
+    name: '&x&B&F&3&0&7&FTrait : Flammable'
+    lore:
+    - ''
+    - '&7Has a (Tool level x 5)% chance to'
+    - '&7set your enemies ablaze.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  HEAT_CONDUCTOR_TRAIT_PROP_LINKS_BILLON_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Heat Conductor'
+    lore:
+    - ''
+    - '&7Magma blocks no longer cause damage'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  IT'S_ALL_YOU_NEED_TRAIT_PROP_LINKS_INGOT_CAST_LOVE:
+    name: '&x&B&F&3&0&7&FTrait : It''s all you need'
+    lore:
+    - ''
+    - '&7You are loved'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  GRINDER_TRAIT_PROP_ROD_EARTH_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Grinder'
+    lore:
+    - ''
+    - '&7Breaking blocks act as if they have'
+    - '&7gone through the grinder.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  SICKLY_TRAIT_PROP_LINKS_LEAD_DUST:
+    name: '&x&B&F&3&0&7&FTrait : Sickly'
+    lore:
+    - ''
+    - '&7Lead Armour is not a good idea'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  CONDUCTIVE_II_TRAIT_PROP_ROD_COPPER_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Conductive II'
+    lore:
+    - ''
+    - '&7All tool exp is converted to player exp'
+    - '&7with a 50% bonus.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  SICKLY_II_TRAIT_PROP_PLATES_LEAD_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Sickly II'
+    lore:
+    - ''
+    - '&7Lead armour is a VERY BAD idea'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  EASILY_SHAPED_II_TRAIT_PROP_LINKS_ALUMINUM_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Easily Shaped II'
+    lore:
+    - ''
+    - '&7Repairs only need a single kit of ANY metal'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  DURABLE_TRAIT_PROP_PLATES_DURALUMIN_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Durable'
+    lore:
+    - ''
+    - '&7Works when broken but damage taken +20%'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  FEELING_FESTIVE_TRAIT_PROP_LINKS_INGOT_CAST_CRINGLEIUM:
+    name: '&x&B&F&3&0&7&FTrait : Feeling Festive'
+    lore:
+    - ''
+    - '&7Get that festive feeling!'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  POISONOUS_TRAIT_PROP_HEAD_LEAD_DUST:
+    name: '&x&B&F&3&0&7&FTrait : Poisonous'
+    lore:
+    - ''
+    - '&725% chance to afflict poison on hit.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  SOFT_II_TRAIT_PROP_ROD_ALUMINUM_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Soft II'
+    lore:
+    - ''
+    - '&7Durability loss +100%, tool EXP +100%.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  UNITE_-_REGENERATION_TRAIT_PROP_PLATES_DAXI_REGENERATION:
+    name: '&x&B&F&3&0&7&FTrait : Unite - Regeneration'
+    lore:
+    - ''
+    - '&7When all four defensive Daxi unite,'
+    - '&7you will be granted the power to'
+    - '&7retain your Daxi through death.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&C&2&4&2&F&5TranscEndence'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  WARM_BLODDED_TRAIT_PROP_LINKS_CORINTHIAN_BRONZE_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Warm Blodded'
+    lore:
+    - ''
+    - '&7Speed + 2 when hot in the nether.'
+    - '&7Slow + 1 when cold in the end'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  HEAVY_POMMEL_TRAIT_PROP_ROD_OSMIUM_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Heavy Pommel'
+    lore:
+    - ''
+    - '&7Struck mobs are slowed and cannot teleport.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&C&1&D&B&4&DSlimefun Warfare'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  ACUPUNCTURE_II_TRAIT_PROP_LINKS_ZINC_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Acupuncture II'
+    lore:
+    - ''
+    - '&7Cactus pricks heal you.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  GOLDEN_VEIL_TRAIT_PROP_HEAD_GOLD_DUST:
+    name: '&x&B&F&3&0&7&FTrait : Golden Veil'
+    lore:
+    - ''
+    - '&7Makes the player invisible. If used on'
+    - '&7a weapon, -100% damage.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  GROWTH_TRAIT_PROP_GAMBESON_VINE:
+    name: '&x&B&F&3&0&7&FTrait : Growth'
+    lore:
+    - ''
+    - '&7Slowly repairs during the day.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  UNITE_-_ABSORPTION_TRAIT_PROP_PLATES_DAXI_ABSORPTION:
+    name: '&x&B&F&3&0&7&FTrait : Unite - Absorption'
+    lore:
+    - ''
+    - '&7When all four defensive Daxi unite,'
+    - '&7you will be granted the power to'
+    - '&7retain your Daxi through death.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&C&2&4&2&F&5TranscEndence'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  STEADFAST_TRAIT_PROP_PLATES_IRON_DUST:
+    name: '&x&B&F&3&0&7&FTrait : Steadfast'
+    lore:
+    - ''
+    - '&733% chance to ignore an explosion'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  HEAVY_TRAIT_PROP_HEAD_OSMIUM_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Heavy'
+    lore:
+    - ''
+    - '&7Mines in a 3x3 Area'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&C&1&D&B&4&DSlimefun Warfare'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  HEAVY_DUTY_TRAIT_PROP_ROD_ADVANCED_ALLOY:
+    name: '&x&B&F&3&0&7&FTrait : Heavy Duty'
+    lore:
+    - ''
+    - '&7When durability gets low, it eats 1 iron'
+    - '&7ingot from your inventory to restore some.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&8&A&8&A&8&ALiteXpansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  VAMPIRISM_TRAIT_PROP_ROD_MAG_THOR:
+    name: '&x&B&F&3&0&7&FTrait : Vampirism'
+    lore:
+    - ''
+    - '&7Chance to heal by damage given.'
+    - '&7Damage dealt varies by time of day.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&8&A&8&A&8&ALiteXpansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  BOUNCY_TRAIT_PROP_BINDING_SLIME_BALL:
+    name: '&x&B&F&3&0&7&FTrait : Bouncy'
+    lore:
+    - ''
+    - '&7Fall damage is halved.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  VOID_MINER_TRAIT_PROP_HEAD_VOID_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Void Miner'
+    lore:
+    - ''
+    - '&7Randomly generates ores while mining/digging.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  HEAT_RESISTANT_TRAIT_PROP_LINKS_TITANIUM:
+    name: '&x&B&F&3&0&7&FTrait : Heat Resistant'
+    lore:
+    - ''
+    - '&7Immune to fire and lava.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  CAN_TRAIT_PROP_ROD_TIN_DUST:
+    name: '&x&B&F&3&0&7&FTrait : Can'
+    lore:
+    - ''
+    - '&7Your hunger just fades away'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  SOFT_TOUCH_II_TRAIT_PROP_ROD_SILVER_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Soft Touch II'
+    lore:
+    - ''
+    - '&7You feel much lighter.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  TOO_HOT_TO_HANDLE_TRAIT_PROP_ROD_CORINTHIAN_BRONZE_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Too Hot to Handle'
+    lore:
+    - ''
+    - '&7?'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  STRONG_AND_STICKY_TRAIT_PROP_HEAD_REINFORCED_SLIMESTEEL_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Strong and Sticky'
+    lore:
+    - ''
+    - '&7Dropped blocks go into your inventory'
+    - '&7when possible to do so'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&C&1&D&B&4&DSlimefun Warfare'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  INNOVATION_TRAIT_PROP_HEAD_UNPATENTABLIUM:
+    name: '&x&B&F&3&0&7&FTrait : Innovation'
+    lore:
+    - ''
+    - '&7+100% Tool and Player EXP during the day.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&C&1&D&B&4&DSlimefun Warfare'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  SOUL_SIPHON_TRAIT_PROP_LINKS_SEGGANESSON:
+    name: '&x&B&F&3&0&7&FTrait : Soul Siphon'
+    lore:
+    - ''
+    - '&7Stores the souls of killed, hostile, mobs.'
+    - '&7Damage + 1% per 100 souls. Caps at 100%.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&C&1&D&B&4&DSlimefun Warfare'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  INFINITE_DEFENCE_TRAIT_PROP_LINKS_INFINITY_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Infinite Defence'
+    lore:
+    - ''
+    - '&7All damage taken set to 1 when 4 pieces'
+    - '&7are equipped.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  BUILDING_RAGE_TRAIT_PROP_LINKS_MAG_THOR:
+    name: '&x&B&F&3&0&7&FTrait : Building Rage'
+    lore:
+    - ''
+    - '&7Chance, when hit, to gain Speed 1 and Haste 1'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&8&A&8&A&8&ALiteXpansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  ENCHANTING_TRAIT_PROP_HEAD_SILVER_DUST:
+    name: '&x&B&F&3&0&7&FTrait : Enchanting'
+    lore:
+    - ''
+    - '&7Tool exp gain is halved. Tools add a'
+    - '&7random vanilla enchant when leveling. May or'
+    - '&7may not match the tool type.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  POISONOUS_II_TRAIT_PROP_HEAD_LEAD_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Poisonous II'
+    lore:
+    - ''
+    - '&7Poisons more frequently and for longer.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  SNEAKY_II_TRAIT_PROP_PLATES_ZINC_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Sneaky II'
+    lore:
+    - ''
+    - '&7Damage doubled if target is facing away.'
+    - '&7Large tolerence'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  EVEN_MORE_ADVANCED_TRAIT_PROP_PLATES_ADVANCED_ALLOY:
+    name: '&x&B&F&3&0&7&FTrait : Even More Advanced'
+    lore:
+    - ''
+    - '&7Advanced modifiers +1 for each piece.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&8&A&8&A&8&ALiteXpansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  FEELING_CONNECTED_TRAIT_PROP_LINKS_NTW_REMOTE_ULTIMATE:
+    name: '&x&B&F&3&0&7&FTrait : Feeling Connected'
+    lore:
+    - ''
+    - '&7Allows you to connect wirelessly'
+    - '&7to a network using direct nural'
+    - '&7connection via your helmet.'
+    - '&7'
+    - '&7Shift + Left Click with an empty'
+    - '&7hand to bind to a grid.'
+    - '&7'
+    - '&7Left Click air with an empty hand to'
+    - '&7try to open the bound grid.'
+    - '&7'
+    - '&7Will only work on a helmet.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&0&5&A&D&0&8Networks'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  INDUSTRIOUS_TRAIT_PROP_ROD_INGOT_CAST_SMITHIUM:
+    name: '&x&B&F&3&0&7&FTrait : Industrious'
+    lore:
+    - ''
+    - '&7Shift + Right click to activate Haste Burst for 30 seconds.'
+    - '&7When Haste Burst is active, every block broken has'
+    - '&7a [50 ÷ Haste Level]% chance to apply a stack of haste.'
+    - '&7Hardcaps at Haste 10. Has a 5 min cooldown.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  WHO_NEEDS_PRESSURE_PLATES?_TRAIT_PROP_LINKS_REDSTONE_ALLOY:
+    name: '&x&B&F&3&0&7&FTrait : Who needs pressure plates?'
+    lore:
+    - ''
+    - '&7The block you stand on is powered.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  WHM_TRAIT_PROP_PLATES_BILLON_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : WHM'
+    lore:
+    - ''
+    - '&7Your attacks heal instead of harm.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  BOOST_II_TRAIT_PROP_LINKS_TIN_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Boost II'
+    lore:
+    - ''
+    - '&7When taking heavy damage, gain lots of absorption'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  HOW_FORTUNATE_TRAIT_PROP_PLATES_FORTUNE_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : How Fortunate'
+    lore:
+    - ''
+    - '&70.5% chance to get a gift when hit.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  FORTUNATE_TRAIT_PROP_HEAD_FORTUNE_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Fortunate'
+    lore:
+    - ''
+    - '&7200% drops from fortune. Stacks'
+    - '&7with Lapis modifiers.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  DEFENDER_TRAIT_PROP_LINKS_MAGSTEEL:
+    name: '&x&B&F&3&0&7&FTrait : Defender'
+    lore:
+    - ''
+    - '&75% chance, when hit, to ignore damage'
+    - '&7and gain absorption.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  RECYCLABLE_II_TRAIT_PROP_HEAD_ALUMINUM_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Recyclable II'
+    lore:
+    - ''
+    - '&7Chance to restore durability on hit/block break'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  SOFT_TOUCH_TRAIT_PROP_ROD_SILVER_DUST:
+    name: '&x&B&F&3&0&7&FTrait : Soft Touch'
+    lore:
+    - ''
+    - '&7You feel lighter.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  THE_END_TRAIT_PROP_LINKS_VOID_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : The End'
+    lore:
+    - ''
+    - '&7Reduce damage from the Dragon, Endermen and'
+    - '&7Shulkers by 10%'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  NIGHTSTALKER_TRAIT_PROP_ROD_DAMASCUS_STEEL_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Nightstalker'
+    lore:
+    - ''
+    - '&7Gives night vision.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  CONCEPTUAL_DEFENCE_TRAIT_PROP_ROD_INFINITE_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Conceptual Defence'
+    lore:
+    - ''
+    - '&7All damage is halved (rounded up).'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  CALL_OF_THE_WILD_TRAIT_PROP_LINKS_MYTHRIL:
+    name: '&x&B&F&3&0&7&FTrait : Call of the Wild'
+    lore:
+    - ''
+    - '&7When hit, you sometimes summon a wolf to your aid'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  DRACONIC_TANTRUM_TRAIT_PROP_HEAD_INGOT_CAST_REINFORCED_DRACONIUM:
+    name: '&x&B&F&3&0&7&FTrait : Draconic Tantrum'
+    lore:
+    - ''
+    - '&7When hit by the Ender Dragon, gain'
+    - '&7bonus damage for 15 seconds.'
+    - '&7Stacks additively. Stacks refresh duration.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - '&7'
+    - '&x&F&0&E&A&4&FSponsored by: Bunkky/ReasonFoundDecoy'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  STABILITY_II_TRAIT_PROP_HEAD_IRON_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Stability II'
+    lore:
+    - ''
+    - '&7Still does Nothing'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  10_YEARS_OF_(SLIME)FUN!_TRAIT_PROP_PLATES_INGOT_CAST_ANNIVERSARIUM:
+    name: '&x&B&F&3&0&7&FTrait : 10 Years of (Slime)fun!'
+    lore:
+    - ''
+    - '&710 Years of (Slime)fun!'
+    - '&7'
+    - '&7Requires all four armor pieces.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  MAGUS_TRAIT_PROP_PLATES_ALUMINUM_BRASS_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Magus'
+    lore:
+    - ''
+    - '&7Magic Damage -50%'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  GRACEFUL_TRAIT_PROP_HEAD_ZINC_DUST:
+    name: '&x&B&F&3&0&7&FTrait : Graceful'
+    lore:
+    - ''
+    - '&7DOLPHIN POWERS, ACTIVATE!'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  LIGHTNING_ROD_TRAIT_PROP_ROD_REDSTONE_ALLOY:
+    name: '&x&B&F&3&0&7&FTrait : Lightning Rod'
+    lore:
+    - ''
+    - '&7A chance to strike hit mobs with lightning.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  GRAVITY_TRAIT_PROP_PLATES_SEGGANESSON:
+    name: '&x&B&F&3&0&7&FTrait : Gravity'
+    lore:
+    - ''
+    - '&7All nearby entities are slowly pulled'
+    - '&7towards you'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&C&1&D&B&4&DSlimefun Warfare'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  CAN_II_TRAIT_PROP_ROD_TIN_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Can II'
+    lore:
+    - ''
+    - '&7No Hunger Loss'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  INFINITE_CAPACITY_TRAIT_PROP_PLATES_INFINITE_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Infinite Capacity'
+    lore:
+    - ''
+    - '&7Everytime you take damage, 10% is stored'
+    - '&7up to 5 hearts. Right click to release'
+    - '&7the damage on nearby entities'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  HEAT_RESISTANT_TRAIT_PROP_HEAD_MAG_THOR:
+    name: '&x&B&F&3&0&7&FTrait : Heat Resistant'
+    lore:
+    - ''
+    - '&7Lava is no longer your enemy.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&8&A&8&A&8&ALiteXpansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  BRAINS,_NOT_BRAWN_II_TRAIT_PROP_HEAD_COPPER_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Brains, Not Brawn II'
+    lore:
+    - ''
+    - '&7Tool exp +200%, Damage 50%'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  BRITTLE_TRAIT_PROP_ROD_ALUMINUM_BRONZE_INGOT:
+    name: '&x&B&F&3&0&7&FTrait : Brittle'
+    lore:
+    - ''
+    - '&7Durability loss is doubled.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  FLAMMABLE_II_TRAIT_PROP_HEAD_MAGNESIUM_SINGULARITY:
+    name: '&x&B&F&3&0&7&FTrait : Flammable II'
+    lore:
+    - ''
+    - '&7Has a (Tool level x 10)% chance to'
+    - '&7set your enemies ablaze for a longer time.'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  ELVEN_SPEED_TRAIT_PROP_HEAD_MYTHRIL:
+    name: '&x&B&F&3&0&7&FTrait : Elven Speed'
+    lore:
+    - ''
+    - '&7Haste 2, Speed 1. Durability loss +50%'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&7&E&C&E&E&0Infinity Expansion'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'
+  ALL_THAT_GLITTERS_TRAIT_PROP_ROD_GOLD_DUST:
+    name: '&x&B&F&3&0&7&FTrait : All that Glitters'
+    lore:
+    - ''
+    - '&7Makes you all shiny...'
+    - '&7'
+    - '&x&F&0&E&A&4&FAdded by: &x&2&1&5&8&8&FCore SlimeTinker'
+    - ''
+    - '&x&F&0&E&A&4&FMaterial Trait'

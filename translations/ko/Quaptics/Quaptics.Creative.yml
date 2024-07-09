@@ -1,0 +1,11 @@
+name: Quaptics
+translations:
+  QP_CREATIVE_CONCENTRATOR:
+    name: '&dCreative Concentrator'
+    lore:
+    - '&x&A&F&3&B&A&8Creative'
+    - '&7● Concentrates &7&kwhatlol &7into a quaptic ray'
+    - '&7● Control the output with the panel (try shifting)'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Max Power Output &e∞ &8W'
+    - '&8⇨ &x&0&0&F&F&0&0∀ &7Max Frequency Output &e∞ &8Hz'
+    - '&8⇨ &x&F&F&C&C&0&0۞ &7Max Phase Output &e∞ &8°'

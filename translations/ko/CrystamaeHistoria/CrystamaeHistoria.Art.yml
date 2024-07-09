@@ -1,0 +1,340 @@
+name: CrystamaeHistoria
+translations:
+  CRY_BRUSH_BLUE_1000:
+    name: '&x&C&2&F&C&0&3Magic Paintbrush (Blue)'
+    lore:
+    - ''
+    - '&7Paints colored blocks blue.'
+    - '&7'
+    - '&e1000 Uses &7left'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  CRY_BRUSH_MAGENTA_100:
+    name: '&x&C&2&F&C&0&3Magic Paintbrush (Magenta)'
+    lore:
+    - ''
+    - '&7Paints colored blocks magenta.'
+    - '&7'
+    - '&e100 Uses &7left'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  CRY_BRUSH_CYAN_100:
+    name: '&x&C&2&F&C&0&3Magic Paintbrush (Cyan)'
+    lore:
+    - ''
+    - '&7Paints colored blocks cyan.'
+    - '&7'
+    - '&e100 Uses &7left'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  CRY_BRUSH_BROWN_1000:
+    name: '&x&C&2&F&C&0&3Magic Paintbrush (Brown)'
+    lore:
+    - ''
+    - '&7Paints colored blocks brown.'
+    - '&7'
+    - '&e1000 Uses &7left'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  CRY_BRUSH_LIGHT_BLUE_1000:
+    name: '&x&C&2&F&C&0&3Magic Paintbrush (Light Blue)'
+    lore:
+    - ''
+    - '&7Paints colored blocks light blue.'
+    - '&7'
+    - '&e1000 Uses &7left'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  CRY_BRUSH_LIGHT_BLUE_100:
+    name: '&x&C&2&F&C&0&3Magic Paintbrush (Light Blue)'
+    lore:
+    - ''
+    - '&7Paints colored blocks light blue.'
+    - '&7'
+    - '&e100 Uses &7left'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  CRY_BRUSH_LIME_100:
+    name: '&x&C&2&F&C&0&3Magic Paintbrush (Lime)'
+    lore:
+    - ''
+    - '&7Paints colored blocks lime.'
+    - '&7'
+    - '&e100 Uses &7left'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  CRY_BRUSH_LIME_1000:
+    name: '&x&C&2&F&C&0&3Magic Paintbrush (Lime)'
+    lore:
+    - ''
+    - '&7Paints colored blocks lime.'
+    - '&7'
+    - '&e1000 Uses &7left'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  CRY_BRUSH_LIGHT_GRAY_100:
+    name: '&x&C&2&F&C&0&3Magic Paintbrush (Light Gray)'
+    lore:
+    - ''
+    - '&7Paints colored blocks light gray.'
+    - '&7'
+    - '&e100 Uses &7left'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  CRY_BRUSH_GRAY_100:
+    name: '&x&C&2&F&C&0&3Magic Paintbrush (Gray)'
+    lore:
+    - ''
+    - '&7Paints colored blocks gray.'
+    - '&7'
+    - '&e100 Uses &7left'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  CRY_BRUSH_GREEN_100:
+    name: '&x&C&2&F&C&0&3Magic Paintbrush (Green)'
+    lore:
+    - ''
+    - '&7Paints colored blocks green.'
+    - '&7'
+    - '&e100 Uses &7left'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  CRY_BRUSH_LIGHT_GRAY_1000:
+    name: '&x&C&2&F&C&0&3Magic Paintbrush (Light Gray)'
+    lore:
+    - ''
+    - '&7Paints colored blocks light gray.'
+    - '&7'
+    - '&e1000 Uses &7left'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  CRY_IMBUED_STAND:
+    name: '&x&C&2&F&C&0&3Imbued Armor Stand'
+    lore:
+    - ''
+    - '&7This Armor Stand can be made'
+    - '&7invisible or smaller with a pose'
+    - '&7changer.'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  CRY_BRUSH_BLACK_1000:
+    name: '&x&C&2&F&C&0&3Magic Paintbrush (Black)'
+    lore:
+    - ''
+    - '&7Paints colored blocks black.'
+    - '&7'
+    - '&e1000 Uses &7left'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  CRY_BRUSH_BLUE_100:
+    name: '&x&C&2&F&C&0&3Magic Paintbrush (Blue)'
+    lore:
+    - ''
+    - '&7Paints colored blocks blue.'
+    - '&7'
+    - '&e100 Uses &7left'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  CRY_BRUSH_RED_1000:
+    name: '&x&C&2&F&C&0&3Magic Paintbrush (Red)'
+    lore:
+    - ''
+    - '&7Paints colored blocks red.'
+    - '&7'
+    - '&e1000 Uses &7left'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  CRY_BRUSH_RED_100:
+    name: '&x&C&2&F&C&0&3Magic Paintbrush (Red)'
+    lore:
+    - ''
+    - '&7Paints colored blocks red.'
+    - '&7'
+    - '&e100 Uses &7left'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  CRY_POSE_CLONER:
+    name: '&x&C&2&F&C&0&3Pose Cloner'
+    lore:
+    - ''
+    - '&7This item can copy the state'
+    - '&7of an Inbued Armorstand and'
+    - '&7make another match to suit.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Right Click: &7Clone pose'
+    - '&x&E&4&E&D&3&2Shift Right Click: &7Apply stored clone'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  CRY_BRUSH_WHITE_1000:
+    name: '&x&C&2&F&C&0&3Magic Paintbrush (White)'
+    lore:
+    - ''
+    - '&7Paints colored blocks white.'
+    - '&7'
+    - '&e1000 Uses &7left'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  CRY_BRUSH_BROWN_100:
+    name: '&x&C&2&F&C&0&3Magic Paintbrush (Brown)'
+    lore:
+    - ''
+    - '&7Paints colored blocks brown.'
+    - '&7'
+    - '&e100 Uses &7left'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  CRY_BRUSH_PURPLE_100:
+    name: '&x&C&2&F&C&0&3Magic Paintbrush (Purple)'
+    lore:
+    - ''
+    - '&7Paints colored blocks purple.'
+    - '&7'
+    - '&e100 Uses &7left'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  CRY_BRUSH_YELLOW_1000:
+    name: '&x&C&2&F&C&0&3Magic Paintbrush (Yellow)'
+    lore:
+    - ''
+    - '&7Paints colored blocks yellow.'
+    - '&7'
+    - '&e1000 Uses &7left'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  CRY_BRUSH_MAGENTA_1000:
+    name: '&x&C&2&F&C&0&3Magic Paintbrush (Magenta)'
+    lore:
+    - ''
+    - '&7Paints colored blocks magenta.'
+    - '&7'
+    - '&e1000 Uses &7left'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  CRY_POSE_CHANGER:
+    name: '&x&C&2&F&C&0&3Pose Changer'
+    lore:
+    - ''
+    - '&7This item is able to manipulate'
+    - '&7the pose of armor stands.'
+    - '&7Works with vanilla stand and'
+    - '&7can do additional things to'
+    - '&7Imbued Stands.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Left Click: &7Change selected body part'
+    - '&x&E&4&E&D&3&2Shift Left Click: &7Change selected change method'
+    - '&x&E&4&E&D&3&2Right Click: &7Apply change (positive)'
+    - '&x&E&4&E&D&3&2Shift Right Click: &7Apply change (negative)'
+    - '&7'
+    - '&x&E&4&E&D&3&2Pose Set To: &7HEAD'
+    - '&x&E&4&E&D&3&2Change Set To: &7RESET'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  CRY_BRUSH_BLACK_100:
+    name: '&x&C&2&F&C&0&3Magic Paintbrush (Black)'
+    lore:
+    - ''
+    - '&7Paints colored blocks black.'
+    - '&7'
+    - '&e100 Uses &7left'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  CRY_BRUSH_INFINITE:
+    name: '&x&C&2&F&C&0&3Mythical Paintbrush'
+    lore:
+    - ''
+    - '&7Paints colored blocks and entities. Can'
+    - '&7paint in all colors and doesn''t run out.'
+    - '&7'
+    - '&x&E&4&E&D&3&2Shift Left Click: &7Change Color'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  CRY_BRUSH_GRAY_1000:
+    name: '&x&C&2&F&C&0&3Magic Paintbrush (Gray)'
+    lore:
+    - ''
+    - '&7Paints colored blocks gray.'
+    - '&7'
+    - '&e1000 Uses &7left'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  CRY_BRUSH_GREEN_1000:
+    name: '&x&C&2&F&C&0&3Magic Paintbrush (Green)'
+    lore:
+    - ''
+    - '&7Paints colored blocks green.'
+    - '&7'
+    - '&e1000 Uses &7left'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  CRY_BRUSH_PURPLE_1000:
+    name: '&x&C&2&F&C&0&3Magic Paintbrush (Purple)'
+    lore:
+    - ''
+    - '&7Paints colored blocks purple.'
+    - '&7'
+    - '&e1000 Uses &7left'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  CRY_BRUSH_ORANGE_100:
+    name: '&x&C&2&F&C&0&3Magic Paintbrush (Orange)'
+    lore:
+    - ''
+    - '&7Paints colored blocks orange.'
+    - '&7'
+    - '&e100 Uses &7left'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  CRY_BRUSH_WHITE_100:
+    name: '&x&C&2&F&C&0&3Magic Paintbrush (White)'
+    lore:
+    - ''
+    - '&7Paints colored blocks white.'
+    - '&7'
+    - '&e100 Uses &7left'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  CRY_BRUSH_PINK_100:
+    name: '&x&C&2&F&C&0&3Magic Paintbrush (Pink)'
+    lore:
+    - ''
+    - '&7Paints colored blocks pink.'
+    - '&7'
+    - '&e100 Uses &7left'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  CRY_BRUSH_YELLOW_100:
+    name: '&x&C&2&F&C&0&3Magic Paintbrush (Yellow)'
+    lore:
+    - ''
+    - '&7Paints colored blocks yellow.'
+    - '&7'
+    - '&e100 Uses &7left'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  CRY_BRUSH_PINK_1000:
+    name: '&x&C&2&F&C&0&3Magic Paintbrush (Pink)'
+    lore:
+    - ''
+    - '&7Paints colored blocks pink.'
+    - '&7'
+    - '&e1000 Uses &7left'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  CRY_BRUSH_ORANGE_1000:
+    name: '&x&C&2&F&C&0&3Magic Paintbrush (Orange)'
+    lore:
+    - ''
+    - '&7Paints colored blocks orange.'
+    - '&7'
+    - '&e1000 Uses &7left'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'
+  CRY_BRUSH_CYAN_1000:
+    name: '&x&C&2&F&C&0&3Magic Paintbrush (Cyan)'
+    lore:
+    - ''
+    - '&7Paints colored blocks cyan.'
+    - '&7'
+    - '&e1000 Uses &7left'
+    - ''
+    - '&x&E&4&E&D&3&2Tool'

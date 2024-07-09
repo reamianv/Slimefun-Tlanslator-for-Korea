@@ -1,0 +1,16 @@
+name: DankTech2
+translations:
+  DK2_UNLOADER_1:
+    name: '&x&3&2&9&5&A&8Dank Unloader'
+    lore:
+    - ''
+    - '&7Pulls out items from your Dank Packs'
+    - ''
+    - '&x&E&4&E&D&3&2Machine'
+  DK2_CRAFTER_1:
+    name: '&x&3&2&9&5&A&8Dank Crafter'
+    lore:
+    - ''
+    - '&7Crafts and upgrades Dank Packs.'
+    - ''
+    - '&x&E&4&E&D&3&2Machine'

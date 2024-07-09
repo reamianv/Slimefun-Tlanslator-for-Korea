@@ -1,0 +1,65 @@
+name: CrystamaeHistoria
+translations:
+  CRY_CRYSTAL_DUMMY_ANIMAL_ANIMAL:
+    name: '&x&7&0&1&A&E&8Animal Crystal'
+    lore:
+    - ''
+    - '&7Magical Crystamae in it''s physical form'
+    - ''
+    - '&x&E&4&E&D&3&2Crystal'
+  CRY_CRYSTAL_DUMMY_ELEMENTAL_ELEMENTAL:
+    name: '&x&B&A&0&0&0&0Elemental Crystal'
+    lore:
+    - ''
+    - '&7Magical Crystamae in it''s physical form'
+    - ''
+    - '&x&E&4&E&D&3&2Crystal'
+  CRY_CRYSTAL_DUMMY_HISTORICAL_HISTORICAL:
+    name: '&x&2&4&E&8&1&AHistorical Crystal'
+    lore:
+    - ''
+    - '&7Magical Crystamae in it''s physical form'
+    - ''
+    - '&x&E&4&E&D&3&2Crystal'
+  CRY_CRYSTAL_DUMMY_HUMAN_HUMAN:
+    name: '&x&2&0&1&A&E&8Human Crystal'
+    lore:
+    - ''
+    - '&7Magical Crystamae in it''s physical form'
+    - ''
+    - '&x&E&4&E&D&3&2Crystal'
+  CRY_CRYSTAL_DUMMY_CELESTIAL_CELESTIAL:
+    name: '&x&F&F&F&F&F&FCelestial Crystal'
+    lore:
+    - ''
+    - '&7Magical Crystamae in it''s physical form'
+    - ''
+    - '&x&E&4&E&D&3&2Crystal'
+  CRY_CRYSTAL_DUMMY_VOID_VOID:
+    name: '&x&2&2&2&2&2&2Void Crystal'
+    lore:
+    - ''
+    - '&7Magical Crystamae in it''s physical form'
+    - ''
+    - '&x&E&4&E&D&3&2Crystal'
+  CRY_CRYSTAL_DUMMY_ALCHEMICAL_ALCHEMICAL:
+    name: '&x&E&5&E&8&1&AAlchemical Crystal'
+    lore:
+    - ''
+    - '&7Magical Crystamae in it''s physical form'
+    - ''
+    - '&x&E&4&E&D&3&2Crystal'
+  CRY_CRYSTAL_DUMMY_MECHANICAL_MECHANICAL:
+    name: '&x&B&A&5&D&0&0Mechanical Crystal'
+    lore:
+    - ''
+    - '&7Magical Crystamae in it''s physical form'
+    - ''
+    - '&x&E&4&E&D&3&2Crystal'
+  CRY_CRYSTAL_DUMMY_PHILOSOPHICAL_PHILOSOPHICAL:
+    name: '&x&4&D&4&A&A&8Philosophical Crystal'
+    lore:
+    - ''
+    - '&7Magical Crystamae in it''s physical form'
+    - ''
+    - '&x&E&4&E&D&3&2Crystal'

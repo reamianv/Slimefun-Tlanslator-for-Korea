@@ -1,0 +1,108 @@
+name: ExtraHeads
+translations:
+  PARROT_HEAD:
+    name: '&fParrot Head'
+  ILLUSIONER_HEAD:
+    name: '&fIllusioner Head'
+  DROWNED_HEAD:
+    name: '&fDrowned Head'
+  HORSE_HEAD:
+    name: '&fHorse Head'
+  PIGLIN_HEAD:
+    name: '&fPiglin Head'
+  CAMEL_HEAD:
+    name: '&fCamel Head'
+  MUSHROOM_COW_HEAD:
+    name: '&fMushroom Cow Head'
+  STRIDER_HEAD:
+    name: '&fStrider Head'
+  RABBIT_HEAD:
+    name: '&fRabbit Head'
+  LLAMA_HEAD:
+    name: '&fLlama Head'
+  PIG_HEAD:
+    name: '&fPig Head'
+  WANDERING_TRADER_HEAD:
+    name: '&fWandering Trader Head'
+  PANDA_HEAD:
+    name: '&fPanda Head'
+  VINDICATOR_HEAD:
+    name: '&fVindicator Head'
+  DOLPHIN_HEAD:
+    name: '&fDolphin Head'
+  AXOLOTL_HEAD:
+    name: '&fAxolotl Head'
+  GOAT_HEAD:
+    name: '&fGoat Head'
+  BLAZE_HEAD:
+    name: '&fBlaze Head'
+  IRON_GOLEM_HEAD:
+    name: '&fIron Golem Head'
+  SLIME_HEAD:
+    name: '&fSlime Head'
+  SQUID_HEAD:
+    name: '&fSquid Head'
+  TURTLE_HEAD:
+    name: '&fTurtle Head'
+  CAVE_SPIDER_HEAD:
+    name: '&fCave Spider Head'
+  WITCH_HEAD:
+    name: '&fWitch Head'
+  POLAR_BEAR_HEAD:
+    name: '&fPolar Bear Head'
+  VILLAGER_HEAD:
+    name: '&fVillager Head'
+  HUSK_HEAD:
+    name: '&fHusk Head'
+  SNIFFER_HEAD:
+    name: '&fSniffer Head'
+  SPIDER_HEAD:
+    name: '&fSpider Head'
+  TADPOLE_HEAD:
+    name: '&fTadpole Head'
+  ELDER_GUARDIAN_HEAD:
+    name: '&fElder Guardian Head'
+  STRAY_HEAD:
+    name: '&fStray Head'
+  OCELOT_HEAD:
+    name: '&fOcelot Head'
+  SHEEP_HEAD:
+    name: '&fSheep Head'
+  PILLAGER_HEAD:
+    name: '&fPillager Head'
+  FOX_HEAD:
+    name: '&fFox Head'
+  ZOMBIE_VILLAGER_HEAD:
+    name: '&fZombie Villager Head'
+  BAT_HEAD:
+    name: '&fBat Head'
+  GHAST_HEAD:
+    name: '&fGhast Head'
+  SHULKER_HEAD:
+    name: '&fShulker Head'
+  ENDERMAN_HEAD:
+    name: '&fEnderman Head'
+  WITHER_HEAD:
+    name: '&fWither Head'
+  ALLAY_HEAD:
+    name: '&fAllay Head'
+  RAVAGER_HEAD:
+    name: '&fRavager Head'
+  VEX_HEAD:
+    name: '&fVex Head'
+  CHICKEN_HEAD:
+    name: '&fChicken Head'
+  ZOMBIFIED_PIGLIN_HEAD:
+    name: '&fZombified Piglin Head'
+  GUARDIAN_HEAD:
+    name: '&fGuardian Head'
+  MAGMA_CUBE_HEAD:
+    name: '&fMagma Cube Head'
+  COW_HEAD:
+    name: '&fCow Head'
+  GLOW_SQUID_HEAD:
+    name: '&fGlow Squid Head'
+  EVOKER_HEAD:
+    name: '&fEvoker Head'
+  FROG_HEAD:
+    name: '&fFrog Head'

@@ -1,0 +1,114 @@
+name: SlimefunWarfare
+translations:
+  IRON_BULLET:
+    name: '&7Iron Bullet'
+    lore:
+    - ''
+    - '&7x0.75 damage'
+  LEAD_BULLET:
+    name: '&7Lead Bullet'
+    lore:
+    - ''
+    - '&7x1 damage'
+  SCOPE:
+    name: '&aScope'
+  ADVANCED_BARREL:
+    name: '&7Advanced Barrel'
+  SLIMESTEEL_INGOT:
+    name: '&aSlimesteel Ingot'
+    lore:
+    - ''
+    - Hard but elastic, this alloy
+    - is perfect for all sorts
+    - of applications
+  ENERGY_RECTIFIER:
+    name: '&bEnergy Rectifier'
+    lore:
+    - ''
+    - '&7Converts electricity into pure energy'
+  NDFEB_ALLOY_BLOCK:
+    name: '&6Block of NdFeB Alloy'
+  SLIME_BALL:
+    name: '[Slimeball]'
+  GOLD_BULLET:
+    name: '&6Gold Bullet'
+    lore:
+    - ''
+    - '&7x2 damage'
+  TRINITROBULLETENE_BULLET:
+    name: '&6Trinitrobulletene'
+    lore:
+    - ''
+    - '&7Sets hit entities on fire'
+    - '&7x2.75 damage'
+  TERFENOL_D_BLOCK:
+    name: '&6Block of Terfenol-D'
+  REINFORCED_SLIMESTEEL_INGOT:
+    name: '&aReinforced Slimesteel Ingot'
+    lore:
+    - ''
+    - Hard but elastic, this alloy
+    - is perfect for all sorts
+    - of applications
+  NDFEB_ALLOY:
+    name: '&6NdFeB Alloy'
+    lore:
+    - ''
+    - '&7This alloy is the most magnetic'
+    - '&7material known to man'
+  ULTRA_MAGNET:
+    name: '&fUltra Magnet'
+  DU_BULLET:
+    name: '&aDU Bullet'
+    lore:
+    - ''
+    - '&7Sets hit entities on fire'
+    - '&7x1.5 damage'
+  OSMIUM_SUPERALLOY:
+    name: '&9Osmium Superalloy'
+    lore:
+    - ''
+    - '&7The hardest, toughest, strongest material known'
+    - '&7to Mineraftkind'
+  DUMMY:
+    name: '&fDummy Spawn Egg'
+    lore:
+    - ''
+    - '&7Right click to spawn a dummy; if you hit him'
+    - '&7he''ll tell you how much damage you dealt.'
+    - '&7Right click on him to destroy him'
+  LASER_DIODE:
+    name: '&4Laser Diode'
+  FIBER_OPTIC_GLASS:
+    name: '&fFiber Optic Glass'
+  GUN_CASE:
+    name: '&7Gun Case'
+    lore:
+    - ''
+    - '&7The base of all guns'
+  REINFORCED_CONCRETE:
+    name: '&7Reinforced Concrete'
+    lore:
+    - ''
+    - '&7A blast-resistant (not blastproof) concrete'
+  RADIO:
+    name: '&fRadio'
+    lore:
+    - ''
+    - '&7Hold this to chat to anyone else having'
+    - '&7this in their inventory. The encryption key'
+    - '&7is used to encode/decode messages so only'
+    - '&7people with the same key as yours can'
+    - '&7understand the message. Hold to chat using'
+    - '&7this and right click to set the encryption key'
+  BARREL:
+    name: '&7Barrel'
+  FIBER_OPTIC_CABLE:
+    name: '&fFiber Optic Cable'
+  TERFENOL_D:
+    name: '&6Terfenol-D'
+    lore:
+    - ''
+    - '&7This alloy has the interesting'
+    - '&7property of changing shape in'
+    - '&7a magnetic field'

@@ -1,0 +1,1747 @@
+name: FoxyMachines
+translations:
+  GHOST_BLOCK_BLUE_WOOL:
+    name: '&fGhost Block: &6Blue wool'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_STRIPPED_CHERRY_LOG:
+    name: '&fGhost Block: &6Stripped cherry log'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_SPRUCE_WOOD:
+    name: '&fGhost Block: &6Spruce wood'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_MOSS_BLOCK:
+    name: '&fGhost Block: &6Moss block'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_PURPUR_PILLAR:
+    name: '&fGhost Block: &6Purpur pillar'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_CYAN_CONCRETE:
+    name: '&fGhost Block: &6Cyan concrete'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_WAXED_WEATHERED_CUT_COPPER:
+    name: '&fGhost Block: &6Waxed weathered cut copper'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_LIGHT_BLUE_SHULKER_BOX:
+    name: '&fGhost Block: &6Light blue shulker box'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_MANGROVE_WOOD:
+    name: '&fGhost Block: &6Mangrove wood'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_CRACKED_DEEPSLATE_TILES:
+    name: '&fGhost Block: &6Cracked deepslate tiles'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_MAGENTA_SHULKER_BOX:
+    name: '&fGhost Block: &6Magenta shulker box'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_DEEPSLATE_BRICKS:
+    name: '&fGhost Block: &6Deepslate bricks'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_LIME_CONCRETE:
+    name: '&fGhost Block: &6Lime concrete'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_CRIMSON_NYLIUM:
+    name: '&fGhost Block: &6Crimson nylium'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_BLUE_CONCRETE:
+    name: '&fGhost Block: &6Blue concrete'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_PRISMARINE_BRICKS:
+    name: '&fGhost Block: &6Prismarine bricks'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_CUT_COPPER:
+    name: '&fGhost Block: &6Cut copper'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_JUKEBOX:
+    name: '&fGhost Block: &6Jukebox'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_INFESTED_DEEPSLATE:
+    name: '&fGhost Block: &6Infested deepslate'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_CYAN_CONCRETE_POWDER:
+    name: '&fGhost Block: &6Cyan concrete powder'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_SPONGE:
+    name: '&fGhost Block: &6Sponge'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_BLACK_CONCRETE:
+    name: '&fGhost Block: &6Black concrete'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_STRIPPED_JUNGLE_LOG:
+    name: '&fGhost Block: &6Stripped jungle log'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_GRAY_SHULKER_BOX:
+    name: '&fGhost Block: &6Gray shulker box'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_YELLOW_GLAZED_TERRACOTTA:
+    name: '&fGhost Block: &6Yellow glazed terracotta'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_RESPAWN_ANCHOR:
+    name: '&fGhost Block: &6Respawn anchor'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_PRISMARINE:
+    name: '&fGhost Block: &6Prismarine'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_POLISHED_BLACKSTONE:
+    name: '&fGhost Block: &6Polished blackstone'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_INFESTED_CHISELED_STONE_BRICKS:
+    name: '&fGhost Block: &6Infested chiseled stone bricks'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_PODZOL:
+    name: '&fGhost Block: &6Podzol'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_MAGMA_BLOCK:
+    name: '&fGhost Block: &6Magma block'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_BLACK_SHULKER_BOX:
+    name: '&fGhost Block: &6Black shulker box'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_WHITE_SHULKER_BOX:
+    name: '&fGhost Block: &6White shulker box'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_END_STONE_BRICKS:
+    name: '&fGhost Block: &6End stone bricks'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_BLUE_ICE:
+    name: '&fGhost Block: &6Blue ice'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_OXIDIZED_CUT_COPPER:
+    name: '&fGhost Block: &6Oxidized cut copper'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_STRIPPED_WARPED_STEM:
+    name: '&fGhost Block: &6Stripped warped stem'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_CUT_RED_SANDSTONE:
+    name: '&fGhost Block: &6Cut red sandstone'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_GRANITE:
+    name: '&fGhost Block: &6Granite'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_BASALT:
+    name: '&fGhost Block: &6Basalt'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_WAXED_EXPOSED_COPPER:
+    name: '&fGhost Block: &6Waxed exposed copper'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_QUARTZ_BLOCK:
+    name: '&fGhost Block: &6Quartz block'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_SUSPICIOUS_SAND:
+    name: '&fGhost Block: &6Suspicious sand'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_ANDESITE:
+    name: '&fGhost Block: &6Andesite'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_PUMPKIN:
+    name: '&fGhost Block: &6Pumpkin'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_LAPIS_ORE:
+    name: '&fGhost Block: &6Lapis ore'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_ACACIA_WOOD:
+    name: '&fGhost Block: &6Acacia wood'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_CYAN_SHULKER_BOX:
+    name: '&fGhost Block: &6Cyan shulker box'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_CRAFTING_TABLE:
+    name: '&fGhost Block: &6Crafting table'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_SMOOTH_BASALT:
+    name: '&fGhost Block: &6Smooth basalt'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_GREEN_GLAZED_TERRACOTTA:
+    name: '&fGhost Block: &6Green glazed terracotta'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_NETHERITE_BLOCK:
+    name: '&fGhost Block: &6Netherite block'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_INFESTED_COBBLESTONE:
+    name: '&fGhost Block: &6Infested cobblestone'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_SNOW_BLOCK:
+    name: '&fGhost Block: &6Snow block'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_PURPLE_GLAZED_TERRACOTTA:
+    name: '&fGhost Block: &6Purple glazed terracotta'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_BLACKSTONE:
+    name: '&fGhost Block: &6Blackstone'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_WAXED_CUT_COPPER:
+    name: '&fGhost Block: &6Waxed cut copper'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_BLACK_WOOL:
+    name: '&fGhost Block: &6Black wool'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_POLISHED_BASALT:
+    name: '&fGhost Block: &6Polished basalt'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_DRIED_KELP_BLOCK:
+    name: '&fGhost Block: &6Dried kelp block'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_CRIMSON_HYPHAE:
+    name: '&fGhost Block: &6Crimson hyphae'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_STRIPPED_MANGROVE_LOG:
+    name: '&fGhost Block: &6Stripped mangrove log'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_SOUL_SAND:
+    name: '&fGhost Block: &6Soul sand'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_SOUL_SOIL:
+    name: '&fGhost Block: &6Soul soil'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_WARPED_STEM:
+    name: '&fGhost Block: &6Warped stem'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_MAGENTA_WOOL:
+    name: '&fGhost Block: &6Magenta wool'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_NETHERRACK:
+    name: '&fGhost Block: &6Netherrack'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_COAL_ORE:
+    name: '&fGhost Block: &6Coal ore'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_REDSTONE_LAMP:
+    name: '&fGhost Block: &6Redstone lamp'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_ORANGE_CONCRETE:
+    name: '&fGhost Block: &6Orange concrete'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_STRIPPED_ACACIA_LOG:
+    name: '&fGhost Block: &6Stripped acacia log'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_CRACKED_STONE_BRICKS:
+    name: '&fGhost Block: &6Cracked stone bricks'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_GREEN_WOOL:
+    name: '&fGhost Block: &6Green wool'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_BEEHIVE:
+    name: '&fGhost Block: &6Beehive'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_COBBLED_DEEPSLATE:
+    name: '&fGhost Block: &6Cobbled deepslate'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_BIRCH_WOOD:
+    name: '&fGhost Block: &6Birch wood'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_STRIPPED_ACACIA_WOOD:
+    name: '&fGhost Block: &6Stripped acacia wood'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_COARSE_DIRT:
+    name: '&fGhost Block: &6Coarse dirt'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_DARK_OAK_WOOD:
+    name: '&fGhost Block: &6Dark oak wood'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_DARK_OAK_LOG:
+    name: '&fGhost Block: &6Dark oak log'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_CRACKED_POLISHED_BLACKSTONE_BRICKS:
+    name: '&fGhost Block: &6Cracked polished blackstone bricks'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_ORANGE_GLAZED_TERRACOTTA:
+    name: '&fGhost Block: &6Orange glazed terracotta'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_LIME_CONCRETE_POWDER:
+    name: '&fGhost Block: &6Lime concrete powder'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_DIRT:
+    name: '&fGhost Block: &6Dirt'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_JACK_O_LANTERN:
+    name: '&fGhost Block: &6Jack o lantern'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_RED_GLAZED_TERRACOTTA:
+    name: '&fGhost Block: &6Red glazed terracotta'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_WEATHERED_COPPER:
+    name: '&fGhost Block: &6Weathered copper'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_OAK_LOG:
+    name: '&fGhost Block: &6Oak log'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_WAXED_EXPOSED_CUT_COPPER:
+    name: '&fGhost Block: &6Waxed exposed cut copper'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_BIRCH_LOG:
+    name: '&fGhost Block: &6Birch log'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_RED_SAND:
+    name: '&fGhost Block: &6Red sand'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_SCULK_CATALYST:
+    name: '&fGhost Block: &6Sculk catalyst'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_DIAMOND_ORE:
+    name: '&fGhost Block: &6Diamond ore'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_DEAD_BRAIN_CORAL_BLOCK:
+    name: '&fGhost Block: &6Dead brain coral block'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_RED_SHULKER_BOX:
+    name: '&fGhost Block: &6Red shulker box'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_BEDROCK:
+    name: '&fGhost Block: &6Bedrock'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_SANDSTONE:
+    name: '&fGhost Block: &6Sandstone'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_LOOM:
+    name: '&fGhost Block: &6Loom'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_BLAST_FURNACE:
+    name: '&fGhost Block: &6Blast furnace'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_STRIPPED_BAMBOO_BLOCK:
+    name: '&fGhost Block: &6Stripped bamboo block'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_RED_SANDSTONE:
+    name: '&fGhost Block: &6Red sandstone'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_STRIPPED_SPRUCE_LOG:
+    name: '&fGhost Block: &6Stripped spruce log'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_GRAY_TERRACOTTA:
+    name: '&fGhost Block: &6Gray terracotta'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_SMOOTH_STONE:
+    name: '&fGhost Block: &6Smooth stone'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_SPRUCE_LOG:
+    name: '&fGhost Block: &6Spruce log'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_OAK_PLANKS:
+    name: '&fGhost Block: &6Oak planks'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_WHITE_WOOL:
+    name: '&fGhost Block: &6White wool'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_JUNGLE_PLANKS:
+    name: '&fGhost Block: &6Jungle planks'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_CHERRY_WOOD:
+    name: '&fGhost Block: &6Cherry wood'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_POLISHED_GRANITE:
+    name: '&fGhost Block: &6Polished granite'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_MANGROVE_LOG:
+    name: '&fGhost Block: &6Mangrove log'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_BRAIN_CORAL_BLOCK:
+    name: '&fGhost Block: &6Brain coral block'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_FIRE_CORAL_BLOCK:
+    name: '&fGhost Block: &6Fire coral block'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_CRYING_OBSIDIAN:
+    name: '&fGhost Block: &6Crying obsidian'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_DEEPSLATE_COAL_ORE:
+    name: '&fGhost Block: &6Deepslate coal ore'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_BLACK_TERRACOTTA:
+    name: '&fGhost Block: &6Black terracotta'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_STRIPPED_OAK_LOG:
+    name: '&fGhost Block: &6Stripped oak log'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_CHISELED_STONE_BRICKS:
+    name: '&fGhost Block: &6Chiseled stone bricks'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_RED_MUSHROOM_BLOCK:
+    name: '&fGhost Block: &6Red mushroom block'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_GRAY_GLAZED_TERRACOTTA:
+    name: '&fGhost Block: &6Gray glazed terracotta'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_POLISHED_BLACKSTONE_BRICKS:
+    name: '&fGhost Block: &6Polished blackstone bricks'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_GREEN_SHULKER_BOX:
+    name: '&fGhost Block: &6Green shulker box'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_BROWN_MUSHROOM_BLOCK:
+    name: '&fGhost Block: &6Brown mushroom block'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_LIGHT_BLUE_GLAZED_TERRACOTTA:
+    name: '&fGhost Block: &6Light blue glazed terracotta'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_HONEYCOMB_BLOCK:
+    name: '&fGhost Block: &6Honeycomb block'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_SMOKER:
+    name: '&fGhost Block: &6Smoker'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_MAGENTA_CONCRETE_POWDER:
+    name: '&fGhost Block: &6Magenta concrete powder'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_QUARTZ_PILLAR:
+    name: '&fGhost Block: &6Quartz pillar'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_DIORITE:
+    name: '&fGhost Block: &6Diorite'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_WARPED_NYLIUM:
+    name: '&fGhost Block: &6Warped nylium'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_WARPED_PLANKS:
+    name: '&fGhost Block: &6Warped planks'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_ACACIA_LOG:
+    name: '&fGhost Block: &6Acacia log'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_PURPLE_SHULKER_BOX:
+    name: '&fGhost Block: &6Purple shulker box'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_JUNGLE_WOOD:
+    name: '&fGhost Block: &6Jungle wood'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_SMITHING_TABLE:
+    name: '&fGhost Block: &6Smithing table'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_QUARTZ_BRICKS:
+    name: '&fGhost Block: &6Quartz bricks'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_COPPER_ORE:
+    name: '&fGhost Block: &6Copper ore'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_ORANGE_WOOL:
+    name: '&fGhost Block: &6Orange wool'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_DRIPSTONE_BLOCK:
+    name: '&fGhost Block: &6Dripstone block'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_ACACIA_PLANKS:
+    name: '&fGhost Block: &6Acacia planks'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_PINK_GLAZED_TERRACOTTA:
+    name: '&fGhost Block: &6Pink glazed terracotta'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_WHITE_CONCRETE:
+    name: '&fGhost Block: &6White concrete'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_GRAVEL:
+    name: '&fGhost Block: &6Gravel'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_YELLOW_CONCRETE:
+    name: '&fGhost Block: &6Yellow concrete'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_PINK_WOOL:
+    name: '&fGhost Block: &6Pink wool'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_OXIDIZED_COPPER:
+    name: '&fGhost Block: &6Oxidized copper'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_WAXED_OXIDIZED_COPPER:
+    name: '&fGhost Block: &6Waxed oxidized copper'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_STONE_BRICKS:
+    name: '&fGhost Block: &6Stone bricks'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_MUD_BRICKS:
+    name: '&fGhost Block: &6Mud bricks'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_CYAN_TERRACOTTA:
+    name: '&fGhost Block: &6Cyan terracotta'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_IRON_BLOCK:
+    name: '&fGhost Block: &6Iron block'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_MANGROVE_ROOTS:
+    name: '&fGhost Block: &6Mangrove roots'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_WHITE_CONCRETE_POWDER:
+    name: '&fGhost Block: &6White concrete powder'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_LODESTONE:
+    name: '&fGhost Block: &6Lodestone'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_BIRCH_PLANKS:
+    name: '&fGhost Block: &6Birch planks'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_STRIPPED_CRIMSON_HYPHAE:
+    name: '&fGhost Block: &6Stripped crimson hyphae'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_GREEN_CONCRETE:
+    name: '&fGhost Block: &6Green concrete'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_CRIMSON_PLANKS:
+    name: '&fGhost Block: &6Crimson planks'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_PACKED_ICE:
+    name: '&fGhost Block: &6Packed ice'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_DEAD_HORN_CORAL_BLOCK:
+    name: '&fGhost Block: &6Dead horn coral block'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_STRIPPED_WARPED_HYPHAE:
+    name: '&fGhost Block: &6Stripped warped hyphae'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_TARGET:
+    name: '&fGhost Block: &6Target'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_GRAY_WOOL:
+    name: '&fGhost Block: &6Gray wool'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_TUFF:
+    name: '&fGhost Block: &6Tuff'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_PURPLE_TERRACOTTA:
+    name: '&fGhost Block: &6Purple terracotta'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_DEEPSLATE_REDSTONE_ORE:
+    name: '&fGhost Block: &6Deepslate redstone ore'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_MAGENTA_CONCRETE:
+    name: '&fGhost Block: &6Magenta concrete'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_OAK_WOOD:
+    name: '&fGhost Block: &6Oak wood'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_GRASS_BLOCK:
+    name: '&fGhost Block: &6Grass block'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_LIGHT_BLUE_CONCRETE_POWDER:
+    name: '&fGhost Block: &6Light blue concrete powder'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_LIME_GLAZED_TERRACOTTA:
+    name: '&fGhost Block: &6Lime glazed terracotta'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_LIGHT_GRAY_CONCRETE_POWDER:
+    name: '&fGhost Block: &6Light gray concrete powder'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_DEEPSLATE_TILES:
+    name: '&fGhost Block: &6Deepslate tiles'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_YELLOW_SHULKER_BOX:
+    name: '&fGhost Block: &6Yellow shulker box'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_NETHER_BRICKS:
+    name: '&fGhost Block: &6Nether bricks'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_EMERALD_BLOCK:
+    name: '&fGhost Block: &6Emerald block'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_TERRACOTTA:
+    name: '&fGhost Block: &6Terracotta'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_WAXED_COPPER_BLOCK:
+    name: '&fGhost Block: &6Waxed copper block'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_DIAMOND_BLOCK:
+    name: '&fGhost Block: &6Diamond block'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_GREEN_CONCRETE_POWDER:
+    name: '&fGhost Block: &6Green concrete powder'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_DEEPSLATE_LAPIS_ORE:
+    name: '&fGhost Block: &6Deepslate lapis ore'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_LIGHT_BLUE_TERRACOTTA:
+    name: '&fGhost Block: &6Light blue terracotta'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_BROWN_CONCRETE:
+    name: '&fGhost Block: &6Brown concrete'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_CHISELED_NETHER_BRICKS:
+    name: '&fGhost Block: &6Chiseled nether bricks'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_SLIME_BLOCK:
+    name: '&fGhost Block: &6Slime block'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_LAPIS_BLOCK:
+    name: '&fGhost Block: &6Lapis block'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_MELON:
+    name: '&fGhost Block: &6Melon'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_YELLOW_CONCRETE_POWDER:
+    name: '&fGhost Block: &6Yellow concrete powder'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_CHERRY_LOG:
+    name: '&fGhost Block: &6Cherry log'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_LIGHT_GRAY_CONCRETE:
+    name: '&fGhost Block: &6Light gray concrete'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_STRIPPED_OAK_WOOD:
+    name: '&fGhost Block: &6Stripped oak wood'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_GRAY_CONCRETE_POWDER:
+    name: '&fGhost Block: &6Gray concrete powder'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_BLUE_CONCRETE_POWDER:
+    name: '&fGhost Block: &6Blue concrete powder'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_VERDANT_FROGLIGHT:
+    name: '&fGhost Block: &6Verdant froglight'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_SMOOTH_RED_SANDSTONE:
+    name: '&fGhost Block: &6Smooth red sandstone'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_EXPOSED_COPPER:
+    name: '&fGhost Block: &6Exposed copper'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_NOTE_BLOCK:
+    name: '&fGhost Block: &6Note block'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_DEEPSLATE_GOLD_ORE:
+    name: '&fGhost Block: &6Deepslate gold ore'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_STRIPPED_DARK_OAK_WOOD:
+    name: '&fGhost Block: &6Stripped dark oak wood'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_POLISHED_DIORITE:
+    name: '&fGhost Block: &6Polished diorite'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_JUNGLE_LOG:
+    name: '&fGhost Block: &6Jungle log'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_DEEPSLATE_COPPER_ORE:
+    name: '&fGhost Block: &6Deepslate copper ore'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_LIME_TERRACOTTA:
+    name: '&fGhost Block: &6Lime terracotta'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_WHITE_TERRACOTTA:
+    name: '&fGhost Block: &6White terracotta'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_GOLD_ORE:
+    name: '&fGhost Block: &6Gold ore'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_POLISHED_ANDESITE:
+    name: '&fGhost Block: &6Polished andesite'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_IRON_ORE:
+    name: '&fGhost Block: &6Iron ore'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_STRIPPED_DARK_OAK_LOG:
+    name: '&fGhost Block: &6Stripped dark oak log'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_WARPED_HYPHAE:
+    name: '&fGhost Block: &6Warped hyphae'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_ANCIENT_DEBRIS:
+    name: '&fGhost Block: &6Ancient debris'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_BLACK_GLAZED_TERRACOTTA:
+    name: '&fGhost Block: &6Black glazed terracotta'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_BONE_BLOCK:
+    name: '&fGhost Block: &6Bone block'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_REDSTONE_ORE:
+    name: '&fGhost Block: &6Redstone ore'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_MUD:
+    name: '&fGhost Block: &6Mud'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_RAW_IRON_BLOCK:
+    name: '&fGhost Block: &6Raw iron block'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_NETHER_WART_BLOCK:
+    name: '&fGhost Block: &6Nether wart block'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_CUT_SANDSTONE:
+    name: '&fGhost Block: &6Cut sandstone'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_CYAN_WOOL:
+    name: '&fGhost Block: &6Cyan wool'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_LIGHT_GRAY_GLAZED_TERRACOTTA:
+    name: '&fGhost Block: &6Light gray glazed terracotta'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_GOLD_BLOCK:
+    name: '&fGhost Block: &6Gold block'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_BARREL:
+    name: '&fGhost Block: &6Barrel'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_COPPER_BLOCK:
+    name: '&fGhost Block: &6Copper block'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_YELLOW_TERRACOTTA:
+    name: '&fGhost Block: &6Yellow terracotta'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_PINK_CONCRETE:
+    name: '&fGhost Block: &6Pink concrete'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_DEAD_FIRE_CORAL_BLOCK:
+    name: '&fGhost Block: &6Dead fire coral block'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_BROWN_CONCRETE_POWDER:
+    name: '&fGhost Block: &6Brown concrete powder'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_CHISELED_SANDSTONE:
+    name: '&fGhost Block: &6Chiseled sandstone'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_CLAY:
+    name: '&fGhost Block: &6Clay'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_CARTOGRAPHY_TABLE:
+    name: '&fGhost Block: &6Cartography table'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_RED_WOOL:
+    name: '&fGhost Block: &6Red wool'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_CHISELED_DEEPSLATE:
+    name: '&fGhost Block: &6Chiseled deepslate'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_HAY_BLOCK:
+    name: '&fGhost Block: &6Hay block'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_DARK_PRISMARINE:
+    name: '&fGhost Block: &6Dark prismarine'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_CRACKED_NETHER_BRICKS:
+    name: '&fGhost Block: &6Cracked nether bricks'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_LIGHT_GRAY_TERRACOTTA:
+    name: '&fGhost Block: &6Light gray terracotta'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_BLUE_GLAZED_TERRACOTTA:
+    name: '&fGhost Block: &6Blue glazed terracotta'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_LIGHT_GRAY_SHULKER_BOX:
+    name: '&fGhost Block: &6Light gray shulker box'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_MANGROVE_PLANKS:
+    name: '&fGhost Block: &6Mangrove planks'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_WEATHERED_CUT_COPPER:
+    name: '&fGhost Block: &6Weathered cut copper'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_BROWN_GLAZED_TERRACOTTA:
+    name: '&fGhost Block: &6Brown glazed terracotta'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_LIME_SHULKER_BOX:
+    name: '&fGhost Block: &6Lime shulker box'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_WARPED_WART_BLOCK:
+    name: '&fGhost Block: &6Warped wart block'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_YELLOW_WOOL:
+    name: '&fGhost Block: &6Yellow wool'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_BEE_NEST:
+    name: '&fGhost Block: &6Bee nest'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_PURPLE_WOOL:
+    name: '&fGhost Block: &6Purple wool'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_STRIPPED_CHERRY_WOOD:
+    name: '&fGhost Block: &6Stripped cherry wood'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_MOSSY_COBBLESTONE:
+    name: '&fGhost Block: &6Mossy cobblestone'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_PURPLE_CONCRETE_POWDER:
+    name: '&fGhost Block: &6Purple concrete powder'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_BAMBOO_BLOCK:
+    name: '&fGhost Block: &6Bamboo block'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_PINK_TERRACOTTA:
+    name: '&fGhost Block: &6Pink terracotta'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_TUBE_CORAL_BLOCK:
+    name: '&fGhost Block: &6Tube coral block'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_HORN_CORAL_BLOCK:
+    name: '&fGhost Block: &6Horn coral block'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_STRIPPED_BIRCH_LOG:
+    name: '&fGhost Block: &6Stripped birch log'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_FURNACE:
+    name: '&fGhost Block: &6Furnace'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_PEARLESCENT_FROGLIGHT:
+    name: '&fGhost Block: &6Pearlescent froglight'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_BAMBOO_PLANKS:
+    name: '&fGhost Block: &6Bamboo planks'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_SAND:
+    name: '&fGhost Block: &6Sand'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_DEEPSLATE_DIAMOND_ORE:
+    name: '&fGhost Block: &6Deepslate diamond ore'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_INFESTED_CRACKED_STONE_BRICKS:
+    name: '&fGhost Block: &6Infested cracked stone bricks'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_INFESTED_STONE_BRICKS:
+    name: '&fGhost Block: &6Infested stone bricks'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_EXPOSED_CUT_COPPER:
+    name: '&fGhost Block: &6Exposed cut copper'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_NETHER_GOLD_ORE:
+    name: '&fGhost Block: &6Nether gold ore'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_STRIPPED_CRIMSON_STEM:
+    name: '&fGhost Block: &6Stripped crimson stem'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_DEEPSLATE:
+    name: '&fGhost Block: &6Deepslate'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_BLUE_SHULKER_BOX:
+    name: '&fGhost Block: &6Blue shulker box'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_BROWN_WOOL:
+    name: '&fGhost Block: &6Brown wool'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_BROWN_SHULKER_BOX:
+    name: '&fGhost Block: &6Brown shulker box'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_ORANGE_SHULKER_BOX:
+    name: '&fGhost Block: &6Orange shulker box'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_CYAN_GLAZED_TERRACOTTA:
+    name: '&fGhost Block: &6Cyan glazed terracotta'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_LIGHT_BLUE_CONCRETE:
+    name: '&fGhost Block: &6Light blue concrete'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_BRICKS:
+    name: '&fGhost Block: &6Bricks'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_BUDDING_AMETHYST:
+    name: '&fGhost Block: &6Budding amethyst'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_LIME_WOOL:
+    name: '&fGhost Block: &6Lime wool'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_WAXED_OXIDIZED_CUT_COPPER:
+    name: '&fGhost Block: &6Waxed oxidized cut copper'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_BLACK_CONCRETE_POWDER:
+    name: '&fGhost Block: &6Black concrete powder'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_DARK_OAK_PLANKS:
+    name: '&fGhost Block: &6Dark oak planks'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_NETHER_QUARTZ_ORE:
+    name: '&fGhost Block: &6Nether quartz ore'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_AMETHYST_BLOCK:
+    name: '&fGhost Block: &6Amethyst block'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_SHROOMLIGHT:
+    name: '&fGhost Block: &6Shroomlight'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_CHERRY_PLANKS:
+    name: '&fGhost Block: &6Cherry planks'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_SUSPICIOUS_GRAVEL:
+    name: '&fGhost Block: &6Suspicious gravel'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_SCULK:
+    name: '&fGhost Block: &6Sculk'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_PINK_CONCRETE_POWDER:
+    name: '&fGhost Block: &6Pink concrete powder'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_WAXED_WEATHERED_COPPER:
+    name: '&fGhost Block: &6Waxed weathered copper'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_DEEPSLATE_IRON_ORE:
+    name: '&fGhost Block: &6Deepslate iron ore'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_RED_NETHER_BRICKS:
+    name: '&fGhost Block: &6Red nether bricks'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_FLETCHING_TABLE:
+    name: '&fGhost Block: &6Fletching table'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_SMOOTH_QUARTZ:
+    name: '&fGhost Block: &6Smooth quartz'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_BAMBOO_MOSAIC:
+    name: '&fGhost Block: &6Bamboo mosaic'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_MYCELIUM:
+    name: '&fGhost Block: &6Mycelium'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_RAW_GOLD_BLOCK:
+    name: '&fGhost Block: &6Raw gold block'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_WET_SPONGE:
+    name: '&fGhost Block: &6Wet sponge'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_BLUE_TERRACOTTA:
+    name: '&fGhost Block: &6Blue terracotta'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_DEEPSLATE_EMERALD_ORE:
+    name: '&fGhost Block: &6Deepslate emerald ore'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_REINFORCED_DEEPSLATE:
+    name: '&fGhost Block: &6Reinforced deepslate'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_CHISELED_RED_SANDSTONE:
+    name: '&fGhost Block: &6Chiseled red sandstone'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_BROWN_TERRACOTTA:
+    name: '&fGhost Block: &6Brown terracotta'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_CHISELED_BOOKSHELF:
+    name: '&fGhost Block: &6Chiseled bookshelf'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_DISPENSER:
+    name: '&fGhost Block: &6Dispenser'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_MUSHROOM_STEM:
+    name: '&fGhost Block: &6Mushroom stem'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_GREEN_TERRACOTTA:
+    name: '&fGhost Block: &6Green terracotta'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_PURPLE_CONCRETE:
+    name: '&fGhost Block: &6Purple concrete'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_SMOOTH_SANDSTONE:
+    name: '&fGhost Block: &6Smooth sandstone'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_MAGENTA_GLAZED_TERRACOTTA:
+    name: '&fGhost Block: &6Magenta glazed terracotta'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_RED_CONCRETE_POWDER:
+    name: '&fGhost Block: &6Red concrete powder'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_BOOKSHELF:
+    name: '&fGhost Block: &6Bookshelf'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_LIGHT_GRAY_WOOL:
+    name: '&fGhost Block: &6Light gray wool'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_DROPPER:
+    name: '&fGhost Block: &6Dropper'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_RED_TERRACOTTA:
+    name: '&fGhost Block: &6Red terracotta'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_PACKED_MUD:
+    name: '&fGhost Block: &6Packed mud'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_RAW_COPPER_BLOCK:
+    name: '&fGhost Block: &6Raw copper block'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_OBSIDIAN:
+    name: '&fGhost Block: &6Obsidian'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_ORANGE_CONCRETE_POWDER:
+    name: '&fGhost Block: &6Orange concrete powder'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_DEAD_BUBBLE_CORAL_BLOCK:
+    name: '&fGhost Block: &6Dead bubble coral block'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_INFESTED_MOSSY_STONE_BRICKS:
+    name: '&fGhost Block: &6Infested mossy stone bricks'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_OCHRE_FROGLIGHT:
+    name: '&fGhost Block: &6Ochre froglight'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_END_STONE:
+    name: '&fGhost Block: &6End stone'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_CALCITE:
+    name: '&fGhost Block: &6Calcite'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_CHISELED_QUARTZ_BLOCK:
+    name: '&fGhost Block: &6Chiseled quartz block'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_LIGHT_BLUE_WOOL:
+    name: '&fGhost Block: &6Light blue wool'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_ORANGE_TERRACOTTA:
+    name: '&fGhost Block: &6Orange terracotta'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_SHULKER_BOX:
+    name: '&fGhost Block: &6Shulker box'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_PURPUR_BLOCK:
+    name: '&fGhost Block: &6Purpur block'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_INFESTED_STONE:
+    name: '&fGhost Block: &6Infested stone'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_COBBLESTONE:
+    name: '&fGhost Block: &6Cobblestone'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_CARVED_PUMPKIN:
+    name: '&fGhost Block: &6Carved pumpkin'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_GILDED_BLACKSTONE:
+    name: '&fGhost Block: &6Gilded blackstone'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_CRIMSON_STEM:
+    name: '&fGhost Block: &6Crimson stem'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_BUBBLE_CORAL_BLOCK:
+    name: '&fGhost Block: &6Bubble coral block'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_MOSSY_STONE_BRICKS:
+    name: '&fGhost Block: &6Mossy stone bricks'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_STONE:
+    name: '&fGhost Block: &6Stone'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_STRIPPED_MANGROVE_WOOD:
+    name: '&fGhost Block: &6Stripped mangrove wood'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_CRACKED_DEEPSLATE_BRICKS:
+    name: '&fGhost Block: &6Cracked deepslate bricks'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_CHISELED_POLISHED_BLACKSTONE:
+    name: '&fGhost Block: &6Chiseled polished blackstone'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_SPRUCE_PLANKS:
+    name: '&fGhost Block: &6Spruce planks'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_WHITE_GLAZED_TERRACOTTA:
+    name: '&fGhost Block: &6White glazed terracotta'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_GRAY_CONCRETE:
+    name: '&fGhost Block: &6Gray concrete'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_RED_CONCRETE:
+    name: '&fGhost Block: &6Red concrete'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_COAL_BLOCK:
+    name: '&fGhost Block: &6Coal block'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_STRIPPED_BIRCH_WOOD:
+    name: '&fGhost Block: &6Stripped birch wood'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_PINK_SHULKER_BOX:
+    name: '&fGhost Block: &6Pink shulker box'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_DEAD_TUBE_CORAL_BLOCK:
+    name: '&fGhost Block: &6Dead tube coral block'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_EMERALD_ORE:
+    name: '&fGhost Block: &6Emerald ore'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_MUDDY_MANGROVE_ROOTS:
+    name: '&fGhost Block: &6Muddy mangrove roots'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_STRIPPED_JUNGLE_WOOD:
+    name: '&fGhost Block: &6Stripped jungle wood'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_POLISHED_DEEPSLATE:
+    name: '&fGhost Block: &6Polished deepslate'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_ROOTED_DIRT:
+    name: '&fGhost Block: &6Rooted dirt'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_STRIPPED_SPRUCE_WOOD:
+    name: '&fGhost Block: &6Stripped spruce wood'
+    lore:
+    - ''
+    - '&7An intangible block.'
+  GHOST_BLOCK_MAGENTA_TERRACOTTA:
+    name: '&fGhost Block: &6Magenta terracotta'
+    lore:
+    - ''
+    - '&7An intangible block.'

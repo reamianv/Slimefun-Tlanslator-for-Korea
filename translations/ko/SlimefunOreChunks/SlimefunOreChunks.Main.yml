@@ -1,0 +1,46 @@
+name: SlimefunOreChunks
+translations:
+  LEAD_ORE_CHUNK:
+    name: Lead Ore Chunk
+    lore:
+    - '&7Use an Ore Crusher to turn this into Dust'
+  ALUMINUM_ORE_CHUNK:
+    name: Aluminum Ore Chunk
+    lore:
+    - '&7Use an Ore Crusher to turn this into Dust'
+  COPPER_ORE_CHUNK:
+    name: Copper Ore Chunk
+    lore:
+    - '&7Use an Ore Crusher to turn this into Dust'
+  ZINC_ORE_CHUNK:
+    name: Zinc Ore Chunk
+    lore:
+    - '&7Use an Ore Crusher to turn this into Dust'
+  SILVER_ORE_CHUNK:
+    name: Silver Ore Chunk
+    lore:
+    - '&7Use an Ore Crusher to turn this into Dust'
+  IRON_ORE_CHUNK:
+    name: Iron Ore Chunk
+    lore:
+    - '&7Use an Ore Crusher to turn this into Dust'
+  TIN_ORE_CHUNK:
+    name: Tin Ore Chunk
+    lore:
+    - '&7Use an Ore Crusher to turn this into Dust'
+  GOLD_ORE_CHUNK:
+    name: Gold Ore Chunk
+    lore:
+    - '&7Use an Ore Crusher to turn this into Dust'
+  MAGNESIUM_ORE_CHUNK:
+    name: Magnesium Ore Chunk
+    lore:
+    - '&7Use an Ore Crusher to turn this into Dust'
+  COBALT_ORE_CHUNK:
+    name: Cobalt Ore Chunk
+    lore:
+    - '&7You can smelt this into an Ingot in a Smeltery'
+  NICKEL_ORE_CHUNK:
+    name: Nickel Ore Chunk
+    lore:
+    - '&7You can smelt this into an Ingot in a Smeltery'

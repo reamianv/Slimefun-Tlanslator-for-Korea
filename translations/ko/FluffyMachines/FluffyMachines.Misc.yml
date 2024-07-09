@@ -1,0 +1,56 @@
+name: FluffyMachines
+translations:
+  WARP_PAD:
+    name: '&6Warp Pad'
+    lore:
+    - ''
+    - '&eCrouch &7on this block to teleport to'
+    - '&7the linked destination pad'
+    - ''
+    - '&7Use a Warp Pad Configurator to link Warp Pads'
+  FIREPROOF_RUNE:
+    name: '&7Ancient Rune &8&l[&c&lFireproof&8&l]'
+    lore:
+    - ''
+    - '&eDrop this rune onto a dropped item to'
+    - '&emake it &cfireproof'
+    - ''
+    - '&cFireproof'
+  ALTERNATE_ELEVATOR_PLATE:
+    name: '&3Alternate Elevator Plate'
+    lore:
+    - ''
+    - '&fPlace an Elevator Plate on every floor'
+    - '&fand you will be able to teleport between them.'
+    - ''
+    - '&eRight Click this Block &7to name it'
+    - '&7Uses a Chest GUI instead of a Book GUI'
+  HELICOPTER_HAT:
+    name: '&1Helicopter Hat'
+    lore:
+    - ''
+    - '&7brrrrrrrrRRRRRRRR'
+    - ''
+    - '&eSneak &7to use'
+  WARP_PAD_CONFIGURATOR:
+    name: '&6Warp Pad Configurator'
+    lore:
+    - ''
+    - '&eSneak and Right Click &7on a Warp Pad to set the destination'
+    - '&eRight Click &7on a Warp Pad to set the origin'
+    - ''
+    - '&eLinked Coordinates: &7None'
+  DOLLY:
+    name: '&bDolly'
+    lore:
+    - ''
+    - '&7Right click a chest to pick it up'
+    - ''
+    - '&7ID: <ID>'
+  ANCIENT_BOOK:
+    name: '&6Ancient Book'
+    lore:
+    - ''
+    - '&7Used in the &cAdvanced Auto Disenchanter'
+    - ''
+    - '&6&oContains concentrated amounts of power'

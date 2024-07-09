@@ -1,0 +1,100 @@
+name: SlimeTinker
+translations:
+  PART_AXE_HEAD_DUMMY:
+    name: '&x&F&F&E&1&3&8Part: Axe Head'
+    lore:
+    - ''
+    - '&7A cast axe head.'
+    - ''
+    - '&x&F&0&E&A&4&FCast'
+  PART_HELM_PLATE_DUMMY:
+    name: '&x&F&F&E&1&3&8Part: Helmet Plates'
+    lore:
+    - ''
+    - '&7A cast helmet plate set.'
+    - ''
+    - '&x&F&0&E&A&4&FCast'
+  PART_PICKAXE_HEAD_DUMMY:
+    name: '&x&F&F&E&1&3&8Part: Pickaxe Head'
+    lore:
+    - ''
+    - '&7A cast pickaxe head.'
+    - ''
+    - '&x&F&0&E&A&4&FCast'
+  PART_HOE_HEAD_DUMMY:
+    name: '&x&F&F&E&1&3&8Part: Hoe Head'
+    lore:
+    - ''
+    - '&7A cast hoe head.'
+    - ''
+    - '&x&F&0&E&A&4&FCast'
+  PART_TOOL_ROD_DUMMY:
+    name: '&x&F&F&E&1&3&8Part: Tool Rod'
+    lore:
+    - ''
+    - '&7A cast tool rod.'
+    - ''
+    - '&x&F&0&E&A&4&FCast'
+  PART_REPAIR_KIT_DUMMY:
+    name: '&x&F&F&E&1&3&8Part: Repair Kit'
+    lore:
+    - ''
+    - '&7Repairs broken items in the Repair Bench.'
+    - ''
+    - '&x&F&0&E&A&4&FCast'
+  PART_MAIL_LINKS_DUMMY:
+    name: '&x&F&F&E&1&3&8Part: Mail Links'
+    lore:
+    - ''
+    - '&7A flexible mesh of cast metal links'
+    - ''
+    - '&x&F&0&E&A&4&FCast'
+  PART_SWORD_BLADE_DUMMY:
+    name: '&x&F&F&E&1&3&8Part: Sword Blade'
+    lore:
+    - ''
+    - '&7A cast sword blade.'
+    - ''
+    - '&x&F&0&E&A&4&FCast'
+  PART_SHOVEL_HEAD_DUMMY:
+    name: '&x&F&F&E&1&3&8Part: Shovel Head'
+    lore:
+    - ''
+    - '&7A cast shovel head.'
+    - ''
+    - '&x&F&0&E&A&4&FCast'
+  PART_LEG_PLATE_DUMMY:
+    name: '&x&F&F&E&1&3&8Part: Leg Plates'
+    lore:
+    - ''
+    - '&7A cast legging plate set.'
+    - ''
+    - '&x&F&0&E&A&4&FCast'
+  PART_BINDING_DUMMY:
+    name: '&x&F&F&E&1&3&8Part: Binding'
+    lore:
+    - ''
+    - '&7A binging to hold parts together.'
+    - ''
+    - '&x&F&0&E&A&4&FCast'
+  PART_CHEST_PLATE_DUMMY:
+    name: '&x&F&F&E&1&3&8Part: Chest Plates'
+    lore:
+    - ''
+    - '&7A cast chest plate set.'
+    - ''
+    - '&x&F&0&E&A&4&FCast'
+  PART_GAMBESON_DUMMY:
+    name: '&x&F&F&E&1&3&8Part: Gambeson'
+    lore:
+    - ''
+    - '&7A fabric under-armour garment'
+    - ''
+    - '&x&F&0&E&A&4&FCast'
+  PART_BOOT_PLATE_DUMMY:
+    name: '&x&F&F&E&1&3&8Part: Boot Plates'
+    lore:
+    - ''
+    - '&7A cast legging plate set.'
+    - ''
+    - '&x&F&0&E&A&4&FCast'

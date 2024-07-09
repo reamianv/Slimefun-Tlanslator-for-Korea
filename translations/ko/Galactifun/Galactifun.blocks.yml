@@ -1,0 +1,25 @@
+name: Galactifun
+translations:
+  FALLEN_METEOR:
+    name: '&4Fallen Meteor'
+    lore:
+    - ''
+    - '&7These meteors contain Tungsten'
+  DRY_ICE:
+    name: '&bDry Ice'
+  MARS_DUST:
+    name: '&cMars Dust'
+  MOON_DUST:
+    name: '&7Moon Dust'
+  VENTSTONE:
+    name: '&6Ventstone'
+  LASERITE_ORE:
+    name: '&cLaserite Ore'
+  SULFUR_BLOCK:
+    name: '&6Sulfur Block'
+  MOON_ROCK:
+    name: '&7Moon Rock'
+  MARS_ROCK:
+    name: '&cMars Rock'
+  METHANE_ICE:
+    name: '&bMethane Ice'

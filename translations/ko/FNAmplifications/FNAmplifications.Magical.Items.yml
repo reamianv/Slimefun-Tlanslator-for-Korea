@@ -1,0 +1,92 @@
+name: FNAmplifications
+translations:
+  FN_MAGICAL_ITEMS_SPARKLING_RUNE:
+    name: '&eSparkling Rune'
+    lore:
+    - '&fToo bright and too flashy'
+    - '&ffor this rune is too deadly'
+    - ''
+    - '&d&oFN Magical Items'
+  FN_MAGICAL_ITEMS_INTELLECT_RUNE:
+    name: '&9Intellect Rune'
+    lore:
+    - '&fVery useful rune in the'
+    - '&ftime of desperation'
+    - ''
+    - '&d&oFN Magical Items'
+  FN_MAGICAL_ITEMS_CLOUD_RUNE:
+    name: '&3Cloud Rune'
+    lore:
+    - '&fUp in the skies is where'
+    - '&fthe clouds lies'
+    - ''
+    - '&d&oFN Magical Items'
+  FN_MAGICAL_ITEMS_POWER_RUNE:
+    name: '&9Power Rune'
+    lore:
+    - '&fThe power from this rune'
+    - '&fcan do dangerous things'
+    - ''
+    - '&d&oFN Magical Items'
+  FN_MAGICAL_ITEMS_LINGER_RUNE:
+    name: '&2Linger Rune'
+    lore:
+    - '&fIt lingers from top to'
+    - '&fbottom and soon the middle'
+    - ''
+    - '&d&oFN Magical Items'
+  FN_MAGICAL_ITEMS_ICE_RUNE:
+    name: '&bIce Rune'
+    lore:
+    - '&fThe rune full of chill'
+    - '&fbut can you stay still'
+    - ''
+    - '&d&oFN Magical Items'
+  FN_GEM_FINE_JASPER_CRAFTING:
+    name: '&bFine Jasper Gemstone'
+    lore:
+    - ''
+    - '&fA shiny gem needed for upgrading'
+    - '&fthose fn gems that you''ve been using'
+    - '&fsince then'
+  FN_MAGICAL_ITEMS_HEART_RUNE:
+    name: '&dHeart Rune'
+    lore:
+    - '&fRejuvenate through this rune'
+    - '&fas you sense the aura inside'
+    - ''
+    - '&d&oFN Magical Items'
+  FN_MAGICAL_ITEMS_UNBIND_RUNE:
+    name: '&6Unbind Rune'
+    lore:
+    - '&fA magical rune from psijic time'
+    - ''
+    - '&d&oFN Magical Items'
+  FN_MAGICAL_ITEMS_PESTILENCE_RUNE:
+    name: '&aPestilence Rune'
+    lore:
+    - '&fA rune from the black death'
+    - '&fperiod that holds a deadly sin'
+    - ''
+    - '&d&oFN Magical Items'
+  FN_MAGICAL_ITEMS_SPIRAL_FIRE_RUNE:
+    name: '&cSpiral Fire Rune'
+    lore:
+    - '&fA heart full of fire is fire'
+    - '&fthat spirals within this rune'
+    - ''
+    - '&d&oFN Magical Items'
+  FN_MAGICAL_ITEMS_SPIRIT_RUNE:
+    name: '&fSpirit Rune'
+    lore:
+    - '&fSpirit thy come for'
+    - '&fI redeem thy soul'
+    - ''
+    - '&d&oFN Magical Items'
+  FN_MAGICAL_ITEMS_AGILITY_RUNE:
+    name: '&eAgility Rune'
+    lore:
+    - '&fFaster means better but'
+    - '&fdoes it matter'
+    - ''
+    - '&d&oFN Magical Items'

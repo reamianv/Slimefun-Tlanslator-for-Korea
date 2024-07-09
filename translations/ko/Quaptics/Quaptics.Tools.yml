@@ -1,0 +1,138 @@
+name: Quaptics
+translations:
+  QP_RAY_GUN_1:
+    name: '&bRay Gun &3I'
+    lore:
+    - '&7● &eRight Click &7to fire'
+    - '&8⇨ &x&8&7&F&F&F&D◆ &7Charge &8¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦'
+    - '&8⇨ &x&8&7&F&F&F&D◆ &70 &8/ &71,000 &8QEU'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Charge per use &e5 &8QEU'
+  QP_PHASE_CRYSTAL_5:
+    name: '&7Phase Crystal'
+    lore:
+    - '&8⇨ &x&F&F&C&C&0&0۞ &7Phase Change &e5 &8°'
+  QP_RAY_GUN_3:
+    name: '&bRay Gun &3III'
+    lore:
+    - '&7● &eRight Click &7to fire'
+    - '&8⇨ &x&8&7&F&F&F&D◆ &7Charge &8¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦'
+    - '&8⇨ &x&8&7&F&F&F&D◆ &70 &8/ &7100,000 &8QEU'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Charge per use &e300 &8QEU'
+  QP_RAY_GUN_2:
+    name: '&bRay Gun &3II'
+    lore:
+    - '&7● &eRight Click &7to fire'
+    - '&8⇨ &x&8&7&F&F&F&D◆ &7Charge &8¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦'
+    - '&8⇨ &x&8&7&F&F&F&D◆ &70 &8/ &710,000 &8QEU'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Charge per use &e40 &8QEU'
+  QP_BLANK_MODULE_CARD:
+    name: '&x&A&D&A&D&8&5Blank Module Card'
+  QP_ENTANGLED_FREQUENCY_CRYSTAL:
+    name: '&x&A&D&A&D&8&5Entangled Frequency Crystal'
+  QP_TARGETING_WAND:
+    name: '&bTargeting Wand'
+    lore:
+    - '&7● &eRight Click &7to select a source'
+    - '&7● &eRight Click &7again to create a link'
+    - '&7● &eShift Right Click &7to remove a link'
+  QP_PHASE_CRYSTAL_1:
+    name: '&7Phase Crystal'
+    lore:
+    - '&8⇨ &x&F&F&C&C&0&0۞ &7Phase Change &e1 &8°'
+  QP_PHASE_CRYSTAL_45:
+    name: '&7Phase Crystal'
+    lore:
+    - '&8⇨ &x&F&F&C&C&0&0۞ &7Phase Change &e45 &8°'
+  QP_TURRET_BARREL:
+    name: '&x&A&D&A&D&8&5Turret Barrel'
+  QP_CARBON_STRUCTURE:
+    name: '&x&A&D&A&D&8&5Carbon Structure'
+  QP_TRANSMITTER_3:
+    name: '&x&A&D&A&D&8&5Transmitter &7III'
+  QP_TRANSCEIVER_3:
+    name: '&x&A&D&A&D&8&5Transceiver &7III'
+  QP_TRANSMITTER_2:
+    name: '&x&A&D&A&D&8&5Transmitter &7II'
+  QP_TRANSCEIVER_4:
+    name: '&x&A&D&A&D&8&5Transceiver &7IV'
+  QP_TRANSMITTER_4:
+    name: '&x&A&D&A&D&8&5Transmitter &7IV'
+  QP_TURRET_BASE:
+    name: '&x&A&D&A&D&8&5Turret Base'
+  QP_ENERGY_CONCENTRATION_ELEMENT_2:
+    name: '&x&A&D&A&D&8&5Energy Concentration Element &7II'
+  QP_TURRET_TARGETING_MECHANISM:
+    name: '&x&A&D&A&D&8&5Turret Targeting Mechanism'
+  QP_PHASE_CRYSTAL_90:
+    name: '&7Phase Crystal'
+    lore:
+    - '&8⇨ &x&F&F&C&C&0&0۞ &7Phase Change &e90 &8°'
+  QP_ENERGY_CONCENTRATION_ELEMENT_3:
+    name: '&x&A&D&A&D&8&5Energy Concentration Element &7III'
+  QP_TRANSMITTER_1:
+    name: '&x&A&D&A&D&8&5Transmitter &7I'
+  QP_ENERGY_CONCENTRATION_ELEMENT_1:
+    name: '&x&A&D&A&D&8&5Energy Concentration Element &7I'
+  QP_ENTANGLED_MODULE_CARD:
+    name: '&x&A&D&A&D&8&5Entangled Module Card'
+  QP_TRANSCEIVER_1:
+    name: '&x&A&D&A&D&8&5Transceiver &7I'
+  QP_TRANSCEIVER_2:
+    name: '&x&A&D&A&D&8&5Transceiver &7II'
+  QP_PHASE_CRYSTAL_180:
+    name: '&7Phase Crystal'
+    lore:
+    - '&8⇨ &x&F&F&C&C&0&0۞ &7Phase Change &e180 &8°'
+  QP_POINT_WAND:
+    name: '&bPoint Wand'
+    lore:
+    - '&7● Used to move connection points'
+    - '&7● &eRight Click &7a point to select it'
+    - '&7● &eLook Around &7to rotate the point'
+    - '&7● &eRight Click &7again to deselect it'
+  QP_TRANSFORMER_COIL_1:
+    name: '&x&A&D&A&D&8&5Transformer Coil &7I'
+  QP_PHASE_CRYSTAL_15:
+    name: '&7Phase Crystal'
+    lore:
+    - '&8⇨ &x&F&F&C&C&0&0۞ &7Phase Change &e15 &8°'
+  QP_INFUSED_MODULE_CARD:
+    name: '&x&A&D&A&D&8&5Infused Module Card'
+  QP_RECEIVER_2:
+    name: '&x&A&D&A&D&8&5Receiver &7II'
+  QP_DIELECTRIC_2:
+    name: '&x&A&D&A&D&8&5Dielectric &7II'
+  QP_RECEIVER_3:
+    name: '&x&A&D&A&D&8&5Receiver &7III'
+  QP_DIELECTRIC_1:
+    name: '&x&A&D&A&D&8&5Dielectric &7I'
+  QP_DIELECTRIC_4:
+    name: '&x&A&D&A&D&8&5Dielectric &7IV'
+  QP_RECEIVER_1:
+    name: '&x&A&D&A&D&8&5Receiver &7I'
+  QP_DIELECTRIC_3:
+    name: '&x&A&D&A&D&8&5Dielectric &7III'
+  QP_RAY_GUN_4:
+    name: '&bRay Gun &3IV'
+    lore:
+    - '&7● &eRight Click &7to fire'
+    - '&8⇨ &x&8&7&F&F&F&D◆ &7Charge &8¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦'
+    - '&8⇨ &x&8&7&F&F&F&D◆ &70 &8/ &71,000,000 &8QEU'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Charge per use &e2,000 &8QEU'
+  QP_MULTBLOCK_WAND:
+    name: '&bMultiblock Wand'
+    lore:
+    - '&7● Shows you how to build complex multiblocks'
+    - '&7● &eRight Click &7a multiblock to see how to build it (works in offhand)'
+    - '&7● &eRight Click &7a projected block with an empty hand to see what block
+      it is'
+    - '&7● &eRight Click &7a projected block with the corresponding item to quick
+      place it'
+  QP_RECEIVER_4:
+    name: '&x&A&D&A&D&8&5Receiver &7IV'
+  QP_TRANSFORMER_COIL_2:
+    name: '&x&A&D&A&D&8&5Transformer Coil &7II'
+  QP_INFUSED_FREQUENCY_CRYSTAL:
+    name: '&x&A&D&A&D&8&5Infused Frequency Crystal'
+  QP_TRANSFORMER_COIL_3:
+    name: '&x&A&D&A&D&8&5Transformer Coil &7III'

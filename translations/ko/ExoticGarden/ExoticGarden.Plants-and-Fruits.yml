@@ -1,0 +1,139 @@
+name: ExoticGarden
+translations:
+  RASPBERRY_BUSH:
+    name: '&dRaspberry Bush'
+  BLACK_PEPPER_BUSH:
+    name: '&8Black Pepper Plant'
+  PLUM_SAPLING:
+    name: '&5Plum Sapling'
+  ONION_BUSH:
+    name: '&cOnion Plant'
+  CORN_BUSH:
+    name: '&6Corn Plant'
+  RED_BELL_PEPPER:
+    name: '&cRed Bell Pepper'
+  ORANGE_SAPLING:
+    name: '&6Orange Sapling'
+  CILANTRO_BUSH:
+    name: '&aCilantro Plant'
+  POMEGRANATE:
+    name: '&4Pomegranate'
+  SWEET_POTATO:
+    name: '&6Sweet Potato'
+  BLACKBERRY_BUSH:
+    name: '&8Blackberry Bush'
+  CHERRY_SAPLING:
+    name: '&cCherry Sapling'
+  OAK_APPLE_SAPLING:
+    name: '&cOak Apple Sapling'
+  DRAGON_FRUIT:
+    name: '&dDragon Fruit'
+  BLACKBERRY:
+    name: '&8Blackberry'
+  BLACK_PEPPER:
+    name: '&8Black Pepper'
+  LEMON:
+    name: '&eLemon'
+  ELDERBERRY_BUSH:
+    name: '&cElderberry Bush'
+  CILANTRO:
+    name: '&aCilantro'
+  CABBAGE_BUSH:
+    name: '&2Cabbage Plant'
+  GRAPE:
+    name: '&cGrape'
+  COCONUT_SAPLING:
+    name: '&6Coconut Sapling'
+  CURRY_LEAF_BUSH:
+    name: '&2Curry Leaf Plant'
+  OAK_APPLE:
+    name: '&cOak Apple'
+  RASPBERRY:
+    name: '&dRaspberry'
+  CRANBERRY_BUSH:
+    name: '&cCranberry Bush'
+  BLUEBERRY:
+    name: '&9Blueberry'
+  PLUM:
+    name: '&5Plum'
+  CORN:
+    name: '&6Corn'
+  CURRY_LEAF:
+    name: '&2Curry Leaf'
+  PEAR_SAPLING:
+    name: '&aPear Sapling'
+  CRANBERRY:
+    name: '&cCranberry'
+  LETTUCE:
+    name: '&2Lettuce'
+  PEAR:
+    name: '&aPear'
+  BLUEBERRY_BUSH:
+    name: '&9Blueberry Bush'
+  GARLIC:
+    name: Garlic
+  PEACH_SAPLING:
+    name: '&5Peach Sapling'
+  GRASS_SEEDS:
+    name: Grass Seeds
+    lore:
+    - ''
+    - '&7&oCan be planted on Dirt'
+  ONION:
+    name: '&cOnion'
+  PEACH:
+    name: '&5Peach'
+  TOMATO_BUSH:
+    name: '&4Tomato Plant'
+  COWBERRY:
+    name: '&cCowberry'
+  DRAGON_FRUIT_SAPLING:
+    name: '&dDragon Fruit Sapling'
+  STRAWBERRY:
+    name: '&4Strawberry'
+  TOMATO:
+    name: '&4Tomato'
+  ORANGE:
+    name: '&6Orange'
+  SWEET_POTATO_BUSH:
+    name: '&6Sweet Potato Plant'
+  POMEGRANATE_SAPLING:
+    name: '&4Pomegranate Sapling'
+  LETTUCE_BUSH:
+    name: '&2Lettuce Plant'
+  ELDERBERRY:
+    name: '&cElderberry'
+  LIME_SAPLING:
+    name: '&aLime Sapling'
+  TEA_LEAF_BUSH:
+    name: '&aTea Leaf Plant'
+  CABBAGE:
+    name: '&2Cabbage'
+  MUSTARD_SEED_BUSH:
+    name: '&eMustard Seed Plant'
+  COCONUT:
+    name: '&6Coconut'
+  CHERRY:
+    name: '&cCherry'
+  COWBERRY_BUSH:
+    name: '&cCowberry Bush'
+  LEMON_SAPLING:
+    name: '&eLemon Sapling'
+  GARLIC_BUSH:
+    name: Garlic Plant
+  PINEAPPLE_BUSH:
+    name: '&6Pineapple Plant'
+  LIME:
+    name: '&aLime'
+  STRAWBERRY_BUSH:
+    name: '&4Strawberry Bush'
+  TEA_LEAF:
+    name: '&aTea Leaf'
+  RED_BELL_PEPPER_BUSH:
+    name: '&cRed Bell Pepper Plant'
+  PINEAPPLE:
+    name: '&6Pineapple'
+  GRAPE_BUSH:
+    name: '&cGrape Bush'
+  MUSTARD_SEED:
+    name: '&eMustard Seed'

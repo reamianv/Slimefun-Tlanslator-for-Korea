@@ -1,0 +1,243 @@
+name: Slimefun
+translations:
+  BILLON_MULTI_TOOL:
+    name: '&9Multi Tool &7- &eIII'
+    lore:
+    - ''
+    - '&8⇨ &7Material: &bBillon'
+    - '&8⇨ &e⚡ &70 / 40 J'
+    - ''
+    - '&eRight Click&7 to use'
+    - '&eCrouch & Right Click&7 to switch modes'
+  ARMORED_JETBOOTS:
+    name: '&9Armored Jet Boots'
+    lore:
+    - ''
+    - '&8⇨ &7Material: &bSteel'
+    - '&8⇨ &e⚡ &70 / 50 J'
+    - '&8⇨ &b⚡ &7Speed: &b0.45x'
+    - '&8⇨ &7Accuracy: &e70%'
+    - ''
+    - '&eCrouch&7 to use'
+  CARBONADO_MULTI_TOOL:
+    name: '&9Multi Tool &7- &eVII'
+    lore:
+    - ''
+    - '&8⇨ &7Material: &bCarbonado'
+    - '&8⇨ &e⚡ &70 / 100 J'
+    - ''
+    - '&eRight Click&7 to use'
+    - '&eCrouch & Right Click&7 to switch modes'
+  CARBONADO_JETPACK:
+    name: '&9Electric Jetpack &7- &eVII'
+    lore:
+    - ''
+    - '&8⇨ &7Material: &bCarbonado'
+    - '&8⇨ &e⚡ &70 / 150 J'
+    - '&8⇨ &7Thrust: &c0.7'
+    - ''
+    - '&eCrouch&7 to use'
+  ARMORED_JETPACK:
+    name: '&9Armored Jetpack'
+    lore:
+    - '&8⇨ &7Material: &bSteel'
+    - ''
+    - '&8⇨ &e⚡ &70 / 50 J'
+    - '&8⇨ &7Thrust: &c0.5'
+    - ''
+    - '&eCrouch&7 to use'
+  DAMASCUS_STEEL_MULTI_TOOL:
+    name: '&9Multi Tool &7- &eV'
+    lore:
+    - ''
+    - '&8⇨ &7Material: &bDamascus Steel'
+    - '&8⇨ &e⚡ &70 / 60 J'
+    - ''
+    - '&eRight Click&7 to use'
+    - '&eCrouch & Right Click&7 to switch modes'
+  REINFORCED_ALLOY_MULTI_TOOL:
+    name: '&9Multi Tool &7- &eVI'
+    lore:
+    - ''
+    - '&8⇨ &7Material: &bReinforced Alloy'
+    - '&8⇨ &e⚡ &70 / 75 J'
+    - ''
+    - '&eRight Click&7 to use'
+    - '&eCrouch & Right Click&7 to switch modes'
+  BILLON_JETBOOTS:
+    name: '&9Jet Boots &7- &eIII'
+    lore:
+    - ''
+    - '&8⇨ &7Material: &bBillon'
+    - '&8⇨ &e⚡ &70 / 40 J'
+    - '&8⇨ &b⚡ &7Speed: &b0.45x'
+    - '&8⇨ &7Accuracy: &665%'
+    - ''
+    - '&eCrouch&7 to use'
+  REINFORCED_ALLOY_JETBOOTS:
+    name: '&9Jet Boots &7- &eVI'
+    lore:
+    - ''
+    - '&8⇨ &7Material: &bReinforced Alloy'
+    - '&8⇨ &e⚡ &70 / 100 J'
+    - '&8⇨ &b⚡ &7Speed: &b0.6x'
+    - '&8⇨ &7Accuracy: &c80%'
+    - ''
+    - '&eCrouch&7 to use'
+  MULTIMETER:
+    name: '&eMultimeter'
+    lore:
+    - ''
+    - '&fMeasures the Amount of stored'
+    - '&fEnergy in a Block'
+  STEEL_JETPACK:
+    name: '&9Electric Jetpack &7- &eIV'
+    lore:
+    - ''
+    - '&8⇨ &7Material: &bSteel'
+    - '&8⇨ &e⚡ &70 / 60 J'
+    - '&8⇨ &7Thrust: &c0.5'
+    - ''
+    - '&eCrouch&7 to use'
+  NIGHT_VISION_GOGGLES:
+    name: '&aNight Vision Goggles'
+    lore:
+    - ''
+    - '&9+ Night Vision'
+  SOLDER_MULTI_TOOL:
+    name: '&9Multi Tool &7- &eII'
+    lore:
+    - ''
+    - '&8⇨ &7Material: &bSolder'
+    - '&8⇨ &e⚡ &70 / 30 J'
+    - ''
+    - '&eRight Click&7 to use'
+    - '&eCrouch & Right Click&7 to switch modes'
+  DURALUMIN_JETPACK:
+    name: '&9Electric Jetpack &7- &eI'
+    lore:
+    - ''
+    - '&8⇨ &7Material: &bDuralumin'
+    - '&8⇨ &e⚡ &70 / 20 J'
+    - '&8⇨ &7Thrust: &c0.35'
+    - ''
+    - '&eCrouch&7 to use'
+  DURALUMIN_JETBOOTS:
+    name: '&9Jet Boots &7- &eI'
+    lore:
+    - ''
+    - '&8⇨ &7Material: &bDuralumin'
+    - '&8⇨ &e⚡ &70 / 20 J'
+    - '&8⇨ &b⚡ &7Speed: &b0.35x'
+    - '&8⇨ &7Accuracy: &c50%'
+    - ''
+    - '&eCrouch&7 to use'
+  HOLOGRAM_PROJECTOR:
+    name: '&bHologram Projector'
+    lore:
+    - ''
+    - '&fProjects an Editable Hologram'
+  BILLON_JETPACK:
+    name: '&9Electric Jetpack &7- &eIII'
+    lore:
+    - ''
+    - '&8⇨ &7Material: &bBillon'
+    - '&8⇨ &e⚡ &70 / 45 J'
+    - '&8⇨ &7Thrust: &c0.45'
+    - ''
+    - '&eCrouch&7 to use'
+  PARACHUTE:
+    name: '&f&lParachute'
+    lore:
+    - ''
+    - '&eCrouch&7 to use'
+  CARBONADO_JETBOOTS:
+    name: '&9Jet Boots &7- &eVII'
+    lore:
+    - ''
+    - '&8⇨ &7Material: &bCarbonado'
+    - '&8⇨ &e⚡ &70 / 125 J'
+    - '&8⇨ &b⚡ &7Speed: &b0.7x'
+    - '&8⇨ &7Accuracy: &c99.9%'
+    - ''
+    - '&eCrouch&7 to use'
+  DAMASCUS_STEEL_JETPACK:
+    name: '&9Electric Jetpack &7- &eV'
+    lore:
+    - ''
+    - '&8⇨ &7Material: &bDamascus Steel'
+    - '&8⇨ &e⚡ &70 / 75 J'
+    - '&8⇨ &7Thrust: &c0.55'
+    - ''
+    - '&eCrouch&7 to use'
+  REINFORCED_ALLOY_JETPACK:
+    name: '&9Electric Jetpack &7- &eVI'
+    lore:
+    - ''
+    - '&8⇨ &7Material: &bReinforced Alloy'
+    - '&8⇨ &e⚡ &70 / 100 J'
+    - '&8⇨ &7Thrust: &c0.6'
+    - ''
+    - '&eCrouch&7 to use'
+  STEEL_MULTI_TOOL:
+    name: '&9Multi Tool &7- &eIV'
+    lore:
+    - ''
+    - '&8⇨ &7Material: &bSteel'
+    - '&8⇨ &e⚡ &70 / 50 J'
+    - ''
+    - '&eRight Click&7 to use'
+    - '&eCrouch & Right Click&7 to switch modes'
+  DURALUMIN_MULTI_TOOL:
+    name: '&9Multi Tool &7- &eI'
+    lore:
+    - ''
+    - '&8⇨ &7Material: &bDuralumin'
+    - '&8⇨ &e⚡ &70 / 20 J'
+    - ''
+    - '&eRight Click&7 to use'
+    - '&eCrouch & Right Click&7 to switch modes'
+  DAMASCUS_STEEL_JETBOOTS:
+    name: '&9Jet Boots &7- &eV'
+    lore:
+    - ''
+    - '&8⇨ &7Material: &bDamascus Steel'
+    - '&8⇨ &e⚡ &70 / 75 J'
+    - '&8⇨ &b⚡ &7Speed: &b0.55x'
+    - '&8⇨ &7Accuracy: &a75%'
+    - ''
+    - '&eCrouch&7 to use'
+  SOLDER_JETBOOTS:
+    name: '&9Jet Boots &7- &eII'
+    lore:
+    - ''
+    - '&8⇨ &7Material: &bSolder'
+    - '&8⇨ &e⚡ &70 / 30 J'
+    - '&8⇨ &b⚡ &7Speed: &b0.4x'
+    - '&8⇨ &7Accuracy: &660%'
+    - ''
+    - '&eCrouch&7 to use'
+  SOLAR_HELMET:
+    name: '&bSolar Helmet'
+    lore:
+    - ''
+    - '&a&oCharges held Items and Armor'
+  STEEL_JETBOOTS:
+    name: '&9Jet Boots &7- &eIV'
+    lore:
+    - ''
+    - '&8⇨ &7Material: &bSteel'
+    - '&8⇨ &e⚡ &70 / 50 J'
+    - '&8⇨ &b⚡ &7Speed: &b0.5x'
+    - '&8⇨ &7Accuracy: &e70%'
+    - ''
+    - '&eCrouch&7 to use'
+  SOLDER_JETPACK:
+    name: '&9Electric Jetpack &7- &eII'
+    lore:
+    - ''
+    - '&8⇨ &7Material: &bSolder'
+    - '&8⇨ &e⚡ &70 / 30 J'
+    - '&8⇨ &7Thrust: &c0.4'
+    - ''
+    - '&eCrouch&7 to use'

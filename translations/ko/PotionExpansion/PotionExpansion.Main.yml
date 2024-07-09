@@ -1,0 +1,71 @@
+name: PotionExpansion
+translations:
+  QUARTZ_SIGHT:
+    name: '&f&lQuartzSight'
+    lore:
+    - '&9Quartz Sight (2:00)'
+  QUARTZ_POWDER:
+    name: '&fQuartz Powder'
+  DIAMOND_SIGHT:
+    name: '&b&lDiamondSight'
+    lore:
+    - '&9Diamond Sight (2:00)'
+  IRON_SIGHT:
+    name: '&7&lIronSight'
+    lore:
+    - '&9Iron Sight (2:00)'
+  ANCIENT_DEBRIS_SIGHT:
+    name: '&4&lAncientDebrisSight'
+    lore:
+    - '&9Ancient Debris Sight (2:00)'
+  REDSTONE_POWDER:
+    name: '&cRedstone Powder'
+  LAPIS_POWDER:
+    name: '&9Lapis Powder'
+  DIAMOND_POWDER:
+    name: '&bDiamond Powder'
+  COPPER_POWDER:
+    name: '&6Copper Powder'
+  REDSTONE_SIGHT:
+    name: '&c&lRedstoneSight'
+    lore:
+    - '&9Redstone Sight (2:00)'
+  COPPER_SIGHT:
+    name: '&6&lCopperSight'
+    lore:
+    - '&9Copper Sight (2:00)'
+  COAL_POWDER:
+    name: '&8Coal Powder'
+  ANCIENT_DEBRIS_POWDER:
+    name: '&4Ancient Debris Powder'
+  GOLD_SIGHT:
+    name: '&e&lGoldSight'
+    lore:
+    - '&9Gold Sight (2:00)'
+  GOLD_POWDER:
+    name: '&eGold Powder'
+  ALCHEMIC_STATION:
+    name: '&6Alchemic Station'
+    lore:
+    - '&a&oWorks like normal brewing stand but can make sight potions.'
+  PESTLE:
+    name: '&f&lPestle'
+    lore:
+    - '&a&oYou can crush ores by using it'
+    - '&c&lIt is disposable'
+  COAL_SIGHT:
+    name: '&8&lCoalSight'
+    lore:
+    - '&9Coal Sight (2:00)'
+  EMERALD_SIGHT:
+    name: '&a&lEmeraldSight'
+    lore:
+    - '&9Emerald Sight (2:00)'
+  EMERALD_POWDER:
+    name: '&aEmerald Powder'
+  LAPIS_SIGHT:
+    name: '&9&lLapisSight'
+    lore:
+    - '&9Lapis Sight (2:00)'
+  IRON_POWDER:
+    name: '&7Iron Powder'

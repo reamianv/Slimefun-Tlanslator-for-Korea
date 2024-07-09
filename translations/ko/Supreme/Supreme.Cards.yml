@@ -1,0 +1,623 @@
+name: Supreme
+translations:
+  SUPREME_CARD_ZINC_DUST:
+    name: '&bCard Machine Zinc Dust'
+    lore:
+    - ''
+    - '&fChange to Production Zinc Dust'
+    - ''
+    - '&aMedium Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_LEAD_DUST:
+    name: '&bCard Machine Lead Dust'
+    lore:
+    - ''
+    - '&fChange to Production Lead Dust'
+    - ''
+    - '&aMedium Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_SYNTHETIC_EMERALD:
+    name: '&bCard Machine Synthetic Emerald'
+    lore:
+    - ''
+    - '&fChange to Production Synthetic Emerald'
+    - ''
+    - '&6Advanced Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_GOLD24K:
+    name: '&bCard Machine Gold 24k'
+    lore:
+    - ''
+    - '&fChange to Production Gold 24k'
+    - ''
+    - '&6Advanced Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_COPPER_DUST:
+    name: '&bCard Machine Copper Dust'
+    lore:
+    - ''
+    - '&fChange to Production Copper Dust'
+    - ''
+    - '&aMedium Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_GRAVEL:
+    name: '&bCard Machine Gravel'
+    lore:
+    - ''
+    - '&fChange to Production Gravel'
+    - ''
+    - '&eBasic Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_COAL:
+    name: '&bCard Machine Coal'
+    lore:
+    - ''
+    - '&fChange to Production Coal'
+    - ''
+    - '&eBasic Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_DIORITE:
+    name: '&bCard Machine Diorite'
+    lore:
+    - ''
+    - '&fChange to Production Diorite'
+    - ''
+    - '&eBasic Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_BRONZE:
+    name: '&bCard Machine Bronze Ingot'
+    lore:
+    - ''
+    - '&fChange to Production Bronze Ingot'
+    - ''
+    - '&aMedium Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_BATTERY:
+    name: '&bCard Machine Battery'
+    lore:
+    - ''
+    - '&fChange to Production Battery'
+    - ''
+    - '&6Advanced Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_APPLE:
+    name: '&bCard Machine Apple'
+    lore:
+    - ''
+    - '&fChange to Production Apple'
+    - ''
+    - '&eBasic Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_SYNTHETIC_DIAMOND:
+    name: '&bCard Machine Synthetic Diamond'
+    lore:
+    - ''
+    - '&fChange to Production Synthetic Diamond'
+    - ''
+    - '&6Advanced Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_QUARTZ_BLOCK:
+    name: '&bCard Machine Quartz Block'
+    lore:
+    - ''
+    - '&fChange to Production Quartz Block'
+    - ''
+    - '&eBasic Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_REINFORCED_ALLOY:
+    name: '&bCard Machine Reinforced Alloy Ingot'
+    lore:
+    - ''
+    - '&fChange to Production Reinforced Alloy Ingot'
+    - ''
+    - '&6Advanced Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_BILLON:
+    name: '&bCard Machine Billon Ingot'
+    lore:
+    - ''
+    - '&fChange to Production Billon Ingot'
+    - ''
+    - '&aMedium Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_STONE:
+    name: '&bCard Machine Stone'
+    lore:
+    - ''
+    - '&fChange to Production Stone'
+    - ''
+    - '&eBasic Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_MAGNET:
+    name: '&bCard Machine Magnet'
+    lore:
+    - ''
+    - '&fChange to Production Magnet'
+    - ''
+    - '&6Advanced Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_REDSTONE_ALLOY:
+    name: '&bCard Machine Redstone Alloy'
+    lore:
+    - ''
+    - '&fChange to Production Redstone Alloy'
+    - ''
+    - '&6Advanced Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_GRANITE:
+    name: '&bCard Machine Granite'
+    lore:
+    - ''
+    - '&fChange to Production Granite'
+    - ''
+    - '&eBasic Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_BRASS:
+    name: '&bCard Machine Brass Ingot'
+    lore:
+    - ''
+    - '&fChange to Production Brass Ingot'
+    - ''
+    - '&aMedium Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_GLOW_INK_SAC:
+    name: '&bCard Machine Glow Ink Sac'
+    lore:
+    - ''
+    - '&fChange to Production Glow Ink Sac'
+    - ''
+    - '&eBasic Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_NICKEL:
+    name: '&bCard Machine Nickel'
+    lore:
+    - ''
+    - '&fChange to Production Nickel'
+    - ''
+    - '&aMedium Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_COPPER:
+    name: '&bCard Machine Copper'
+    lore:
+    - ''
+    - '&fChange to Production Copper'
+    - ''
+    - '&eBasic Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_NETHER_STAR:
+    name: '&bCard Machine Nether Star'
+    lore:
+    - ''
+    - '&fChange to Production Nether Star'
+    - ''
+    - '&eBasic Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_ELECTRO_MAGNET:
+    name: '&bCard Machine Electro Magnet'
+    lore:
+    - ''
+    - '&fChange to Production Electro Magnet'
+    - ''
+    - '&6Advanced Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_STEEL:
+    name: '&bCard Machine Steel'
+    lore:
+    - ''
+    - '&fChange to Production Steel'
+    - ''
+    - '&aMedium Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_AMETHYST:
+    name: '&bCard Machine Ametista'
+    lore:
+    - ''
+    - '&fChange to Production Ametista'
+    - ''
+    - '&6Advanced Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_SULFATE:
+    name: '&bCard de Sulfate'
+    lore:
+    - ''
+    - '&fChange to Production Sulfate'
+    - ''
+    - '&aMedium Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_PLASTIC_SHEET:
+    name: '&bCard Machine Plastic Sheet'
+    lore:
+    - ''
+    - '&fChange to Production Plastic Sheet'
+    - ''
+    - '&6Advanced Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_ANDESITE:
+    name: '&bCard Machine Andesite'
+    lore:
+    - ''
+    - '&fChange to Production Andesite'
+    - ''
+    - '&eBasic Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_CARBON:
+    name: '&bCard Machine Carbon'
+    lore:
+    - ''
+    - '&fChange to Production Carbon'
+    - ''
+    - '&aMedium Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_ENDSTONE:
+    name: '&bCard Machine Endstone'
+    lore:
+    - ''
+    - '&fChange to Production Endstone'
+    - ''
+    - '&eBasic Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_SILVER_DUST:
+    name: '&bCard Machine Silver Dust'
+    lore:
+    - ''
+    - '&fChange to Production Silver Dust'
+    - ''
+    - '&aMedium Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_ELECTRIC_MOTOR:
+    name: '&bCard Machine Electric Motor'
+    lore:
+    - ''
+    - '&fChange to Production Electric Motor'
+    - ''
+    - '&6Advanced Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_WITHER_ROSE:
+    name: '&bCard Machine Wither Rose'
+    lore:
+    - ''
+    - '&fChange to Production Wither Rose'
+    - ''
+    - '&eBasic Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_ALUMINUM_BRONZE:
+    name: '&bCard Machine Aluminum Bronze Ingot'
+    lore:
+    - ''
+    - '&fChange to Production Aluminum Bronze Ingot'
+    - ''
+    - '&6Advanced Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_HARDENED_METAL:
+    name: '&bCard Machine Hardened Metal Ingot'
+    lore:
+    - ''
+    - '&fChange to Production Hardened Metal Ingot'
+    - ''
+    - '&6Advanced Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_CARBON_PRESS:
+    name: '&bCard Machine Compressed Carbon'
+    lore:
+    - ''
+    - '&fChange to Production Compressed Carbon'
+    - ''
+    - '&aMedium Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_CARBONADO:
+    name: '&bCard Machine Carbonado'
+    lore:
+    - ''
+    - '&fChange to Production Carbonado'
+    - ''
+    - '&6Advanced Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_BLAZE_ROD:
+    name: '&bCard Machine Blaze Rod'
+    lore:
+    - ''
+    - '&fChange to Production Blaze Rod'
+    - ''
+    - '&6Advanced Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_SAND:
+    name: '&bCard Machine Sand'
+    lore:
+    - ''
+    - '&fChange to Production Sand'
+    - ''
+    - '&eBasic Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_SNOW:
+    name: '&bCard Machine Snow'
+    lore:
+    - ''
+    - '&fChange to Production Snow'
+    - ''
+    - '&eBasic Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_HONEY_BOTTLE:
+    name: '&bCard Machine Honey Bottle'
+    lore:
+    - ''
+    - '&fChange to Production Honey Bottle'
+    - ''
+    - '&eBasic Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_DIAMOND:
+    name: '&bCard Machine Diamond'
+    lore:
+    - ''
+    - '&fChange to Production Diamond'
+    - ''
+    - '&6Advanced Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_CLAY:
+    name: '&bCard Machine Clay'
+    lore:
+    - ''
+    - '&fChange to Production Clay'
+    - ''
+    - '&eBasic Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_DAMASCUS:
+    name: '&bCard Machine Damascus'
+    lore:
+    - ''
+    - '&fChange to Production Damascus'
+    - ''
+    - '&aMedium Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_GOLD:
+    name: '&bCard Machine Gold'
+    lore:
+    - ''
+    - '&fChange to Production Gold'
+    - ''
+    - '&eBasic Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_ALUMINUM_DUST:
+    name: '&bCard Machine Aluminum Dust'
+    lore:
+    - ''
+    - '&fChange to Production Aluminum Dust'
+    - ''
+    - '&aMedium Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_ALUMINUM_BRASS:
+    name: '&bCard Machine Aluminum Brass Ingot'
+    lore:
+    - ''
+    - '&fChange to Production Aluminum Brass Ingot'
+    - ''
+    - '&6Advanced Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_GOLD_DUST:
+    name: '&bCard Machine Gold Dust'
+    lore:
+    - ''
+    - '&fChange to Production Gold Dust'
+    - ''
+    - '&aMedium Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_SOLDER:
+    name: '&bCard Machine Solder Ingot'
+    lore:
+    - ''
+    - '&fChange to Production Solder Ingot'
+    - ''
+    - '&aMedium Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_REDSTONE:
+    name: '&bCard Machine Redstone'
+    lore:
+    - ''
+    - '&fChange to Production Redstone'
+    - ''
+    - '&eBasic Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_SILICON:
+    name: '&bCard Machine Silicon'
+    lore:
+    - ''
+    - '&fChange to Production Silicon'
+    - ''
+    - '&aMedium Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_CORINTHIAN_BRONZE:
+    name: '&bCard Machine Corinthian Bronze Ingot'
+    lore:
+    - ''
+    - '&fChange to Production Corinthian Bronze Ingot'
+    - ''
+    - '&6Advanced Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_EMERALD:
+    name: '&bCard Machine Emerald'
+    lore:
+    - ''
+    - '&fChange to Production Emerald'
+    - ''
+    - '&6Advanced Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_QUARTZ:
+    name: '&bCard Machine Quartz'
+    lore:
+    - ''
+    - '&fChange to Production Quartz'
+    - ''
+    - '&eBasic Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_NETHERITE:
+    name: '&bCard Machine Netherite'
+    lore:
+    - ''
+    - '&fChange to Production Netherite'
+    - ''
+    - '&6Advanced Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_SYNTHETIC_SAPPHIRE:
+    name: '&bCard Machine Synthetic Sapphire'
+    lore:
+    - ''
+    - '&fChange to Production Synthetic Sapphire'
+    - ''
+    - '&6Advanced Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_IRON:
+    name: '&bCard Machine Iron'
+    lore:
+    - ''
+    - '&fChange to Production Iron'
+    - ''
+    - '&eBasic Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_IRON_DUST:
+    name: '&bCard Machine Iron Dust'
+    lore:
+    - ''
+    - '&fChange to Production Iron Dust'
+    - ''
+    - '&aMedium Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_INK_SAC:
+    name: '&bCard Machine Ink Sac'
+    lore:
+    - ''
+    - '&fChange to Production Ink Sac'
+    - ''
+    - '&eBasic Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_MAGNESIUM_DUST:
+    name: '&bCard Machine Magnesium Dust'
+    lore:
+    - ''
+    - '&fChange to Production Magnesium Dust'
+    - ''
+    - '&aMedium Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_TIN_DUST:
+    name: '&bCard Machine Tin Dust'
+    lore:
+    - ''
+    - '&fChange to Production Tin Dust'
+    - ''
+    - '&aMedium Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_SLIME_BALL:
+    name: '&bCard Machine Slime Ball'
+    lore:
+    - ''
+    - '&fChange to Production Slime Ball'
+    - ''
+    - '&eBasic Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_LAPIS:
+    name: '&bCard Machine Lapiz'
+    lore:
+    - ''
+    - '&fChange to Production Lapiz'
+    - ''
+    - '&eBasic Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_COBALT:
+    name: '&bCard Machine Cobalt'
+    lore:
+    - ''
+    - '&fChange to Production Cobalt'
+    - ''
+    - '&aMedium Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_HEATING_COIL:
+    name: '&bCard Machine Heating Coil'
+    lore:
+    - ''
+    - '&fChange to Production Heating Coil'
+    - ''
+    - '&6Advanced Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_DURALUMIN:
+    name: '&bCard Machine Duralumin Ingot'
+    lore:
+    - ''
+    - '&fChange to Production Duralumin Ingot'
+    - ''
+    - '&aMedium Machine'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CARD_FERROSILICON:
+    name: '&bCard Machine Ferrosilicon'
+    lore:
+    - ''
+    - '&fChange to Production Ferrosilicon'
+    - ''
+    - '&aMedium Machine'
+    - ''
+    - '&3Supreme Component'

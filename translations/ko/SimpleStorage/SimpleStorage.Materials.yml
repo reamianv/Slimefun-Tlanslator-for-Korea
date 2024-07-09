@@ -1,0 +1,345 @@
+name: SimpleStorage
+translations:
+  MATERIAL_NISIL:
+    name: '&x&D&B&C&E&A&9Nisil Alloy Ingot'
+    lore:
+    - ''
+    - '&7An alloy of Nickel and Silicon.'
+    - '&7Forms part of a thermocouple.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  MATERIAL_CUPRONICKEL:
+    name: '&x&D&B&C&E&A&9Cupronickel Alloy Ingot'
+    lore:
+    - ''
+    - '&7An alloy of Copper and Nickel that is'
+    - '&7used for its strength and ability to'
+    - '&7withstand high pressures.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  MATERIAL_NICROSIL:
+    name: '&x&D&B&C&E&A&9Nicrosil Alloy Ingot'
+    lore:
+    - ''
+    - '&7An alloy of Nickel, Silicon and'
+    - '&7Chromium. Forms part of a thermocouple.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  MATERIAL_ANTIMONY_DUST:
+    name: '&x&D&B&C&E&A&9Antimony Dust'
+    lore:
+    - ''
+    - '&7A very rare metal. Needs to be worked'
+    - '&7into ingots.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  MATERIAL_PROUSTITE:
+    name: '&x&D&B&C&E&A&9Proustite Crystal'
+    lore:
+    - ''
+    - '&7Proustite crystals are a rare resource that'
+    - '&7are used for more advanced data transfer.'
+    - '&7Only found in the hottest locations.'
+    - ''
+    - '&x&F&0&E&A&4&FBase Resource'
+  MATERIAL_CUPRONICKEL_PLATE:
+    name: '&x&D&B&C&E&A&9Reinforced Cupronickel Alloy Plate'
+    lore:
+    - ''
+    - '&7A plate made out of Cupronickel used as'
+    - '&7a shell for intermediate storage components.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  MATERIAL_CHROMIUM_DUST:
+    name: '&x&D&B&C&E&A&9Chromium Dust'
+    lore:
+    - ''
+    - '&7A very rare metal. Needs to be worked'
+    - '&7into ingots.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  MATERIAL_RHENIUM_INGOT:
+    name: '&x&D&B&C&E&A&9Rhenium Ingot'
+    lore:
+    - ''
+    - '&7An incredibly rare metal. Used in making'
+    - '&7the very advanced alloys.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  MATERIAL_CHEST_CORE_BASIC:
+    name: '&x&D&B&C&E&A&9Basic Chest Core'
+    lore:
+    - ''
+    - '&7Used as the core for an iron chest.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  MATERIAL_ANTIMONY_CHUNK:
+    name: '&x&D&B&C&E&A&9Antimony Shard'
+    lore:
+    - ''
+    - '&7A very rare metal. Can be processed'
+    - '&7into Antimony.'
+    - ''
+    - '&x&F&0&E&A&4&FBase Resource'
+  MATERIAL_DISPLAY:
+    name: '&x&D&B&C&E&A&9Display Panel'
+    lore:
+    - ''
+    - '&7A display panel. Used to craft the'
+    - '&7the Chest Master.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  MATERIAL_ZAMAK2:
+    name: '&x&D&B&C&E&A&9Zamak-2'
+    lore:
+    - ''
+    - '&7An alloy of Zinc, Aluminium and'
+    - '&7Copper. Zamak-2 is reinforced with'
+    - '&7additional Copper for further'
+    - '&7strength making it capable of acting'
+    - '&7as a die for more metals.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  MATERIAL_DIE_REINFORCED:
+    name: '&x&D&B&C&E&A&9Reinforced Die'
+    lore:
+    - ''
+    - '&7A reinforced die made out of Zamak-2.'
+    - '&7Can be used to create intermediate'
+    - '&7injected shells.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  MATERIAL_BASTNAESITE_DUST:
+    name: '&x&D&B&C&E&A&9Bastnaesite Dust'
+    lore:
+    - ''
+    - '&7A very rare ore. Needs to be worked'
+    - '&7into ingots.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  MATERIAL_ZAMAK3:
+    name: '&x&D&B&C&E&A&9Zamak-3'
+    lore:
+    - ''
+    - '&7An alloy of Zinc, Aluminium and'
+    - '&7Copper. Zamak-3 is infused with'
+    - '&7Magnesium for stability.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  MATERIAL_SUPER_INGOT:
+    name: '&x&D&B&C&E&A&9Nickel-Superalloy Ingot'
+    lore:
+    - ''
+    - '&7An alloy of Nickel and Rhenium that'
+    - '&7used for its extreme temperature'
+    - '&7resistance.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  MATERIAL_RHENIUM_DUST:
+    name: '&x&D&B&C&E&A&9Rhenium Dust'
+    lore:
+    - ''
+    - '&7A very rare metal. Needs to be worked'
+    - '&7into ingots.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  MATERIAL_ZAMAK1:
+    name: '&x&D&B&C&E&A&9Zamak-1'
+    lore:
+    - ''
+    - '&7An alloy of Zinc, Aluminium and'
+    - '&7Copper. While this alloy is not'
+    - '&7the strongest, it is useful for'
+    - '&7machine dies.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  MATERIAL_BASTNAESITE_INGOT:
+    name: '&x&D&B&C&E&A&9Carium Ingot'
+    lore:
+    - ''
+    - '&7A very rare metal. Used in making'
+    - '&7reinforced alloys.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  MATERIAL_CHEST_CORE_REINFORCED:
+    name: '&x&D&B&C&E&A&9Reinforced Chest Core'
+    lore:
+    - ''
+    - '&7Used as the core for a gold chest.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  MATERIAL_PEWTER:
+    name: '&x&D&B&C&E&A&9Pewter Alloy Ingot'
+    lore:
+    - ''
+    - '&7An alloy of Tin and Silver that is'
+    - '&7used for its durability.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  BLOCK_COMMUNICATION:
+    name: '&x&3&2&9&5&A&8Communication Block'
+    lore:
+    - ''
+    - '&7Allows the networking of various'
+    - '&7inventories to the Master.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  MATERIAL_ANTIMONY_INGOT:
+    name: '&x&D&B&C&E&A&9Antimony Ingot'
+    lore:
+    - ''
+    - '&7A very rare metal. Used in making'
+    - '&7advanced alloys.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  MATERIAL_REINFORCED_PEWTER:
+    name: '&x&D&B&C&E&A&9Hardened Pewter Alloy Ingot'
+    lore:
+    - ''
+    - '&7An alloy of Tin and Silver that is'
+    - '&7used for its durability. This variant'
+    - '&7has been hardened with Antimony.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  MATERIAL_QUARTZGEM:
+    name: '&x&D&B&C&E&A&9Crystal Clear Quartz'
+    lore:
+    - ''
+    - '&7This form of quartz is very rare'
+    - '&7and used for creating displays.'
+    - '&7Location unknown.'
+    - ''
+    - '&x&F&0&E&A&4&FBase Resource'
+  MATERIAL_ELECTRUM:
+    name: '&x&D&B&C&E&A&9Electrum Alloy Ingot'
+    lore:
+    - ''
+    - '&7An alloy of gold and silver that is'
+    - '&7basically useless, but we might find'
+    - '&7some use for it?'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  MATERIAL_DIE_ADVANCED:
+    name: '&x&D&B&C&E&A&9Advanced Die'
+    lore:
+    - ''
+    - '&7An advanced die made out of Zamak-3.'
+    - '&7Can be used to create top-tier'
+    - '&7injected shells.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  MATERIAL_PEWTER_PLATE:
+    name: '&x&D&B&C&E&A&9Hardened Pewter Alloy Plate'
+    lore:
+    - ''
+    - '&7A plate made out of Pewter used as'
+    - '&7a shell for advanced storage components.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  MATERIAL_ANGELITE:
+    name: '&x&D&B&C&E&A&9Angelite Crystal'
+    lore:
+    - ''
+    - '&7Angelite crystals are a rare resource that'
+    - '&7are used for simple data transfer.'
+    - '&7More plentiful in colder climates.'
+    - ''
+    - '&x&F&0&E&A&4&FBase Resource'
+  MATERIAL_THERMOCOUPLE:
+    name: '&x&D&B&C&E&A&9Thermocouple'
+    lore:
+    - ''
+    - '&7Used to test heat transfer'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  MATERIAL_CHROMIUM_INGOT:
+    name: '&x&D&B&C&E&A&9Chromium Ingot'
+    lore:
+    - ''
+    - '&7A very rare metal. Used in making'
+    - '&7alloys.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  MATERIAL_BASTNAESITE_CHUNK:
+    name: '&x&D&B&C&E&A&9Bastnaesite Chunk'
+    lore:
+    - ''
+    - '&7A very rare ore. Can be processed'
+    - '&7into Cerium.'
+    - ''
+    - '&x&F&0&E&A&4&FBase Resource'
+  MATERIAL_DIE_BASIC:
+    name: '&x&D&B&C&E&A&9Basic Die'
+    lore:
+    - ''
+    - '&7A weak die made out of Zamak-1.'
+    - '&7Can be used to create rudimentary'
+    - '&7injected shells.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  MATERIAL_SHORTITE:
+    name: '&x&D&B&C&E&A&9Shortite Crystal'
+    lore:
+    - ''
+    - '&7Shortite crystals are a rare resource that'
+    - '&7are used for the most advanced data transfers.'
+    - '&7Locations unknown.'
+    - ''
+    - '&x&F&0&E&A&4&FBase Resource'
+  CHUNK_CHROMITE:
+    name: '&x&D&B&C&E&A&9Chromite Chunk'
+    lore:
+    - ''
+    - '&7A very rare ore. Can be processed'
+    - '&7into Chromium.'
+    - ''
+    - '&x&F&0&E&A&4&FBase Resource'
+  MATERIAL_REINFORCED_CUPRONICKEL:
+    name: '&x&D&B&C&E&A&9Reinforced Cupronickel Alloy Ingot'
+    lore:
+    - ''
+    - '&7An alloy of Copper and Nickel that is'
+    - '&7used for its strength and ability to'
+    - '&7withstand high pressures. This variant'
+    - '&7has been reinforced with Carium.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  MATERIAL_COMBINED_PLATE:
+    name: '&x&D&B&C&E&A&9Combination Plate'
+    lore:
+    - ''
+    - '&7A plate made out of Nickel and Rhenium'
+    - '&7layered with pewter.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  MATERIAL_CHEST_CORE_ADVANCED:
+    name: '&x&D&B&C&E&A&9Advanced Chest Core'
+    lore:
+    - ''
+    - '&7Used as the core for a diamond chest.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  MATERIAL_ELECTRUM_PLATE:
+    name: '&x&D&B&C&E&A&9Electrum Alloy Plate'
+    lore:
+    - ''
+    - '&7A plate made out of Electrum used as'
+    - '&7a shell for basic storage components.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'
+  MATERIAL_RHENIUM_CHUNK:
+    name: '&x&D&B&C&E&A&9Rhenium Shard'
+    lore:
+    - ''
+    - '&7A very rare metal. Can be processed'
+    - '&7into Rhenium.'
+    - ''
+    - '&x&F&0&E&A&4&FBase Resource'
+  MATERIAL_SUPER_PLATE:
+    name: '&x&D&B&C&E&A&9Nickel-Superalloy Plate'
+    lore:
+    - ''
+    - '&7A plate made out of Nickel and Rhenium used'
+    - '&7as a shell for advanced storage components.'
+    - ''
+    - '&x&F&0&E&A&4&FCrafting Material'

@@ -1,0 +1,132 @@
+name: Wildernether
+translations:
+  PORK_BONE_SOUP:
+    name: '&x&F&C&F&C&1&6Pork Bone Soup'
+    lore:
+    - '&7'
+    - '&x&F&C&F&B&D&6Very filling!'
+    - '&x&F&C&F&B&D&6'
+    - '&7&oRestores &b&o8.5 &7&oHunger'
+  WARPED_STEW:
+    name: '&x&F&C&F&C&1&6Warped Stew'
+    lore:
+    - '&7'
+    - '&x&F&C&F&B&D&6The surface of the soup shines green.'
+    - '&x&F&C&F&B&D&6It should be safe to eat, right?'
+    - '&x&F&C&F&B&D&6'
+    - '&7&oRestores &b&o5.0 &7&oHunger'
+  HOGLIN_BOUILLON:
+    name: '&x&F&C&F&C&1&6Hoglin Bouillon'
+    lore:
+    - '&7'
+    - '&x&F&C&F&B&D&6A flavourful broth made by simmering'
+    - '&x&F&C&F&B&D&6hoglin meat'
+  HOGLIN_TROTTERS:
+    name: '&x&F&C&F&C&1&6Hoglin Trotters'
+    lore:
+    - '&7'
+    - '&x&F&C&F&B&D&6The foot of a hoglin'
+  GLOWING_BEANS:
+    name: '&x&F&C&F&C&1&6Glowing Beans'
+    lore:
+    - '&7'
+    - '&x&F&C&F&B&D&6It looks like cooking has brought out'
+    - '&x&F&C&F&B&D&6The luminescent elements in the spores'
+    - '&x&F&C&F&B&D&6'
+    - '&7&oRestores &b&o.5 &7&oHunger'
+  FRIED_WARPED_FUNGUS:
+    name: '&x&F&C&F&C&1&6Fried Warped Fungus'
+    lore:
+    - '&7'
+    - '&x&F&C&F&B&D&6Crunchy!'
+    - '&x&F&C&F&B&D&6'
+    - '&7&oRestores &b&o1.0 &7&oHunger'
+  HOGLIN_SPARE_RIB:
+    name: '&x&F&C&F&C&1&6Hoglin Spare Rib'
+    lore:
+    - '&7'
+    - '&x&F&C&F&B&D&6A thick cut of meat from the side'
+    - '&x&F&C&F&B&D&6of a hoglin'
+  BAKED_NETHER_TUBERS:
+    name: '&x&F&C&F&C&1&6Baked Nether Tubers'
+    lore:
+    - '&7'
+    - '&x&F&C&F&B&D&6It''s a baked potato.'
+    - '&x&F&C&F&B&D&6'
+    - '&7&oRestores &b&o3.0 &7&oHunger'
+  NETHER_HOTPOT:
+    name: '&x&F&C&F&C&1&6Nether Hotpot'
+    lore:
+    - '&7'
+    - '&x&F&C&F&B&D&6Piping hot!'
+    - '&x&F&C&F&B&D&6'
+    - '&7&oRestores &b&o6.0 &7&oHunger'
+  CACTUS_JUICE:
+    name: '&x&F&C&F&C&1&6Cactus Juice'
+    lore:
+    - '&7'
+    - '&x&F&C&F&B&D&6A regular water bottle that smells'
+    - '&x&F&C&F&B&D&6faintly of sulfur and cactus'
+  MUSHROOM_SLICES:
+    name: '&x&F&C&F&C&1&6Mushroom Slices'
+    lore:
+    - '&7'
+    - '&x&F&C&F&B&D&6An assortment of oddly coloured fungi'
+    - '&x&F&C&F&B&D&6'
+    - '&7&oRestores &b&o3.0 &7&oHunger'
+  SPICY_FRIED_LOTUS:
+    name: '&x&F&C&F&C&1&6Spicy Fried Lotus'
+    lore:
+    - '&7'
+    - '&x&F&C&F&B&D&6Sweet, savoury, &x&F&C&F&B&D&6&oand spicy!'
+    - '&x&F&C&F&B&D&6'
+    - '&7&oRestores &b&o3.5 &7&oHunger'
+  WARPED_SALAD:
+    name: '&x&F&C&F&C&1&6Warped Salad'
+    lore:
+    - '&7'
+    - '&x&F&C&F&B&D&6Salads are green, so its okay to eat'
+    - '&x&F&C&F&B&D&6'
+    - '&7&oRestores &b&o4.0 &7&oHunger'
+  BOILED_WARPED_CACTUS:
+    name: '&x&F&C&F&C&1&6Boiled Warped Cactus'
+    lore:
+    - '&7'
+    - '&x&F&C&F&B&D&6You can eat cactus?'
+    - '&x&F&C&F&B&D&6'
+    - '&7&oRestores &b&o1.0 &7&oHunger'
+  HOGLIN_BELLY:
+    name: '&x&F&C&F&C&1&6Hoglin Belly'
+    lore:
+    - '&7'
+    - '&x&F&C&F&B&D&6A fatty cut of meat from the underside'
+    - '&x&F&C&F&B&D&6of a hoglin'
+  NETHER_CHIPS:
+    name: '&x&F&C&F&C&1&6Nether Chips™'
+    lore:
+    - '&7'
+    - '&x&F&C&F&B&D&6You''ll get fat if you eat too much'
+    - '&x&F&C&F&B&D&6'
+    - '&7&oRestores &b&o1.5 &7&oHunger'
+  CRIMSON_STEW:
+    name: '&x&F&C&F&C&1&6Crimson Stew'
+    lore:
+    - '&7'
+    - '&x&F&C&F&B&D&6A thick clump of fungus floats on the top.'
+    - '&x&F&C&F&B&D&6It should be safe to eat, right?'
+    - '&x&F&C&F&B&D&6'
+    - '&7&oRestores &b&o5.0 &7&oHunger'
+  BOILED_NETHER_TUBERS:
+    name: '&x&F&C&F&C&1&6Boiled Nether Tubers'
+    lore:
+    - '&7'
+    - '&x&F&C&F&B&D&6It''s a boiled potato.'
+    - '&x&F&C&F&B&D&6'
+    - '&7&oRestores &b&o3.0 &7&oHunger'
+  FRIED_CRIMSON_FUNGUS:
+    name: '&x&F&C&F&C&1&6Fried Crimson Fungus'
+    lore:
+    - '&7'
+    - '&x&F&C&F&B&D&6Crunchy!'
+    - '&x&F&C&F&B&D&6'
+    - '&7&oRestores &b&o1.0 &7&oHunger'

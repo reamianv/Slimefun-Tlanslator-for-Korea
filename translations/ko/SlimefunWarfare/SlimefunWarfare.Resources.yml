@@ -1,0 +1,68 @@
+name: SlimefunWarfare
+translations:
+  BORON:
+    name: '&7Boron'
+  OSMIUM_DUST:
+    name: '&9Osmium Dust'
+    lore:
+    - ''
+    - '&7Highly toxic. Do not inhale!'
+  YTTERBIUM_INGOT:
+    name: '&eYtterbium Ingot'
+  SEGGANESSON:
+    name: '&bSegganesson'
+    lore:
+    - ''
+    - '&7A rare element that has the potential of powering'
+    - '&7entire cities'
+  ERBIUM_INGOT:
+    name: '&eErbium Ingot'
+  MONAZITE:
+    name: '&eMonazite'
+    lore:
+    - ''
+    - '&7The source of all the rare earths.'
+    - '&7Find it in igneous rock'
+  OSMIUM_METEOR:
+    name: '&9Osmium Meteor'
+    lore:
+    - ''
+    - '&7The source of the rare metal osmium'
+  NEODYMIUM_INGOT:
+    name: '&eNeodymium Ingot'
+  UNPATENTABLIUM:
+    name: '&bUnpatentablium'
+    lore:
+    - ''
+    - '&7For some reason, the'
+    - '&7Feds wouldn''t let you'
+    - '&7patent this powerful'
+    - '&7power source'
+  TERBIUM_INGOT:
+    name: '&eTerbium Ingot'
+  HOLMIUM_INGOT:
+    name: '&eHolmium Ingot'
+  GADOLINIUM_INGOT:
+    name: '&eGadolinium Ingot'
+  BORAX:
+    name: '&fBorax'
+    lore:
+    - ''
+    - '&7A common mineral dropped from stone'
+  SEGGANESSON_METEOR:
+    name: '&7Segganesson Meteor'
+    lore:
+    - ''
+    - '&7The source of the rare element segganesson'
+  OSMIUM_INGOT:
+    name: '&9Osmium Ingot'
+    lore:
+    - ''
+    - '&7A very strong metal found only in outer space'
+  DYSPROSIUM_INGOT:
+    name: '&eDysprosium Ingot'
+  LANTHANUM_INGOT:
+    name: '&eLanthanum Ingot'
+    lore:
+    - ''
+    - '&7Can be used as infinite flint and steel'

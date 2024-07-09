@@ -1,0 +1,33 @@
+name: ExoticGarden
+translations:
+  KITCHEN:
+    name: '&eKitchen'
+    lore:
+    - ''
+    - '&a&oYou can make a bunch of different yummies here!'
+    - '&a&oThe result goes in the Furnace output slot'
+  YEAST:
+    name: Yeast
+  BROWN_SUGAR:
+    name: Brown Sugar
+  VEGETABLE_OIL:
+    name: Vegetable Oil
+  MOLASSES:
+    name: '&8Molasses'
+  COUNTRY_GRAVY:
+    name: Country Gravy
+  ICE_CUBE:
+    name: '&bIce Cube'
+  MAYO:
+    name: Mayo
+  CROOK:
+    name: Crook
+    lore:
+    - ''
+    - '&7+ &b25% &7Sapling Drop Rate'
+  BBQ_SAUCE:
+    name: '&cBBQ Sauce'
+  CORNMEAL:
+    name: Cornmeal
+  MUSTARD:
+    name: '&eMustard'

@@ -1,0 +1,47 @@
+name: RelicsOfCthonia
+translations:
+  LEGENDARY_RELIC_VOIDER:
+    name: '&6Legendary Relic Voider'
+    lore:
+    - ''
+    - '&6Voids any legendary relics you pickup'
+    - '&6which are under the condition quota'
+    - ''
+    - '&dRight click to set a condition'
+    - '&dquota for the voider'
+  COMMON_RELIC_VOIDER:
+    name: '&aCommon Relic Voider'
+    lore:
+    - ''
+    - '&aVoids any common relics you pickup'
+    - '&awhich are under the condition quota'
+    - ''
+    - '&dRight click to set a condition'
+    - '&dquota for the voider'
+  RARE_RELIC_VOIDER:
+    name: '&9Rare Relic Voider'
+    lore:
+    - ''
+    - '&9Voids any rare relics you pickup'
+    - '&9which are under the condition quota'
+    - ''
+    - '&dRight click to set a condition'
+    - '&dquota for the voider'
+  UNCOMMON_RELIC_VOIDER:
+    name: '&7Uncommon Relic Voider'
+    lore:
+    - ''
+    - '&7Voids any uncommon relics you pickup'
+    - '&7which are under the condition quota'
+    - ''
+    - '&dRight click to set a condition'
+    - '&dquota for the voider'
+  EPIC_RELIC_VOIDER:
+    name: '&dEpic Relic Voider'
+    lore:
+    - ''
+    - '&dVoids any epic relics you pickup'
+    - '&dwhich are under the condition quota'
+    - ''
+    - '&dRight click to set a condition'
+    - '&dquota for the voider'

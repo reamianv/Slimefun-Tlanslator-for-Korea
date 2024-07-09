@@ -1,0 +1,227 @@
+name: HotbarPets
+translations:
+  HOTBAR_PET_SHULKER:
+    name: '&dShulker Pet'
+    lore:
+    - '&cMob (Hostile)'
+    - '&7Favourite Food: Chorus Fruit'
+    - ''
+    - '&fRight-Click: &7Shoots arrows tipped with levitation'
+  HOTBAR_PET_PATRIOT:
+    name: '&5Patriot Pet'
+    lore:
+    - '&9Special'
+    - '&7Favourite Food: Nether Wart'
+    - ''
+    - '&fGives Resistance, Regeneration, Strength, '
+    - '&fand Saturation'
+  HOTBAR_PET_PANDA:
+    name: '&8Panda &fPet'
+    lore:
+    - '&aAnimal (Peaceful)'
+    - '&7Favorite Food: Bamboo'
+    - ''
+    - '&fThis sleepy Panda protects you from Insomnia'
+    - '&fPhantoms will no longer chase you at night'
+  HOTBAR_PET_RABBIT:
+    name: '&eRabbit Pet'
+    lore:
+    - '&aAnimal (Peaceful)'
+    - '&7Favourite Food: Carrots'
+    - ''
+    - '&fRight-Click: &7Gives you 30 seconds of Luck'
+  HOTBAR_PET_CREEPER:
+    name: '&2Creeper Pet'
+    lore:
+    - '&cMob (Hostile)'
+    - '&7Favourite Food: Gunpowder'
+    - ''
+    - '&fImmune to Explosions'
+    - '&fRight-Click: &7Explode'
+  HOTBAR_PET_DOLPHIN:
+    name: '&bDolphin Pet'
+    lore:
+    - '&aAnimal (Peaceful)'
+    - '&7Favourite Food: Ink Sacks'
+    - ''
+    - '&fRight-Click: &7Dolphin''s Grace'
+  HOTBAR_PET_GOLDEN_COW:
+    name: '&6Golden Cow Pet'
+    lore:
+    - '&2Farm Animal (Peaceful)'
+    - '&7Favourite Food: Golden Carrots'
+    - ''
+    - '&fGives you Golden Ingots over time...'
+    - '&f(That means you have a net gain of 1 golden nugget)'
+  HOTBAR_PET_ZOMBIE:
+    name: '&2Zombie Pet'
+    lore:
+    - '&cMob (Hostile)'
+    - ''
+    - '&fAllows you to eat Rotten Flesh'
+    - '&fwithout getting Hunger'
+  HOTBAR_PET_SLIME:
+    name: '&aSlime Pet'
+    lore:
+    - '&eMob (Passive)'
+    - '&7Favourite Food: Glowstone Dust'
+    - ''
+    - '&fImmune to Fall Damage'
+  HOTBAR_PET_MOOSHROOM:
+    name: '&dMooshroom Pet'
+    lore:
+    - '&2Farm Animal (Peaceful)'
+    - '&7Favourite Food: Red Mushrooms'
+    - ''
+    - '&fGives you Mushroom Stew over time...'
+  HOTBAR_PET_CHICKEN:
+    name: '&fChicken Pet'
+    lore:
+    - '&2Farm Animal (Peaceful)'
+    - '&7Favourite Food: Seeds'
+    - ''
+    - '&fGives you Eggs over time...'
+  HOTBAR_PET_FISH:
+    name: '&3Fish Pet'
+    lore:
+    - '&aAnimal (Peaceful)'
+    - '&7Favourite Food: Seeds'
+    - ''
+    - '&fGives you Fish over time...'
+  HOTBAR_PET_MAGMA_CUBE:
+    name: '&4Magma Cube Pet'
+    lore:
+    - '&cMob (Hostile)'
+    - '&7Favourite Food: Nether Quartz'
+    - ''
+    - '&fImmune to Lava'
+    - '&fQuite hungry'
+  HOTBAR_PET_WALSHRUS:
+    name: '&bWalshrus Pet'
+    lore:
+    - '&9Special'
+    - '&7Favourite Food: Raw Cod'
+    - ''
+    - '&fCannot drown'
+  HOTBAR_PET_BLAZE:
+    name: '&6Blaze Pet'
+    lore:
+    - '&cMob (Hostile)'
+    - '&7Favourite Food: Nether Quartz'
+    - ''
+    - '&fImmune to Fire'
+  HOTBAR_PET_SQUID:
+    name: '&bSquid Pet'
+    lore:
+    - '&aAnimal (Peaceful)'
+    - '&7Favourite Food: Raw Cod'
+    - ''
+    - '&fRight-Click: &7Gives you Water Breathing'
+  HOTBAR_PET_GHAST:
+    name: '&fGhast Pet'
+    lore:
+    - '&cMob (Hostile)'
+    - '&7Favourite Food: Fire Charge'
+    - ''
+    - '&fRight-Click: &7Launches Fireballs'
+  HOTBAR_PET_BED:
+    name: '&fBed Pet'
+    lore:
+    - '&aUtility (Peaceful)'
+    - '&7Favourite Food: Wool'
+    - ''
+    - '&fRight-Click: &7Sleep'
+  HOTBAR_PET_PURPLICIOUS_COW:
+    name: '&5Purplicious Cow Pet'
+    lore:
+    - '&9Special'
+    - '&7Favourite Food: Golden Apples'
+    - ''
+    - '&fRight-Click: &7Gives you Health Regeneration'
+  HOTBAR_PET_DRAGON:
+    name: '&5Ender Dragon Pet'
+    lore:
+    - '&4Boss Mob (Hostile)'
+    - '&7Favourite Food: Eyes Of Ender'
+    - ''
+    - '&fRight-Click: &7Shoots Dragon Fireball & Gives Resistance'
+  HOTBAR_PET_ENDER_MAN:
+    name: '&8Enderman Pet'
+    lore:
+    - '&cMob (Hostile)'
+    - '&7Favourite Food: End Stone'
+    - ''
+    - '&fRight-Click: &7Shoots an Ender Pearl'
+  HOTBAR_PET_EYAMAZ:
+    name: '&4Eyamaz Pet'
+    lore:
+    - '&9Special'
+    - '&7Favourite Food: Souls'
+    - ''
+    - '&fBeware! Eyamaz makes a Soul Pie'
+    - '&fout of the Souls of everything you kill'
+  HOTBAR_PET_PHANTOM:
+    name: '&7Phantom Pet'
+    lore:
+    - '&cMob (Hostile)'
+    - '&7Favourite Food: Beetroot'
+    - ''
+    - '&fRight-Click: &7Gives Slow Falling'
+  HOTBAR_PET_ENDER_CHEST:
+    name: '&5Ender Chest Pet'
+    lore:
+    - '&aUtility (Peaceful)'
+    - '&7Favourite Food: Ender Pearls'
+    - ''
+    - '&fRight-Click: &7Open'
+  HOTBAR_PET_MRCOOKIESLIME:
+    name: '&amrCookieSlime Pet'
+    lore:
+    - '&9Special'
+    - '&7Favourite Food: Cookies'
+    - ''
+    - '&fImmune to Fall Damage'
+    - '&fRight-Click: &7Gives you Health Regeneration'
+  HOTBAR_PET_WITHER:
+    name: '&8Wither Pet'
+    lore:
+    - '&4Boss Mob (Hostile)'
+    - '&7Favourite Food: Soul Sand'
+    - ''
+    - '&fImmune to Wither Effect'
+  HOTBAR_PET_PIG:
+    name: '&dPig Pet'
+    lore:
+    - '&2Farm Animal (Peaceful)'
+    - '&7Favourite Food: Carrots'
+    - ''
+    - '&fBonus Saturation when eating'
+    - '&fAllows you to eat poisonous Food'
+  HOTBAR_PET_SPIDER:
+    name: '&8Spider Pet'
+    lore:
+    - '&cMob (Hostile)'
+    - '&7Favourite Food: Rotten Flesh'
+    - ''
+    - '&fRight-Click: &7Gives you Jump Boost'
+  HOTBAR_PET_IRON_GOLEM:
+    name: '&7Iron Golem Pet'
+    lore:
+    - '&eMob (Passive)'
+    - '&7Favourite Food: Iron Ingots'
+    - ''
+    - '&fRight-Click: &7Gives you Resistance'
+  HOTBAR_PET_WORKBENCH:
+    name: '&6Workbench Pet'
+    lore:
+    - '&aUtility (Peaceful)'
+    - '&7Favourite Food: Wooden Planks'
+    - ''
+    - '&fRight-Click: &7Open'
+  HOTBAR_PET_COW:
+    name: '&6Cow Pet'
+    lore:
+    - '&2Farm Animal (Peaceful)'
+    - '&7Favourite Food: Wheat'
+    - ''
+    - '&fRight-Click: &7Removes negative Potion Effects'

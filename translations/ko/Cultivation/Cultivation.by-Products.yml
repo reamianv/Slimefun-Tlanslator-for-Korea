@@ -1,0 +1,6226 @@
+name: Cultivation
+translations:
+  CLT_BLENDED_BROWN_MUSHROOM:
+    name: '&x&C&C&D&1&2&3Blended brown mushroom'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_LEMON:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Lemon'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_BROWN_MUSHROOM:
+    name: '&x&C&C&D&1&2&3Boiled brown mushroom'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_CHICKEN:
+    name: '&x&C&C&D&1&2&3Boiled chicken'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_RHUBARB:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Rhubarb'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_JUNIPER_BERRY:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Juniper Berries'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_MINT:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Mint'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_CHIVES:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Chives'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_PIE_CRUST:
+    name: '&x&C&C&D&1&2&3Pie Crust'
+    lore:
+    - ''
+    - '&7If it were legal to eat this own it''s own'
+    - '&7it''d be my main food source.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_GROUND_PARSLEY:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Parsley'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_KELP:
+    name: '&x&C&C&D&1&2&3Chopped kelp'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_GOLDEN_CARROT:
+    name: '&x&C&C&D&1&2&3Fried golden carrot'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_CUCUMBER:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Cucumber'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_HAZELNUT:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Hazelnut'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_RUNNER_BEANS:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Runner Beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_CHICKPEAS:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Chickpeas'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_CUMIN:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Cumin'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_MUTTON:
+    name: '&x&C&C&D&1&2&3Ground mutton'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_ORANGE:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Orange'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_ONION:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Onion'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_NETTLES:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Nettles'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_PEANUT_BUTTER:
+    name: '&x&C&C&D&1&2&3Peanut Butter'
+    lore:
+    - ''
+    - '&7Akin only to liquid gold.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_BLENDED_SHISO:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Shiso'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_TURNIP:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Turnip'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_CELERY:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Celery'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_GOLDEN_CARROT:
+    name: '&x&C&C&D&1&2&3Sliced golden carrot'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_GREEN_APPLE:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Green Apple'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_BELL_PEPPER:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Bell Pepper'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_KALE:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Kale'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_TURNIP:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Turnip'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_SHALLOT:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Shallot'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_KELP:
+    name: '&x&C&C&D&1&2&3Blended kelp'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_ROTTEN_FLESH:
+    name: '&x&C&C&D&1&2&3Boiled rotten flesh'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_MINT:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Mint'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_SWEET_BERRIES:
+    name: '&x&C&C&D&1&2&3Sliced sweet berries'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_ENCHANTED_GOLDEN_APPLE:
+    name: '&x&C&C&D&1&2&3Mashed enchanted golden apple'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_TURNIP:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Turnip'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_COCOA_BEANS:
+    name: '&x&C&C&D&1&2&3Grilled cocoa beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_BANANA:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Banana'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_PEANUT:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Peanut'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_RADICCHIO:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Radicchio'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_PEACH:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Peach'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_GINGER:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Ginger'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_BEETROOT:
+    name: '&x&C&C&D&1&2&3Mashed beetroot'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_LAVENDER:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Lavender'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_GREEN_ONION:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Green Onion'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_LIME:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Lime'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_BEEF:
+    name: '&x&C&C&D&1&2&3Chopped beef'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_SPINACH:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Spinach'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_PORKCHOP:
+    name: '&x&C&C&D&1&2&3Chopped porkchop'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_MANGO:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Mango'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_TURNIP:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Turnip'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_LEEK:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Leek'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_RHUBARB:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Rhubarb'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_WHEAT:
+    name: '&x&C&C&D&1&2&3Fried wheat'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_CELERIAC:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Celeriac'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_BELL_PEPPER:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Bell Pepper'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_PECAN:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Pecan'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_PUFFERFISH:
+    name: '&x&C&C&D&1&2&3Chopped pufferfish'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_RUTABAGA:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Rutabaga'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_TURNIP:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Turnip'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_GRAPE:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Grape'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_SWEET_BERRIES:
+    name: '&x&C&C&D&1&2&3Ground sweet berries'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_CAYENNE_PEPPER:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Cayenne Pepper'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_RAPESEED:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Rapeseed'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_COCOA_BEANS:
+    name: '&x&C&C&D&1&2&3Sliced cocoa beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_BEEF:
+    name: '&x&C&C&D&1&2&3Blended beef'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_SWEET_BERRIES:
+    name: '&x&C&C&D&1&2&3Fried sweet berries'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_BLACK_BEANS:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Black Beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_MUSTARD_SEEDS:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Mustard Seeds'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_CHIVES:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Chives'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_SPINACH:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Spinach'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_PINEAPPLE:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Pineapple'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_RADDISH:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Raddish'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_STRAWBERRY:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Strawberry'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_PARSNIP:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Parsnip'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_APPLE:
+    name: '&x&C&C&D&1&2&3Boiled apple'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_KAFFIR_LIME:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Kaffir Lime Leaf'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_HAZELNUT:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Hazelnut'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_BREAD:
+    name: '&x&C&C&D&1&2&3Fried bread'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_LICORICE:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Licorice'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_PEAR:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Pear'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_GREEN_ONION:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Green Onion'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_CAULIFLOWER:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Cauliflower'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_DILL:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Dill'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_WASABI:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Wasabi'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_LEMON:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Lemon'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_KIWI:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Kiwi'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_CHORUS_FRUIT:
+    name: '&x&C&C&D&1&2&3Ground chorus fruit'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_LICORICE:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Licorice'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_COOKED_BURGER_PATTY:
+    name: '&x&C&C&D&1&2&3Cooked Burger Patty'
+    lore:
+    - ''
+    - '&7Practically dripping'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_FRIED_GRAPE:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Grape'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_BAY_LEAF:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Bay Leaf'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_STAR_ANISE:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Star Anise'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_BASIL:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Basil'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_SASSAFRAS:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Sassafras'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_CHIVES:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Chives'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_GARLIC:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Garlic'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_SASSAFRAS:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Sassafras'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_RAPESEED:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Rapeseed'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_MARJORAM:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Marjoram'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_PINEAPPLE:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Pineapple'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_MACE:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Mace'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_DILL:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Dill'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_RICE:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Rice'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_CHICKEN:
+    name: '&x&C&C&D&1&2&3Fried chicken'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_OREGANO:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Oregano'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_CHICKPEAS:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Chickpeas'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_ROTTEN_FLESH:
+    name: '&x&C&C&D&1&2&3Fried rotten flesh'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_DILL:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Dill'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_MUTTON:
+    name: '&x&C&C&D&1&2&3Blended mutton'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_GLOW_BERRIES:
+    name: '&x&C&C&D&1&2&3Chopped glow berries'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_GOLDEN_CARROT:
+    name: '&x&C&C&D&1&2&3Ground golden carrot'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_PEA:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Peas'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_MUSTARD_SEEDS:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Mustard Seeds'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_MACE:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Mace'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_NETTLES:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Nettles'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_OREGANO:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Oregano'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_SPINACH:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Spinach'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_PINTO_BEANS:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Pinto Beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_RADICCHIO:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Radicchio'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_COD:
+    name: '&x&C&C&D&1&2&3Chopped cod'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_RADDISH:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Raddish'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_CABBAGE:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Cabbage'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_PORKCHOP:
+    name: '&x&C&C&D&1&2&3Grilled porkchop'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_EGG:
+    name: '&x&C&C&D&1&2&3Grilled egg'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_GINGER:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Ginger'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_CELERY:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Celery'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_BEETROOT:
+    name: '&x&C&C&D&1&2&3Ground beetroot'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_BEETROOT:
+    name: '&x&C&C&D&1&2&3Chopped beetroot'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_PUFFERFISH:
+    name: '&x&C&C&D&1&2&3Mashed pufferfish'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_CHILLY_PEPPER:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Chilly Pepper'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_MUTTON:
+    name: '&x&C&C&D&1&2&3Boiled mutton'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_KIWI:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Kiwi'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_POTATO:
+    name: '&x&C&C&D&1&2&3Mashed potato'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_PUFFERFISH:
+    name: '&x&C&C&D&1&2&3Blended pufferfish'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_KIWI:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Kiwi'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_SUGAR:
+    name: '&x&C&C&D&1&2&3Sliced sugar'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_WHEAT:
+    name: '&x&C&C&D&1&2&3Mashed wheat'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_SWEET_POTATO:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Sweet Potato'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_MELON:
+    name: '&x&C&C&D&1&2&3Blended melon'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_PEPPERONI:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Pepperoni'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_OKRA:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Okra'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_CHERRY:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Cherry'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_HAZELNUT:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Hazelnut'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_SWEET_POTATO:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Sweet Potato'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_LEMON:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Lemon'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_MUTTON:
+    name: '&x&C&C&D&1&2&3Grilled mutton'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_THYME:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Thyme'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_CABBAGE:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Cabbage'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_MARROW:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Marrow'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_RABBIT:
+    name: '&x&C&C&D&1&2&3Chopped rabbit'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_LICORICE:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Licorice'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_GREEN_APPLE:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Green Apple'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_POTATO:
+    name: '&x&C&C&D&1&2&3Boiled potato'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_SALMON:
+    name: '&x&C&C&D&1&2&3Grilled salmon'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_LETTUCE:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Lettuce'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_CHERRY:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Cherry'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_SUGAR:
+    name: '&x&C&C&D&1&2&3Blended sugar'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_COCOA_BEANS:
+    name: '&x&C&C&D&1&2&3Mashed cocoa beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_SOY_BEANS:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Soy Beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_CELERIAC:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Celeriac'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_APPLE:
+    name: '&x&C&C&D&1&2&3Ground apple'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_POTATO:
+    name: '&x&C&C&D&1&2&3Chopped potato'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_SASSAFRAS:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Sassafras'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_RADDISH:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Raddish'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_SHALLOT:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Shallot'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_CLOVE:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Clove'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_CILANTRO:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Cilantro'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_GINGER:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Ginger'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_HORSERADISH:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Horseradish'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_STAR_ANISE:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Star Anise'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_GOLDEN_CARROT:
+    name: '&x&C&C&D&1&2&3Blended golden carrot'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_PUMPKIN:
+    name: '&x&C&C&D&1&2&3Blended pumpkin'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_POTATO:
+    name: '&x&C&C&D&1&2&3Fried potato'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_BROWN_MUSHROOM:
+    name: '&x&C&C&D&1&2&3Grilled brown mushroom'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_JALAPENO:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Jalapeno'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_WHEAT:
+    name: '&x&C&C&D&1&2&3Boiled wheat'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_RADICCHIO:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Radicchio'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_TARRAGON:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Tarragon'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_HAZELNUT:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Hazelnut'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_CHERRY:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Cherry'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_NETTLES:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Nettles'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_GREEN_APPLE:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Green Apple'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_APPLE:
+    name: '&x&C&C&D&1&2&3Sliced apple'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_MANGO:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Mango'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_CHORUS_FRUIT:
+    name: '&x&C&C&D&1&2&3Sliced chorus fruit'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_BROWN_MUSHROOM:
+    name: '&x&C&C&D&1&2&3Sliced brown mushroom'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_MELON:
+    name: '&x&C&C&D&1&2&3Chopped melon'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_RADICCHIO:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Radicchio'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_PEACH:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Peach'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_BEETROOT:
+    name: '&x&C&C&D&1&2&3Grilled beetroot'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_STRAWBERRY:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Strawberry'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_SASSAFRAS:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Sassafras'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_BASIL:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Basil'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_PINTO_BEANS:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Pinto Beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_TURMERIC:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Turmeric'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_MARJORAM:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Marjoram'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_LEMON:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Lemon'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_KETCHUP:
+    name: '&x&C&C&D&1&2&3Ketchup'
+    lore:
+    - ''
+    - '&7Just tomatoes in a creamy form.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_BOILED_BEETROOT:
+    name: '&x&C&C&D&1&2&3Boiled beetroot'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_ROSEMARY:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Rosemary'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_CARROT:
+    name: '&x&C&C&D&1&2&3Sliced carrot'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_CUCUMBER:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Cucumber'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_LIME:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Lime'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_GOLDEN_APPLE:
+    name: '&x&C&C&D&1&2&3Chopped golden apple'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_CLOVE:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Clove'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_PEA:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Peas'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_RUTABAGA:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Rutabaga'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_LEEK:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Leek'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_LICORICE:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Licorice'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_ENCHANTED_GOLDEN_APPLE:
+    name: '&x&C&C&D&1&2&3Fried enchanted golden apple'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_PARSLEY:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Parsley'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_SHISO:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Shiso'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_WASABI:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Wasabi'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_PUFFERFISH:
+    name: '&x&C&C&D&1&2&3Grilled pufferfish'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_AUBERGINE:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Aubergine'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_CELERY:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Celery'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_CHICKEN:
+    name: '&x&C&C&D&1&2&3Grilled chicken'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_PEACH:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Peach'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_BROCCOLI:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Broccoli'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_RUNNER_BEANS:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Runner Beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_CHILLY_PEPPER:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Chilly Pepper'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_SHALLOT:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Shallot'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_PARSNIP:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Parsnip'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_BAY_LEAF:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Bay Leaf'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_RED_MUSHROOM:
+    name: '&x&C&C&D&1&2&3Blended red mushroom'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_APRICOT:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Apricot'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_GOLDEN_APPLE:
+    name: '&x&C&C&D&1&2&3Mashed golden apple'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_MARJORAM:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Marjoram'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_ENCHANTED_GOLDEN_APPLE:
+    name: '&x&C&C&D&1&2&3Ground enchanted golden apple'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_CABBAGE:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Cabbage'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_TOMATO:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Tomato'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_GREEN_BEANS:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Green Beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_ROTTEN_FLESH:
+    name: '&x&C&C&D&1&2&3Ground rotten flesh'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_BREAD:
+    name: '&x&C&C&D&1&2&3Grilled bread'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_CAULIFLOWER:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Cauliflower'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_RED_MUSHROOM:
+    name: '&x&C&C&D&1&2&3Grilled red mushroom'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_GARLIC:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Garlic'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_WHEAT:
+    name: '&x&C&C&D&1&2&3Ground wheat'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_CHICKPEAS:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Chickpeas'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_CHICKPEAS:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Chickpeas'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_PEAR:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Pear'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_LIME:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Lime'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_GARLIC:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Garlic'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_EGG:
+    name: '&x&C&C&D&1&2&3Ground egg'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_LEEK:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Leek'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_MELON:
+    name: '&x&C&C&D&1&2&3Sliced melon'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_RICE:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Rice'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_CAULIFLOWER:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Cauliflower'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_SHISO:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Shiso'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_PORKCHOP:
+    name: '&x&C&C&D&1&2&3Mashed porkchop'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_POTATO:
+    name: '&x&C&C&D&1&2&3Ground potato'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_BAY_LEAF:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Bay Leaf'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_SPINACH:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Spinach'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_PINTO_BEANS:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Pinto Beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_RADDISH:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Raddish'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_NETTLES:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Nettles'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_AVOCADO:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Avocado'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_GREEN_ONION:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Green Onion'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_CHORUS_FRUIT:
+    name: '&x&C&C&D&1&2&3Grilled chorus fruit'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_RADICCHIO:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Radicchio'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_BLACK_BEANS:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Black Beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_CUMIN:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Cumin'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_SHALLOT:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Shallot'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_STRAWBERRY:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Strawberry'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_ONION:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Onion'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_RAPESEED:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Rapeseed'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_MUTTON:
+    name: '&x&C&C&D&1&2&3Mashed mutton'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_CHICKPEAS:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Chickpeas'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_CHIVES:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Chives'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_CHICORY:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Chicory'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_CURRY_LEAF:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Curry Leaf'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_RAPESEED:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Rapeseed'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_GINGER:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Ginger'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_PECAN:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Pecan'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_CAYENNE_PEPPER:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Cayenne Pepper'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_LAVENDER:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Lavender'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_SWEET_POTATO:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Sweet Potato'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_TURNIP:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Turnip'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_CHESTNUT:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Chestnut'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_GARLIC:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Garlic'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_PARSNIP:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Parsnip'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_RABBIT:
+    name: '&x&C&C&D&1&2&3Mashed rabbit'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_PARSLEY:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Parsley'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_APPLE:
+    name: '&x&C&C&D&1&2&3Fried apple'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_SWEETCORN:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Sweetcorn'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_BLACK_BEANS:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Black Beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_BEETROOT:
+    name: '&x&C&C&D&1&2&3Fried beetroot'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_JALAPENO:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Jalapeno'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_TOMATO:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Tomato'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_ENCHANTED_GOLDEN_APPLE:
+    name: '&x&C&C&D&1&2&3Blended enchanted golden apple'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_MARROW:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Marrow'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_PEACH:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Peach'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_VANILLA:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Vanilla'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_BLACK_BEANS:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Black Beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_CUMIN:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Cumin'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_SUGAR:
+    name: '&x&C&C&D&1&2&3Ground sugar'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_BASIL:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Basil'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_CHIVES:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Chives'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_COCOA_BEANS:
+    name: '&x&C&C&D&1&2&3Fried cocoa beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_ASPARAGUS:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Asparagus'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_WHEAT:
+    name: '&x&C&C&D&1&2&3Grilled wheat'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_TURMERIC:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Turmeric'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MEATBALLS:
+    name: '&x&C&C&D&1&2&3Meatballs'
+    lore:
+    - ''
+    - '&7Balls of meat, who''d-a-thunk it.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_BLENDED_OREGANO:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Oregano'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_SHISO:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Shiso'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_CILANTRO:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Cilantro'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_STRAWBERRY:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Strawberry'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_LEMON:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Lemon'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_CINNAMON:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Cinnamon'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_APRICOT:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Apricot'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_JALAPENO:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Jalapeno'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_EGG:
+    name: '&x&C&C&D&1&2&3Blended egg'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_RABBIT:
+    name: '&x&C&C&D&1&2&3Boiled rabbit'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_HORSERADISH:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Horseradish'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_ASPARAGUS:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Asparagus'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_GRAPE:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Grape'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_MARJORAM:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Marjoram'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_PEPPERONI:
+    name: '&x&C&C&D&1&2&3Pepperoni'
+    lore:
+    - ''
+    - '&7I could eat an entire log of this, easy.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_CHOPPED_PECAN:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Pecan'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_BELL_PEPPER:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Bell Pepper'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_GLOW_BERRIES:
+    name: '&x&C&C&D&1&2&3Ground glow berries'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_MARROW:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Marrow'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_LETTUCE:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Lettuce'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_LAVENDER:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Lavender'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_CHORUS_FRUIT:
+    name: '&x&C&C&D&1&2&3Chopped chorus fruit'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_PEPPERONI:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Pepperoni'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_ONION:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Onion'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MAYONNAISE:
+    name: '&x&C&C&D&1&2&3Mayonnaise'
+    lore:
+    - ''
+    - '&7A silky smooth mayo that can go with nearly anything.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_GRILLED_PEAR:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Pear'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_PINEAPPLE:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Pineapple'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_JUNIPER_BERRY:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Juniper Berries'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_EGG:
+    name: '&x&C&C&D&1&2&3Boiled egg'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_SPINACH:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Spinach'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_RHUBARB:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Rhubarb'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_KAFFIR_LIME:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Kaffir Lime Leaf'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_RICE:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Rice'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_GINGER:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Ginger'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_SHALLOT:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Shallot'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_MARROW:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Marrow'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_PEPPERONI:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Pepperoni'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_PICO_DE_GALLO:
+    name: '&x&C&C&D&1&2&3Pico de Gallo'
+    lore:
+    - ''
+    - '&7A mild salsa full of pure delicious.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_GROUND_STRAWBERRY:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Strawberry'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_EGG_SALAD:
+    name: '&x&C&C&D&1&2&3Egg Salad'
+    lore:
+    - ''
+    - '&7Open this on a train, I dare you!'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_GRILLED_BROCCOLI:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Broccoli'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_AUBERGINE:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Aubergine'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_ORANGE:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Orange'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_GREEN_ONION:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Green Onion'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_GINGER:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Ginger'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_CHILLY_PEPPER:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Chilly Pepper'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_SOY_BEANS:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Soy Beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_CHORUS_FRUIT:
+    name: '&x&C&C&D&1&2&3Blended chorus fruit'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_CUCUMBER:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Cucumber'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_RHUBARB:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Rhubarb'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_PEANUT:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Peanut'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_GLOW_BERRIES:
+    name: '&x&C&C&D&1&2&3Mashed glow berries'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_LIME:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Lime'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_GARLIC:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Garlic'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_PARSLEY:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Parsley'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_CLOVE:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Clove'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_LEEK:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Leek'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_GRAPE:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Grape'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_MANGO:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Mango'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_BAY_LEAF:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Bay Leaf'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_EGG:
+    name: '&x&C&C&D&1&2&3Sliced egg'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_CHESTNUT:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Chestnut'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_LAVENDER:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Lavender'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_PARSNIP:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Parsnip'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_TOMATO:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Tomato'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_CABBAGE:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Cabbage'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_WASABI:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Wasabi'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_KALE:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Kale'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_CABBAGE:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Cabbage'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_CURRY_LEAF:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Curry Leaf'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_TARRAGON:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Tarragon'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_AVOCADO:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Avocado'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_RICE:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Rice'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_GREEN_BEANS:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Green Beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_RADDISH:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Raddish'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_SWEET_POTATO:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Sweet Potato'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_CHERRY:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Cherry'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_TOMATO:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Tomato'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_JUNIPER_BERRY:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Juniper Berries'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_SHISO:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Shiso'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_BROCCOLI:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Broccoli'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_WASABI:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Wasabi'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_WHEAT:
+    name: '&x&C&C&D&1&2&3Sliced wheat'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_RHUBARB:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Rhubarb'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_VANILLA:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Vanilla'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_PUMPKIN:
+    name: '&x&C&C&D&1&2&3Sliced pumpkin'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_SOY_BEANS:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Soy Beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_SWEET_BERRIES:
+    name: '&x&C&C&D&1&2&3Blended sweet berries'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_CAYENNE_PEPPER:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Cayenne Pepper'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_FENNEL:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Fennel'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_GOLDEN_CARROT:
+    name: '&x&C&C&D&1&2&3Grilled golden carrot'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_KAFFIR_LIME:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Kaffir Lime Leaf'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_TARRAGON:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Tarragon'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_CHICKPEAS:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Chickpeas'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_PORKCHOP:
+    name: '&x&C&C&D&1&2&3Fried porkchop'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_BANANA:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Banana'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_PEAR:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Pear'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_KALE:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Kale'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_THYME:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Thyme'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_CAYENNE_PEPPER:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Cayenne Pepper'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_COD:
+    name: '&x&C&C&D&1&2&3Ground cod'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_CARROT:
+    name: '&x&C&C&D&1&2&3Mashed carrot'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_OKRA:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Okra'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_KAFFIR_LIME:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Kaffir Lime Leaf'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_GARLIC:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Garlic'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_AUBERGINE:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Aubergine'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_CURRY_LEAF:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Curry Leaf'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_SPINACH:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Spinach'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_SALMON:
+    name: '&x&C&C&D&1&2&3Boiled salmon'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_GLOW_BERRIES:
+    name: '&x&C&C&D&1&2&3Sliced glow berries'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_GREEN_APPLE:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Green Apple'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_ARTICHOKE:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Artichoke'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_CHICKEN:
+    name: '&x&C&C&D&1&2&3Sliced chicken'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_SWEET_BERRIES:
+    name: '&x&C&C&D&1&2&3Chopped sweet berries'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_AVOCADO:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Avocado'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_VANILLA:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Vanilla'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_CABBAGE:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Cabbage'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_CHICORY:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Chicory'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_AUBERGINE:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Aubergine'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_COD:
+    name: '&x&C&C&D&1&2&3Blended cod'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_CUMIN:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Cumin'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_PARSNIP:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Parsnip'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_GLOW_BERRIES:
+    name: '&x&C&C&D&1&2&3Boiled glow berries'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_PARSLEY:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Parsley'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_BEETROOT:
+    name: '&x&C&C&D&1&2&3Blended beetroot'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_GREEN_APPLE:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Green Apple'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_BASIL:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Basil'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_SWEET_POTATO:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Sweet Potato'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_JASMINE:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Jasmine'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_PORKCHOP:
+    name: '&x&C&C&D&1&2&3Ground porkchop'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_JALAPENO:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Jalapeno'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_THYME:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Thyme'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_CARROT:
+    name: '&x&C&C&D&1&2&3Fried carrot'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_ROSEMARY:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Rosemary'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_PEANUT:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Peanut'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_CILANTRO:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Cilantro'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_PEA:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Peas'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_PEA:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Peas'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_CLOVE:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Clove'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_LEMON:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Lemon'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_OKRA:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Okra'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_BANANA:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Banana'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_SUGAR:
+    name: '&x&C&C&D&1&2&3Boiled sugar'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_OREGANO:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Oregano'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_BAY_LEAF:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Bay Leaf'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_SOY_BEANS:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Soy Beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_CHORUS_FRUIT:
+    name: '&x&C&C&D&1&2&3Boiled chorus fruit'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_PEPPER:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Black Pepper'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_TARRAGON:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Tarragon'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_CINNAMON:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Cinnamon'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_MACE:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Mace'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_RUNNER_BEANS:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Runner Beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_RHUBARB:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Rhubarb'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_PARSNIP:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Parsnip'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BISCUIT_BASE:
+    name: '&x&C&C&D&1&2&3Biscuit Base'
+    lore:
+    - ''
+    - '&7Just ''cause it''s flat now doesnt mean'
+    - '&7you can eat it raw.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_SLICED_STAR_ANISE:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Star Anise'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_CHILLY_PEPPER:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Chilly Pepper'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_SALMON:
+    name: '&x&C&C&D&1&2&3Mashed salmon'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_MELON:
+    name: '&x&C&C&D&1&2&3Boiled melon'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_PEPPER:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Black Pepper'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_CHICKEN:
+    name: '&x&C&C&D&1&2&3Chopped chicken'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_ONION:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Onion'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_PARSLEY:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Parsley'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_LICORICE:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Licorice'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_BROCCOLI:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Broccoli'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_CELERY:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Celery'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_MARJORAM:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Marjoram'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_CHORUS_FRUIT:
+    name: '&x&C&C&D&1&2&3Mashed chorus fruit'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_LETTUCE:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Lettuce'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_PECAN:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Pecan'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_SWEET_POTATO:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Sweet Potato'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_KIWI:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Kiwi'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_LIME:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Lime'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_CHESTNUT:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Chestnut'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_CHICORY:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Chicory'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_GOLDEN_CARROT:
+    name: '&x&C&C&D&1&2&3Boiled golden carrot'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_STAR_ANISE:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Star Anise'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_PEA:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Peas'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_SOY_BEANS:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Soy Beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_ROTTEN_FLESH:
+    name: '&x&C&C&D&1&2&3Sliced rotten flesh'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_RED_MUSHROOM:
+    name: '&x&C&C&D&1&2&3Fried red mushroom'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_BROWN_MUSHROOM:
+    name: '&x&C&C&D&1&2&3Mashed brown mushroom'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_CELERIAC:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Celeriac'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_ROTTEN_FLESH:
+    name: '&x&C&C&D&1&2&3Blended rotten flesh'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_ARTICHOKE:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Artichoke'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_DILL:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Dill'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_CHICORY:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Chicory'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_PORKCHOP:
+    name: '&x&C&C&D&1&2&3Boiled porkchop'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_PEPPERONI:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Pepperoni'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_CHICKPEAS:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Chickpeas'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_BAY_LEAF:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Bay Leaf'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_COD:
+    name: '&x&C&C&D&1&2&3Boiled cod'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_CELERY:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Celery'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_LIME:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Lime'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_ROSEMARY:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Rosemary'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_SWEETCORN:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Sweetcorn'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_TURMERIC:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Turmeric'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_RAPESEED:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Rapeseed'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_CHIVES:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Chives'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_KELP:
+    name: '&x&C&C&D&1&2&3Fried kelp'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_CARROT:
+    name: '&x&C&C&D&1&2&3Boiled carrot'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_CAYENNE_PEPPER:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Cayenne Pepper'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_PINTO_BEANS:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Pinto Beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_BREAD:
+    name: '&x&C&C&D&1&2&3Mashed bread'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_MANGO:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Mango'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_LEEK:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Leek'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_RUNNER_BEANS:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Runner Beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_PEPPERONI:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Pepperoni'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_MINT:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Mint'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_AUBERGINE:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Aubergine'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_RABBIT:
+    name: '&x&C&C&D&1&2&3Fried rabbit'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_CILANTRO:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Cilantro'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_SALMON:
+    name: '&x&C&C&D&1&2&3Fried salmon'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_PINTO_BEANS:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Pinto Beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_GOLDEN_APPLE:
+    name: '&x&C&C&D&1&2&3Grilled golden apple'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_BRUSSELS_SPROUTS:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Brussels Sprouts'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_CAULIFLOWER:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Cauliflower'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MUSTARD:
+    name: '&x&C&C&D&1&2&3Mustard'
+    lore:
+    - ''
+    - '&7Has a little kick to it!'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_GROUND_FENNEL:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Fennel'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_AVOCADO:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Avocado'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_CHICKPEAS:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Chickpeas'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_LEEK:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Leek'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_CINNAMON:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Cinnamon'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_CAULIFLOWER:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Cauliflower'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_PUFFERFISH:
+    name: '&x&C&C&D&1&2&3Fried pufferfish'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_NETTLES:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Nettles'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_BREAD:
+    name: '&x&C&C&D&1&2&3Chopped bread'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_COURGETTE:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Courgette'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_OREGANO:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Oregano'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_SHISO:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Shiso'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_TOMATO:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Tomato'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_KAFFIR_LIME:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Kaffir Lime Leaf'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_COD:
+    name: '&x&C&C&D&1&2&3Sliced cod'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_STRAWBERRY:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Strawberry'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_ASPARAGUS:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Asparagus'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_ASPARAGUS:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Asparagus'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_BRUSSELS_SPROUTS:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Brussels Sprouts'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_GOLDEN_APPLE:
+    name: '&x&C&C&D&1&2&3Boiled golden apple'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_FENNEL:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Fennel'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_PUFFERFISH:
+    name: '&x&C&C&D&1&2&3Ground pufferfish'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_KAFFIR_LIME:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Kaffir Lime Leaf'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_BRUSSELS_SPROUTS:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Brussels Sprouts'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_PUMPKIN:
+    name: '&x&C&C&D&1&2&3Chopped pumpkin'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_TOMATO:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Tomato'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_BEEF:
+    name: '&x&C&C&D&1&2&3Fried beef'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_GINGER:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Ginger'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_RAPESEED:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Rapeseed'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_RED_MUSHROOM:
+    name: '&x&C&C&D&1&2&3Sliced red mushroom'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_LICORICE:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Licorice'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_KALE:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Kale'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_APRICOT:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Apricot'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_RUNNER_BEANS:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Runner Beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_PEANUT:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Peanut'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_RUNNER_BEANS:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Runner Beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_CINNAMON:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Cinnamon'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_KALE:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Kale'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_FENNEL:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Fennel'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_SHALLOT:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Shallot'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_RUNNER_BEANS:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Runner Beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_ARTICHOKE:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Artichoke'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_ONION:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Onion'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CREAM_CHEESE:
+    name: '&x&C&C&D&1&2&3Cream Cheese'
+    lore:
+    - ''
+    - '&7More creamy than cheesy.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_BLENDED_GRAPE:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Grape'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_BELL_PEPPER:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Bell Pepper'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_ASPARAGUS:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Asparagus'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_COCOA_BEANS:
+    name: '&x&C&C&D&1&2&3Ground cocoa beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_MUSTARD_SEEDS:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Mustard Seeds'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_CUCUMBER:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Cucumber'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_MANGO:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Mango'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_MELON:
+    name: '&x&C&C&D&1&2&3Ground melon'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_ORANGE:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Orange'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_JASMINE:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Jasmine'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_GREEN_BEANS:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Green Beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_HAZELNUT:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Hazelnut'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_COURGETTE:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Courgette'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_ORANGE:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Orange'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_GRAPE:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Grape'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_CLOVE:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Clove'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_ROTTEN_FLESH:
+    name: '&x&C&C&D&1&2&3Mashed rotten flesh'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_PECAN:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Pecan'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_PORKCHOP:
+    name: '&x&C&C&D&1&2&3Sliced porkchop'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_SWEETCORN:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Sweetcorn'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_PEANUT:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Peanut'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_ONION:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Onion'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_BLACK_BEANS:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Black Beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_PUFFERFISH:
+    name: '&x&C&C&D&1&2&3Sliced pufferfish'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_SHISO:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Shiso'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_PEPPER:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Black Pepper'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_APPLE:
+    name: '&x&C&C&D&1&2&3Grilled apple'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_PUMPKIN:
+    name: '&x&C&C&D&1&2&3Boiled pumpkin'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_STRAWBERRY_JELLY:
+    name: '&x&C&C&D&1&2&3Strawberry Jelly'
+    lore:
+    - ''
+    - '&7Eating it with a spoon is a criminal offence.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_CHOPPED_LEMON:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Lemon'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_SOY_BEANS:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Soy Beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_VANILLA:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Vanilla'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_MANGO:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Mango'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_RUTABAGA:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Rutabaga'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_PARSLEY:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Parsley'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_PINTO_BEANS:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Pinto Beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_RICE:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Rice'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_RICE:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Rice'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_PINTO_BEANS:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Pinto Beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_RUTABAGA:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Rutabaga'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_PEPPER:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Black Pepper'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_JASMINE:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Jasmine'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_PARSNIP:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Parsnip'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_MACE:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Mace'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_MUSTARD_SEEDS:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Mustard Seeds'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_ASPARAGUS:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Asparagus'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_ENCHANTED_GOLDEN_APPLE:
+    name: '&x&C&C&D&1&2&3Boiled enchanted golden apple'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_ROSEMARY:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Rosemary'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_GOLDEN_APPLE:
+    name: '&x&C&C&D&1&2&3Blended golden apple'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_PEAR:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Pear'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_GLOW_BERRIES:
+    name: '&x&C&C&D&1&2&3Blended glow berries'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_RUTABAGA:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Rutabaga'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_PEPPER:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Black Pepper'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_PORKCHOP:
+    name: '&x&C&C&D&1&2&3Blended porkchop'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_ARTICHOKE:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Artichoke'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_GLOW_BERRIES:
+    name: '&x&C&C&D&1&2&3Grilled glow berries'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_DILL:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Dill'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_ASPARAGUS:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Asparagus'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_RICE:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Rice'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_STAR_ANISE:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Star Anise'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_MELON:
+    name: '&x&C&C&D&1&2&3Fried melon'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_CAULIFLOWER:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Cauliflower'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_HAZELNUT:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Hazelnut'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_BEETROOT:
+    name: '&x&C&C&D&1&2&3Sliced beetroot'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_TARRAGON:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Tarragon'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_POTATO:
+    name: '&x&C&C&D&1&2&3Sliced potato'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_GLOW_BERRIES:
+    name: '&x&C&C&D&1&2&3Fried glow berries'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_GOLDEN_APPLE:
+    name: '&x&C&C&D&1&2&3Ground golden apple'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_CURRY_LEAF:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Curry Leaf'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_AUBERGINE:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Aubergine'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_BREAD:
+    name: '&x&C&C&D&1&2&3Blended bread'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_CUCUMBER:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Cucumber'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_COURGETTE:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Courgette'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_RUNNER_BEANS:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Runner Beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_ASPARAGUS:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Asparagus'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_CELERIAC:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Celeriac'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_BANANA:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Banana'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_PEAR:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Pear'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_ENCHANTED_GOLDEN_APPLE:
+    name: '&x&C&C&D&1&2&3Chopped enchanted golden apple'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_THYME:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Thyme'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_CUCUMBER:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Cucumber'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_CARROT:
+    name: '&x&C&C&D&1&2&3Chopped carrot'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_MARJORAM:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Marjoram'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_PASTA:
+    name: '&x&C&C&D&1&2&3Pasta'
+    lore:
+    - ''
+    - '&7Just plain pasta, simple yet wonderful.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_BOILED_SWEETCORN:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Sweetcorn'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_PUFFERFISH:
+    name: '&x&C&C&D&1&2&3Boiled pufferfish'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_CHIVES:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Chives'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_BROWN_MUSHROOM:
+    name: '&x&C&C&D&1&2&3Fried brown mushroom'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_PEAR:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Pear'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_CELERY:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Celery'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_GREEN_BEANS:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Green Beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_VANILLA:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Vanilla'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_SASSAFRAS:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Sassafras'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_PUMPKIN:
+    name: '&x&C&C&D&1&2&3Fried pumpkin'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_CUCUMBER:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Cucumber'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_COCOA_BEANS:
+    name: '&x&C&C&D&1&2&3Chopped cocoa beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_SUGAR:
+    name: '&x&C&C&D&1&2&3Mashed sugar'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_OKRA:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Okra'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_LETTUCE:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Lettuce'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_SALMON:
+    name: '&x&C&C&D&1&2&3Chopped salmon'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_PEACH:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Peach'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_BASIL:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Basil'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_GREEN_ONION:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Green Onion'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_GREEN_APPLE:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Green Apple'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_BLACK_BEANS:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Black Beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_LETTUCE:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Lettuce'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_COURGETTE:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Courgette'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_CURRY_LEAF:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Curry Leaf'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_JUNIPER_BERRY:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Juniper Berries'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_MELON:
+    name: '&x&C&C&D&1&2&3Mashed melon'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_CARROT:
+    name: '&x&C&C&D&1&2&3Blended carrot'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_MARJORAM:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Marjoram'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_PEACH:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Peach'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_JUNIPER_BERRY:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Juniper Berries'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_ARTICHOKE:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Artichoke'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_CUMIN:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Cumin'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_DOUGH:
+    name: '&x&C&C&D&1&2&3Dough'
+    lore:
+    - ''
+    - '&7Just plain ol'' dough!'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_FRIED_PEPPERONI:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Pepperoni'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_PUMPKIN:
+    name: '&x&C&C&D&1&2&3Grilled pumpkin'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_SHALLOT:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Shallot'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_JASMINE:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Jasmine'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_ROTTEN_FLESH:
+    name: '&x&C&C&D&1&2&3Chopped rotten flesh'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_STAR_ANISE:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Star Anise'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_PEA:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Peas'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_MINT:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Mint'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_PEACH:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Peach'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_KAFFIR_LIME:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Kaffir Lime Leaf'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_JUNIPER_BERRY:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Juniper Berries'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_BEEF:
+    name: '&x&C&C&D&1&2&3Grilled beef'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_AVOCADO:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Avocado'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_SPINACH:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Spinach'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_BAY_LEAF:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Bay Leaf'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_KELP:
+    name: '&x&C&C&D&1&2&3Boiled kelp'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_CLOVE:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Clove'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_MINT:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Mint'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_KELP:
+    name: '&x&C&C&D&1&2&3Sliced kelp'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRAPE_JELLY:
+    name: '&x&C&C&D&1&2&3Grape Jelly'
+    lore:
+    - ''
+    - '&7Eating it with a spoon is a criminal offence.'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_BLENDED_RAPESEED:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Rapeseed'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_SASSAFRAS:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Sassafras'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_KIWI:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Kiwi'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_PEPPER:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Black Pepper'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_LAVENDER:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Lavender'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_SUGAR:
+    name: '&x&C&C&D&1&2&3Fried sugar'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_NETTLES:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Nettles'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_HORSERADISH:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Horseradish'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_PEPPER:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Black Pepper'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_BASIL:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Basil'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_HORSERADISH:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Horseradish'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_BRUSSELS_SPROUTS:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Brussels Sprouts'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_SOY_BEANS:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Soy Beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_SWEET_BERRIES:
+    name: '&x&C&C&D&1&2&3Mashed sweet berries'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_BROCCOLI:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Broccoli'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_THYME:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Thyme'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_CURRY_LEAF:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Curry Leaf'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_AVOCADO:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Avocado'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_TURMERIC:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Turmeric'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_SOY_BEANS:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Soy Beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_BROWN_MUSHROOM:
+    name: '&x&C&C&D&1&2&3Ground brown mushroom'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_JUNIPER_BERRY:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Juniper Berries'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_BANANA:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Banana'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_ORANGE:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Orange'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_RUTABAGA:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Rutabaga'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_KIWI:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Kiwi'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_BELL_PEPPER:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Bell Pepper'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_LIME:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Lime'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_WASABI:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Wasabi'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_PEANUT:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Peanut'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_JASMINE:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Jasmine'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_VANILLA:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Vanilla'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_LEEK:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Leek'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_GREEN_ONION:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Green Onion'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_ARTICHOKE:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Artichoke'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_MUTTON:
+    name: '&x&C&C&D&1&2&3Fried mutton'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_CHICKEN:
+    name: '&x&C&C&D&1&2&3Blended chicken'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_APPLE:
+    name: '&x&C&C&D&1&2&3Chopped apple'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_DILL:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Dill'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_TURMERIC:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Turmeric'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_CINNAMON:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Cinnamon'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_MARROW:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Marrow'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_TARRAGON:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Tarragon'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_ARTICHOKE:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Artichoke'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_CARROT:
+    name: '&x&C&C&D&1&2&3Grilled carrot'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_SWEETCORN:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Sweetcorn'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_ARTICHOKE:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Artichoke'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_CHILLY_PEPPER:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Chilly Pepper'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_ENCHANTED_GOLDEN_APPLE:
+    name: '&x&C&C&D&1&2&3Sliced enchanted golden apple'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_LEEK:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Leek'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_JASMINE:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Jasmine'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_CAYENNE_PEPPER:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Cayenne Pepper'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_LIME:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Lime'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_COD:
+    name: '&x&C&C&D&1&2&3Fried cod'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_ORANGE:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Orange'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_RABBIT:
+    name: '&x&C&C&D&1&2&3Sliced rabbit'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_GOLDEN_CARROT:
+    name: '&x&C&C&D&1&2&3Mashed golden carrot'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_ORANGE:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Orange'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_PECAN:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Pecan'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_PINTO_BEANS:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Pinto Beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_APRICOT:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Apricot'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_CHILLY_PEPPER:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Chilly Pepper'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_COURGETTE:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Courgette'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_CURRY_LEAF:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Curry Leaf'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_MACE:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Mace'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_SALMON:
+    name: '&x&C&C&D&1&2&3Sliced salmon'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_APPLE:
+    name: '&x&C&C&D&1&2&3Mashed apple'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_FENNEL:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Fennel'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_CILANTRO:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Cilantro'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_JALAPENO:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Jalapeno'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_CUCUMBER:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Cucumber'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_CLOVE:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Clove'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_GREEN_BEANS:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Green Beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_LICORICE:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Licorice'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_LAVENDER:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Lavender'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_COURGETTE:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Courgette'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_CHESTNUT:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Chestnut'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_BELL_PEPPER:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Bell Pepper'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_ROSEMARY:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Rosemary'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_CHERRY:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Cherry'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_OKRA:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Okra'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_CELERIAC:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Celeriac'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_PEPPERONI:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Pepperoni'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_WASABI:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Wasabi'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_CHILLY_PEPPER:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Chilly Pepper'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_GOLDEN_APPLE:
+    name: '&x&C&C&D&1&2&3Fried golden apple'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_BROCCOLI:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Broccoli'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_STAR_ANISE:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Star Anise'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_BEEF:
+    name: '&x&C&C&D&1&2&3Boiled beef'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_CELERIAC:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Celeriac'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_CHESTNUT:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Chestnut'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_KAFFIR_LIME:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Kaffir Lime Leaf'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_RABBIT:
+    name: '&x&C&C&D&1&2&3Blended rabbit'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_SWEET_BERRIES:
+    name: '&x&C&C&D&1&2&3Grilled sweet berries'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_MACE:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Mace'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_SPINACH:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Spinach'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_JUNIPER_BERRY:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Juniper Berries'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_LAVENDER:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Lavender'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_MANGO:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Mango'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_BREAD:
+    name: '&x&C&C&D&1&2&3Boiled bread'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_PECAN:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Pecan'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_RED_MUSHROOM:
+    name: '&x&C&C&D&1&2&3Boiled red mushroom'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_TURNIP:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Turnip'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_HORSERADISH:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Horseradish'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_BLACK_BEANS:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Black Beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_LETTUCE:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Lettuce'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_TARRAGON:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Tarragon'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_SHALLOT:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Shallot'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_SWEET_POTATO:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Sweet Potato'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_GOLDEN_APPLE:
+    name: '&x&C&C&D&1&2&3Sliced golden apple'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_PINEAPPLE:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Pineapple'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_OKRA:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Okra'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_FENNEL:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Fennel'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_TURMERIC:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Turmeric'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_ONION:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Onion'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_FENNEL:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Fennel'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_OKRA:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Okra'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_GRAPE:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Grape'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_LICORICE:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Licorice'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_AUBERGINE:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Aubergine'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_GREEN_APPLE:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Green Apple'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_EGG:
+    name: '&x&C&C&D&1&2&3Fried egg'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_FENNEL:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Fennel'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_ROSEMARY:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Rosemary'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_KALE:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Kale'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_RADDISH:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Raddish'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_SASSAFRAS:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Sassafras'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_TOMATO:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Tomato'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_KIWI:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Kiwi'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_GARLIC:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Garlic'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_GREEN_APPLE:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Green Apple'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_PARSLEY:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Parsley'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_DILL:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Dill'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_EGG:
+    name: '&x&C&C&D&1&2&3Chopped egg'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_ROSEMARY:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Rosemary'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_PARSNIP:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Parsnip'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_STRAWBERRY:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Strawberry'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_OREGANO:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Oregano'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_PEANUT:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Peanut'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_MUTTON:
+    name: '&x&C&C&D&1&2&3Chopped mutton'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_TARRAGON:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Tarragon'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_PINEAPPLE:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Pineapple'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_CARROT:
+    name: '&x&C&C&D&1&2&3Ground carrot'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_BAY_LEAF:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Bay Leaf'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_SWEET_POTATO:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Sweet Potato'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_TOMATO:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Tomato'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_GREEN_ONION:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Green Onion'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_CAYENNE_PEPPER:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Cayenne Pepper'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_TURMERIC:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Turmeric'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_RABBIT:
+    name: '&x&C&C&D&1&2&3Grilled rabbit'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_CHICORY:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Chicory'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_COCOA_BEANS:
+    name: '&x&C&C&D&1&2&3Blended cocoa beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_BRUSSELS_SPROUTS:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Brussels Sprouts'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_MUSTARD_SEEDS:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Mustard Seeds'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_CAULIFLOWER:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Cauliflower'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_PECAN:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Pecan'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_CILANTRO:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Cilantro'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_BREAD:
+    name: '&x&C&C&D&1&2&3Ground bread'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_STAR_ANISE:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Star Anise'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_BRUSSELS_SPROUTS:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Brussels Sprouts'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_BRUSSELS_SPROUTS:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Brussels Sprouts'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_THYME:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Thyme'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_SUGAR:
+    name: '&x&C&C&D&1&2&3Chopped sugar'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_KIWI:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Kiwi'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_SALMON:
+    name: '&x&C&C&D&1&2&3Blended salmon'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_JALAPENO:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Jalapeno'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_BROWN_MUSHROOM:
+    name: '&x&C&C&D&1&2&3Chopped brown mushroom'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_CELERY:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Celery'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_GREEN_BEANS:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Green Beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_LETTUCE:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Lettuce'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_CHICORY:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Chicory'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_CURRY_LEAF:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Curry Leaf'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_VANILLA:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Vanilla'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_PEPPER:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Black Pepper'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_CHILLY_PEPPER:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Chilly Pepper'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_BASIL:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Basil'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_CINNAMON:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Cinnamon'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_HAZELNUT:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Hazelnut'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_RADDISH:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Raddish'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_APRICOT:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Apricot'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_DILL:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Dill'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_CAULIFLOWER:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Cauliflower'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_CABBAGE:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Cabbage'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_RUTABAGA:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Rutabaga'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_APRICOT:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Apricot'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_CHICORY:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Chicory'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_AUBERGINE:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Aubergine'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_MARROW:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Marrow'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_EGG:
+    name: '&x&C&C&D&1&2&3Mashed egg'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_STRAWBERRY:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Strawberry'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_APPLE:
+    name: '&x&C&C&D&1&2&3Blended apple'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_WHEAT:
+    name: '&x&C&C&D&1&2&3Chopped wheat'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_CELERIAC:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Celeriac'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_PINEAPPLE:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Pineapple'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_MACE:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Mace'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_ROSEMARY:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Rosemary'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_TORTILLAS:
+    name: '&x&C&C&D&1&2&3Tortillas'
+    lore:
+    - ''
+    - '&7Corn-flour delights'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_FRIED_CHIVES:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Chives'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_HAZELNUT:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Hazelnut'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_BELL_PEPPER:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Bell Pepper'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_CILANTRO:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Cilantro'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_MINT:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Mint'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_ENCHANTED_GOLDEN_APPLE:
+    name: '&x&C&C&D&1&2&3Grilled enchanted golden apple'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BISCUIT_DOUGH:
+    name: '&x&C&C&D&1&2&3Biscuit Dough'
+    lore:
+    - ''
+    - '&7Just remind yourself "Don''t eat it raw."'
+    - ''
+    - '&x&E&4&E&D&3&2Produce'
+  CLT_MASHED_CHESTNUT:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Chestnut'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_KELP:
+    name: '&x&C&C&D&1&2&3Grilled kelp'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_BEEF:
+    name: '&x&C&C&D&1&2&3Sliced beef'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_JALAPENO:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Jalapeno'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_CAYENNE_PEPPER:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Cayenne Pepper'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_MUTTON:
+    name: '&x&C&C&D&1&2&3Sliced mutton'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_SWEETCORN:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Sweetcorn'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_BELL_PEPPER:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Bell Pepper'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_BASIL:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Basil'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_CHERRY:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Cherry'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_POTATO:
+    name: '&x&C&C&D&1&2&3Grilled potato'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_THYME:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Thyme'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_RADICCHIO:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Radicchio'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_PINEAPPLE:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Pineapple'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_BEEF:
+    name: '&x&C&C&D&1&2&3Mashed beef'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_CHICKEN:
+    name: '&x&C&C&D&1&2&3Ground chicken'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_BANANA:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Banana'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_VANILLA:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Vanilla'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_SASSAFRAS:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Sassafras'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_CHERRY:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Cherry'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_NETTLES:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Nettles'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_HORSERADISH:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Horseradish'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_BLACK_BEANS:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Black Beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_BEEF:
+    name: '&x&C&C&D&1&2&3Ground beef'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_ROTTEN_FLESH:
+    name: '&x&C&C&D&1&2&3Grilled rotten flesh'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_CINNAMON:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Cinnamon'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_RHUBARB:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Rhubarb'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_PINEAPPLE:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Pineapple'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_LEMON:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Lemon'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_LETTUCE:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Lettuce'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_MARROW:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Marrow'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_KALE:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Kale'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_PEACH:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Peach'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_COD:
+    name: '&x&C&C&D&1&2&3Grilled cod'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_CHERRY:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Cherry'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_CHESTNUT:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Chestnut'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_SALMON:
+    name: '&x&C&C&D&1&2&3Ground salmon'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_GREEN_BEANS:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Green Beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_JALAPENO:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Jalapeno'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_CILANTRO:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Cilantro'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_CUMIN:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Cumin'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_SUGAR:
+    name: '&x&C&C&D&1&2&3Grilled sugar'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_PEAR:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Pear'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_RICE:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Rice'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_ONION:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Onion'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_KELP:
+    name: '&x&C&C&D&1&2&3Mashed kelp'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_ORANGE:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Orange'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_MINT:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Mint'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_CHICORY:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Chicory'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_BANANA:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Banana'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_RABBIT:
+    name: '&x&C&C&D&1&2&3Ground rabbit'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_BRUSSELS_SPROUTS:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Brussels Sprouts'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_MACE:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Mace'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_TURNIP:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Turnip'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_COD:
+    name: '&x&C&C&D&1&2&3Mashed cod'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_GARLIC:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Garlic'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_RED_MUSHROOM:
+    name: '&x&C&C&D&1&2&3Ground red mushroom'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_CUMIN:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Cumin'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_APRICOT:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Apricot'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_KELP:
+    name: '&x&C&C&D&1&2&3Ground kelp'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_CLOVE:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Clove'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_CABBAGE:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Cabbage'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_MINT:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Mint'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_JASMINE:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Jasmine'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_OKRA:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Okra'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_GOLDEN_CARROT:
+    name: '&x&C&C&D&1&2&3Chopped golden carrot'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_GREEN_ONION:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Green Onion'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_PEPPERONI:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Pepperoni'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_WHEAT:
+    name: '&x&C&C&D&1&2&3Blended wheat'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_BROCCOLI:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Broccoli'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_MUSTARD_SEEDS:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Mustard Seeds'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_MELON:
+    name: '&x&C&C&D&1&2&3Grilled melon'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_RUTABAGA:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Rutabaga'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_BROCCOLI:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Broccoli'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_SHISO:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Shiso'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_RED_MUSHROOM:
+    name: '&x&C&C&D&1&2&3Mashed red mushroom'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_GREEN_BEANS:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Green Beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_APRICOT:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Apricot'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_LAVENDER:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Lavender'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_SWEETCORN:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Sweetcorn'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_MARROW:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Marrow'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_OREGANO:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Oregano'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_MARJORAM:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Marjoram'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_CHESTNUT:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Chestnut'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_RADICCHIO:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Radicchio'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_RAPESEED:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Rapeseed'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_WASABI:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Wasabi'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_GRAPE:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Grape'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_POTATO:
+    name: '&x&C&C&D&1&2&3Blended potato'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_CUMIN:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Cumin'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_PUMPKIN:
+    name: '&x&C&C&D&1&2&3Mashed pumpkin'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_RHUBARB:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Rhubarb'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_CELERIAC:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Celeriac'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_SWEETCORN:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Sweetcorn'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_RED_MUSHROOM:
+    name: '&x&C&C&D&1&2&3Chopped red mushroom'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_MUSTARD_SEEDS:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Mustard Seeds'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_CELERY:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Celery'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_MUSTARD_SEEDS:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Mustard Seeds'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_TURMERIC:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Turmeric'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_HORSERADISH:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Horseradish'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_CHICKEN:
+    name: '&x&C&C&D&1&2&3Mashed chicken'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_WASABI:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Wasabi'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_COURGETTE:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Courgette'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_COCOA_BEANS:
+    name: '&x&C&C&D&1&2&3Boiled cocoa beans'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_PEA:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Peas'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_BREAD:
+    name: '&x&C&C&D&1&2&3Sliced bread'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_PEA:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Peas'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_BANANA:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Banana'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_SLICED_HORSERADISH:
+    name: '&x&C&C&D&1&2&3Sliced &x&C&C&D&1&2&3Horseradish'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_GINGER:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Ginger'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_MASHED_AVOCADO:
+    name: '&x&C&C&D&1&2&3Mashed &x&C&C&D&1&2&3Avocado'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_PUMPKIN:
+    name: '&x&C&C&D&1&2&3Ground pumpkin'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_JASMINE:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Jasmine'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_MANGO:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Mango'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GRILLED_KALE:
+    name: '&x&C&C&D&1&2&3Grilled &x&C&C&D&1&2&3Kale'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_NETTLES:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Nettles'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_CHORUS_FRUIT:
+    name: '&x&C&C&D&1&2&3Fried chorus fruit'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_RADDISH:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Raddish'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_FRIED_RADICCHIO:
+    name: '&x&C&C&D&1&2&3Fried &x&C&C&D&1&2&3Radicchio'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_AVOCADO:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Avocado'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_PEANUT:
+    name: '&x&C&C&D&1&2&3Boiled &x&C&C&D&1&2&3Peanut'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BLENDED_COURGETTE:
+    name: '&x&C&C&D&1&2&3Blended &x&C&C&D&1&2&3Courgette'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_THYME:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Thyme'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_BOILED_SWEET_BERRIES:
+    name: '&x&C&C&D&1&2&3Boiled sweet berries'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_CHOPPED_CINNAMON:
+    name: '&x&C&C&D&1&2&3Chopped &x&C&C&D&1&2&3Cinnamon'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'
+  CLT_GROUND_OREGANO:
+    name: '&x&C&C&D&1&2&3Ground &x&C&C&D&1&2&3Oregano'
+    lore:
+    - ''
+    - ''
+    - '&x&E&4&E&D&3&2By-Product'

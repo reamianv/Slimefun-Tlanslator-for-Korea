@@ -1,0 +1,217 @@
+name: InfinityExpansion
+translations:
+  ADVANCED_QUARRY:
+    name: '&cAdvanced Quarry'
+    lore:
+    - '&7Automatically mines overworld and nether ores'
+    - ''
+    - '&8⇨ &e⚡ &7Speed: &b2x'
+    - '&8⇨ &e⚡ &71,800 J/s'
+  ADVANCED_SMELTERY:
+    name: '&cAdvanced &7Smeltery'
+    lore:
+    - '&7A faster smeltery'
+    - ''
+    - '&8⇨ &e⚡ &7Speed: &b24x'
+    - '&8⇨ &e⚡ &7480 J/s'
+  ADVANCED_ENCHANTER:
+    name: '&cAdvanced Enchanter'
+    lore:
+    - ''
+    - '&8⇨ &e⚡ &7Speed: &b5x'
+    - '&8⇨ &e⚡ &7360 J/s'
+  URANIUM_EXTRACTOR:
+    name: '&aUranium Extractor'
+    lore:
+    - '&7Converts cobble into uranium'
+    - ''
+    - '&8⇨ &e⚡ &7480 J/s'
+  INGOT_FORMER:
+    name: '&8Ingot Former'
+    lore:
+    - '&7Forms ingots from dusts'
+    - ''
+    - '&8⇨ &e⚡ &7Speed: &b1x'
+    - '&8⇨ &e⚡ &7480 J/s'
+  SINGULARITY_CONSTRUCTOR:
+    name: '&fSingularity Constructor'
+    lore:
+    - '&7Condenses large amounts of resources'
+    - ''
+    - '&8⇨ &e⚡ &7Speed: &b1x'
+    - '&8⇨ &e⚡ &7240 J/s'
+  ADVANCED_COBBLE_GEN:
+    name: '&cAdvanced &8Cobble Generator'
+    lore:
+    - ''
+    - '&8⇨ &e⚡ &7Speed: &b4x'
+    - '&8⇨ &e⚡ &7240 J/s'
+  ADVANCED_VIRTUAL_FARM:
+    name: '&cAdvanced &aVirtual Farm'
+    lore:
+    - '&7Automatically grows, harvests, and replants crops'
+    - ''
+    - '&8⇨ &e⚡ &7Speed: &b5x'
+    - '&8⇨ &e⚡ &7180 J/s'
+  REINFORCED_GEOTHERMAL_GENERATOR:
+    name: '&fReinforced &cGeothermal Gen'
+    lore:
+    - '&7Generates large amounts of energy'
+    - '&7from the heat of the world'
+    - ''
+    - '&8⇨ &e⚡ &721,000 J Buffer'
+    - '&8⇨ &e⚡ &7420 J/s'
+  ADVANCED_GEO_MINER:
+    name: '&cAdvanced &fGeoMiner'
+    lore:
+    - '&7A faster geo-miner'
+    - ''
+    - '&8⇨ &e⚡ &7Speed: &b4x'
+    - '&8⇨ &e⚡ &7240 J/s'
+  VOID_QUARRY:
+    name: '&8Void Quarry'
+    lore:
+    - '&7Automatically mines overworld and nether ores'
+    - ''
+    - '&8⇨ &e⚡ &7Speed: &b6x'
+    - '&8⇨ &e⚡ &77,200 J/s'
+  DUST_EXTRACTOR:
+    name: '&8Dust Extractor'
+    lore:
+    - '&7Converts cobble into dusts'
+    - ''
+    - '&8⇨ &e⚡ &7Speed: &b1x'
+    - '&8⇨ &e⚡ &7480 J/s'
+  BASIC_OBSIDIAN_GEN:
+    name: '&8Obsidian Generator'
+    lore:
+    - ''
+    - '&8⇨ &e⚡ &7Speed: &b1x'
+    - '&8⇨ &e⚡ &7480 J/s'
+  ADVANCED_DISENCHANTER:
+    name: '&cAdvanced Disenchanter'
+    lore:
+    - ''
+    - '&8⇨ &e⚡ &7Speed: &b5x'
+    - '&8⇨ &e⚡ &7360 J/s'
+  ADVANCED_PANEL:
+    name: '&cAdvanced Solar Panel'
+    lore:
+    - '&7Generates energy from the sun'
+    - ''
+    - '&8⇨ &e⚡ &715,000 J Buffer'
+    - '&8⇨ &e⚡ &7300 J/s'
+  GEO_QUARRY:
+    name: '&fGeo Quarry'
+    lore:
+    - '&7Slowly harvests geo resources from the void using power'
+    - ''
+    - '&8⇨ &e⚡ &7900 J/s'
+  VOID_CAPACITOR:
+    name: '&8Void Capacitor'
+    lore:
+    - ''
+    - '&8⇨ &e⚡ 16,000,000 &7J Capacity'
+  STONEWORKS_FACTORY:
+    name: '&8Stoneworks Factory'
+    lore:
+    - '&7Generates cobblestone and processes it into various materials'
+    - ''
+    - '&8⇨ &e⚡ &7480 J/s'
+  ADVANCED_NETHER_STAR_REACTOR:
+    name: '&cAdvanced Nether Star Reactor'
+    lore:
+    - '&fRuns on Nether Stars'
+    - '&bMust be surrounded by Water'
+    - '&bMust be supplied with Nether Ice Coolant Cells'
+    - '&4Causes nearby Entities to get Withered'
+    - ''
+    - '&8⇨ &e⚡ &790,000 J Buffer'
+    - '&8⇨ &e⚡ &73,600 J/s'
+  RESOURCE_SYNTHESIZER:
+    name: '&6Resource Synthesizer'
+    lore:
+    - '&7Creates resources by combining 2 Singularities'
+    - ''
+    - '&8⇨ &e⚡ &71,000,000 J per use'
+  VOID_HARVESTER:
+    name: '&8Void Harvester'
+    lore:
+    - '&7Slowly harvests &8Void &7Bits from nothing...'
+    - ''
+    - '&8⇨ &e⚡ &7Speed: &b1x'
+    - '&8⇨ &e⚡ &7240 J/s'
+  VOID_PANEL:
+    name: '&8Void Panel'
+    lore:
+    - '&7Generates energy from darkness'
+    - ''
+    - '&8⇨ &e⚡ &7300,000 J Buffer'
+    - '&8⇨ &e⚡ &76,000 J/s'
+  ADVANCED_TREE_GROWER:
+    name: '&cAdvanced &2Tree Grower'
+    lore:
+    - '&7Automatically grows, harvests, and replants trees'
+    - ''
+    - '&8⇨ &e⚡ &7Speed: &b5x'
+    - '&8⇨ &e⚡ &7360 J/s'
+  ADVANCED_CHARGER:
+    name: '&cAdvanced Charger'
+    lore:
+    - '&7Quickly charges items'
+    - ''
+    - '&8⇨ &e⚡ &7Speed: &b30x'
+    - '&8⇨ &e⚡ &7360 J/s'
+  REINFORCED_HYDRO_GENERATOR:
+    name: '&fReinforced &9Hydro Gen'
+    lore:
+    - '&7Generates large amounts of energy'
+    - '&7from the movement of water'
+    - ''
+    - '&8⇨ &e⚡ &74,500 J Buffer'
+    - '&8⇨ &e⚡ &790 J/s'
+  GEAR_TRANSFORMER:
+    name: '&7Gear Transformer'
+    lore:
+    - '&7Changes the material of vanilla tools and gear'
+    - ''
+    - '&8⇨ &e⚡ &712,000 J Per Use'
+  BASIC_QUARRY:
+    name: '&9Basic Quarry'
+    lore:
+    - '&7Automatically mines overworld ores'
+    - ''
+    - '&8⇨ &e⚡ &7Speed: &b1x'
+    - '&8⇨ &e⚡ &7600 J/s'
+  EXTREME_FREEZER:
+    name: '&bExtreme Freezer'
+    lore:
+    - '&7Converts ice into coolant'
+    - ''
+    - '&8⇨ &e⚡ &7180 J/s'
+  GEOTHERMAL_GENERATOR:
+    name: '&cGeothermal Generator'
+    lore:
+    - '&7Generates energy from the heat of the world'
+    - ''
+    - '&8⇨ &e⚡ &73,500 J Buffer'
+    - '&8⇨ &e⚡ &770 J/s'
+  CELESTIAL_PANEL:
+    name: '&eCelestial Panel'
+    lore:
+    - '&7Generates energy from the sun'
+    - ''
+    - '&8⇨ &e⚡ &775,000 J Buffer'
+    - '&8⇨ &e⚡ &71,500 J/s'
+  DECOMPRESSOR:
+    name: '&7Decompressor'
+    lore:
+    - '&7Reduces blocks to their base material'
+    - ''
+    - '&8⇨ &e⚡ &7120 J/s'
+  COBBLE_PRESS:
+    name: '&8Cobble Press'
+    lore:
+    - '&7Compresses cobblestone more efficiently'
+    - ''
+    - '&8⇨ &e⚡ &7240 J/s'

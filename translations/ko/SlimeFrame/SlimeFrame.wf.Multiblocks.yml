@@ -1,0 +1,7 @@
+name: SlimeFrame
+translations:
+  WF_FOUNDRY:
+    name: '&bFoundry'
+    lore:
+    - ''
+    - '&fA special foundry used to craft SlimeFrame items'

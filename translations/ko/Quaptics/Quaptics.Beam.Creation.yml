@@ -1,0 +1,59 @@
+name: Quaptics
+translations:
+  QP_SOLAR_CONCENTRATOR_1:
+    name: '&eSolar Concentrator &6I'
+    lore:
+    - '&x&9&9&6&6&3&3Primitive'
+    - '&7● Concentrates sunlight into a quaptic ray'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Power Output &e2 &8W'
+  QP_ENERGY_CONCENTRATOR_4:
+    name: '&eEnergy Concentrator &6IV'
+    lore:
+    - '&x&F&F&D&B&4&DIntermediate'
+    - '&7● Concentrates energy into a quaptic ray'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Power Output &e800 &8W'
+    - '&8⇨ &e⚡ &7950 J/s'
+  QP_SOLAR_CONCENTRATOR_2:
+    name: '&eSolar Concentrator &6II'
+    lore:
+    - '&x&9&9&6&6&3&3Primitive'
+    - '&7● Concentrates sunlight into a quaptic ray'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Power Output &e8 &8W'
+  QP_ENERGY_CONCENTRATOR_2:
+    name: '&eEnergy Concentrator &6II'
+    lore:
+    - '&x&3&3&9&9&3&3Basic'
+    - '&7● Concentrates energy into a quaptic ray'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Power Output &e70 &8W'
+    - '&8⇨ &e⚡ &7200 J/s'
+  QP_ENERGY_CONCENTRATOR_3:
+    name: '&eEnergy Concentrator &6III'
+    lore:
+    - '&x&F&F&D&B&4&DIntermediate'
+    - '&7● Concentrates energy into a quaptic ray'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Power Output &e400 &8W'
+    - '&8⇨ &e⚡ &7580 J/s'
+  QP_REACTOR_CONTROLLER:
+    name: '&6Reactor Controller'
+    lore:
+    - '&x&F&F&6&6&0&0Advanced'
+    - '&3★&x&6&6&6&6&9&9 Multiblock &8(right click with the Multiblock Wand)'
+    - '&7● Generates more power than you put in'
+    - '&7● Takes some time to reach maximum efficiency'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Power Threshold &e1,800 &8W'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Max Power Output &e14,000 &8W'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Power Multiplier &e175 &8%'
+    - '&8⇨ &x&E&0&8&5&C&2→ &7Time to max efficiency &e10 &8minutes'
+  QP_ENERGY_CONCENTRATOR_1:
+    name: '&eEnergy Concentrator &6I'
+    lore:
+    - '&x&3&3&9&9&3&3Basic'
+    - '&7● Concentrates energy into a quaptic ray'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Power Output &e30 &8W'
+    - '&8⇨ &e⚡ &7120 J/s'
+  QP_REACTOR_RING:
+    name: '&6Reactor Ring'
+    lore:
+    - '&x&F&F&D&B&4&DIntermediate'
+    - '&3★&x&6&6&6&6&9&9 Multiblock Component'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e0 &7- &e1,000 &8W'

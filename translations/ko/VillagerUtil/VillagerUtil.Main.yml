@@ -1,0 +1,55 @@
+name: VillagerUtil
+translations:
+  VU_CURE_WAND:
+    name: '&aVillager Cure Wand'
+    lore:
+    - '&eRight Click &7on a zombified villager'
+    - '&7to cure it from its ailment'
+    - ''
+    - '&bTool &9&o(Villager Utils)'
+  VU_TRADE_WAND:
+    name: '&6Villager Trade Wand'
+    lore:
+    - '&eRight Click &7on a villager'
+    - '&7to cycle its trades'
+    - ''
+    - '&bTool &9&o(Villager Utils)'
+  VU_ESSENCE:
+    name: '&dVillager Essence'
+    lore:
+    - '&7A rare, mysterious dust which is a key'
+    - '&7component of Villager Magic'
+    - ''
+    - '&eIngredient &9&o(Villager Utils)'
+  VU_TRANSPORT_CHARM:
+    name: '&a&lVillager Charm'
+    lore:
+    - '&7A magical charm which will teleport'
+    - '&7the associated villager to its location'
+    - '&eRight Click &7to teleport the villager'
+    - ''
+    - '&7No villager linked'
+    - ''
+    - '&bTool &9&o(Villager Utils)'
+  VU_NITWIT_WAND:
+    name: '&5Villager De-nitwit-ifier'
+    lore:
+    - '&eRight Click &7on a nitwit-type villager'
+    - '&7to allow it to get a job'
+    - ''
+    - '&bTool &9&o(Villager Utils)'
+  VU_TRANSPORT_WAND:
+    name: '&cVillager Transport Wand'
+    lore:
+    - '&eRight Click &7on a villager'
+    - '&7to recieve a Villager Charm'
+    - '&7linked to that villager'
+    - ''
+    - '&bTool &9&o(Villager Utils)'
+  VU_TOKEN:
+    name: '&bVillager Token'
+    lore:
+    - '&7A special item that is needed'
+    - '&7to cast Villager Magic'
+    - ''
+    - '&aConsumable &9&o(Villager Utils)'

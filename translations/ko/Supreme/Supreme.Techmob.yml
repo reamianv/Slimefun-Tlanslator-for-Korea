@@ -1,0 +1,1460 @@
+name: Supreme
+translations:
+  SUPREME_CLONING_GOLEM_III:
+    name: '&aCloner Robotic Golem III'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a+1 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_INTELLIGENCE_GOLEM_III:
+    name: '&aIntelligent Mutant Golem III'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a40% &7 decrease energy'
+    - '&7Value process &e(4 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_EFFICIENCY_BEE_VIII:
+    name: '&4Efficient Robotic Bee VIII'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a90% &7 decrease energy'
+    - '&7Value process &e(9 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_LUCK_BEE_VII:
+    name: '&eLucky Mutant Bee VII'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a+3 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_EFFICIENCY_ZOMBIE_III:
+    name: '&aEfficient Robotic Zombie III'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a40% &7 decrease energy'
+    - '&7Value process &e(4 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CLONING_BEE_IX:
+    name: '&5Cloner Robotic Bee IX'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a+4 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CLONING_BEE_IV:
+    name: '&1Cloner Robotic Bee IV'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a+2 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_EFFICIENCY_GOLEM_III:
+    name: '&aEfficient Robotic Golem III'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a40% &7 decrease energy'
+    - '&7Value process &e(4 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_INTELLIGENCE_GOLEM_V:
+    name: '&9Intelligent Mutant Golem V'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a60% &7 decrease energy'
+    - '&7Value process &e(6 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CLONING_ZOMBIE_VIII:
+    name: '&4Cloner Robotic Zombie VIII'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a+3 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_INTELLIGENCE_BEE_VI:
+    name: '&6Intelligent Mutant Bee VI'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a70% &7 decrease energy'
+    - '&7Value process &e(7 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_ACCELERATION_BEE_IV:
+    name: '&1Robotic Bee Accelerator IV'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a5x &7increase speed &c50%&7 increase energy'
+    - '&7Value process &e(5 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_INTELLIGENCE_GOLEM_VIII:
+    name: '&4Intelligent Mutant Golem VIII'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a90% &7 decrease energy'
+    - '&7Value process &e(9 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_BERSERK_ZOMBIE_VIII:
+    name: '&4Berserk Mutant Zombie VIII'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a9x &7increase speed &c90%&7 increase energy'
+    - '&7Value process &e(9 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_EFFICIENCY_BEE_VII:
+    name: '&eEfficient Robotic Bee VII'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a80% &7 decrease energy'
+    - '&7Value process &e(8 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_ACCELERATION_BEE_IX:
+    name: '&5Robotic Bee Accelerator IX'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a10x &7increase speed &c100%&7 increase energy'
+    - '&7Value process &e(10 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CLONING_GOLEM_VI:
+    name: '&6Cloner Robotic Golem VI'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a+3 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_ACCELERATION_BEE_III:
+    name: '&aRobotic Bee Accelerator III'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a4x &7increase speed &c40%&7 increase energy'
+    - '&7Value process &e(4 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CLONING_BEE_II:
+    name: '&2Cloner Robotic Bee II'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a+1 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_BERSERK_BEE_III:
+    name: '&aBerserk Mutant Bee III'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a4x &7increase speed &c40%&7 increase energy'
+    - '&7Value process &e(4 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_EFFICIENCY_BEE_I:
+    name: '&7Efficient Robotic Bee I'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a20% &7 decrease energy'
+    - '&7Value process &e(2 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_EFFICIENCY_GOLEM_VI:
+    name: '&6Efficient Robotic Golem VI'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a70% &7 decrease energy'
+    - '&7Value process &e(7 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_INTELLIGENCE_GOLEM_I:
+    name: '&7Intelligent Mutant Golem I'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a20% &7 decrease energy'
+    - '&7Value process &e(2 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_ACCELERATION_BEE_I:
+    name: '&7Robotic Bee Accelerator I'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a2x &7increase speed &c20%&7 increase energy'
+    - '&7Value process &e(2 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_EFFICIENCY_BEE_III:
+    name: '&aEfficient Robotic Bee III'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a40% &7 decrease energy'
+    - '&7Value process &e(4 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_EFFICIENCY_BEE_V:
+    name: '&9Efficient Robotic Bee V'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a60% &7 decrease energy'
+    - '&7Value process &e(6 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_ACCELERATION_ZOMBIE_VII:
+    name: '&eRobotic Zombie Accelerator VII'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a8x &7increase speed &c80%&7 increase energy'
+    - '&7Value process &e(8 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_LUCK_BEE_I:
+    name: '&7Lucky Mutant Bee I'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a+1 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_BERSERK_ZOMBIE_VI:
+    name: '&6Berserk Mutant Zombie VI'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a7x &7increase speed &c70%&7 increase energy'
+    - '&7Value process &e(7 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_BERSERK_BEE_VIII:
+    name: '&4Berserk Mutant Bee VIII'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a9x &7increase speed &c90%&7 increase energy'
+    - '&7Value process &e(9 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_EFFICIENCY_GOLEM_VIII:
+    name: '&4Efficient Robotic Golem VIII'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a90% &7 decrease energy'
+    - '&7Value process &e(9 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_INTELLIGENCE_GOLEM_VII:
+    name: '&eIntelligent Mutant Golem VII'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a80% &7 decrease energy'
+    - '&7Value process &e(8 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_LUCK_BEE_V:
+    name: '&9Lucky Mutant Bee V'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a+2 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_LOCK_GOLEM_VIII:
+    name: '&4Lucky Mutant Golem VIII'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a+3 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_LUCK_ZOMBIE_VI:
+    name: '&6Lucky Mutant Zombie VI'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a+3 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_ACCELERATION_BEE_VIII:
+    name: '&4Robotic Bee Accelerator VIII'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a9x &7increase speed &c90%&7 increase energy'
+    - '&7Value process &e(9 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_LUCK_BEE_VI:
+    name: '&6Lucky Mutant Bee VI'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a+3 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_BERSERK_GOLEM_IX:
+    name: '&5Berserk Mutant Golem IX'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a10x &7increase speed &c100%&7 increase energy'
+    - '&7Value process &e(10 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_ACCELERATION_GOLEM_V:
+    name: '&9Robotic Accelerator Golem V'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a6x &7increase speed &c60%&7 increase energy'
+    - '&7Value process &e(6 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_LOCK_GOLEM_II:
+    name: '&2Lucky Mutant Golem II'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a+1 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_INTELLIGENCE_BEE_III:
+    name: '&aIntelligent Mutant Bee III'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a40% &7 decrease energy'
+    - '&7Value process &e(4 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_EFFICIENCY_GOLEM_I:
+    name: '&7Efficient Robotic Golem I'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a20% &7 decrease energy'
+    - '&7Value process &e(2 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_ACCELERATION_ZOMBIE_I:
+    name: '&7Robotic Zombie Accelerator I'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a2x &7increase speed &c20%&7 increase energy'
+    - '&7Value process &e(2 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_BERSERK_GOLEM_IV:
+    name: '&1Berserk Mutant Golem IV'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a5x &7increase speed &c50%&7 increase energy'
+    - '&7Value process &e(5 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_EFFICIENCY_ZOMBIE_VIII:
+    name: '&4Efficient Robotic Zombie VIII'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a90% &7 decrease energy'
+    - '&7Value process &e(9 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_EFFICIENCY_BEE_VI:
+    name: '&6Efficient Robotic Bee VI'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a70% &7 decrease energy'
+    - '&7Value process &e(7 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_INTELLIGENCE_ZOMBIE_II:
+    name: '&2Intelligent Mutant Zombie II'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a30% &7 decrease energy'
+    - '&7Value process &e(3 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_LOCK_GOLEM_IV:
+    name: '&1Lucky Mutant Golem IV'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a+2 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_BERSERK_GOLEM_VIII:
+    name: '&4Berserk Mutant Golem VIII'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a9x &7increase speed &c90%&7 increase energy'
+    - '&7Value process &e(9 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CLONING_ZOMBIE_II:
+    name: '&2Cloner Robotic Zombie II'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a+1 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_LUCK_BEE_VIII:
+    name: '&4Lucky Mutant Bee VIII'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a+3 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_EFFICIENCY_GOLEM_V:
+    name: '&9Efficient Robotic Golem V'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a60% &7 decrease energy'
+    - '&7Value process &e(6 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_ACCELERATION_GOLEM_VI:
+    name: '&6Robotic Accelerator Golem VI'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a7x &7increase speed &c70%&7 increase energy'
+    - '&7Value process &e(7 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_LOCK_GOLEM_IX:
+    name: '&5Lucky Mutant Golem IX'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a+4 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CLONING_BEE_V:
+    name: '&9Cloner Robotic Bee V'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a+2 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_ACCELERATION_ZOMBIE_IX:
+    name: '&5Robotic Zombie Accelerator IX'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a10x &7increase speed &c100%&7 increase energy'
+    - '&7Value process &e(10 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_ACCELERATION_ZOMBIE_IV:
+    name: '&1Robotic Zombie Accelerator IV'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a5x &7increase speed &c50%&7 increase energy'
+    - '&7Value process &e(5 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CLONING_ZOMBIE_IV:
+    name: '&1Cloner Robotic Zombie IV'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a+2 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_LOCK_GOLEM_III:
+    name: '&aLucky Mutant Golem III'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a+1 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_EFFICIENCY_ZOMBIE_VI:
+    name: '&6Efficient Robotic Zombie VI'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a70% &7 decrease energy'
+    - '&7Value process &e(7 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_ACCELERATION_ZOMBIE_II:
+    name: '&2Robotic Zombie Accelerator II'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a3x &7increase speed &c30%&7 increase energy'
+    - '&7Value process &e(3 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_ACCELERATION_ZOMBIE_V:
+    name: '&9Robotic Zombie Accelerator V'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a6x &7increase speed &c60%&7 increase energy'
+    - '&7Value process &e(6 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CLONING_BEE_I:
+    name: '&7Cloner Robotic Bee I'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a+1 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_INTELLIGENCE_ZOMBIE_III:
+    name: '&aIntelligent Mutant Zombie III'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a40% &7 decrease energy'
+    - '&7Value process &e(4 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_EFFICIENCY_GOLEM_VII:
+    name: '&eEfficient Robotic Golem VII'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a80% &7 decrease energy'
+    - '&7Value process &e(8 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CLONING_ZOMBIE_IX:
+    name: '&5Cloner Robotic Zombie IX'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a+4 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_ACCELERATION_GOLEM_III:
+    name: '&aRobotic Accelerator Golem III'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a4x &7increase speed &c40%&7 increase energy'
+    - '&7Value process &e(4 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_BERSERK_BEE_II:
+    name: '&2Berserk Mutant Bee II'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a3x &7increase speed &c30%&7 increase energy'
+    - '&7Value process &e(3 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_ACCELERATION_BEE_VII:
+    name: '&eRobotic Bee Accelerator VII'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a8x &7increase speed &c80%&7 increase energy'
+    - '&7Value process &e(8 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_ACCELERATION_BEE_II:
+    name: '&2Robotic Bee Accelerator II'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a3x &7increase speed &c30%&7 increase energy'
+    - '&7Value process &e(3 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CLONING_GOLEM_VIII:
+    name: '&4Cloner Robotic Golem VIII'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a+3 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_ACCELERATION_GOLEM_VII:
+    name: '&eRobotic Accelerator Golem VII'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a8x &7increase speed &c80%&7 increase energy'
+    - '&7Value process &e(8 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_INTELLIGENCE_GOLEM_IV:
+    name: '&1Intelligent Mutant Golem IV'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a50% &7 decrease energy'
+    - '&7Value process &e(5 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_INTELLIGENCE_GOLEM_IX:
+    name: '&5Intelligent Mutant Golem IX'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a100% &7 decrease energy'
+    - '&7Value process &e(10 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_BERSERK_GOLEM_II:
+    name: '&2Berserk Mutant Golem II'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a3x &7increase speed &c30%&7 increase energy'
+    - '&7Value process &e(3 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_ACCELERATION_GOLEM_I:
+    name: '&7Robotic Accelerator Golem I'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a2x &7increase speed &c20%&7 increase energy'
+    - '&7Value process &e(2 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_INTELLIGENCE_ZOMBIE_IV:
+    name: '&1Intelligent Mutant Zombie IV'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a50% &7 decrease energy'
+    - '&7Value process &e(5 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_INTELLIGENCE_ZOMBIE_IX:
+    name: '&5Intelligent Mutant Zombie IX'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a100% &7 decrease energy'
+    - '&7Value process &e(10 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_BERSERK_BEE_IX:
+    name: '&5Berserk Mutant Bee IX'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a10x &7increase speed &c100%&7 increase energy'
+    - '&7Value process &e(10 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_INTELLIGENCE_GOLEM_II:
+    name: '&2Intelligent Mutant Golem II'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a30% &7 decrease energy'
+    - '&7Value process &e(3 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_BERSERK_BEE_IV:
+    name: '&1Berserk Mutant Bee IV'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a5x &7increase speed &c50%&7 increase energy'
+    - '&7Value process &e(5 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_BERSERK_GOLEM_VII:
+    name: '&eBerserk Mutant Golem VII'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a8x &7increase speed &c80%&7 increase energy'
+    - '&7Value process &e(8 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_INTELLIGENCE_ZOMBIE_VII:
+    name: '&eIntelligent Mutant Zombie VII'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a80% &7 decrease energy'
+    - '&7Value process &e(8 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CLONING_BEE_VI:
+    name: '&6Cloner Robotic Bee VI'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a+3 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_LOCK_GOLEM_VII:
+    name: '&eLucky Mutant Golem VII'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a+3 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_EFFICIENCY_ZOMBIE_V:
+    name: '&9Efficient Robotic Zombie V'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a60% &7 decrease energy'
+    - '&7Value process &e(6 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_LUCK_ZOMBIE_IV:
+    name: '&1Lucky Mutant Zombie IV'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a+2 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_ACCELERATION_GOLEM_VIII:
+    name: '&4Robotic Accelerator Golem VIII'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a9x &7increase speed &c90%&7 increase energy'
+    - '&7Value process &e(9 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_INTELLIGENCE_BEE_I:
+    name: '&7Intelligent Mutant Bee I'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a20% &7 decrease energy'
+    - '&7Value process &e(2 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_EFFICIENCY_ZOMBIE_I:
+    name: '&7Efficient Robotic Zombie I'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a20% &7 decrease energy'
+    - '&7Value process &e(2 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CLONING_GOLEM_IX:
+    name: '&5Cloner Robotic Golem IX'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a+4 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_INTELLIGENCE_BEE_V:
+    name: '&9Intelligent Mutant Bee V'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a60% &7 decrease energy'
+    - '&7Value process &e(6 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_EFFICIENCY_GOLEM_II:
+    name: '&2Efficient Robotic Golem II'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a30% &7 decrease energy'
+    - '&7Value process &e(3 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_LUCK_ZOMBIE_II:
+    name: '&2Lucky Mutant Zombie II'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a+1 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CLONING_ZOMBIE_V:
+    name: '&9Cloner Robotic Zombie V'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a+2 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_BERSERK_ZOMBIE_IV:
+    name: '&1Berserk Mutant Zombie IV'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a5x &7increase speed &c50%&7 increase energy'
+    - '&7Value process &e(5 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_BERSERK_ZOMBIE_IX:
+    name: '&5Berserk Mutant Zombie IX'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a10x &7increase speed &c100%&7 increase energy'
+    - '&7Value process &e(10 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_INTELLIGENCE_BEE_VII:
+    name: '&eIntelligent Mutant Bee VII'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a80% &7 decrease energy'
+    - '&7Value process &e(8 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CLONING_GOLEM_I:
+    name: '&7Cloner Robotic Golem I'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a+1 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CLONING_GOLEM_IV:
+    name: '&1Cloner Robotic Golem IV'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a+2 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_INTELLIGENCE_GOLEM_VI:
+    name: '&6Intelligent Mutant Golem VI'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a70% &7 decrease energy'
+    - '&7Value process &e(7 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_ACCELERATION_BEE_VI:
+    name: '&6Robotic Bee Accelerator VI'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a7x &7increase speed &c70%&7 increase energy'
+    - '&7Value process &e(7 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_EFFICIENCY_GOLEM_IV:
+    name: '&1Efficient Robotic Golem IV'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a50% &7 decrease energy'
+    - '&7Value process &e(5 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_EFFICIENCY_GOLEM_IX:
+    name: '&5Efficient Robotic Golem IX'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a100% &7 decrease energy'
+    - '&7Value process &e(10 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_INTELLIGENCE_BEE_IV:
+    name: '&1Intelligent Mutant Bee IV'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a50% &7 decrease energy'
+    - '&7Value process &e(5 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CLONING_GOLEM_V:
+    name: '&9Cloner Robotic Golem V'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a+2 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_INTELLIGENCE_BEE_IX:
+    name: '&5Intelligent Mutant Bee IX'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a100% &7 decrease energy'
+    - '&7Value process &e(10 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_BERSERK_ZOMBIE_II:
+    name: '&2Berserk Mutant Zombie II'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a3x &7increase speed &c30%&7 increase energy'
+    - '&7Value process &e(3 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CLONING_BEE_III:
+    name: '&aCloner Robotic Bee III'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a+1 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_EFFICIENCY_BEE_II:
+    name: '&2Efficient Robotic Bee II'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a30% &7 decrease energy'
+    - '&7Value process &e(3 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_BERSERK_BEE_I:
+    name: '&7Berserk Mutant Bee I'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a2x &7increase speed &c20%&7 increase energy'
+    - '&7Value process &e(2 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_INTELLIGENCE_BEE_VIII:
+    name: '&4Intelligent Mutant Bee VIII'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a90% &7 decrease energy'
+    - '&7Value process &e(9 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_LUCK_ZOMBIE_V:
+    name: '&9Lucky Mutant Zombie V'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a+2 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_BERSERK_BEE_V:
+    name: '&9Berserk Mutant Bee V'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a6x &7increase speed &c60%&7 increase energy'
+    - '&7Value process &e(6 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_INTELLIGENCE_BEE_II:
+    name: '&2Intelligent Mutant Bee II'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a30% &7 decrease energy'
+    - '&7Value process &e(3 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_EFFICIENCY_BEE_IV:
+    name: '&1Efficient Robotic Bee IV'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a50% &7 decrease energy'
+    - '&7Value process &e(5 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_EFFICIENCY_BEE_IX:
+    name: '&5Efficient Robotic Bee IX'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a100% &7 decrease energy'
+    - '&7Value process &e(10 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CLONING_ZOMBIE_I:
+    name: '&7Cloner Robotic Zombie I'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a+1 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CLONING_GOLEM_II:
+    name: '&2Cloner Robotic Golem II'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a+1 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_LUCK_ZOMBIE_III:
+    name: '&aLucky Mutant Zombie III'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a+1 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_LUCK_ZOMBIE_IX:
+    name: '&5Lucky Mutant Zombie IX'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a+4 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_LUCK_ZOMBIE_VIII:
+    name: '&4Lucky Mutant Zombie VIII'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a+3 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_ACCELERATION_GOLEM_II:
+    name: '&2Robotic Accelerator Golem II'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a3x &7increase speed &c30%&7 increase energy'
+    - '&7Value process &e(3 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_BERSERK_ZOMBIE_V:
+    name: '&9Berserk Mutant Zombie V'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a6x &7increase speed &c60%&7 increase energy'
+    - '&7Value process &e(6 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_ACCELERATION_ZOMBIE_VIII:
+    name: '&4Robotic Zombie Accelerator VIII'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a9x &7increase speed &c90%&7 increase energy'
+    - '&7Value process &e(9 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_LUCK_ZOMBIE_VII:
+    name: '&eLucky Mutant Zombie VII'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a+3 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_BERSERK_ZOMBIE_VII:
+    name: '&eBerserk Mutant Zombie VII'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a8x &7increase speed &c80%&7 increase energy'
+    - '&7Value process &e(8 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_ACCELERATION_ZOMBIE_VI:
+    name: '&6Robotic Zombie Accelerator VI'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a7x &7increase speed &c70%&7 increase energy'
+    - '&7Value process &e(7 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_LUCK_BEE_IV:
+    name: '&1Lucky Mutant Bee IV'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a+2 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_LOCK_GOLEM_V:
+    name: '&9Lucky Mutant Golem V'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a+2 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_EFFICIENCY_ZOMBIE_VII:
+    name: '&eEfficient Robotic Zombie VII'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a80% &7 decrease energy'
+    - '&7Value process &e(8 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_LUCK_BEE_IX:
+    name: '&5Lucky Mutant Bee IX'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a+4 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_EFFICIENCY_ZOMBIE_II:
+    name: '&2Efficient Robotic Zombie II'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a30% &7 decrease energy'
+    - '&7Value process &e(3 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CLONING_BEE_VII:
+    name: '&eCloner Robotic Bee VII'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a+3 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_LUCK_BEE_III:
+    name: '&aLucky Mutant Bee III'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a+1 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CLONING_GOLEM_VII:
+    name: '&eCloner Robotic Golem VII'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a+3 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_BERSERK_GOLEM_III:
+    name: '&aBerserk Mutant Golem III'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a4x &7increase speed &c40%&7 increase energy'
+    - '&7Value process &e(4 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_EFFICIENCY_ZOMBIE_IV:
+    name: '&1Efficient Robotic Zombie IV'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a50% &7 decrease energy'
+    - '&7Value process &e(5 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_ACCELERATION_GOLEM_IV:
+    name: '&1Robotic Accelerator Golem IV'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a5x &7increase speed &c50%&7 increase energy'
+    - '&7Value process &e(5 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_LUCK_ZOMBIE_I:
+    name: '&7Lucky Mutant Zombie I'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a+1 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_ACCELERATION_BEE_V:
+    name: '&9Robotic Bee Accelerator V'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a6x &7increase speed &c60%&7 increase energy'
+    - '&7Value process &e(6 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CLONING_ZOMBIE_VII:
+    name: '&eCloner Robotic Zombie VII'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a+3 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_ACCELERATION_GOLEM_IX:
+    name: '&5Robotic Accelerator Golem IX'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a10x &7increase speed &c100%&7 increase energy'
+    - '&7Value process &e(10 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_BERSERK_BEE_VII:
+    name: '&eBerserk Mutant Bee VII'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a8x &7increase speed &c80%&7 increase energy'
+    - '&7Value process &e(8 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_LOCK_GOLEM_I:
+    name: '&7Lucky Mutant Golem I'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a+1 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_LOCK_GOLEM_VI:
+    name: '&6Lucky Mutant Golem VI'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a+3 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_BERSERK_GOLEM_VI:
+    name: '&6Berserk Mutant Golem VI'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a7x &7increase speed &c70%&7 increase energy'
+    - '&7Value process &e(7 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_LUCK_BEE_II:
+    name: '&2Lucky Mutant Bee II'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a+1 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_EFFICIENCY_ZOMBIE_IX:
+    name: '&5Efficient Robotic Zombie IX'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a100% &7 decrease energy'
+    - '&7Value process &e(10 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CLONING_ZOMBIE_VI:
+    name: '&6Cloner Robotic Zombie VI'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a+3 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_INTELLIGENCE_ZOMBIE_I:
+    name: '&7Intelligent Mutant Zombie I'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a20% &7 decrease energy'
+    - '&7Value process &e(2 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CLONING_ZOMBIE_III:
+    name: '&aCloner Robotic Zombie III'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a+1 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_BERSERK_GOLEM_V:
+    name: '&9Berserk Mutant Golem V'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a6x &7increase speed &c60%&7 increase energy'
+    - '&7Value process &e(6 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_INTELLIGENCE_ZOMBIE_VI:
+    name: '&6Intelligent Mutant Zombie VI'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a70% &7 decrease energy'
+    - '&7Value process &e(7 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_BERSERK_ZOMBIE_I:
+    name: '&7Berserk Mutant Zombie I'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a2x &7increase speed &c20%&7 increase energy'
+    - '&7Value process &e(2 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_BERSERK_BEE_VI:
+    name: '&6Berserk Mutant Bee VI'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a7x &7increase speed &c70%&7 increase energy'
+    - '&7Value process &e(7 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_BERSERK_GOLEM_I:
+    name: '&7Berserk Mutant Golem I'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a2x &7increase speed &c20%&7 increase energy'
+    - '&7Value process &e(2 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_ACCELERATION_ZOMBIE_III:
+    name: '&aRobotic Zombie Accelerator III'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a4x &7increase speed &c40%&7 increase energy'
+    - '&7Value process &e(4 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_INTELLIGENCE_ZOMBIE_VIII:
+    name: '&4Intelligent Mutant Zombie VIII'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a90% &7 decrease energy'
+    - '&7Value process &e(9 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_INTELLIGENCE_ZOMBIE_V:
+    name: '&9Intelligent Mutant Zombie V'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a60% &7 decrease energy'
+    - '&7Value process &e(6 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_CLONING_BEE_VIII:
+    name: '&4Cloner Robotic Bee VIII'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &6HIGH'
+    - '&a+3 stack&7 clone'
+    - '&7Value process &e(64x per stack)'
+    - ''
+    - '&3Supreme Component'
+  SUPREME_BERSERK_ZOMBIE_III:
+    name: '&aBerserk Mutant Zombie III'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &4VERY DEADLY'
+    - '&a4x &7increase speed &c40%&7 increase energy'
+    - '&7Value process &e(4 * amount stack * 0.15625)'
+    - ''
+    - '&3Supreme Component'

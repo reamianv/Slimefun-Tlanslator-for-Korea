@@ -1,0 +1,102 @@
+name: Quaptics
+translations:
+  QP_INTERFEROMETER:
+    name: '&cInterferometer'
+    lore:
+    - '&x&F&F&D&B&4&DIntermediate'
+    - '&7● Sets the phase of the main ray to the phase of the auxiliary ray'
+    - '&7● The operating power only applies to the main beam'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e650+ &8W'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Power Loss &e8 &8%'
+  QP_SCATTERER_2:
+    name: '&cScatterer &4II'
+    lore:
+    - '&x&F&F&D&B&4&DIntermediate'
+    - '&7● Increases the frequency of a quaptic ray'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e360+ &8W'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Power Loss &e3 &8%'
+    - '&8⇨ &x&0&0&F&F&0&0∀ &7Operating Frequency &e40 &7- &e200 &8Hz'
+    - '&8⇨ &x&0&0&F&F&0&0∀ &7Frequency &ex1.8'
+  QP_SCATTERER_3:
+    name: '&cScatterer &4III'
+    lore:
+    - '&x&F&F&6&6&0&0Advanced'
+    - '&7● Increases the frequency of a quaptic ray'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e1,800+ &8W'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Power Loss &e3 &8%'
+    - '&8⇨ &x&0&0&F&F&0&0∀ &7Operating Frequency &e40,000 &7- &e160,000 &8Hz'
+    - '&8⇨ &x&0&0&F&F&0&0∀ &7Frequency &ex1.5'
+  QP_SCATTERER_1:
+    name: '&cScatterer &4I'
+    lore:
+    - '&x&3&3&9&9&3&3Basic'
+    - '&7● Increases the frequency of a quaptic ray'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e40+ &8W'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Power Loss &e6 &8%'
+    - '&8⇨ &x&0&0&F&F&0&0∀ &7Operating Frequency &e5 &7- &e10 &8Hz'
+    - '&8⇨ &x&0&0&F&F&0&0∀ &7Frequency &ex1.4'
+  QP_REPEATER_3:
+    name: '&cRepeater &4III'
+    lore:
+    - '&x&F&F&6&6&0&0Advanced'
+    - '&7● Increases the frequency of a quaptic ray'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e1,100+ &8W'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Power Loss &e4 &8%'
+    - '&8⇨ &x&0&0&F&F&0&0∀ &7Operating Frequency &e1,000 &7- &e6,000 &8Hz'
+    - '&8⇨ &x&0&0&F&F&0&0∀ &7Frequency &e+2,400.0 &8Hz'
+  QP_REPEATER_1:
+    name: '&cRepeater &4I'
+    lore:
+    - '&x&3&3&9&9&3&3Basic'
+    - '&7● Increases the frequency of a quaptic ray'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e20+ &8W'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Power Loss &e8 &8%'
+    - '&8⇨ &x&0&0&F&F&0&0∀ &7Operating Frequency &e0 &7- &e5 &8Hz'
+    - '&8⇨ &x&0&0&F&F&0&0∀ &7Frequency &e+2.0 &8Hz'
+  QP_REPEATER_2:
+    name: '&cRepeater &4II'
+    lore:
+    - '&x&F&F&D&B&4&DIntermediate'
+    - '&7● Increases the frequency of a quaptic ray'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e190+ &8W'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Power Loss &e6 &8%'
+    - '&8⇨ &x&0&0&F&F&0&0∀ &7Operating Frequency &e10 &7- &e40 &8Hz'
+    - '&8⇨ &x&0&0&F&F&0&0∀ &7Frequency &e+12.0 &8Hz'
+  QP_POLARISER:
+    name: '&cPolariser'
+    lore:
+    - '&x&F&F&D&B&4&DIntermediate'
+    - '&7● Increases the phase of quaptic rays'
+    - '&7● The increase in phase depends on the phase crystal'
+    - '&7  that the polariser is holding'
+    - '&7● &eRight Click &7with a crystal to insert'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e200+ &8W'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Power Loss &e12 &8%'
+  QP_DIFFRACTION_GRATING_1:
+    name: '&cDiffraction Grating &4I'
+    lore:
+    - '&x&F&F&D&B&4&DIntermediate'
+    - '&7● Increases the frequency of quaptic rays'
+    - '&7● The closer the auxiliary input to the target phase, the'
+    - '&7  greater the increase in frequency'
+    - '&7● The operating power & frequency only apply to the main beam'
+    - '&7● The target phase only applies to the auxiliary beam'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e360+ &8W'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Power Loss &e5 &8%'
+    - '&8⇨ &x&0&0&F&F&0&0∀ &7Operating Frequency &e200 &7- &e1,000 &8Hz'
+    - '&8⇨ &x&0&0&F&F&0&0∀ &7Frequency &ex1.8'
+    - '&8⇨ &x&F&F&C&C&0&0۞ &7Target Phase &e168 &8°'
+  QP_DIFFRACTION_GRATING_2:
+    name: '&cDiffraction Grating &4II'
+    lore:
+    - '&x&F&F&6&6&0&0Advanced'
+    - '&7● Increases the frequency of quaptic rays'
+    - '&7● The closer the auxiliary input to the target phase, the'
+    - '&7  greater the increase in frequency'
+    - '&7● The operating power & frequency only apply to the main beam'
+    - '&7● The target phase only applies to the auxiliary beam'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Operating Power &e1,600+ &8W'
+    - '&8⇨ &x&F&F&0&0&0&0⏻ &7Power Loss &e1 &8%'
+    - '&8⇨ &x&0&0&F&F&0&0∀ &7Operating Frequency &e6,000 &7- &e40,000 &8Hz'
+    - '&8⇨ &x&0&0&F&F&0&0∀ &7Frequency &ex2.0'
+    - '&8⇨ &x&F&F&C&C&0&0۞ &7Target Phase &e267 &8°'

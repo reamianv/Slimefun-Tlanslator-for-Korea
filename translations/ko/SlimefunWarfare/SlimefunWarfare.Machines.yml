@@ -1,0 +1,56 @@
+name: SlimefunWarfare
+translations:
+  EXPLOSIVE_SYNTHESIZER:
+    name: '&4Explosive Synthesizer'
+    lore:
+    - ''
+    - '&8⇨ &e⚡ &764 J/s'
+    - '&8⇨ &e⚡ &7128 J Buffer'
+    - '&6Advanced Machine'
+  BULLET_PRESS:
+    name: '&7Bullet Press'
+    lore:
+    - ''
+    - '&8⇨ &e⚡ &716 J/s'
+    - '&8⇨ &e⚡ &732 J Buffer'
+    - '&6Advanced Machine'
+  AIR_LIQUEFIER:
+    name: '&bAir Liquefier'
+    lore:
+    - ''
+    - '&8⇨ &e⚡ &764 J/s'
+    - '&8⇨ &e⚡ &7128 J Buffer'
+    - '&6Advanced Machine'
+  BOOMINATOR_9000:
+    name: '&4Boominator 9000'
+    lore:
+    - ''
+    - '&7Processes uranium for nuclear bombs'
+    - '&8⇨ &e⚡ &71024 J/s'
+    - '&8⇨ &e⚡ &72048 J Buffer'
+    - '&4End-Game Machine'
+  ELEMENTAL_REACTOR:
+    name: '&bElemental Reactor'
+    lore:
+    - ''
+    - '&7Generates energy from the'
+    - '&7energy-rich elements Unpatentablium'
+    - '&7and Segganesson'
+    - '&4End-Game Generator'
+    - '&8⇨ &e⚡ &732768 J Buffer'
+    - '&8⇨ &e⚡ &732768 J/s'
+  METEOR_ATTRACTOR:
+    name: '&fMeteor Attractor'
+    lore:
+    - ''
+    - '&7A magnet so strong, that it'
+    - '&7can pull meteors from space'
+  ION_EXCHANGE_SEPARATOR:
+    name: '&bIon Exchange Separator'
+    lore:
+    - ''
+    - '&7Separates the hard-to-separate'
+    - '&7rare earths from monazite'
+    - '&6Advanced Machine'
+    - '&8⇨ &e⚡ &7256 J/s'
+    - '&8⇨ &e⚡ &7512 J Buffer'

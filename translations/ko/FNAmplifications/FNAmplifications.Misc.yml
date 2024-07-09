@@ -1,0 +1,47 @@
+name: FNAmplifications
+translations:
+  FN_ORIENT_PEARL:
+    name: '&cFN''s Orient Pearl'
+    lore:
+    - ''
+    - '&dAn ender pearl that teleports'
+    - '&dthe player together with the'
+    - '&dmounted entity (Horse, etc)'
+  FN_BLOCK_ROTATOR:
+    name: '&cFN''s Block Rotator'
+    lore:
+    - ''
+    - '&dRight click to rotate orientable or'
+    - '&ddirectional blocks. &f(Terracotta, Chains, etc)'
+    - ''
+    - '&dShift right click to flip slab, bisected'
+    - '&dor orientable blocks &f(Slabs, stairs, etc)'
+  FN_THROWABLE_TORCH:
+    name: '&cFN''s Throwable Torch'
+    lore:
+    - ''
+    - '&dRight click to throw in the target'
+    - '&ddirection and it will be placed if'
+    - '&da block got hit. Entities who got hit'
+    - '&dwill be set on fire for 4 seconds'
+  FN_HOE_5X5:
+    name: '&cFN''s Hoe'
+    lore:
+    - ''
+    - '&dCan soil/till land and harvest'
+    - '&dcrops in a 5x5 square area'
+  FN_HOE_5X5_AUTO_PLANT:
+    name: '&cFN''s Reseeding Hoe'
+    lore:
+    - ''
+    - '&dCan soil/till land and harvest'
+    - '&dcrops in a 5x5 square area'
+    - ''
+    - '&dAuto plants if the crops are'
+    - '&dharvested at maximum age'
+  FN_AUTO_LADDER:
+    name: '&cFN''s Auto Ladder'
+    lore:
+    - ''
+    - '&dAutomatically places a ladder from top to'
+    - '&dbottom with a max distance of 8 blocks'

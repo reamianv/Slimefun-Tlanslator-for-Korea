@@ -1,0 +1,10 @@
+name: FoxyMachines
+translations:
+  VILE_PUMPKIN:
+    name: '&cVile Pumpkin'
+  PIXIE_QUEEN_SPAWN_EGG:
+    name: '&aPixie Queen Spawn Egg'
+  HEADLESS_HORSEMAN_SPAWN_EGG:
+    name: '&cHeadless Horseman Spawn Egg'
+  PIXIE_QUEEN_HEART:
+    name: '&4Pixie Queen Heart'

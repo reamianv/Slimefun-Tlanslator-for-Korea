@@ -1,0 +1,94 @@
+name: SlimefunWarfare
+translations:
+  GUN_MINIGUN:
+    name: '&7Minigun'
+    lore:
+    - ''
+    - '&7The ultimate device'
+    - '&7to pepper your friends with.'
+    - '&cRange: 40'
+    - '&cMinimum Range: 5'
+    - '&cDamage: 4 hearts'
+    - '&cCooldown: none'
+  GUN_PISTOL:
+    name: '&7Pistol'
+    lore:
+    - ''
+    - '&7A short range gun'
+    - '&7that reloads quickly.'
+    - '&7Useful for close combat.'
+    - '&cRange: 10'
+    - '&cDamage: 3 hearts'
+    - '&cCooldown: 0.5 seconds'
+  GUN_REVOLVER:
+    name: '&7Revolver'
+    lore:
+    - ''
+    - '&7A short range gun'
+    - '&7that reloads quickly.'
+    - '&7Useful for close combat.'
+    - '&cRange: 10'
+    - '&cDamage: 3 hearts'
+    - '&cCooldown: 0.3 seconds'
+  GUN_MACHINE_GUN:
+    name: '&7Machine Gun'
+    lore:
+    - ''
+    - '&7Pew pew pew'
+    - '&cRange: 30'
+    - '&cMinimum Range: 5'
+    - '&cDamage: 3 hearts'
+    - '&cCooldown: 0.15 seconds'
+  GUN_ENERGY_RIFLE:
+    name: '&eEnergy Rifle'
+    lore:
+    - ''
+    - '&7Finally, no need to carry around bullets!'
+    - '&cUses 5J per shot'
+    - '&cRange: 100'
+    - '&cDamage: 10 hearts'
+    - '&cCooldown: 0.2 seconds'
+    - '&8⇨ &e⚡ &70 / 2500 J'
+    - '&eNote: The bullets visually shoot a little off'
+    - '&ebut you still hit the target'
+  GUN_SHOTGUN:
+    name: '&7Shotgun'
+    lore:
+    - ''
+    - '&7Less range than a'
+    - '&7rifle, but more damage.'
+    - '&cRange: 25'
+    - '&cMinimum Range: 5'
+    - '&cDamage: 6.5 hearts'
+    - '&cCooldown: 1.25 seconds'
+  GUN_ASSAULT_RIFLE:
+    name: '&7Assault Rifle'
+    lore:
+    - ''
+    - '&7A derivative of'
+    - '&7the rifle, the assault'
+    - '&7rifle is the standard'
+    - '&7military weapon.'
+    - '&cRange: 50'
+    - '&cMinimum Range: 3'
+    - '&cDamage: 6.5 hearts'
+    - '&cCooldown: 0.3 seconds'
+  GUN_SNIPER:
+    name: '&7Sniper Rifle'
+    lore:
+    - ''
+    - '&7The ultimate long-range'
+    - '&7gun, the sniper is very powerful.'
+    - '&cRange: 130'
+    - '&cMinimum Range: 50'
+    - '&cDamage: 11 hearts'
+    - '&cCooldown: 8 seconds'
+  GUN_RIFLE:
+    name: '&7Rifle'
+    lore:
+    - ''
+    - '&7A standard rifle.'
+    - '&cRange: 40'
+    - '&cMinimum Range: 5'
+    - '&cDamage: 4 hearts'
+    - '&cCooldown: 0.75 seconds'

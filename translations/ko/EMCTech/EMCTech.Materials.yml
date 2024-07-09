@@ -1,0 +1,210 @@
+name: EMCTech
+translations:
+  ETC_UNORTHODOX_COAL_DUST:
+    name: '&x&D&B&C&E&A&9Unorthodox Coal Dust'
+    lore:
+    - ''
+    - '&7Unorthodox Coal crushed into a fine dust.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  ETC_PERFECTED_FRAME:
+    name: '&x&D&B&C&E&A&9Perfected Frame'
+    lore:
+    - ''
+    - '&7A perfect, empty, frame used for making'
+    - '&7covalent machinery.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  ETC_TIGHTLY_PACKED_DEVIANT_COAL:
+    name: '&x&D&B&C&E&A&9Deviant Coal Dust (Packed)'
+    lore:
+    - ''
+    - '&7Deviant Coal packed into a tight form.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  ETC_DIVERGENT_COAL_BLOCK:
+    name: '&x&D&B&C&E&A&9Divergent Coal Block'
+    lore:
+    - ''
+    - '&7A block of Divergent Coal.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  ETC_PERFECTED_MACHINE_FRAME:
+    name: '&x&D&B&C&E&A&9Perfected Machine Frame'
+    lore:
+    - ''
+    - '&7A perfect machine frame suitable'
+    - '&7for housing covalent tech.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  ETC_DEVIANT_COAL_BLOCK:
+    name: '&x&D&B&C&E&A&9Deviant Coal Block'
+    lore:
+    - ''
+    - '&7A block of Deviant Coal.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  ETC_DIVERGENT_COAL_DUST:
+    name: '&x&D&B&C&E&A&9Divergent Coal Dust'
+    lore:
+    - ''
+    - '&7Divergent Coal crushed into a fine dust.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  ETC_PERFECTED_COAL:
+    name: '&x&D&B&C&E&A&9Perfected Coal'
+    lore:
+    - ''
+    - '&7The molecules in this coal have been'
+    - '&7rearranged. The radiating power can'
+    - '&7barely be measured.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  ETC_DIVERGENT_COAL:
+    name: '&x&D&B&C&E&A&9Divergent Coal'
+    lore:
+    - ''
+    - '&7The molecules in this coal have been'
+    - '&7rearranged. A strong power can be'
+    - '&7felt from within.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  ETC_DEVIANT_MACHINE_FRAME:
+    name: '&x&D&B&C&E&A&9Deviant Machine Frame'
+    lore:
+    - ''
+    - '&7A basic machine frame suitable'
+    - '&7for housing covalent tech.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  ETC_ANOMALOUS_COAL_DUST:
+    name: '&x&D&B&C&E&A&9Anomalous Coal Dust'
+    lore:
+    - ''
+    - '&7Anomalous Coal crushed into a fine dust.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  ETC_ANOMALOUS_COAL_BLOCK:
+    name: '&x&D&B&C&E&A&9Anomalous Coal Block'
+    lore:
+    - ''
+    - '&7A block of Anomalous Coal.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  ETC_UNORTHODOX_COAL_BLOCK:
+    name: '&x&D&B&C&E&A&9Unorthodox Coal Block'
+    lore:
+    - ''
+    - '&7A block of Unorthodox Coal.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  ETC_ANOMALOUS_MACHINE_FRAME:
+    name: '&x&D&B&C&E&A&9Anomalous Machine Frame'
+    lore:
+    - ''
+    - '&7A superior machine frame suitable'
+    - '&7for housing covalent tech.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  ETC_DIVERGENT_FRAME:
+    name: '&x&D&B&C&E&A&9Divergent Frame'
+    lore:
+    - ''
+    - '&7An advanced, empty, frame used for making'
+    - '&7covalent machinery.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  ETC_ANOMALOUS_COAL:
+    name: '&x&D&B&C&E&A&9Anomalous Coal'
+    lore:
+    - ''
+    - '&7The molecules in this coal have been'
+    - '&7rearranged. An intense power can be'
+    - '&7felt from within.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  ETC_DEVIANT_COAL_DUST:
+    name: '&x&D&B&C&E&A&9Deviant Coal Dust'
+    lore:
+    - ''
+    - '&7Deviant Coal crushed into a fine dust.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  ETC_UNORTHODOX_COAL:
+    name: '&x&D&B&C&E&A&9Unorthodox Coal'
+    lore:
+    - ''
+    - '&7The molecules in this coal have been'
+    - '&7rearranged. Seemingly with little effect.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  ETC_UNORTHADOX_FRAME:
+    name: '&x&D&B&C&E&A&9Unorthadox Frame'
+    lore:
+    - ''
+    - '&7A simple, empty, frame used for making'
+    - '&7covalent machinery.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  ETC_DEVIANT_COAL:
+    name: '&x&D&B&C&E&A&9Deviant Coal'
+    lore:
+    - ''
+    - '&7The molecules in this coal have been'
+    - '&7rearranged. The faintest power can be'
+    - '&7felt from within.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  ETC_DEVIANT_FRAME:
+    name: '&x&D&B&C&E&A&9Deviant Frame'
+    lore:
+    - ''
+    - '&7A basic, empty, frame used for making'
+    - '&7covalent machinery.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  ETC_ANOMALOUS_FRAME:
+    name: '&x&D&B&C&E&A&9Anomalous Frame'
+    lore:
+    - ''
+    - '&7A superior, empty, frame used for making'
+    - '&7covalent machinery.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  ETC_TIGHTLY_PACKED_DIVERGENT_COAL:
+    name: '&x&D&B&C&E&A&9Divergent Coal Dust (Packed)'
+    lore:
+    - ''
+    - '&7Divergent Coal packed into a tight form.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  ETC_TIGHTLY_PACKED_UNORTHODOX_COAL:
+    name: '&x&D&B&C&E&A&9Unorthodox Coal Dust (Packed)'
+    lore:
+    - ''
+    - '&7Unorthodox Coal packed into a tight form.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  ETC_TIGHTLY_PACKED_ANOMALOUS_COAL:
+    name: '&x&D&B&C&E&A&9Anomalous Coal Dust (Packed)'
+    lore:
+    - ''
+    - '&7Anomalous Coal packed into a tight form.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  ETC_UNORTHADOX_MACHINE_FRAME:
+    name: '&x&D&B&C&E&A&9Unorthadox Machine Frame'
+    lore:
+    - ''
+    - '&7A simple machine frame suitable'
+    - '&7for housing covalent tech.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'
+  ETC_DIVERGENT_MACHINE_FRAME:
+    name: '&x&D&B&C&E&A&9Divergent Machine Frame'
+    lore:
+    - ''
+    - '&7An advanced machine frame suitable'
+    - '&7for housing covalent tech.'
+    - ''
+    - '&x&E&4&E&D&3&2Crafting Material'

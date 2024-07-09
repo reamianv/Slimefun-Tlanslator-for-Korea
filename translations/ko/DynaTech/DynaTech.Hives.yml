@@ -1,0 +1,352 @@
+name: DynaTech
+translations:
+  DT_NICKEL_MINERALIZED_APIARY:
+    name: '&bNickel Mineralized Apiary'
+    lore:
+    - ''
+    - '&fProduces a material'
+    - '&fwith the help of bees'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &716384 J Buffer'
+    - '&8⇨ &e⚡ &71,024 J/t'
+  DT_TIN_MINERALIZED_APIARY:
+    name: '&bTin Mineralized Apiary'
+    lore:
+    - ''
+    - '&fProduces a material'
+    - '&fwith the help of bees'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &716384 J Buffer'
+    - '&8⇨ &e⚡ &71,024 J/t'
+  DT_DAMASCUS_STEEL_MINERALIZED_APIARY:
+    name: '&bDamascus Steel Mineralized Apiary'
+    lore:
+    - ''
+    - '&fProduces a material'
+    - '&fwith the help of bees'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &716384 J Buffer'
+    - '&8⇨ &e⚡ &71,024 J/t'
+  DT_ALUMINUM_BRONZE_MINERALIZED_APIARY:
+    name: '&bAluminum Bronze Mineralized Apiary'
+    lore:
+    - ''
+    - '&fProduces a material'
+    - '&fwith the help of bees'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &716384 J Buffer'
+    - '&8⇨ &e⚡ &71,024 J/t'
+  DT_GOLD_MINERALIZED_APIARY:
+    name: '&f[Gold] Mineralized Apiary'
+    lore:
+    - ''
+    - '&fProduces a material'
+    - '&fwith the help of bees'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &716384 J Buffer'
+    - '&8⇨ &e⚡ &71,024 J/t'
+  DT_SYNTHETIC_SAPPHIRE_MINERALIZED_APIARY:
+    name: '&bSynthetic Sapphire Mineralized Apiary'
+    lore:
+    - ''
+    - '&fProduces a material'
+    - '&fwith the help of bees'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &716384 J Buffer'
+    - '&8⇨ &e⚡ &71,024 J/t'
+  DT_STEEL_MINERALIZED_APIARY:
+    name: '&bSteel Mineralized Apiary'
+    lore:
+    - ''
+    - '&fProduces a material'
+    - '&fwith the help of bees'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &716384 J Buffer'
+    - '&8⇨ &e⚡ &71,024 J/t'
+  DT_LAPIS_LAZULI_MINERALIZED_APIARY:
+    name: '&f[Lapis Lazuli] Mineralized Apiary'
+    lore:
+    - ''
+    - '&fProduces a material'
+    - '&fwith the help of bees'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &716384 J Buffer'
+    - '&8⇨ &e⚡ &71,024 J/t'
+  DT_COPPER_MINERALIZED_APIARY:
+    name: '&bCopper Mineralized Apiary'
+    lore:
+    - ''
+    - '&fProduces a material'
+    - '&fwith the help of bees'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &716384 J Buffer'
+    - '&8⇨ &e⚡ &71,024 J/t'
+  DT_ZINC_MINERALIZED_APIARY:
+    name: '&bZinc Mineralized Apiary'
+    lore:
+    - ''
+    - '&fProduces a material'
+    - '&fwith the help of bees'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &716384 J Buffer'
+    - '&8⇨ &e⚡ &71,024 J/t'
+  DT_REINFORCED_ALLOY_MINERALIZED_APIARY:
+    name: '&b&lReinforced Alloy Mineralized Apiary'
+    lore:
+    - ''
+    - '&fProduces a material'
+    - '&fwith the help of bees'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &716384 J Buffer'
+    - '&8⇨ &e⚡ &71,024 J/t'
+  DT_CARBONADO_MINERALIZED_APIARY:
+    name: '&b&lCarbonado Mineralized Apiary'
+    lore:
+    - ''
+    - '&fProduces a material'
+    - '&fwith the help of bees'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &716384 J Buffer'
+    - '&8⇨ &e⚡ &71,024 J/t'
+  DT_CORINTHIAN_BRONZE_MINERALIZED_APIARY:
+    name: '&bCorinthian Bronze Mineralized Apiary'
+    lore:
+    - ''
+    - '&fProduces a material'
+    - '&fwith the help of bees'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &716384 J Buffer'
+    - '&8⇨ &e⚡ &71,024 J/t'
+  DT_DIAMOND_MINERALIZED_APIARY:
+    name: '&f[Diamond] Mineralized Apiary'
+    lore:
+    - ''
+    - '&fProduces a material'
+    - '&fwith the help of bees'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &716384 J Buffer'
+    - '&8⇨ &e⚡ &71,024 J/t'
+  DT_MAGNESIUM_MINERALIZED_APIARY:
+    name: '&bMagnesium Mineralized Apiary'
+    lore:
+    - ''
+    - '&fProduces a material'
+    - '&fwith the help of bees'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &716384 J Buffer'
+    - '&8⇨ &e⚡ &71,024 J/t'
+  DT_SILVER_MINERALIZED_APIARY:
+    name: '&bSilver Mineralized Apiary'
+    lore:
+    - ''
+    - '&fProduces a material'
+    - '&fwith the help of bees'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &716384 J Buffer'
+    - '&8⇨ &e⚡ &71,024 J/t'
+  DT_REDSTONE_MINERALIZED_APIARY:
+    name: '&f[Redstone Dust] Mineralized Apiary'
+    lore:
+    - ''
+    - '&fProduces a material'
+    - '&fwith the help of bees'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &716384 J Buffer'
+    - '&8⇨ &e⚡ &71,024 J/t'
+  DT_COAL_MINERALIZED_APIARY:
+    name: '&f[Coal] Mineralized Apiary'
+    lore:
+    - ''
+    - '&fProduces a material'
+    - '&fwith the help of bees'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &716384 J Buffer'
+    - '&8⇨ &e⚡ &71,024 J/t'
+  DT_BILLON_MINERALIZED_APIARY:
+    name: '&bBillon Mineralized Apiary'
+    lore:
+    - ''
+    - '&fProduces a material'
+    - '&fwith the help of bees'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &716384 J Buffer'
+    - '&8⇨ &e⚡ &71,024 J/t'
+  DT_ALUMINUM_BRASS_MINERALIZED_APIARY:
+    name: '&bAluminum Brass Mineralized Apiary'
+    lore:
+    - ''
+    - '&fProduces a material'
+    - '&fwith the help of bees'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &716384 J Buffer'
+    - '&8⇨ &e⚡ &71,024 J/t'
+  DT_GILDED_IRON_MINERALIZED_APIARY:
+    name: '&6&lGilded Iron Mineralized Apiary'
+    lore:
+    - ''
+    - '&fProduces a material'
+    - '&fwith the help of bees'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &716384 J Buffer'
+    - '&8⇨ &e⚡ &71,024 J/t'
+  DT_SYNTHETIC_DIAMOND_MINERALIZED_APIARY:
+    name: '&bSynthetic Diamond Mineralized Apiary'
+    lore:
+    - ''
+    - '&fProduces a material'
+    - '&fwith the help of bees'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &716384 J Buffer'
+    - '&8⇨ &e⚡ &71,024 J/t'
+  DT_COBALT_MINERALIZED_APIARY:
+    name: '&9Cobalt Mineralized Apiary'
+    lore:
+    - ''
+    - '&fProduces a material'
+    - '&fwith the help of bees'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &716384 J Buffer'
+    - '&8⇨ &e⚡ &71,024 J/t'
+  DT_NETHERITE_MINERALIZED_APIARY:
+    name: '&f[Netherite] Mineralized Apiary'
+    lore:
+    - ''
+    - '&fProduces a material'
+    - '&fwith the help of bees'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &716384 J Buffer'
+    - '&8⇨ &e⚡ &71,024 J/t'
+  DT_HARDENED_METAL_MINERALIZED_APIARY:
+    name: '&b&lHardened Metal Mineralized Apiary'
+    lore:
+    - ''
+    - '&fProduces a material'
+    - '&fwith the help of bees'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &716384 J Buffer'
+    - '&8⇨ &e⚡ &71,024 J/t'
+  DT_SOLDER_MINERALIZED_APIARY:
+    name: '&bSolder Mineralized Apiary'
+    lore:
+    - ''
+    - '&fProduces a material'
+    - '&fwith the help of bees'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &716384 J Buffer'
+    - '&8⇨ &e⚡ &71,024 J/t'
+  DT_SYNTHETIC_EMERALD_MINERALIZED_APIARY:
+    name: '&bSynthetic Emerald Mineralized Apiary'
+    lore:
+    - ''
+    - '&fProduces a material'
+    - '&fwith the help of bees'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &716384 J Buffer'
+    - '&8⇨ &e⚡ &71,024 J/t'
+  DT_QUARTZ_MINERALIZED_APIARY:
+    name: '&f[Nether Quartz] Mineralized Apiary'
+    lore:
+    - ''
+    - '&fProduces a material'
+    - '&fwith the help of bees'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &716384 J Buffer'
+    - '&8⇨ &e⚡ &71,024 J/t'
+  DT_IRON_MINERALIZED_APIARY:
+    name: '&f[Iron] Mineralized Apiary'
+    lore:
+    - ''
+    - '&fProduces a material'
+    - '&fwith the help of bees'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &716384 J Buffer'
+    - '&8⇨ &e⚡ &71,024 J/t'
+  DT_ALUMINUM_MINERALIZED_APIARY:
+    name: '&bAluminum Mineralized Apiary'
+    lore:
+    - ''
+    - '&fProduces a material'
+    - '&fwith the help of bees'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &716384 J Buffer'
+    - '&8⇨ &e⚡ &71,024 J/t'
+  DT_LEAD_MINERALIZED_APIARY:
+    name: '&bLead Mineralized Apiary'
+    lore:
+    - ''
+    - '&fProduces a material'
+    - '&fwith the help of bees'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &716384 J Buffer'
+    - '&8⇨ &e⚡ &71,024 J/t'
+  DT_FERROSILICON_MINERALIZED_APIARY:
+    name: '&bFerrosilicon Mineralized Apiary'
+    lore:
+    - ''
+    - '&fProduces a material'
+    - '&fwith the help of bees'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &716384 J Buffer'
+    - '&8⇨ &e⚡ &71,024 J/t'
+  DT_DURALUMIN_MINERALIZED_APIARY:
+    name: '&bDuralumin Mineralized Apiary'
+    lore:
+    - ''
+    - '&fProduces a material'
+    - '&fwith the help of bees'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &716384 J Buffer'
+    - '&8⇨ &e⚡ &71,024 J/t'
+  DT_BRASS_MINERALIZED_APIARY:
+    name: '&bBrass Mineralized Apiary'
+    lore:
+    - ''
+    - '&fProduces a material'
+    - '&fwith the help of bees'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &716384 J Buffer'
+    - '&8⇨ &e⚡ &71,024 J/t'
+  DT_EMERALD_MINERALIZED_APIARY:
+    name: '&f[Emerald] Mineralized Apiary'
+    lore:
+    - ''
+    - '&fProduces a material'
+    - '&fwith the help of bees'
+    - ''
+    - '&4End-Game Machine'
+    - '&8⇨ &e⚡ &716384 J Buffer'
+    - '&8⇨ &e⚡ &71,024 J/t'

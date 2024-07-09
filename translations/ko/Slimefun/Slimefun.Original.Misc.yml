@@ -1,0 +1,141 @@
+name: Slimefun
+translations:
+  STEEL_PLATE:
+    name: '&7&lSteel Plate'
+  ORGANIC_FOOD_SEAGRASS:
+    name: '&aOrganic Food'
+    lore:
+    - '&7Content: &9Seagrass'
+  HOOK:
+    name: '&bHook'
+  ORGANIC_FOOD_SWEET_BERRIES:
+    name: '&aOrganic Food'
+    lore:
+    - '&7Content: &9Sweet Berries'
+  GOLD_24K_BLOCK:
+    name: '&fGold Block &7(24-Carat)'
+  WHEAT_FLOUR:
+    name: '&fWheat Flour'
+  TINY_URANIUM:
+    name: '&cTiny Pile of Uranium'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &eLOW'
+  ORGANIC_FOOD_BEETROOT:
+    name: '&aOrganic Food'
+    lore:
+    - '&7Content: &9Beetroot'
+  ORGANIC_FOOD_KELP:
+    name: '&aOrganic Food'
+    lore:
+    - '&7Content: &9Dried Kelp'
+  PURE_ORE_CLUSTER:
+    name: '&6Pure Ore Cluster'
+  FERTILIZER_MELON:
+    name: '&aOrganic Fertilizer'
+    lore:
+    - '&7Content: &9Melon'
+  ORGANIC_FOOD_MELON:
+    name: '&aOrganic Food'
+    lore:
+    - '&7Content: &9Melon'
+  ORGANIC_FOOD_COCOA:
+    name: '&aOrganic Food'
+    lore:
+    - '&7Content: &9Cocoa Beans'
+  FERTILIZER_COCOA:
+    name: '&aOrganic Fertilizer'
+    lore:
+    - '&7Content: &9Cocoa beans'
+  DUCT_TAPE:
+    name: '&8Duct Tape'
+    lore:
+    - ''
+    - '&fYou can repair Items using this'
+    - '&fin an Auto-Anvil'
+  SIFTED_ORE:
+    name: '&6Sifted Ore'
+  ORGANIC_FOOD_SEEDS:
+    name: '&aOrganic Food'
+    lore:
+    - '&7Content: &9Seeds'
+  ORGANIC_FOOD_APPLE:
+    name: '&aOrganic Food'
+    lore:
+    - '&7Content: &9Apple'
+  FERTILIZER_WHEAT:
+    name: '&aOrganic Fertilizer'
+    lore:
+    - '&7Content: &9Wheat'
+  FERTILIZER_SEEDS:
+    name: '&aOrganic Fertilizer'
+    lore:
+    - '&7Content: &9Seeds'
+  ORGANIC_FOOD_WHEAT:
+    name: '&aOrganic Food'
+    lore:
+    - '&7Content: &9Wheat'
+  FERTILIZER_APPLE:
+    name: '&aOrganic Fertilizer'
+    lore:
+    - '&7Content: &9Apple'
+  FERTILIZER_CARROT:
+    name: '&aOrganic Fertilizer'
+    lore:
+    - '&7Content: &9Carrots'
+  FERTILIZER_SEAGRASS:
+    name: '&aOrganic Fertilizer'
+    lore:
+    - '&7Content: &9Seagrass'
+  STONE_CHUNK:
+    name: '&6Stone Chunk'
+  PULVERIZED_ORE:
+    name: '&6Pulverized Ore'
+  FERTILIZER_KELP:
+    name: '&aOrganic Fertilizer'
+    lore:
+    - '&7Content: &9Dried Kelp'
+  CLOTH:
+    name: '&bCloth'
+  FERTILIZER_BEETROOT:
+    name: '&aOrganic Fertilizer'
+    lore:
+    - '&7Content: &9Beetroot'
+  HEAVY_CREAM:
+    name: '&fHeavy Cream'
+  ORGANIC_FOOD_POTATO:
+    name: '&aOrganic Food'
+    lore:
+    - '&7Content: &9Potatoes'
+  CHAIN:
+    name: '&bChain'
+  SALT:
+    name: '&fSalt'
+  CAN:
+    name: '&fTin Can'
+  REINFORCED_PLATE:
+    name: '&7Reinforced Plate'
+  ORGANIC_FOOD_CARROT:
+    name: '&aOrganic Food'
+    lore:
+    - '&7Content: &9Carrots'
+  BUTTER:
+    name: '&fButter'
+  CRUSHED_ORE:
+    name: '&6Crushed Ore'
+  CHEESE:
+    name: '&fCheese'
+  SMALL_URANIUM:
+    name: '&cSmall Chunk of Uranium'
+    lore:
+    - ''
+    - '&a☢&7 Radiation level: &eMODERATE'
+    - '&8⇨ &4Hazmat Suit required!'
+  FERTILIZER_POTATO:
+    name: '&aOrganic Fertilizer'
+    lore:
+    - '&7Content: &9Potatoes'
+  FERTILIZER_SWEET_BERRIES:
+    name: '&aOrganic Fertilizer'
+    lore:
+    - '&7Content: &9Sweet Berries'
