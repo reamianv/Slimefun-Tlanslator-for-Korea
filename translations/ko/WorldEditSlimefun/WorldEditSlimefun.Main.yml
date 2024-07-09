@@ -3,5 +3,5 @@ translations:
   WESF_WAND:
     name: '&f(WESF) Selection Wand'
     lore:
-    - '&fLeft Click to select position 1'
-    - '&fRight Click to select position 2'
+    - '&f왼쪽 클릭을 통해 위치 1을 선택합니다'
+    - '&f마우스 오른쪽 버튼을 클릭하여 위치 2를 선택합니다2'

@@ -1,12 +1,12 @@
 name: AlchimiaVitae
 translations:
   AV_DAMASCUS_STEEL_INGOT:
-    name: '&bDamascus Steel Ingot'
+    name: '&bDamascus Steel Ingot&7(다마스커스 강철 주괴)'
   AV_HARDENED_METAL_INGOT:
-    name: '&b&lHardened Metal'
+    name: '&b&lHardened Metal(강화된 금속 주괴)'
   AV_REINFORCED_ALLOY_INGOT:
-    name: '&b&lReinforced Alloy Ingot'
+    name: '&b&lReinforced Alloy Ingot(강화 합금 주괴)'
   AV_STEEL_INGOT:
-    name: '&bSteel Ingot'
+    name: '&bSteel Ingot&7(강철 주괴)'
   AV_COMPRESSED_CARBON:
-    name: '&cCompressed Carbon'
+    name: '&cCompressed Carbon&7(압축된 카본)'

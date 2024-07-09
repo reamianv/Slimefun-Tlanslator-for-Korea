@@ -2,151 +2,168 @@ name: AlchimiaVitae
 translations:
   AV_GOOD_ESSENCE:
     name: '&x&2&D&D&A&E&0L&x&2&D&D&D&D&7i&x&2&E&D&F&C&Eg&x&2&E&E&2&C&6h&x&2&E&E&4&B&Dt&x&2&F&E&7&B&4
-      &x&2&F&E&9&A&BE&x&2&F&E&C&A&2s&x&3&0&E&E&9&9s&x&3&0&F&1&9&1e&x&3&0&F&3&8&8n&x&3&1&F&6&7&Fc&x&3&1&F&8&7&6e'
+      &x&2&F&E&9&A&BE&x&2&F&E&C&A&2s&x&3&0&E&E&9&9s&x&3&0&F&1&9&1e&x&3&0&F&3&8&8n&x&3&1&F&6&7&Fc&x&3&1&F&8&7&6e&r
+      &7(좋은 정수)'
     lore:
-    - '&aPulsates with luminescence'
+    - '&a빛을 발산합니다.'
     - ''
-    - '&9Processed Magic Resource (&9&oAlchimiaVitae)'
+    - '&9가공된 마법 지원 (&9&oAlchimiaVitae)'
   AV_SOUL_COLLECTOR:
     name: '&x&6&B&A&E&F&AS&x&6&B&A&6&F&4o&x&6&C&9&E&E&Fu&x&6&C&9&6&E&9l&x&6&D&8&E&E&3
-      &x&6&D&8&6&D&EC&x&6&E&7&E&D&8o&x&6&E&7&5&D&2l&x&6&F&6&D&C&Cl&x&6&F&6&5&C&7e&x&7&0&5&D&C&1c&x&7&0&5&5&B&Bt&x&7&1&4&D&B&6o&x&7&1&4&5&B&0r'
+      &x&6&D&8&6&D&EC&x&6&E&7&E&D&8o&x&6&E&7&5&D&2l&x&6&F&6&D&C&Cl&x&6&F&6&5&C&7e&x&7&0&5&D&C&1c&x&7&0&5&5&B&Bt&x&7&1&4&D&B&6o&x&7&1&4&5&B&0r
+      &7(영혼 콜렉터)'
     lore:
-    - '&bExtracts souls'
+    - '&b영혼을 추출합니다'
     - ''
-    - '&7Killed mobs will drop souls'
-    - '&73x EXP drops from all mobs'
-    - '&7Wither-related mobs will'
-    - '&7drop additional souls'
+    - '&7죽인 몹은 영혼을 드랍합니다.'
+    - '&73x 의 경험치를 드랍합니다.'
+    - '&7위더와 관련된 몹은'
+    - '&7영혼을 추가로 드롭합니다.'
     - ''
-    - '&9Tool (&9&oAlchimiaVitae)'
+    - '&9도구 (&9&oAlchimiaVitae)'
   AV_MOLTEN_MYSTERY_METAL:
     name: '&x&F&F&6&7&4&5M&x&F&F&6&6&4&6o&x&F&F&6&5&4&7l&x&F&F&6&4&4&8t&x&F&F&6&3&4&8e&x&F&F&6&2&4&9n&x&F&F&6&1&4&A
       &x&F&F&6&0&4&BM&x&F&F&5&F&4&Cy&x&F&F&5&E&4&Dst&x&F&F&5&D&4&Ee&x&F&F&5&C&4&Fr&x&F&F&5&B&5&0y&x&F&F&5&A&5&1
-      &x&F&F&5&9&5&2M&x&F&F&5&8&5&2e&x&F&F&5&7&5&3t&x&F&F&5&6&5&4a&cl'
+      &x&F&F&5&9&5&2M&x&F&F&5&8&5&2e&x&F&F&5&7&5&3t&x&F&F&5&6&5&4a&cl
+      &7(융해된 미스터리 금속)'
     lore:
-    - '&6A conglomerate of different metals'
+    - '&6다양한 금속의 집합체입니다.'
     - ''
-    - '&9Transmutation Resource (&9&oAlchimiaVitae)'
+    - '&9변환 리소스 (&9&oAlchimiaVitae)'
   AV_POTION_OF_OSMOSIS:
     name: '&x&6&2&7&4&E&7P&x&6&4&7&2&E&3o&x&6&7&7&0&D&Ft&x&6&9&6&E&D&Ai&x&6&B&6&C&D&6o&x&6&E&6&9&D&2n&x&7&0&6&7&C&E
-      &x&7&2&6&5&C&9o&x&7&5&6&3&C&5f&x&7&7&6&1&C&1 &x&7&9&5&F&B&DO&x&7&B&5&D&B&8s&x&7&E&5&B&B&4m&x&8&0&5&8&B&0o&x&8&2&5&6&A&Cs&x&8&5&5&4&A&7i&x&8&7&5&2&A&3s'
+      &x&7&2&6&5&C&9o&x&7&5&6&3&C&5f&x&7&7&6&1&C&1 &x&7&9&5&F&B&DO&x&7&B&5&D&B&8s&x&7&E&5&B&B&4m&x&8&0&5&8&B&0o&x&8&2&5&6&A&Cs&x&8&5&5&4&A&7i&x&8&7&5&2&A&3s
+      &7(흡수 포션)'
     lore:
-    - '&6Absorbs your potion effects'
-    - '&6and stores them in a bottle on &eRight Click'
+    - '&6물약 효과를 흡수 할 수 있고'
+    - '&e우클릭으로 &6효과를 병에 저장할 수 있습니다.'
     - ''
-    - '&9Potion (&9&oAlchimiaVitae)'
+    - '&9포션 (&9&oAlchimiaVitae)'
   AV_EXP_CRYSTALLIZER:
     name: '&x&5&0&F&A&7&5E&x&4&F&F&8&7&Bx&x&4&E&F&6&8&2p&x&4&D&F&5&8&8e&x&4&D&F&3&8&Er&x&4&C&F&1&9&4i&x&4&B&E&F&9&Be&x&4&A&E&D&A&1n&x&4&9&E&B&A&7c&x&4&8&E&A&A&De&x&4&7&E&8&B&4
-      &x&4&7&E&6&B&AC&x&4&6&E&4&C&0r&x&4&5&E&2&C&7y&x&4&4&E&1&C&Ds&x&4&3&D&F&D&3t&x&4&2&D&D&D&9a&x&4&1&D&B&E&0l&x&4&0&D&9&E&6l&x&4&0&D&7&E&Ci&x&3&F&D&6&F&2z&x&3&E&D&4&F&9e&x&3&D&D&2&F&Fr'
+      &x&4&7&E&6&B&AC&x&4&6&E&4&C&0r&x&4&5&E&2&C&7y&x&4&4&E&1&C&Ds&x&4&3&D&F&D&3t&x&4&2&D&D&D&9a&x&4&1&D&B&E&0l&x&4&0&D&9&E&6l&x&4&0&D&7&E&Ci&x&3&F&D&6&F&2z&x&3&E&D&4&F&9e&x&3&D&D&2&F&Fr
+      &7(EXP 결정화기)'
     lore:
-    - '&aForms experience into a crystalline,'
-    - '&adurable, and stable form'
+    - '&a경험치를 결정체로 형성하여,'
+    - '&a내구성이 뛰어나고 안정된 형태로 만듭니다'
     - ''
-    - '&4End-Game Machine'
-    - '&8⇨ &b⚡ &7Speed: &b1.0x'
+    - '&4최종 단계 기계'
+    - '&8⇨ &b⚡ &7속도: &b1.0x'
     - '&8⇨ &e⚡ &732 J/s'
     - ''
     - '&9Machine (&9&oAlchimiaVitae)'
   AV_BENEVOLENT_BREW_POTION:
     name: '&x&2&D&D&A&E&0B&x&2&D&D&C&D&8e&x&2&E&D&E&D&1n&x&2&E&E&0&C&9e&x&2&E&E&3&C&2v&x&2&E&E&5&B&Ao&x&2&F&E&7&B&3l&x&2&F&E&9&A&Be&x&2&F&E&B&A&3n&x&3&0&E&D&9&Ct&x&3&0&E&F&9&4
-      &x&3&0&F&2&8&DB&x&3&0&F&4&8&5r&x&3&1&F&6&7&Ee&x&3&1&F&8&7&6w'
+      &x&3&0&F&2&8&DB&x&3&0&F&4&8&5r&x&3&1&F&6&7&Ee&x&3&1&F&8&7&6w
+      &7(자비로운 양조 물약)'
     lore:
     - ''
-    - '&9Potion (&9&oAlchimiaVitae)'
+    - '&9포션 (&9&oAlchimiaVitae)'
   AV_GOOD_MAGIC_PLANT:
     name: '&x&2&D&D&A&E&0P&x&2&D&D&C&D&Al&x&2&D&D&D&D&5a&x&2&E&D&F&C&Fn&x&2&E&E&0&C&At&x&2&E&E&2&C&4
       &x&2&E&E&3&B&Fo&x&2&E&E&5&B&9f&x&2&F&E&7&B&3 &x&2&F&E&8&A&EL&x&2&F&E&A&A&8i&x&2&F&E&B&A&3g&x&3&0&E&D&9&Dh&x&3&0&E&F&9&7t&x&3&0&F&0&9&2
-      &x&3&0&F&2&8&CM&x&3&0&F&3&8&7a&x&3&1&F&5&8&1g&x&3&1&F&6&7&Ci&x&3&1&F&8&7&6c'
+      &x&3&0&F&2&8&CM&x&3&0&F&3&8&7a&x&3&1&F&5&8&1g&x&3&1&F&6&7&Ci&x&3&1&F&8&7&6c
+      &7(좋은 마법 식물)'
     lore:
-    - '&aRadiates an empyreal glow'
+    - '&a이 식물은 신성한 빛을 내뿜습니다.'
     - ''
-    - '&9Base Magic Resource (&9&oAlchimiaVitae)'
+    - '&9기본 마법 자원 (&9&oAlchimiaVitae)'
   AV_ORNATE_CAULDRON:
     name: '&x&5&7&E&B&B&EC&x&6&2&E&C&B&3o&x&6&E&E&D&A&9s&x&7&9&E&E&9&Em&x&8&4&E&F&9&4i&x&9&0&F&0&8&9c&x&9&B&F&1&7&F
-      &x&A&7&F&3&7&4C&x&B&2&F&4&6&9a&x&B&D&F&5&5&Fu&x&C&9&F&6&5&4l&x&D&4&F&7&4&Ad&x&D&F&F&8&3&Fr&x&E&B&F&9&3&5o&x&F&6&F&A&2&An'
+      &x&A&7&F&3&7&4C&x&B&2&F&4&6&9a&x&B&D&F&5&5&Fu&x&C&9&F&6&5&4l&x&D&4&F&7&4&Ad&x&D&F&F&8&3&Fr&x&E&B&F&9&3&5o&x&F&6&F&A&2&An
+      &7(화려한 가마솥)'
     lore:
-    - '&2An altar for brewing advanced potions'
+    - '&2고급 물약을 양조하기 위한 제단'
     - ''
-    - '&9Altar (&9&oAlchimiaVitae)'
+    - '&9제단 (&9&oAlchimiaVitae)'
   AV_EVIL_ESSENCE:
-    name: '&cD&x&F&F&5&C&4&Fa&x&F&F&6&3&4&9r&x&F&F&6&9&4&3k&x&F&F&7&0&3&D &x&F&F&7&7&3&7E&x&F&F&7&E&3&0s&x&F&F&8&5&2&As&x&F&F&8&C&2&4e&x&F&F&9&2&1&En&x&F&F&9&9&1&8c&x&F&F&A&0&1&2e'
+    name: '&cD&x&F&F&5&C&4&Fa&x&F&F&6&3&4&9r&x&F&F&6&9&4&3k&x&F&F&7&0&3&D &x&F&F&7&7&3&7E&x&F&F&7&E&3&0s&x&F&F&8&5&2&As&x&F&F&8&C&2&4e&x&F&F&9&2&1&En&x&F&F&9&9&1&8c&x&F&F&A&0&1&2e
+    &7(사악한 정수)'
     lore:
-    - '&cAbsorbs light like a'
-    - '&csponge absorbs water'
+    - '&c스펀지가 물을 흡수하듯'
+    - '&c빛을 흡수합니다.'
     - ''
-    - '&9Processed Magic Resource (&9&oAlchimiaVitae)'
+    - '&9처리된 마법 자원 (&9&oAlchimiaVitae)'
   AV_MYSTERY_METAL:
     name: '&x&F&F&6&7&4&5M&x&F&F&6&6&4&6y&x&F&F&6&5&4&7s&x&F&F&6&4&4&8t&x&F&F&6&3&4&9e&x&F&F&6&2&4&9r&x&F&F&6&1&4&Ay&x&F&F&6&0&4&B
       &x&F&F&5&F&4&CM&x&F&F&5&E&4&De&x&F&F&5&D&4&Et&x&F&F&5&C&4&Fa&x&F&F&5&B&5&0l&x&F&F&5&A&5&1
-      &x&F&F&5&9&5&1I&x&F&F&5&8&5&2n&x&F&F&5&7&5&3g&x&F&F&5&6&5&4o&ct'
+      &x&F&F&5&9&5&1I&x&F&F&5&8&5&2n&x&F&F&5&7&5&3g&x&F&F&5&6&5&4o&ct
+      &7(미스터리 금속)'
     lore:
-    - '&6Contains many metals'
+    - '&6많은 금속이 포함되어 있습니다.'
     - ''
-    - '&9Transmutation Resource (&9&oAlchimiaVitae)'
+    - '&9변환 리소스 (&9&oAlchimiaVitae)'
   AV_EVIL_MAGIC_PLANT:
     name: '&cP&x&F&F&5&9&5&1l&x&F&F&5&D&4&Ea&x&F&F&6&2&4&An&x&F&F&6&6&4&6t&x&F&F&6&A&4&2
       &x&F&F&6&E&3&Fo&x&F&F&7&2&3&Bf&x&F&F&7&6&3&7 &x&F&F&7&B&3&4D&x&F&F&7&F&3&0a&x&F&F&8&3&2&Cr&x&F&F&8&7&2&8k&x&F&F&8&B&2&5
-      &x&F&F&8&F&2&1M&x&F&F&9&4&1&Da&x&F&F&9&8&1&9g&x&F&F&9&C&1&6i&x&F&F&A&0&1&2c'
+      &x&F&F&8&F&2&1M&x&F&F&9&4&1&Da&x&F&F&9&8&1&9g&x&F&F&9&C&1&6i&x&F&F&A&0&1&2c
+      &7(사악한 마법 식물)'
     lore:
-    - '&cIt''s taking in a bit too much'
-    - '&clight to be photosynthesizing'
+    - '&c조금 너무 많은 빛을 받아서'
+    - '&c광합성을 하는 것 같아보인다'
     - ''
-    - '&9Base Magic Resource (&9&oAlchimiaVitae)'
+    - '&9기본 마법 리소스 (&9&oAlchimiaVitae)'
   AV_DARKSTEEL:
     name: '&cD&x&F&F&5&A&5&0a&x&F&F&6&0&4&Br&x&F&F&6&5&4&7k&x&F&F&6&A&4&2s&x&F&F&7&0&3&Dt&x&F&F&7&5&3&8e&x&F&F&7&B&3&4e&x&F&F&8&0&2&Fl&x&F&F&8&5&2&A
-      &x&F&F&8&B&2&5I&x&F&F&9&0&2&0n&x&F&F&9&5&1&Cg&x&F&F&9&B&1&7o&x&F&F&A&0&1&2t'
+      &x&F&F&8&B&2&5I&x&F&F&9&0&2&0n&x&F&F&9&5&1&Cg&x&F&F&9&B&1&7o&x&F&F&A&0&1&2t
+      &7(어두운 강철)'
     lore:
-    - '&cIt radiates... with darkness?'
+    - '&c어둠으로...빛이 난다고요?'
     - ''
-    - '&9Enriched Magic Resource (&9&oAlchimiaVitae)'
+    - '&9강화된 마법 자원 (&9&oAlchimiaVitae)'
   AV_EXP_CRYSTAL:
     name: '&x&5&0&F&A&7&5E&x&4&F&F&8&7&Dx&x&4&E&F&5&8&5p&x&4&D&F&3&8&De&x&4&C&F&1&9&5r&x&4&A&E&E&9&Ei&x&4&9&E&C&A&6e&x&4&8&E&A&A&En&x&4&7&E&7&B&6c&x&4&6&E&5&B&Ee&x&4&5&E&2&C&6
-      &x&4&4&E&0&C&EC&x&4&3&D&E&D&6r&x&4&1&D&B&D&Fy&x&4&0&D&9&E&7s&x&3&F&D&7&E&Ft&x&3&E&D&4&F&7a&x&3&D&D&2&F&Fl'
+      &x&4&4&E&0&C&EC&x&4&3&D&E&D&6r&x&4&1&D&B&D&Fy&x&4&0&D&9&E&7s&x&3&F&D&7&E&Ft&x&3&E&D&4&F&7a&x&3&D&D&2&F&Fl
+      &7EXP 크리스탈'
     lore:
-    - '&aCrystallized.'
+    - '&a결정화됨.'
     - ''
-    - '&9Base Magic Resource (&9&oAlchimiaVitae)'
+    - '&9기본 마법 리소스 (&9&oAlchimiaVitae)'
   AV_MALEVOLENT_CONCOCTION_SPLASH_POTION:
     name: '&cM&x&F&F&5&9&5&2a&x&F&F&5&D&4&El&x&F&F&6&0&4&Be&x&F&F&6&4&4&8v&x&F&F&6&8&4&4o&x&F&F&6&C&4&1l&x&F&F&6&F&3&Ee&x&F&F&7&3&3&An&x&F&F&7&7&3&7t&x&F&F&7&B&3&4
-      &x&F&F&7&E&3&0C&x&F&F&8&2&2&Do&x&F&F&8&6&2&9n&x&F&F&8&A&2&6c&x&F&F&8&D&2&3o&x&F&F&9&1&1&Fc&x&F&F&9&5&1&Ct&x&F&F&9&9&1&9i&x&F&F&9&C&1&5o&x&F&F&A&0&1&2n'
+      &x&F&F&7&E&3&0C&x&F&F&8&2&2&Do&x&F&F&8&6&2&9n&x&F&F&8&A&2&6c&x&F&F&8&D&2&3o&x&F&F&9&1&1&Fc&x&F&F&9&5&1&Ct&x&F&F&9&9&1&9i&x&F&F&9&C&1&5o&x&F&F&A&0&1&2n
+      &7잔류형 악의적인 혼합 물약'
     lore:
     - ''
-    - '&9Potion (&9&oAlchimiaVitae)'
+    - '&9포션 (&9&oAlchimiaVitae)'
   AV_PLANT_INFUSION_CHAMBER:
     name: '&x&5&4&9&C&6&4P&x&5&1&9&F&6&5l&x&4&F&A&2&6&6a&x&4&C&A&6&6&7n&x&4&A&A&9&6&8t&x&4&7&A&C&6&9
       &x&4&4&A&F&6&AI&x&4&2&B&3&6&Bn&x&3&F&B&6&6&Cf&x&3&C&B&9&6&Du&x&3&A&B&C&6&Es&x&3&7&C&0&6&Ei&x&3&5&C&3&6&Fo&x&3&2&C&6&7&0n&x&2&F&C&9&7&1
-      &x&2&D&C&D&7&2C&x&2&A&D&0&7&3h&x&2&7&D&3&7&4a&x&2&5&D&6&7&5m&x&2&2&D&A&7&6b&x&2&0&D&D&7&7e&x&1&D&E&0&7&8r'
+      &x&2&D&C&D&7&2C&x&2&A&D&0&7&3h&x&2&7&D&3&7&4a&x&2&5&D&6&7&5m&x&2&2&D&A&7&6b&x&2&0&D&D&7&7e&x&1&D&E&0&7&8r
+      &7(식물 주입 챔버)'
     lore:
-    - '&bInfuses plants with dark'
-    - '&bor light energy using'
-    - '&bMagical Lumps and Souls'
+    - '&bMagical Lumps 와 Souls을 사용하여'
+    - '&b식물에 어둠 또는 빛 에너지를 주입할 수 있습니다.'
     - ''
-    - '&4End-Game Machine'
+    - '&4최종 단계 기계'
     - '&8⇨ &b⚡ &7Speed: &b1.0x'
     - '&8⇨ &e⚡ &764 J/s'
     - ''
-    - '&9Machine (&9&oAlchimiaVitae)'
+    - '&9기계 (&9&oAlchimiaVitae)'
   AV_CONDENSED_SOUL:
     name: '&x&6&B&A&E&F&AC&x&6&B&A&6&F&4o&x&6&C&9&E&E&Fn&x&6&C&9&6&E&9d&x&6&D&8&E&E&3e&x&6&D&8&6&D&En&x&6&E&7&E&D&8s&x&6&E&7&5&D&2e&x&6&F&6&D&C&Cd&x&6&F&6&5&C&7
-      &x&7&0&5&D&C&1S&x&7&0&5&5&B&Bo&x&7&1&4&D&B&6u&x&7&1&4&5&B&0l'
+      &x&7&0&5&D&C&1S&x&7&0&5&5&B&Bo&x&7&1&4&D&B&6u&x&7&1&4&5&B&0l
+      &7(응축된 영혼)'
     lore:
-    - '&bA soul, condensed into an orb'
-    - '&9&oPerhaps there is a way'
-    - '&9&oto manipulate its power...'
+    - '&b영혼이 구체로 응축되었습니다'
+    - '&9&o어쩌면 그 힘을 조작할 방법이'
+    - '&9&o있을지도 모릅니다...r...'
     - ''
-    - '&9Raw Magic Resource (&9&oAlchimiaVitae)'
+    - '&9원시 마법 리소스 (&9&oAlchimiaVitae)'
   AV_ILLUMIUM:
     name: '&x&2&D&D&A&E&0I&x&2&D&D&C&D&8l&x&2&E&D&F&D&0l&x&2&E&E&1&C&8u&x&2&E&E&3&B&Fm&x&2&F&E&6&B&7i&x&2&F&E&8&A&Fu&x&2&F&E&A&A&7m&x&2&F&E&C&9&F
-      &x&3&0&E&F&9&7I&x&3&0&F&1&8&En&x&3&0&F&3&8&6g&x&3&1&F&6&7&Eo&x&3&1&F&8&7&6t'
+      &x&3&0&E&F&9&7I&x&3&0&F&1&8&En&x&3&0&F&3&8&6g&x&3&1&F&6&7&Eo&x&3&1&F&8&7&6t
+      &7(일루미윰)'
     lore:
-    - '&aIt energetically effuses light in your hand'
+    - '&a당신의 손에 빛을 에너지적으로 방출합니다'
     - ''
-    - '&9Enriched Magic Resource (&9&oAlchimiaVitae)'
+    - '&9강화된 마법 자원 (&9&oAlchimiaVitae)'
   AV_DIVINE_ALTAR:
     name: '&cD&x&F&F&5&7&6&4i&x&F&F&5&9&7&4v&x&F&F&5&B&8&3i&x&F&F&5&D&9&2n&x&F&F&5&F&A&1e&x&F&F&6&2&B&1
-      &x&F&F&6&4&C&0A&x&F&F&6&6&C&Fl&x&F&F&6&8&D&Et&x&F&F&6&A&E&Ea&x&F&F&6&C&F&Dr'
+      &x&F&F&6&4&C&0A&x&F&F&6&6&C&Fl&x&F&F&6&8&D&Et&x&F&F&6&A&E&Ea&x&F&F&6&C&F&Dr
+      &7(신성한 제단)'
     lore:
-    - '&5A sacred apparatus for the'
-    - '&5performance of ancient rituals'
+    - '&5고대 의식을 위해 사용되는'
+    - '&5신성한 제단 입니다.'
     - ''
-    - '&9Altar (&9&oAlchimiaVitae)'
+    - '&9제단 (&9&oAlchimiaVitae)'

@@ -1,57 +1,58 @@
 name: BetterReactor
 translations:
   HEATED_COOLANT:
-    name: Heated Coolant
+    name: Heated Coolant &7(가열된 냉각수)
     lore:
     - ''
   REACTOR_OUTPUT:
-    name: Reactor Output
+    name: Reactor Output &7(원자로 출력)
     lore:
     - ''
-    - '&cRed &7in &bReactor Core Hologram'
+    - '&9원자로 코어 &b홀로그램 &77안 &c붉은색 부분'
   BORIUM:
-    name: Borium
+    name: Borium &7(붕소)
     lore:
     - ''
   SUPER_FREEZER:
-    name: Super Freezer
+    name: Super Freezer &7(초강력 냉각기)
     lore:
     - ''
-    - '&7(&cWarning!&7 more inputs needed for good flow of items)'
-    - '&7Water instantly to coolant'
+    - '&7(&c경고!&7 아이템의 원활한 흐름을 위해 더 많은 입력이 필요합니다.)'
+    - '&7물을 즉시 냉각제로 변환합니다'
     - '&8⇨ &e⚡ &750 J/s'
   REACTOR_INPUT:
-    name: Reactor Input
+    name: Reactor Input &7(원자로 입력)
     lore:
     - ''
-    - '&9Blue &7in &bReactor Core Hologram'
+    - '&9원자로 코어 &b홀로그램 &7안 &a파란색 부분'
+
   LEAD_GLASS:
-    name: Lead Glass
+    name: Lead Glass &7(납유리)
     lore:
     - ''
-    - '&7Gray in &bReactor Core Hologram'
+    - '&7회색 &b원자로 코어 홀로그램'
   REACTOR_HATCH:
-    name: Reactor Hatch
+    name: Reactor Hatch&7(원자로 개구부)
     lore:
     - ''
-    - '&aGreen &7in &bReactor Core Hologram'
+    - '&9원자로 코어 &b홀로그램 &7안 &a초록색 부분'
   REACTOR_CORE:
-    name: Reactor Core
+    name: Reactor Core &7(원자로 중심)
     lore:
     - ''
-    - '&4End-Game Generator'
-    - '&8⇨ &e⚡ &716384 J Buffer'
+    - '&4최종 단계 생성기'
+    - '&8⇨ &e⚡ &716384 J 버퍼'
     - '&8⇨ &e⚡ &716384 J/s'
-    - '&8⇨ &e⚡ &7Lasts 1200t'
-    - '&8⇨ &e⚡ &7In total: 9.83M J'
-    - '&7Core of Reactor, &bshows Reactor Core Hologram'
+    - '&8⇨ &e⚡ &7지속시간: 1200t'
+    - '&8⇨ &e⚡ &7총 지속시간: 9.83m J'
+    - '&7원자로의 핵심, &b원자로의 핵심 홀로그램을 보여줌'
   BORIUM_ROD:
-    name: Borium Rod
+    name: Borium Rod &7(붕소 막대기)
     lore:
     - ''
-    - '&6Orange &7in &bReactor Core Hologram'
+    - '&9원자로 코어 &b홀로그램 &7안 &6파란색 부분'
   LEAD_BLOCK:
-    name: Lead Block
+    name: Lead Block &7(납 블록)
     lore:
     - ''
-    - '&fWhite &7in &bReactor Core Hologram'
+    - '&9원자로 코어 &b홀로그램 &7안 &f휜 색 부분'

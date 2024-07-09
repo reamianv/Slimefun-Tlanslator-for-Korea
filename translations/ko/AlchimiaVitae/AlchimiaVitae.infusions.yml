@@ -1,58 +1,67 @@
 name: AlchimiaVitae
 translations:
   AV_DESTRUCTIVE_CRITS_INFUSION:
-    name: '&c&lDestructive Criticals'
+    name: '&c&lDestructive Criticals
+    &7(파괴적인 크리티컬)'
     lore:
-    - '&4Grants a small chance to give your opponent'
-    - '&4negative status effects on a critical hit,'
-    - '&4as well as deal additional damage to armor.'
+    - '&4치명타를 주었을 때 상대방에게'
+    - '&4낮은 확률로 디버프 효과를 부여고,'
+    - '&4또한 방어구에 추가 피해를 입힙니다.'
   AV_TOTEM_BATTERY_INFUSION:
-    name: '&6&lTotem Battery'
+    name: '&6&lTotem Battery
+    &7(토템 배터리)'
     lore:
-    - '&6Stores up to 8 Totems of Undying which will resurrect you'
-    - '&eStore a totem by &7&lShift-Right-Clicking &ewhile holding'
-    - '&eone and while an infused chestplate is worn'
+    - '&6죽지 않 토템을 최대 8개까지 저장할 수 있습니다'
+    - '&e들고 있는 동안 &7&lShift + 우클릭 &e로 토템을 저장할 수 있습니다.'
+    - '토템을 저장하려면 주입된 갑옷을 착용해야 합니다.'
   AV_AUTO_REPLANT_INFUSION:
-    name: '&aAutomatic Re-plant'
+    name: '&aAutomatic Re-plant&7(자동 재배치)'
     lore:
-    - '&2Grants the ability to automatically replant'
-    - '&2fully grown crops when harvesting them'
+    - '&2완전히 자란 작물을 수확할 때'
+    - '&2자동으로 다시 심는 기능을 부여합니다.'
   AV_HEALING_INFUSION:
-    name: '&cHealing'
+    name: '&cHealing
+    &7(치유)'
     lore:
-    - '&cGrants the ability to heal hit'
-    - '&ctargets instead of harming them'
+    - '&c공격 한 대상에게 피해를 입히지 않고 '
+    - '&c타격 시 치유 능력을 부여합니다.'
   AV_KNOCKBACK_INFUSION:
-    name: '&aKnockback'
+    name: '&aKnockback
+    &7(넉백)'
     lore:
-    - '&aPushes targets away instead'
-    - '&aof pulling them towards you'
+    - '&a목표물을 자신에게 끌어당기지 않고'
+    - '&a멀리 밀어냅니다.'
   AV_FORCEFUL_INFUSION:
-    name: '&2Forceful'
+    name: '&2Forceful
+    &7(힘)'
     lore:
-    - '&2Grants the ability to fire arrows that'
-    - '&2travel further and deal more damage'
+    - '&2더 멀리 이동하고 더 많은 피해를 주는 '
+    - '&2화살을 발사할 수 있는 능력을 부여합니다.'
   AV_ALTAR_OF_INFUSION:
     name: '&x&F&7&8&7&7&0A&x&F&8&8&5&7&1l&x&F&8&8&2&7&1t&x&F&9&8&0&7&2a&x&F&9&7&D&7&3r&x&F&A&7&B&7&3
-      &x&F&A&7&8&7&4o&x&F&B&7&6&7&5f&x&F&B&7&4&7&6 &x&F&C&7&1&7&6I&x&F&C&6&F&7&7n&x&F&D&6&C&7&8f&x&F&D&6&A&7&8u&x&F&E&6&7&7&9s&x&F&E&6&5&7&Ai&x&F&F&6&2&7&Ao&x&F&F&6&0&7&Bn'
+      &x&F&A&7&8&7&4o&x&F&B&7&6&7&5f&x&F&B&7&4&7&6 &x&F&C&7&1&7&6I&x&F&C&6&F&7&7n&x&F&D&6&C&7&8f&x&F&D&6&A&7&8u&x&F&E&6&7&7&9s&x&F&E&6&5&7&Ai&x&F&F&6&2&7&Ao&x&F&F&6&0&7&Bn
+      &7(주입 제단)'
     lore:
-    - '&5Adds powerful effects to tools'
+    - '&5도구에 강력한 효과를 추가합니다.'
     - ''
-    - '&7Only works on gold, iron, diamond, netherite and'
-    - '&7gear, as well as fishing rods, bows, and crossbows'
+    - '&7금, 철, 다이아몬드, 네더라이트 장비와'
+    - '&7낚싯대, 활, 그리고 석궁에만 작동합니다'
     - ''
-    - '&9Altar (&9&oAlchimiaVitae)'
+    - '&9제단 (&9&oAlchimiaVitae)'
   AV_TRUE_AIM_INFUSION:
-    name: '&dTrue Aim'
+    name: '&dTrue Aim
+    &7(진실된 에임)'
     lore:
-    - '&5Grants the ability to fire arrows'
-    - '&5that are not affected by gravity'
+    - '&5중력의 영향을 받지 않는 화살을'
+    - '&5발사하는 능력을 부여합니다.'
   AV_PHANTOM_CRITS_INFUSION:
-    name: '&bPhantom Criticals'
+    name: '&bPhantom Criticals
+    &7(유령 크리티컬)'
     lore:
-    - '&7Grants a small chance to deal extra damage'
-    - '&7on a critical hit, which bypasses armor'
+    - '&7크리티컬 공격 시 추가 방어구를'
+    - '&7무시하는 추가 고정 피해를 줍니다.'
   AV_VOLATILE_INFUSION:
-    name: '&4&lVolatility'
+    name: '&4&lVolatility
+    &7(폭발성)'
     lore:
-    - '&cGrants the ability to shoot fireballs'
+    - '&c화염구를 쏠 수 있는 능력을 부여합니다.'

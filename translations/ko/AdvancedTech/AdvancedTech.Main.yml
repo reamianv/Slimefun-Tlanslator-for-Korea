@@ -1,49 +1,57 @@
 name: AdvancedTech
 translations:
   FIRE_CAKE:
-    name: '&aFire Cake'
+    name: '&aFire Cake
+    &7(불타는 케이크)'
     lore:
-    - Be Careful...
-    - '&a☢&7 Radiation level: &6HIGH'
+    - 조심하세요...
+    - '&a☢&7 방사능 레벨: &6높음'
   HANDHELD_DIGGER_3:
-    name: '&dCarbonado Handheld Power Digger'
+    name: '&dCarbonado Handheld Power Digger
+    &7(카보네이도 휴대용 파워 굴착기)'
     lore:
-    - '&cAllows you to mine a 7 x 7 Area.'
+    - '&c7 x 7 영역을 채굴할 수 있습니다.'
   HANDHELD_DIGGER_2:
-    name: '&eAdvanced Handheld Power Digger'
+    name: '&eAdvanced Handheld Power Digger
+    &7(고급 휴대용 파워 굴착기)'
     lore:
-    - '&cAllows you to mine a 5 x 5 Area.'
+    - '&c5 x 5 영역을 채굴할 수 있습니다.'
   ADVANCED_SOLAR_GEN:
-    name: '&aAdvanced Solar Generator'
+    name: '&aAdvanced Solar Generator
+    &7(고급 태양열 발전기)'
     lore:
-    - '&cBasics of AdvancedTech.'
-    - '&bThis Has to be Connected Through the Command Hub!'
+    - '&c고급 기술의 기본.'
+    - '&b이것은 Command Hub를 통해 연결해야 합니다!'
     - ''
-    - '&4End-Game Generator'
-    - '&8⇨ &e⚡ &70 J Buffer'
+    - '&4최종 단계 발전기'
+    - '&8⇨ &e⚡ &70 J 버퍼'
     - '&8⇨ &e⚡ &74112 J/s'
   COMMAND_HUB_ENGINE:
-    name: '&cCommand Hub Engine'
+    name: '&cCommand Hub Engine
+    &7(명령 허브 엔진)'
     lore:
-    - '&lEngine For Command Hub'
-    - '&a☢&7 Radiation level: &eMODERATE'
-    - '&8⇨ &4Hazmat Suit required!'
+    - '&lCommand Hub용 엔진'
+    - '&a☢&7 방사능 레벨: &e보통'
+    - '&8⇨ &4Hazmat Suit가 필요합니다!'
   BOOSTED_CARBONADO:
-    name: '&dBoosted Carbonado'
+    name: '&dBoosted Carbonado
+    &7(부스트된 카보네이도)'
     lore:
-    - '&lBlack Diamond V2.0'
+    - '&lBlack Diamond(검은 다이아몬드) V2.0'
   HANDHELD_DIGGER_1:
-    name: '&4Basic Handheld Power Digger'
+    name: '&4Basic Handheld Power Digger
+    &7(기본 휴대용 파워 굴착기)'
     lore:
-    - '&cAllows you to mine a 4 x 4 Area.'
+    - '&c4 x 4 영역을 채굴할 수 있습니다.'
   FRAMED_URANIUM:
-    name: '&dFramed Uranium'
+    name: '&dFramed Uranium
+    &7(액자형 우라늄)'
     lore:
-    - '&lHypercharged Uranium'
-    - '&a☢&7 Radiation level: &4VERY DEADLY'
-    - '&8⇨ &4Hazmat Suit required!'
+    - '&l초충전된 우라늄'
+    - '&a☢&7 방사능 레벨: &4매우 위험'
+    - '&8⇨ &4Hazmat Suit 가 필요합니다!'
   COMMAND_HUB:
-    name: '&eCommand Hub'
+    name: '&eCommand Hub&7(명령 허브)'
     lore:
-    - '&cMain Central Command Hub'
-    - '&a☢&7 Radiation level: &eLOW'
+    - '&c주요 중앙 명령 허브'
+    - '&a☢&7 방사능 레벨: &e낮음'

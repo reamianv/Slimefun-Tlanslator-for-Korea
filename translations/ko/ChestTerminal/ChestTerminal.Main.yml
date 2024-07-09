@@ -1,77 +1,84 @@
 name: ChestTerminal
 translations:
   MILKY_QUARTZ:
-    name: '&fMilky Quartz'
+    name: '&fMilky Quartz
+    &7(유백색 석영)'
   CHEST_TERMINAL:
-    name: '&3CT Access Terminal'
+    name: '&3CT Access Terminal
+    &7(CT 접속 터미널)'
     lore:
-    - '&7If this Block is connected to a'
-    - '&7Cargo Network, it will allow you to remotely'
-    - '&7interact with any Items supplied by'
-    - '&7Nodes tuned into the ChestTerminal Channel'
+    - '&7이 블록이 화물 네트워크에 연결되면'
+    - &7CT 접속 터미널 채널에 조정된 노드에서'
+    - '&7제공하는 모든 아이템과 원격으로'
+    - '&7상호작용할 수 있습니다'
   CT_WIRELESS_ACCESS_TERMINAL_TRANSDIMENSIONAL:
-    name: '&3CT Wireless Access Terminal &b(Transdimensional)'
+    name: '&3CT Wireless Access Terminal &b(Transdimensional)
+    &7(차원간 무선 CT 접속 터미널)'
     lore:
-    - '&8⇨ &7Linked to: &cNowhere'
-    - '&8⇨ &7Range: &eUnlimited'
+    - '&8⇨ &7연결된 위치: &c없음'
+    - '&8⇨ &7범위: &e무제한'
     - '&8⇨ &e⚡ &70 / 50 J'
     - ''
-    - '&7If this Block is linked to an Access Terminal'
-    - '&7it will be able to remotely access that Terminal'
+    - '&7이 블록이 접속 터미널과 연결되면'
+    - '&7해당 터미널에 원격으로 접속 할 수 있습니다'
     - ''
-    - '&eRight Click on an Access Terminal &7to link'
-    - '&eRight Click&7 to open the linked Terminal'
+    - '&e접속 터미널을 오른쪽 클릭 &7하여 연동 할 수 있고'
+    - '&e우클릭&7으로 연결된 터미널에 접근 할 수 있습니다.'
   CT_WIRELESS_ACCESS_TERMINAL_16:
-    name: '&3CT Wireless Access Terminal &b(16)'
+    name: '&3CT Wireless Access Terminal &b(16)
+    &7(무선 접속 CT 터미널 &b(16)'
     lore:
-    - '&8⇨ &7Linked to: &cNowhere'
-    - '&8⇨ &7Range: &e16 Blocks'
+    - '&8⇨ &7연결된 위치: &c없음'
+    - '&8⇨ &7범위: &e16 블록'
     - '&8⇨ &e⚡ &70 / 10 J'
     - ''
-    - '&7If this Block is linked to an Access Terminal'
-    - '&7it will be able to remotely access that Terminal'
+    - '&7이 블록이 접속 터미널에 연동되면'
+    - '&7그 터미널에 원격으로 접속 할 수 있습니다.'
     - ''
-    - '&eRight Click on an Access Terminal &7to link'
-    - '&eRight Click&7 to open the linked Terminal'
+    - '&e접속 터미널을 오른쪽 클릭 &7하여 연동 할 수 있고'
+    - '&e우클릭&7으로 연결된 터미널에 접근 할 수 있습니다.'
   CT_IMPORT_BUS:
-    name: '&3CT Import Bus'
+    name: '&3CT Import Bus
+    &7(CT 터미널 가져오기 버스)'
     lore:
-    - '&7If this Block is connected to a'
-    - '&7Cargo Network, it will pull any Items from'
-    - '&7the Inventory it is attached to and place it'
-    - '&7into the CT Network Channel'
+    - '&7이 블록이 Cargo 네트워크에 연결되어 있다면'
+    - '&7이 블록이 연결된 컨테이너에서 아이템을'
+    - '&7가져온 다음, CT 네트워크 채널로 배치합니다.'
   CT_PANEL:
-    name: '&3CT Illuminated Panel'
+    name: '&3CT Illuminated Panel&7
+    (CT 조명 패널)'
     lore:
-    - '&7Crafting Component'
+    - '&7제작 할 때 사용되는 부품'
   CT_EXPORT_BUS:
-    name: '&3CT Export Bus'
+    name: '&3CT Export Bus
+    &7(CT 터미널 내보내기 버스)'
     lore:
-    - '&7If this Block is connected to a'
-    - '&7Cargo Network, it will pull any Items from'
-    - '&7the CT Network Channel and place these'
-    - '&7into the Inventory it is attached to'
+    - '&7이 블록이 Cargo 네트워크에 연결되어 있다면'
+    - '&7이 블록이 CT 네트워크 채널에서 아이템을 가져오고'
+    - '&7연결된 컨테이너에 배치 합니다.'
   CT_WIRELESS_ACCESS_TERMINAL_128:
-    name: '&3CT Wireless Access Terminal &b(128)'
+    name: '&3CT Wireless Access Terminal &b(128)
+    &7(무선 접속 CT 터미널 &b(128)'
     lore:
-    - '&8⇨ &7Linked to: &cNowhere'
-    - '&8⇨ &7Range: &e128 Blocks'
+    - '&8⇨ &7연결된 위치: &c없음'
+    - '&8⇨ &7범위: &e128 블록'
     - '&8⇨ &e⚡ &70 / 50 J'
     - ''
-    - '&7If this Block is linked to an Access Terminal'
-    - '&7it will be able to remotely access that Terminal'
+    - '&7이 블록이 접속 터미널에 연동되면'
+    - '&7그 터미널에 원격으로 접속 할 수 있습니다.'
     - ''
-    - '&eRight Click on an Access Terminal &7to link'
-    - '&eRight Click&7 to open the linked Terminal'
+    - '&e접속 터미널을 오른쪽 클릭 &7하여 연동 할 수 있고'
+    - '&e우클릭&7으로 연결된 터미널에 접근 할 수 있습니다.'
   CT_WIRELESS_ACCESS_TERMINAL_64:
-    name: '&3CT Wireless Access Terminal &b(64)'
+    name: '&3CT Wireless Access Terminal &b(64)
+    &7(무선 접속 CT 터미널 &b(64)'
     lore:
-    - '&8⇨ &7Linked to: &cNowhere'
-    - '&8⇨ &7Range: &e64 Blocks'
+    - '&8⇨ &7연결된 위치: &c없음'
+    - '&8⇨ &7범위: &e64 블록'
     - '&8⇨ &e⚡ &70 / 25 J'
     - ''
-    - '&7If this Block is linked to an Access Terminal'
-    - '&7it will be able to remotely access that Terminal'
+    - '&7이 블록이 접속 터미널에 연동되면'
+    - '&7그 터미널에 원격으로 접속 할 수 있습니다.'
     - ''
-    - '&eRight Click on an Access Terminal &7to link'
-    - '&eRight Click&7 to open the linked Terminal'
+    - '&e접속 터미널을 오른쪽 클릭 &7하여 연동 할 수 있고'
+    - '&e우클릭&7으로 연결된 터미널에 접근 할 수 있습니다.'

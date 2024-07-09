@@ -1,1172 +1,1172 @@
 name: CompressionCraft
 translations:
   JC_LARGE_AMETHYST_BUD_6:
-    name: '&fSextuple Compressed Large Amethyst Bud'
+    name: '&fSextuple Compressed Large Amethyst Bud &7(압축된 큰 자수정 봉오리)'
     lore:
     - '&f262144 Large Amethyst Bud'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_COBBLESTONE_3:
-    name: '&fTriple Compressed Cobblestone'
+    name: '&fTriple Compressed Cobblestone &7(압축된 조약돌)'
     lore:
     - '&f512 Cobblestone'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_COBBLESTONE_4:
-    name: '&fQuadruple Compressed Cobblestone'
+    name: '&fQuadruple Compressed Cobblestone &7(압축된 조약돌)'
     lore:
     - '&f4096 Cobblestone'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_COBBLESTONE_1:
-    name: '&fCompressed Cobblestone'
+    name: '&fCompressed Cobblestone &7(압축된 조약돌)'
     lore:
     - '&f8 Cobblestone'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_COBBLESTONE_2:
-    name: '&fDouble Compressed Cobblestone'
+    name: '&fDouble Compressed Cobblestone &7(압축된 조약돌)'
     lore:
     - '&f64 Cobblestone'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_COBBLESTONE_5:
-    name: '&fQuintuple Compressed Cobblestone'
+    name: '&fQuintuple Compressed Cobblestone &7(압축된 조약돌)'
     lore:
     - '&f32768 Cobblestone'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_COBBLESTONE_6:
-    name: '&fSextuple Compressed Cobblestone'
+    name: '&fSextuple Compressed Cobblestone &7(압축된 조약돌)'
     lore:
     - '&f262144 Cobblestone'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_DIRT_5:
-    name: '&fQuintuple Compressed Dirt'
+    name: '&fQuintuple Compressed Dirt &7(압축된 흙)'
     lore:
     - '&f32768 Dirt'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_DIRT_4:
-    name: '&fQuadruple Compressed Dirt'
+    name: '&fQuadruple Compressed Dirt &7(압축된 흙)'
     lore:
     - '&f4096 Dirt'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_DIRT_3:
-    name: '&fTriple Compressed Dirt'
+    name: '&fTriple Compressed Dirt &7(압축된 흙)'
     lore:
     - '&f512 Dirt'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_DIRT_2:
-    name: '&fDouble Compressed Dirt'
+    name: '&fDouble Compressed Dirt &7(압축된 흙)'
     lore:
     - '&f64 Dirt'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_DIRT_6:
-    name: '&fSextuple Compressed Dirt'
+    name: '&fSextuple Compressed Dirt &7(압축된 흙)'
     lore:
     - '&f262144 Dirt'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_REDSTONE_BLOCK_4:
-    name: '&fQuadruple Compressed Redstone Block'
+    name: '&fQuadruple Compressed Redstone Block &7(압축된 레드스톤 블록)'
     lore:
     - '&f4096 Redstone Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_REDSTONE_BLOCK_3:
-    name: '&fTriple Compressed Redstone Block'
+    name: '&fTriple Compressed Redstone Block &7(압축된 레드스톤 블록)'
     lore:
     - '&f512 Redstone Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_REDSTONE_BLOCK_6:
-    name: '&fSextuple Compressed Redstone Block'
+    name: '&fSextuple Compressed Redstone Block &7(압축된 레드스톤 블록)'
     lore:
     - '&f262144 Redstone Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_REDSTONE_BLOCK_5:
-    name: '&fQuintuple Compressed Redstone Block'
+    name: '&fQuintuple Compressed Redstone Block &7(압축된 레드스톤 블록)'
     lore:
     - '&f32768 Redstone Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_REDSTONE_BLOCK_2:
-    name: '&fDouble Compressed Redstone Block'
+    name: '&fDouble Compressed Redstone Block &7(압축된 레드스톤 블록)'
     lore:
     - '&f64 Redstone Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_REDSTONE_BLOCK_1:
-    name: '&fCompressed Redstone Block'
+    name: '&fCompressed Redstone Block &7(압축된 레드스톤 블록)'
     lore:
     - '&f8 Redstone Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_COBBLED_DEEPSLATE_2:
-    name: '&fDouble Compressed Cobbled Deepslate'
+    name: '&fDouble Compressed Cobbled Deepslate &7(압축된 심층암 조약돌 블록)'
     lore:
     - '&f64 Cobbled Deepslate'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_IRON_BLOCK_4:
-    name: '&fQuadruple Compressed Iron Block'
+    name: '&fQuadruple Compressed Iron Block&7(압축된 철 블록)'
     lore:
     - '&f4096 Iron Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_COBBLED_DEEPSLATE_3:
-    name: '&fTriple Compressed Cobbled Deepslate'
+    name: '&fTriple Compressed Cobbled Deepslate &7(압축된 심층암 조약돌 블록)'
     lore:
     - '&f512 Cobbled Deepslate'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_IRON_BLOCK_3:
-    name: '&fTriple Compressed Iron Block'
+    name: '&fTriple Compressed Iron Block&7(압축된 철 블록)'
     lore:
     - '&f512 Iron Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_IRON_BLOCK_6:
-    name: '&fSextuple Compressed Iron Block'
+    name: '&fSextuple Compressed Iron Block&7(압축된 철 블록)'
     lore:
     - '&f262144 Iron Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_COBBLED_DEEPSLATE_1:
-    name: '&fCompressed Cobbled Deepslate'
+    name: '&fCompressed Cobbled Deepslate &7(압축된 심층암 조약돌 블록)'
     lore:
     - '&f8 Cobbled Deepslate'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_IRON_BLOCK_5:
-    name: '&fQuintuple Compressed Iron Block'
+    name: '&fQuintuple Compressed Iron Block&7(압축된 철 블록)'
     lore:
     - '&f32768 Iron Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_COBBLED_DEEPSLATE_6:
-    name: '&fSextuple Compressed Cobbled Deepslate'
+    name: '&fSextuple Compressed Cobbled Deepslate &7(압축된 심층암 조약돌 블록)'
     lore:
     - '&f262144 Cobbled Deepslate'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_COBBLED_DEEPSLATE_4:
-    name: '&fQuadruple Compressed Cobbled Deepslate'
+    name: '&fQuadruple Compressed Cobbled Deepslate &7(압축된 심층암 조약돌 블록)'
     lore:
     - '&f4096 Cobbled Deepslate'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_COBBLED_DEEPSLATE_5:
-    name: '&fQuintuple Compressed Cobbled Deepslate'
+    name: '&fQuintuple Compressed Cobbled Deepslate &7(압축된 심층암 조약돌 블록)'
     lore:
     - '&f32768 Cobbled Deepslate'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_SNOW_BLOCK_6:
-    name: '&fSextuple Compressed Snow Block'
+    name: '&fSextuple Compressed Snow Block &7(압축된 눈 블록)'
     lore:
     - '&f262144 Snow Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_SNOW_BLOCK_4:
-    name: '&fQuadruple Compressed Snow Block'
+    name: '&fQuadruple Compressed Snow Block &7(압축된 눈 블록)'
     lore:
     - '&f4096 Snow Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_SNOW_BLOCK_5:
-    name: '&fQuintuple Compressed Snow Block'
+    name: '&fQuintuple Compressed Snow Block &7(압축된 눈 블록)'
     lore:
     - '&f32768 Snow Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_SNOW_BLOCK_2:
-    name: '&fDouble Compressed Snow Block'
+    name: '&fDouble Compressed Snow Block &7(압축된 눈 블록)'
     lore:
     - '&f64 Snow Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_SNOW_BLOCK_3:
-    name: '&fTriple Compressed Snow Block'
+    name: '&fTriple Compressed Snow Block &7(압축된 눈 블록)'
     lore:
     - '&f512 Snow Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_IRON_BLOCK_2:
-    name: '&fDouble Compressed Iron Block'
+    name: '&fDouble Compressed Iron Block&7(압축된 철 블록)'
     lore:
     - '&f64 Iron Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_SNOW_BLOCK_1:
-    name: '&fCompressed Snow Block'
+    name: '&fCompressed Snow Block &7(압축된 눈 블록)'
     lore:
     - '&f8 Snow Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_IRON_BLOCK_1:
-    name: '&fCompressed Iron Block'
+    name: '&fCompressed Iron Block&7(압축된 철 블록)'
     lore:
     - '&f8 Iron Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_CHARCOAL_4:
-    name: '&fQuadruple Compressed Charcoal'
+    name: '&fQuadruple Compressed Charcoal &7(압축된 숯 블록)'
     lore:
     - '&f4096 Charcoal'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_CHARCOAL_5:
-    name: '&fQuintuple Compressed Charcoal'
+    name: '&fQuintuple Compressed Charcoal &7(압축된 숯 블록)'
     lore:
     - '&f32768 Charcoal'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_CHARCOAL_6:
-    name: '&fSextuple Compressed Charcoal'
+    name: '&fSextuple Compressed Charcoal &7(압축된 숯 블록)'
     lore:
     - '&f262144 Charcoal'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_CHARCOAL_1:
-    name: '&fCompressed Charcoal'
+    name: '&fCompressed Charcoal &7(압축된 숯 블록)'
     lore:
     - '&f8 Charcoal'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_CHARCOAL_2:
-    name: '&fDouble Compressed Charcoal'
+    name: '&fDouble Compressed Charcoal &7(압축된 숯 블록)'
     lore:
     - '&f64 Charcoal'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_CHARCOAL_3:
-    name: '&fTriple Compressed Charcoal'
+    name: '&fTriple Compressed Charcoal &7(압축된 숯 블록)'
     lore:
     - '&f512 Charcoal'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_CLAY_1:
-    name: '&fCompressed Clay'
+    name: '&fCompressed Clay &7(압축된 점토)'
     lore:
     - '&f8 Clay'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_DIAMOND_1:
-    name: '&fCompressed Diamond'
+    name: '&fCompressed Diamond &7(압축된 다이아몬드)'
     lore:
     - '&f8 Diamond'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_DIAMOND_2:
-    name: '&fDouble Compressed Diamond'
+    name: '&fDouble Compressed Diamond &7(압축된 다이아몬드)'
     lore:
     - '&f64 Diamond'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_CLAY_3:
-    name: '&fTriple Compressed Clay'
+    name: '&fTriple Compressed Clay &7(압축된 점토)'
     lore:
     - '&f512 Clay'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_DIAMOND_3:
-    name: '&fTriple Compressed Diamond'
+    name: '&fTriple Compressed Diamond &7(압축된 다이아몬드)'
     lore:
     - '&f512 Diamond'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_CLAY_2:
-    name: '&fDouble Compressed Clay'
+    name: '&fDouble Compressed Clay &7(압축된 점토)'
     lore:
     - '&f64 Clay'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_DIAMOND_4:
-    name: '&fQuadruple Compressed Diamond'
+    name: '&fQuadruple Compressed Diamond &7(압축된 다이아몬드)'
     lore:
     - '&f4096 Diamond'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_CLAY_5:
-    name: '&fQuintuple Compressed Clay'
+    name: '&fQuintuple Compressed Clay &7(압축된 점토)'
     lore:
     - '&f32768 Clay'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_DIAMOND_5:
-    name: '&fQuintuple Compressed Diamond'
+    name: '&fQuintuple Compressed Diamond &7(압축된 다이아몬드)'
     lore:
     - '&f32768 Diamond'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_CLAY_4:
-    name: '&fQuadruple Compressed Clay'
+    name: '&fQuadruple Compressed Clay &7(압축된 점토)'
     lore:
     - '&f4096 Clay'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_DIAMOND_6:
-    name: '&fSextuple Compressed Diamond'
+    name: '&fSextuple Compressed Diamond &7(압축된 다이아몬드)'
     lore:
     - '&f262144 Diamond'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_CLAY_6:
-    name: '&fSextuple Compressed Clay'
+    name: '&fSextuple Compressed Clay &7(압축된 점토)'
     lore:
     - '&f262144 Clay'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_EMERALD_5:
-    name: '&fQuintuple Compressed Emerald'
+    name: '&fQuintuple Compressed Emerald &7(압축된 에메랄드)'
     lore:
     - '&f32768 Emerald'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_EMERALD_6:
-    name: '&fSextuple Compressed Emerald'
+    name: '&fSextuple Compressed Emerald &7(압축된 에메랄드)'
     lore:
     - '&f262144 Emerald'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_SNOW_BALL_1:
-    name: '&fCompressed Snow Ball'
+    name: '&fCompressed Snow Ball &7(압축된 눈덩이)'
     lore:
     - '&f8 Snow Ball'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_DIRT_1:
-    name: '&fCompressed Dirt'
+    name: '&fCompressed Dirt &7(압축된 흙)'
     lore:
     - '&f8 Dirt'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_EMERALD_1:
-    name: '&fCompressed Emerald'
+    name: '&fCompressed Emerald &7(압축된 에메랄드)'
     lore:
     - '&f8 Emerald'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_EMERALD_2:
-    name: '&fDouble Compressed Emerald'
+    name: '&fDouble Compressed Emerald &7(압축된 에메랄드)'
     lore:
     - '&f64 Emerald'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_EMERALD_3:
-    name: '&fTriple Compressed Emerald'
+    name: '&fTriple Compressed Emerald &7(압축된 에메랄드)'
     lore:
     - '&f512 Emerald'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_EMERALD_4:
-    name: '&fQuadruple Compressed Emerald'
+    name: '&fQuadruple Compressed Emerald &7(압축된 에메랄드)'
     lore:
     - '&f4096 Emerald'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_SNOW_BALL_6:
-    name: '&fSextuple Compressed Snow Ball'
+    name: '&fSextuple Compressed Snow Ball &7(압축된 눈덩이)'
     lore:
     - '&f262144 Snow Ball'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_SNOW_BALL_3:
-    name: '&fTriple Compressed Snow Ball'
+    name: '&fTriple Compressed Snow Ball &7(압축된 눈덩이)'
     lore:
     - '&f512 Snow Ball'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_SNOW_BALL_2:
-    name: '&fDouble Compressed Snow Ball'
+    name: '&fDouble Compressed Snow Ball &7(압축된 눈덩이)'
     lore:
     - '&f64 Snow Ball'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_LAPIS_BLOCK_1:
-    name: '&fCompressed Lapis Block'
+    name: '&fCompressed Lapis Block &7(압축된 청금석 블록)'
     lore:
     - '&f8 Lapis Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_SNOW_BALL_5:
-    name: '&fQuintuple Compressed Snow Ball'
+    name: '&fQuintuple Compressed Snow Ball &7(압축된 눈덩이)'
     lore:
     - '&f32768 Snow Ball'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_SNOW_BALL_4:
-    name: '&fQuadruple Compressed Snow Ball'
+    name: '&fQuadruple Compressed Snow Ball &7(압축된 눈덩이)'
     lore:
     - '&f4096 Snow Ball'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_OBSIDIAN_1:
-    name: '&fCompressed Obsidian'
+    name: '&fCompressed Obsidian &7(압축된 흑요석)'
     lore:
     - '&f8 Obsidian'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_OBSIDIAN_2:
-    name: '&fDouble Compressed Obsidian'
+    name: '&fDouble Compressed Obsidian &7(압축된 흑요석)'
     lore:
     - '&f64 Obsidian'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_OBSIDIAN_3:
-    name: '&fTriple Compressed Obsidian'
+    name: '&fTriple Compressed Obsidian &7(압축된 흑요석)'
     lore:
     - '&f512 Obsidian'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_OBSIDIAN_4:
-    name: '&fQuadruple Compressed Obsidian'
+    name: '&fQuadruple Compressed Obsidian &7(압축된 흑요석)'
     lore:
     - '&f4096 Obsidian'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_OBSIDIAN_5:
-    name: '&fQuintuple Compressed Obsidian'
+    name: '&fQuintuple Compressed Obsidian &7(압축된 흑요석)'
     lore:
     - '&f32768 Obsidian'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_OBSIDIAN_6:
-    name: '&fSextuple Compressed Obsidian'
+    name: '&fSextuple Compressed Obsidian &7(압축된 흑요석)'
     lore:
     - '&f262144 Obsidian'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_CRYING_OBSIDIAN:
-    name: '&fSextuple Compressed Crying Obsidian'
+    name: '&fSextuple Compressed Crying Obsidian &7(압축된 우는 흑요석)'
     lore:
     - '&f262144 Crying Obsidian'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_GRAVEL_1:
-    name: '&fCompressed Gravel'
+    name: '&fCompressed Gravel &7(압축된 자갈)'
     lore:
     - '&f8 Gravel'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_COAL_5:
-    name: '&fQuintuple Compressed Coal'
+    name: '&fQuintuple Compressed Coal &7(압축된 석탄)'
     lore:
     - '&f32768 Coal'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_COAL_4:
-    name: '&fQuadruple Compressed Coal'
+    name: '&fQuadruple Compressed Coal &7(압축된 석탄)'
     lore:
     - '&f4096 Coal'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_COAL_3:
-    name: '&fTriple Compressed Coal'
+    name: '&fTriple Compressed Coal &7(압축된 석탄)'
     lore:
     - '&f512 Coal'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_COAL_2:
-    name: '&fDouble Compressed Coal'
+    name: '&fDouble Compressed Coal &7(압축된 석탄)'
     lore:
     - '&f64 Coal'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_COAL_6:
-    name: '&fSextuple Compressed Coal'
+    name: '&fSextuple Compressed Coal &7(압축된 석탄)'
     lore:
     - '&f262144 Coal'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_GOLD_BLOCK_6:
-    name: '&fSextuple Compressed Gold Block'
+    name: '&fSextuple Compressed Gold Block &7(압축된 금 블록)'
     lore:
     - '&f262144 Gold Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_GOLD_BLOCK_5:
-    name: '&fQuintuple Compressed Gold Block'
+    name: '&fQuintuple Compressed Gold Block &7(압축된 금 블록)'
     lore:
     - '&f32768 Gold Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_GOLD_BLOCK_4:
-    name: '&fQuadruple Compressed Gold Block'
+    name: '&fQuadruple Compressed Gold Block &7(압축된 금 블록)'
     lore:
     - '&f4096 Gold Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_GOLD_BLOCK_3:
-    name: '&fTriple Compressed Gold Block'
+    name: '&fTriple Compressed Gold Block &7(압축된 금 블록)'
     lore:
     - '&f512 Gold Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_GOLD_BLOCK_2:
-    name: '&fDouble Compressed Gold Block'
+    name: '&fDouble Compressed Gold Block &7(압축된 금 블록)'
     lore:
     - '&f64 Gold Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_GOLD_BLOCK_1:
-    name: '&fCompressed Gold Block'
+    name: '&fCompressed Gold Block &7(압축된 금 블록)'
     lore:
     - '&f8 Gold Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_COAL_1:
-    name: '&fCompressed Coal'
+    name: '&fCompressed Coal &7(압축된 석탄)'
     lore:
     - '&f8 Coal'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_DEEPSLATE_6:
-    name: '&fSextuple Compressed Deepslate'
+    name: '&fSextuple Compressed Deepslate &7(압축된 심층암)'
     lore:
     - '&f262144 Deepslate'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_DEEPSLATE_4:
-    name: '&fQuadruple Compressed Deepslate'
+    name: '&fQuadruple Compressed Deepslate &7(압축된 심층암)'
     lore:
     - '&f4096 Deepslate'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_DEEPSLATE_5:
-    name: '&fQuintuple Compressed Deepslate'
+    name: '&fQuintuple Compressed Deepslate &7(압축된 심층암)'
     lore:
     - '&f32768 Deepslate'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_DEEPSLATE_2:
-    name: '&fDouble Compressed Deepslate'
+    name: '&fDouble Compressed Deepslate &7(압축된 심층암)'
     lore:
     - '&f64 Deepslate'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_CRYING_OBSIDIAN_1:
-    name: '&fCompressed Crying Obsidian'
+    name: '&fCompressed Crying Obsidian &7(압축된 우는 흑요석)'
     lore:
     - '&f8 Crying Obsidian'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_DEEPSLATE_3:
-    name: '&fTriple Compressed Deepslate'
+    name: '&fTriple Compressed Deepslate &7(압축된 심층암)'
     lore:
     - '&f512 Deepslate'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_CRYING_OBSIDIAN_2:
-    name: '&fDouble Compressed Crying Obsidian'
+    name: '&fDouble Compressed Crying Obsidian &7(압축된 우는 흑요석)'
     lore:
     - '&f64 Crying Obsidian'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_DEEPSLATE_1:
-    name: '&fCompressed Deepslate'
+    name: '&fCompressed Deepslate &7(압축된 심층암)'
     lore:
     - '&f8 Deepslate'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_GOLD_INGOT_2:
-    name: '&fDouble Compressed Gold Ingot'
+    name: '&fDouble Compressed Gold Ingot &7(압축된 금 주괴)'
     lore:
     - '&f64 Gold Ingot'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_GOLD_INGOT_1:
-    name: '&fCompressed Gold Ingot'
+    name: '&fCompressed Gold Ingot &7(압축된 금 주괴)'
     lore:
     - '&f8 Gold Ingot'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_GOLD_INGOT_4:
-    name: '&fQuadruple Compressed Gold Ingot'
+    name: '&fQuadruple Compressed Gold Ingot &7(압축된 금 주괴)'
     lore:
     - '&f4096 Gold Ingot'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_GOLD_INGOT_3:
-    name: '&fTriple Compressed Gold Ingot'
+    name: '&fTriple Compressed Gold Ingot &7(압축된 금 주괴)'
     lore:
     - '&f512 Gold Ingot'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_GOLD_INGOT_6:
-    name: '&fSextuple Compressed Gold Ingot'
+    name: '&fSextuple Compressed Gold Ingot &7(압축된 금 주괴)'
     lore:
     - '&f262144 Gold Ingot'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_GOLD_INGOT_5:
-    name: '&fQuintuple Compressed Gold Ingot'
+    name: '&fQuintuple Compressed Gold Ingot &7(압축된 금 주괴)'
     lore:
     - '&f32768 Gold Ingot'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_MEDIUM_AMETHYST_BUD_4:
-    name: '&fQuadruple Compressed Medium Amethyst Bud'
+    name: '&fQuadruple Compressed Medium Amethyst Bud &7(압축된 중간 자수정 봉오리)'
     lore:
     - '&f4096 Medium Amethyst Bud'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_MEDIUM_AMETHYST_BUD_5:
-    name: '&fQuintuple Compressed Medium Amethyst Bud'
+    name: '&fQuintuple Compressed Medium Amethyst Bud &7(압축된 중간 자수정 봉오리)'
     lore:
     - '&f32768 Medium Amethyst Bud'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_MEDIUM_AMETHYST_BUD_6:
-    name: '&fSextuple Compressed Medium Amethyst Bud'
+    name: '&fSextuple Compressed Medium Amethyst Bud &7(압축된 중간 자수정 봉오리)'
     lore:
     - '&f262144 Medium Amethyst Bud'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_CRYING_OBSIDIAN_5:
-    name: '&fQuintuple Compressed Crying Obsidian'
+    name: '&fQuintuple Compressed Crying Obsidian &7(압축된 우는 흑요석)'
     lore:
     - '&f32768 Crying Obsidian'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_CRYING_OBSIDIAN_3:
-    name: '&fTriple Compressed Crying Obsidian'
+    name: '&fTriple Compressed Crying Obsidian &7(압축된 우는 흑요석)'
     lore:
     - '&f512 Crying Obsidian'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_CRYING_OBSIDIAN_4:
-    name: '&fQuadruple Compressed Crying Obsidian'
+    name: '&fQuadruple Compressed Crying Obsidian &7(압축된 우는 흑요석)'
     lore:
     - '&f4096 Crying Obsidian'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_MEDIUM_AMETHYST_BUD_1:
-    name: '&fCompressed Medium Amethyst Bud'
+    name: '&fCompressed Medium Amethyst Bud &7(압축된 중간 자수정 봉오리)'
     lore:
     - '&f8 Medium Amethyst Bud'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_MEDIUM_AMETHYST_BUD_2:
-    name: '&fDouble Compressed Medium Amethyst Bud'
+    name: '&fDouble Compressed Medium Amethyst Bud &7(압축된 중간 자수정 봉오리)'
     lore:
     - '&f64 Medium Amethyst Bud'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_MEDIUM_AMETHYST_BUD_3:
-    name: '&fTriple Compressed Medium Amethyst Bud'
+    name: '&fTriple Compressed Medium Amethyst Bud &7(압축된 중간 자수정 봉오리)'
     lore:
     - '&f512 Medium Amethyst Bud'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_CLAY_BALL_4:
-    name: '&fQuadruple Compressed Clay Ball'
+    name: '&fQuadruple Compressed Clay Ball &7(압축된 점토 덩이)'
     lore:
     - '&f4096 Clay Ball'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_DIAMOND_BLOCK_4:
-    name: '&fQuadruple Compressed Diamond Block'
+    name: '&fQuadruple Compressed Diamond Block &7(압축된 다이아몬드 블록)'
     lore:
     - '&f4096 Diamond Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_CLAY_BALL_5:
-    name: '&fQuintuple Compressed Clay Ball'
+    name: '&fQuintuple Compressed Clay Ball &7(압축된 점토 덩이)'
     lore:
     - '&f32768 Clay Ball'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_DIAMOND_BLOCK_3:
-    name: '&fTriple Compressed Diamond Block'
+    name: '&fTriple Compressed Diamond Block &7(압축된 다이아몬드 블록)'
     lore:
     - '&f512 Diamond Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_CLAY_BALL_6:
-    name: '&fSextuple Compressed Clay Ball'
+    name: '&fSextuple Compressed Clay Ball &7(압축된 점토 덩이)'
     lore:
     - '&f262144 Clay Ball'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_DIAMOND_BLOCK_6:
-    name: '&fSextuple Compressed Diamond Block'
+    name: '&fSextuple Compressed Diamond Block &7(압축된 다이아몬드 블록)'
     lore:
     - '&f262144 Diamond Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_DIAMOND_BLOCK_5:
-    name: '&fQuintuple Compressed Diamond Block'
+    name: '&fQuintuple Compressed Diamond Block &7(압축된 다이아몬드 블록)'
     lore:
     - '&f32768 Diamond Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_CLAY_BALL_1:
-    name: '&fCompressed Clay Ball'
+    name: '&fCompressed Clay Ball &7(압축된 점토 덩이)'
     lore:
     - '&f8 Clay Ball'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_CLAY_BALL_2:
-    name: '&fDouble Compressed Clay Ball'
+    name: '&fDouble Compressed Clay Ball &7(압축된 점토 덩이)'
     lore:
     - '&f64 Clay Ball'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_CLAY_BALL_3:
-    name: '&fTriple Compressed Clay Ball'
+    name: '&fTriple Compressed Clay Ball &7(압축된 점토 덩이)'
     lore:
     - '&f512 Clay Ball'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_GRAVEL_5:
-    name: '&fQuintuple Compressed Gravel'
+    name: '&fQuintuple Compressed Gravel &7(압축된 자갈)'
     lore:
     - '&f32768 Gravel'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_GRAVEL_4:
-    name: '&fQuadruple Compressed Gravel'
+    name: '&fQuadruple Compressed Gravel &7(압축된 자갈)'
     lore:
     - '&f4096 Gravel'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_GRAVEL_3:
-    name: '&fTriple Compressed Gravel'
+    name: '&fTriple Compressed Gravel &7(압축된 자갈)'
     lore:
     - '&f512 Gravel'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_GRAVEL_2:
-    name: '&fDouble Compressed Gravel'
+    name: '&fDouble Compressed Gravel &7(압축된 자갈)'
     lore:
     - '&f64 Gravel'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_GRAVEL_6:
-    name: '&fSextuple Compressed Gravel'
+    name: '&fSextuple Compressed Gravel &7(압축된 자갈)'
     lore:
     - '&f262144 Gravel'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_LARGE_AMETHYST_BUD_4:
-    name: '&fQuadruple Compressed Large Amethyst Bud'
+    name: '&fQuadruple Compressed Large Amethyst Bud &7(압축된 큰 자수정 봉오리)'
     lore:
     - '&f4096 Large Amethyst Bud'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_LARGE_AMETHYST_BUD_5:
-    name: '&fQuintuple Compressed Large Amethyst Bud'
+    name: '&fQuintuple Compressed Large Amethyst Bud &7(압축된 큰 자수정 봉오리)'
     lore:
     - '&f32768 Large Amethyst Bud'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_LARGE_AMETHYST_BUD_2:
-    name: '&fDouble Compressed Large Amethyst Bud'
+    name: '&fDouble Compressed Large Amethyst Bud &7(압축된 큰 자수정 봉오리)'
     lore:
     - '&f64 Large Amethyst Bud'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_LARGE_AMETHYST_BUD_3:
-    name: '&fTriple Compressed Large Amethyst Bud'
+    name: '&fTriple Compressed Large Amethyst Bud &7(압축된 큰 자수정 봉오리)'
     lore:
     - '&f512 Large Amethyst Bud'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_DIORITE_5:
-    name: '&fQuintuple Compressed Diorite'
+    name: '&fQuintuple Compressed Diorite &7(압축된 섬록암)'
     lore:
     - '&f32768 Diorite'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_DIORITE_6:
-    name: '&fSextuple Compressed Diorite'
+    name: '&fSextuple Compressed Diorite &7(압축된 섬록암)'
     lore:
     - '&f262144 Diorite'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_LARGE_AMETHYST_BUD_1:
-    name: '&fCompressed Large Amethyst Bud'
+    name: '&fCompressed Large Amethyst Bud &7(압축된 큰 자수정 봉오리)'
     lore:
     - '&f8 Large Amethyst Bud'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_DIORITE_3:
-    name: '&fTriple Compressed Diorite'
+    name: '&fTriple Compressed Diorite &7(압축된 섬록암)'
     lore:
     - '&f512 Diorite'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_DIAMOND_BLOCK_2:
-    name: '&fDouble Compressed Diamond Block'
+    name: '&fDouble Compressed Diamond Block &7(압축된 다이아몬드 블록)'
     lore:
     - '&f64 Diamond Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_DIORITE_4:
-    name: '&fQuadruple Compressed Diorite'
+    name: '&fQuadruple Compressed Diorite &7(압축된 섬록암)'
     lore:
     - '&f4096 Diorite'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_DIAMOND_BLOCK_1:
-    name: '&fCompressed Diamond Block'
+    name: '&fCompressed Diamond Block &7(압축된 다이아몬드 블록)'
     lore:
     - '&f8 Diamond Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_DIORITE_1:
-    name: '&fCompressed Diorite'
+    name: '&fCompressed Diorite &7(압축된 섬록암)'
     lore:
     - '&f8 Diorite'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_DIORITE_2:
-    name: '&fDouble Compressed Diorite'
+    name: '&fDouble Compressed Diorite &7(압축된 섬록암)'
     lore:
     - '&f64 Diorite'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_AMETHYST_CLUSTER_6:
-    name: '&fSextuple Compressed Amethyst Cluster'
+    name: '&fSextuple Compressed Amethyst Cluster &7(압축된 자수정 군집)'
     lore:
     - '&f262144 Amethyst Cluster'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_AMETHYST_CLUSTER_5:
-    name: '&fQuintuple Compressed Amethyst Cluster'
+    name: '&fQuintuple Compressed Amethyst Cluster &7(압축된 자수정 군집)'
     lore:
     - '&f32768 Amethyst Cluster'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_AMETHYST_CLUSTER_4:
-    name: '&fQuadruple Compressed Amethyst Cluster'
+    name: '&fQuadruple Compressed Amethyst Cluster &7(압축된 자수정 군집)'
     lore:
     - '&f4096 Amethyst Cluster'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_AMETHYST_CLUSTER_3:
-    name: '&fTriple Compressed Amethyst Cluster'
+    name: '&fTriple Compressed Amethyst Cluster &7(압축된 자수정 군집)'
     lore:
     - '&f512 Amethyst Cluster'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_AMETHYST_CLUSTER_2:
-    name: '&fDouble Compressed Amethyst Cluster'
+    name: '&fDouble Compressed Amethyst Cluster &7(압축된 자수정 군집)'
     lore:
     - '&f64 Amethyst Cluster'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_AMETHYST_CLUSTER_1:
-    name: '&fCompressed Amethyst Cluster'
+    name: '&fCompressed Amethyst Cluster &7(압축된 자수정 군집)'
     lore:
     - '&f8 Amethyst Cluster'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_IRON_INGOT_4:
-    name: '&fQuadruple Compressed Iron Ingot'
+    name: '&fQuadruple Compressed Iron Ingot &7(압축된 철 주괴)'
     lore:
     - '&f4096 Iron Ingot'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_IRON_INGOT_3:
-    name: '&fTriple Compressed Iron Ingot'
+    name: '&fTriple Compressed Iron Ingot &7(압축된 철 주괴)'
     lore:
     - '&f512 Iron Ingot'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_IRON_INGOT_2:
-    name: '&fDouble Compressed Iron Ingot'
+    name: '&fDouble Compressed Iron Ingot &7(압축된 철 주괴)'
     lore:
     - '&f64 Iron Ingot'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_IRON_INGOT_1:
-    name: '&fCompressed Iron Ingot'
+    name: '&fCompressed Iron Ingot &7(압축된 철 주괴)'
     lore:
     - '&f8 Iron Ingot'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_IRON_INGOT_6:
-    name: '&fSextuple Compressed Iron Ingot'
+    name: '&fSextuple Compressed Iron Ingot &7(압축된 철 주괴)'
     lore:
     - '&f262144 Iron Ingot'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_IRON_INGOT_5:
-    name: '&fQuintuple Compressed Iron Ingot'
+    name: '&fQuintuple Compressed Iron Ingot &7(압축된 철 주괴)'
     lore:
     - '&f32768 Iron Ingot'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_LAPIS_LAZULI_5:
-    name: '&fQuintuple Compressed Lapis Lazuli'
+    name: '&fQuintuple Compressed Lapis Lazuli &7(압축된 청금석)'
     lore:
     - '&f32768 Lapis Lazuli'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_LAPIS_LAZULI_4:
-    name: '&fQuadruple Compressed Lapis Lazuli'
+    name: '&fQuadruple Compressed Lapis Lazuli &7(압축된 청금석)'
     lore:
     - '&f4096 Lapis Lazuli'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_LAPIS_LAZULI_3:
-    name: '&fTriple Compressed Lapis Lazuli'
+    name: '&fTriple Compressed Lapis Lazuli &7(압축된 청금석)'
     lore:
     - '&f512 Lapis Lazuli'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_LAPIS_LAZULI_2:
-    name: '&fDouble Compressed Lapis Lazuli'
+    name: '&fDouble Compressed Lapis Lazuli &7(압축된 청금석)'
     lore:
     - '&f64 Lapis Lazuli'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_FLINT_1:
-    name: '&fCompressed Flint'
+    name: '&fCompressed Flint &7(압축된 부싯돌)'
     lore:
     - '&f8 Flint'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_FLINT_3:
-    name: '&fTriple Compressed Flint'
+    name: '&fTriple Compressed Flint &7(압축된 부싯돌)'
     lore:
     - '&f512 Flint'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_FLINT_2:
-    name: '&fDouble Compressed Flint'
+    name: '&fDouble Compressed Flint &7(압축된 부싯돌)'
     lore:
     - '&f64 Flint'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_LAPIS_LAZULI_6:
-    name: '&fSextuple Compressed Lapis Lazuli'
+    name: '&fSextuple Compressed Lapis Lazuli &7(압축된 청금석)'
     lore:
     - '&f262144 Lapis Lazuli'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_FLINT_5:
-    name: '&fQuintuple Compressed Flint'
+    name: '&fQuintuple Compressed Flint &7(압축된 부싯돌)'
     lore:
     - '&f32768 Flint'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_FLINT_4:
-    name: '&fQuadruple Compressed Flint'
+    name: '&fQuadruple Compressed Flint &7(압축된 부싯돌)'
     lore:
     - '&f4096 Flint'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_FLINT_6:
-    name: '&fSextuple Compressed Flint'
+    name: '&fSextuple Compressed Flint &7(압축된 부싯돌)'
     lore:
     - '&f262144 Flint'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_AMETHYST_SHARD_5:
-    name: '&fQuintuple Compressed Amethyst Shard'
+    name: '&fQuintuple Compressed Amethyst Shard &7(압축된 자수정 조각)'
     lore:
     - '&f32768 Amethyst Shard'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_AMETHYST_SHARD_6:
-    name: '&fSextuple Compressed Amethyst Shard'
+    name: '&fSextuple Compressed Amethyst Shard &7(압축된 자수정 조각)'
     lore:
     - '&f262144 Amethyst Shard'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_AMETHYST_SHARD_3:
-    name: '&fTriple Compressed Amethyst Shard'
+    name: '&fTriple Compressed Amethyst Shard &7(압축된 자수정 조각)'
     lore:
     - '&f512 Amethyst Shard'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_COAL_BLOCK_1:
-    name: '&fCompressed Coal Block'
+    name: '&fCompressed Coal Block &7(압축된 석탄 블록)'
     lore:
     - '&f8 Coal Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_AMETHYST_SHARD_4:
-    name: '&fQuadruple Compressed Amethyst Shard'
+    name: '&fQuadruple Compressed Amethyst Shard &7(압축된 자수정 조각)'
     lore:
     - '&f4096 Amethyst Shard'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_COAL_BLOCK_2:
-    name: '&fDouble Compressed Coal Block'
+    name: '&fDouble Compressed Coal Block &7(압축된 석탄 블록)'
     lore:
     - '&f64 Coal Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_AMETHYST_SHARD_1:
-    name: '&fCompressed Amethyst Shard'
+    name: '&fCompressed Amethyst Shard &7(압축된 자수정 조각)'
     lore:
     - '&f8 Amethyst Shard'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_COAL_BLOCK_3:
-    name: '&fTriple Compressed Coal Block'
+    name: '&fTriple Compressed Coal Block &7(압축된 석탄 블록)'
     lore:
     - '&f512 Coal Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_AMETHYST_SHARD_2:
-    name: '&fDouble Compressed Amethyst Shard'
+    name: '&fDouble Compressed Amethyst Shard &7(압축된 자수정 조각)'
     lore:
     - '&f64 Amethyst Shard'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_LAPIS_LAZULI_1:
-    name: '&fCompressed Lapis Lazuli'
+    name: '&fCompressed Lapis Lazuli &7(압축된 청금석)'
     lore:
     - '&f8 Lapis Lazuli'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_EMERALD_BLOCK_6:
-    name: '&fSextuple Compressed Emerald Block'
+    name: '&fSextuple Compressed Emerald Block &7(압축된 에메랄드 블록)'
     lore:
     - '&f262144 Emerald Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_EMERALD_BLOCK_5:
-    name: '&fQuintuple Compressed Emerald Block'
+    name: '&fQuintuple Compressed Emerald Block &7(압축된 에메랄드 블록)'
     lore:
     - '&f32768 Emerald Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_EMERALD_BLOCK_4:
-    name: '&fQuadruple Compressed Emerald Block'
+    name: '&fQuadruple Compressed Emerald Block &7(압축된 에메랄드 블록)'
     lore:
     - '&f4096 Emerald Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_EMERALD_BLOCK_3:
-    name: '&fTriple Compressed Emerald Block'
+    name: '&fTriple Compressed Emerald Block &7(압축된 에메랄드 블록)'
     lore:
     - '&f512 Emerald Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_AMETHYST_BLOCK_4:
-    name: '&fQuadruple Compressed Amethyst Block'
+    name: '&fQuadruple Compressed Amethyst Block &7(압축된 자수정 블록)'
     lore:
     - '&f4096 Amethyst Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_AMETHYST_BLOCK_5:
-    name: '&fQuintuple Compressed Amethyst Block'
+    name: '&fQuintuple Compressed Amethyst Block &7(압축된 자수정 블록)'
     lore:
     - '&f32768 Amethyst Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_AMETHYST_BLOCK_2:
-    name: '&fDouble Compressed Amethyst Block'
+    name: '&fDouble Compressed Amethyst Block &7(압축된 자수정 블록)'
     lore:
     - '&f64 Amethyst Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_AMETHYST_BLOCK_3:
-    name: '&fTriple Compressed Amethyst Block'
+    name: '&fTriple Compressed Amethyst Block &7(압축된 자수정 블록)'
     lore:
     - '&f512 Amethyst Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_AMETHYST_BLOCK_1:
-    name: '&fCompressed Amethyst Block'
+    name: '&fCompressed Amethyst Block &7(압축된 자수정 블록)'
     lore:
     - '&f8 Amethyst Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_EMERALD_BLOCK_2:
-    name: '&fDouble Compressed Emerald Block'
+    name: '&fDouble Compressed Emerald Block &7(압축된 에메랄드 블록)'
     lore:
     - '&f64 Emerald Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_EMERALD_BLOCK_1:
-    name: '&fCompressed Emerald Block'
+    name: '&fCompressed Emerald Block &7(압축된 에메랄드 블록)'
     lore:
     - '&f8 Emerald Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_AMETHYST_BLOCK_6:
-    name: '&fSextuple Compressed Amethyst Block'
+    name: '&fSextuple Compressed Amethyst Block &7(압축된 자수정 블록)'
     lore:
     - '&f262144 Amethyst Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_GRANITE_2:
-    name: '&fDouble Compressed Granite'
+    name: '&fDouble Compressed Granite &7(압축된 화강암)'
     lore:
     - '&f64 Granite'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_ANDESITE_1:
-    name: '&fCompressed Andesite'
+    name: '&fCompressed Andesite &7(압축된 안산암)'
     lore:
     - '&f8 Andesite'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_GRANITE_1:
-    name: '&fCompressed Granite'
+    name: '&fCompressed Granite &7(압축된 화강암)'
     lore:
     - '&f8 Granite'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_ANDESITE_2:
-    name: '&fDouble Compressed Andesite'
+    name: '&fDouble Compressed Andesite &7(압축된 안산암)'
     lore:
     - '&f64 Andesite'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_ANDESITE_3:
-    name: '&fTriple Compressed Andesite'
+    name: '&fTriple Compressed Andesite &7(압축된 안산암)'
     lore:
     - '&f512 Andesite'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_REDSTONE_5:
-    name: '&fQuintuple Compressed Redstone'
+    name: '&fQuintuple Compressed Redstone &7압축된 레드스톤)'
     lore:
     - '&f32768 Redstone'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_REDSTONE_6:
-    name: '&fSextuple Compressed Redstone'
+    name: '&fSextuple Compressed Redstone &7압축된 레드스톤)'
     lore:
     - '&f262144 Redstone'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_REDSTONE_3:
-    name: '&fTriple Compressed Redstone'
+    name: '&fTriple Compressed Redstone &7압축된 레드스톤)'
     lore:
     - '&f512 Redstone'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_LAPIS_BLOCK_4:
-    name: '&fQuadruple Compressed Lapis Block'
+    name: '&fQuadruple Compressed Lapis Block &7(압축된 청금석 블록)'
     lore:
     - '&f4096 Lapis Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_REDSTONE_4:
-    name: '&fQuadruple Compressed Redstone'
+    name: '&fQuadruple Compressed Redstone &7압축된 레드스톤)'
     lore:
     - '&f4096 Redstone'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_LAPIS_BLOCK_5:
-    name: '&fQuintuple Compressed Lapis Block'
+    name: '&fQuintuple Compressed Lapis Block &7(압축된 청금석 블록)'
     lore:
     - '&f32768 Lapis Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_REDSTONE_1:
-    name: '&fCompressed Redstone'
+    name: '&fCompressed Redstone &7압축된 레드스톤)'
     lore:
     - '&f8 Redstone'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_LAPIS_BLOCK_2:
-    name: '&fDouble Compressed Lapis Block'
+    name: '&fDouble Compressed Lapis Block &7(압축된 청금석 블록)'
     lore:
     - '&f64 Lapis Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_REDSTONE_2:
-    name: '&fDouble Compressed Redstone'
+    name: '&fDouble Compressed Redstone &7압축된 레드스톤)'
     lore:
     - '&f64 Redstone'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_LAPIS_BLOCK_3:
-    name: '&fTriple Compressed Lapis Block'
+    name: '&fTriple Compressed Lapis Block &7(압축된 청금석 블록)'
     lore:
     - '&f512 Lapis Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_LAPIS_BLOCK_6:
-    name: '&fSextuple Compressed Lapis Block'
+    name: '&fSextuple Compressed Lapis Block &7(압축된 청금석 블록)'
     lore:
     - '&f262144 Lapis Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_STONE_5:
-    name: '&fQuintuple Compressed Stone'
+    name: '&fQuintuple Compressed Stone &7(압축된 돌)'
     lore:
     - '&f32768 Stone'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_ANDESITE_4:
-    name: '&fQuadruple Compressed Andesite'
+    name: '&fQuadruple Compressed Andesite &7(압축된 안산암)'
     lore:
     - '&f4096 Andesite'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_GRANITE_6:
-    name: '&fSextuple Compressed Granite'
+    name: '&fSextuple Compressed Granite &7(압축된 화강암)'
     lore:
     - '&f262144 Granite'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_STONE_4:
-    name: '&fQuadruple Compressed Stone'
+    name: '&fQuadruple Compressed Stone &7(압축된 돌)'
     lore:
     - '&f4096 Stone'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_ANDESITE_5:
-    name: '&fQuintuple Compressed Andesite'
+    name: '&fQuintuple Compressed Andesite &7(압축된 안산암)'
     lore:
     - '&f32768 Andesite'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_GRANITE_5:
-    name: '&fQuintuple Compressed Granite'
+    name: '&fQuintuple Compressed Granite &7(압축된 화강암)'
     lore:
     - '&f32768 Granite'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_GOLD_NUGGET_1:
-    name: '&fCompressed Gold Nugget'
+    name: '&fCompressed Gold Nugget &7(압축된 금 조각)'
     lore:
     - '&f8 Gold Nugget'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_ANDESITE_6:
-    name: '&fSextuple Compressed Andesite'
+    name: '&fSextuple Compressed Andesite &7(압축된 안산암)'
     lore:
     - '&f262144 Andesite'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_GRANITE_4:
-    name: '&fQuadruple Compressed Granite'
+    name: '&fQuadruple Compressed Granite &7(압축된 화강암)'
     lore:
     - '&f4096 Granite'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_GOLD_NUGGET_2:
-    name: '&fDouble Compressed Gold Nugget'
+    name: '&fDouble Compressed Gold Nugget &7(압축된 금 조각)'
     lore:
     - '&f64 Gold Nugget'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_STONE_6:
-    name: '&fSextuple Compressed Stone'
+    name: '&fSextuple Compressed Stone &7(압축된 돌)'
     lore:
     - '&f262144 Stone'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_GRANITE_3:
-    name: '&fTriple Compressed Granite'
+    name: '&fTriple Compressed Granite &7(압축된 화강암)'
     lore:
     - '&f512 Granite'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_GOLD_NUGGET_3:
-    name: '&fTriple Compressed Gold Nugget'
+    name: '&fTriple Compressed Gold Nugget &7(압축된 금 조각)'
     lore:
     - '&f512 Gold Nugget'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_STONE_1:
-    name: '&fCompressed Stone'
+    name: '&fCompressed Stone &7(압축된 돌)'
     lore:
     - '&f8 Stone'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_GOLD_NUGGET_4:
-    name: '&fQuadruple Compressed Gold Nugget'
+    name: '&fQuadruple Compressed Gold Nugget &7(압축된 금 조각)'
     lore:
     - '&f4096 Gold Nugget'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_GOLD_NUGGET_5:
-    name: '&fQuintuple Compressed Gold Nugget'
+    name: '&fQuintuple Compressed Gold Nugget &7(압축된 금 조각)'
     lore:
     - '&f32768 Gold Nugget'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_STONE_3:
-    name: '&fTriple Compressed Stone'
+    name: '&fTriple Compressed Stone &7(압축된 돌)'
     lore:
     - '&f512 Stone'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_GOLD_NUGGET_6:
-    name: '&fSextuple Compressed Gold Nugget'
+    name: '&fSextuple Compressed Gold Nugget &7(압축된 금 조각)'
     lore:
     - '&f262144 Gold Nugget'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_STONE_2:
-    name: '&fDouble Compressed Stone'
+    name: '&fDouble Compressed Stone &7(압축된 돌)'
     lore:
     - '&f64 Stone'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_IRON_NUGGET_6:
-    name: '&fSextuple Compressed Iron Nugget'
+    name: '&fSextuple Compressed Iron Nugget &7(압축된 철 조각'
     lore:
     - '&f262144 Iron Nugget'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_SMALL_AMETHYST_BUD_1:
-    name: '&fCompressed Small Amethyst Bud'
+    name: '&fCompressed Small Amethyst Bud &7(압축된 작은 자수정 봉오리)'
     lore:
     - '&f8 Small Amethyst Bud'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_IRON_NUGGET_5:
-    name: '&fQuintuple Compressed Iron Nugget'
+    name: '&fQuintuple Compressed Iron Nugget &7(압축된 철 조각'
     lore:
     - '&f32768 Iron Nugget'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_IRON_NUGGET_4:
-    name: '&fQuadruple Compressed Iron Nugget'
+    name: '&fQuadruple Compressed Iron Nugget &7(압축된 철 조각'
     lore:
     - '&f4096 Iron Nugget'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_IRON_NUGGET_3:
-    name: '&fTriple Compressed Iron Nugget'
+    name: '&fTriple Compressed Iron Nugget &7(압축된 철 조각'
     lore:
     - '&f512 Iron Nugget'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_IRON_NUGGET_2:
-    name: '&fDouble Compressed Iron Nugget'
+    name: '&fDouble Compressed Iron Nugget &7(압축된 철 조각'
     lore:
     - '&f64 Iron Nugget'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_IRON_NUGGET_1:
-    name: '&fCompressed Iron Nugget'
+    name: '&fCompressed Iron Nugget &7(압축된 철 조각'
     lore:
     - '&f8 Iron Nugget'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_COAL_BLOCK_4:
-    name: '&fQuadruple Compressed Coal Block'
+    name: '&fQuadruple Compressed Coal Block &7(압축된 석탄 블록)'
     lore:
     - '&f4096 Coal Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_COAL_BLOCK_5:
-    name: '&fQuintuple Compressed Coal Block'
+    name: '&fQuintuple Compressed Coal Block &7(압축된 석탄 블록)'
     lore:
     - '&f32768 Coal Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_COAL_BLOCK_6:
-    name: '&fSextuple Compressed Coal Block'
+    name: '&fSextuple Compressed Coal Block &7(압축된 석탄 블록)'
     lore:
     - '&f262144 Coal Block'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_SMALL_AMETHYST_BUD_6:
-    name: '&fSextuple Compressed Small Amethyst Bud'
+    name: '&fSextuple Compressed Small Amethyst Bud &7(압축된 작은 자수정 봉오리)'
     lore:
     - '&f262144 Small Amethyst Bud'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_SMALL_AMETHYST_BUD_4:
-    name: '&fQuadruple Compressed Small Amethyst Bud'
+    name: '&fQuadruple Compressed Small Amethyst Bud &7(압축된 작은 자수정 봉오리)'
     lore:
     - '&f4096 Small Amethyst Bud'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_SMALL_AMETHYST_BUD_5:
-    name: '&fQuintuple Compressed Small Amethyst Bud'
+    name: '&fQuintuple Compressed Small Amethyst Bud &7(압축된 작은 자수정 봉오리)'
     lore:
     - '&f32768 Small Amethyst Bud'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_SMALL_AMETHYST_BUD_2:
-    name: '&fDouble Compressed Small Amethyst Bud'
+    name: '&fDouble Compressed Small Amethyst Bud &7(압축된 작은 자수정 봉오리)'
     lore:
     - '&f64 Small Amethyst Bud'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
   JC_SMALL_AMETHYST_BUD_3:
-    name: '&fTriple Compressed Small Amethyst Bud'
+    name: '&fTriple Compressed Small Amethyst Bud &7(압축된 작은 자수정 봉오리)'
     lore:
     - '&f512 Small Amethyst Bud'
-    - '&fCompressionCraft'
+    - '&fCompressionCraft(압축 기술)'
