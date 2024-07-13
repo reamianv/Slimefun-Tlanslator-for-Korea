@@ -1,104 +1,148 @@
 name: Supreme
 translations:
   SUPREME_MOB_COLLECTOR_TOOL_III:
-    name: '[Netherite Shovel]'
+    name: '&6MobTech Collector III'
     lore:
     - '&8⇨ &e⚡ &750 J per use'
     - '&8⇨ &e⚡ &70 / 50000 J'
-  SUPREME_AXE_SUPREME:
-    name: '[Netherite Axe]'
-    lore:
     - ''
+    - '&fUsed to capture MobTech (Bees and IronGolen)'
+    - ''
+    - '&3Supreme Tools'
+  SUPREME_AXE_SUPREME:
+    name: '&4&lSupreme Axe'
+    lore:
+    - '&f&lA Supreme Axe of Thornium'
+    - ''
+    - '&3Supreme Tools'
     - '&bSoulbound'
   SUPREME_TITANIUM_PICKAXE:
-    name: '[Diamond Pickaxe]'
+    name: '&f&lTitanium Pickaxe'
     lore:
+    - '&f&lA Pickaxe of Titanium'
     - ''
+    - '&3Supreme Tools'
     - '&bSoulbound'
   SUPREME_AURUM_AXE:
-    name: '[Diamond Axe]'
+    name: '&f&lAurum Axe'
     lore:
+    - '&f&lA Axe of Aurum'
     - ''
+    - '&3Supreme Tools'
     - '&bSoulbound'
   SUPREME_TITANIUM_SHOVEL:
-    name: '[Diamond Shovel]'
+    name: '&f&lTitanium Shovel'
     lore:
+    - '&f&lA Shovel of Titanium'
     - ''
+    - '&3Supreme Tools'
     - '&bSoulbound'
   SUPREME_PICKAXE_RARE:
-    name: '[Netherite Pickaxe]'
+    name: '&b&lRare Pickaxe'
     lore:
+    - '&f&lA Rare Pickaxe of Thornium'
     - ''
+    - '&3Supreme Tools'
     - '&bSoulbound'
   SUPREME_PICKAXE_LEGENDARY:
-    name: '[Netherite Pickaxe]'
+    name: '&6&lLegendary Pickaxe'
     lore:
+    - '&f&lA Legendary Pickaxe of Thornium'
     - ''
+    - '&3Supreme Tools'
     - '&bSoulbound'
   SUPREME_ADAMANTIUM_AXE:
-    name: '[Diamond Axe]'
+    name: '&f&lAdamantium Axe'
     lore:
+    - '&f&lA Axe of Adamantium'
     - ''
+    - '&3Supreme Tools'
     - '&bSoulbound'
   SUPREME_AXE_EPIC:
-    name: '[Netherite Axe]'
+    name: '&d&lEpic Axe'
     lore:
+    - '&f&lA Epic Axe of Thornium'
     - ''
+    - '&3Supreme Tools'
     - '&bSoulbound'
   SUPREME_PICKAXE_THORNIUM:
-    name: '[Netherite Pickaxe]'
+    name: '&f&lThornium Pickaxe'
     lore:
+    - '&f&lA Pickaxe of Thornium'
     - ''
+    - '&3Supreme Tools'
     - '&bSoulbound'
   SUPREME_PICKAXE_MAGIC:
-    name: '[Netherite Pickaxe]'
+    name: '&a&lMagic Pickaxe'
     lore:
+    - '&f&lA Magic Pickaxe of Thornium'
     - ''
+    - '&3Supreme Tools'
     - '&bSoulbound'
   SUPREME_TITANIUM_AXE:
-    name: '[Diamond Axe]'
+    name: '&f&lTitanium Axe'
     lore:
+    - '&f&lA Axe of Titanium'
     - ''
+    - '&3Supreme Tools'
     - '&bSoulbound'
   SUPREME_AURUM_PICKAXE:
-    name: '[Diamond Pickaxe]'
+    name: '&f&lAurum Pickaxe'
     lore:
+    - '&f&lA Pickaxe of Aurum'
     - ''
+    - '&3Supreme Tools'
     - '&bSoulbound'
   SUPREME_ADAMANTIUM_SHOVEL:
-    name: '[Diamond Shovel]'
+    name: '&f&lAdamantium Shovel'
     lore:
+    - '&f&lA Shovel of Adamantium'
     - ''
+    - '&3Supreme Tools'
     - '&bSoulbound'
   SUPREME_MOB_COLLECTOR_TOOL_I:
-    name: '[Iron Shovel]'
+    name: '&6MobTech Collector I'
     lore:
     - '&8⇨ &e⚡ &750 J per use'
     - '&8⇨ &e⚡ &70 / 500 J'
-  SUPREME_AXE_RARE:
-    name: '[Netherite Axe]'
-    lore:
     - ''
+    - '&fUsed to capture MobTech (Bees and IronGolen)'
+    - ''
+    - '&3Supreme Tools'
+  SUPREME_AXE_RARE:
+    name: '&b&lRare Axe'
+    lore:
+    - '&f&lA Rare Axe of Thornium'
+    - ''
+    - '&3Supreme Tools'
     - '&bSoulbound'
   SUPREME_AURUM_SHOVEL:
-    name: '[Diamond Shovel]'
+    name: '&f&lAurum Shovel'
     lore:
+    - '&f&lA Shovel of Aurum'
     - ''
+    - '&3Supreme Tools'
     - '&bSoulbound'
   SUPREME_SHOVEL_MAGIC:
-    name: '[Netherite Shovel]'
+    name: '&a&lMagic Shovel'
     lore:
+    - '&f&lA Magic Shovel of Thornium'
     - ''
+    - '&3Supreme Tools'
     - '&bSoulbound'
   SUPREME_AXE_LEGENDARY:
-    name: '[Netherite Axe]'
+    name: '&6&lLegendary Axe'
     lore:
+    - '&f&lA Legendary Axe of Thornium'
     - ''
+    - '&3Supreme Tools'
     - '&bSoulbound'
   SUPREME_AXE_THORNIUM:
-    name: '[Netherite Axe]'
+    name: '&f&lThornium Axe'
     lore:
+    - '&f&lA Axe of Thornium'
     - ''
+    - '&3Supreme Tools'
     - '&bSoulbound'
   SUPREME_SHOVEL_EPIC:
     name: '[Netherite Shovel]'
@@ -106,47 +150,67 @@ translations:
     - ''
     - '&bSoulbound'
   SUPREME_SHOVEL_SUPREME:
-    name: '[Netherite Shovel]'
+    name: '&4&lSupreme Shovel'
     lore:
+    - '&f&lA Supreme Shovel of Thornium'
     - ''
+    - '&3Supreme Tools'
     - '&bSoulbound'
   SUPREME_SHOVEL_THORNIUM:
-    name: '[Netherite Shovel]'
+    name: '&f&lThornium Shovel'
     lore:
+    - '&f&lA Shovel of Thornium'
     - ''
+    - '&3Supreme Tools'
     - '&bSoulbound'
   SUPREME_PICKAXE_SUPREME:
-    name: '[Netherite Pickaxe]'
+    name: '&4&lSupreme Pickaxe'
     lore:
+    - '&f&lA Supreme Pickaxe of Thornium'
     - ''
+    - '&3Supreme Tools'
     - '&bSoulbound'
   SUPREME_ADAMANTIUM_PICKAXE:
-    name: '[Diamond Pickaxe]'
+    name: '&f&lAdamantium Pickaxe'
     lore:
+    - '&f&lA Pickaxe of Adamantium'
     - ''
+    - '&3Supreme Tools'
     - '&bSoulbound'
   SUPREME_PICKAXE_EPIC:
-    name: '[Netherite Pickaxe]'
+    name: '&d&lEpic Pickaxe'
     lore:
+    - '&f&lA Epic Pickaxe of Thornium'
     - ''
+    - '&3Supreme Tools'
     - '&bSoulbound'
   SUPREME_AXE_MAGIC:
-    name: '[Netherite Axe]'
+    name: '&a&lMagic Axe'
     lore:
+    - '&f&lA Magic Axe of Thornium'
     - ''
+    - '&3Supreme Tools'
     - '&bSoulbound'
   SUPREME_MOB_COLLECTOR_TOOL_II:
-    name: '[Diamond Shovel]'
+    name: '&6MobTech Collector II'
     lore:
     - '&8⇨ &e⚡ &750 J per use'
     - '&8⇨ &e⚡ &70 / 5000 J'
-  SUPREME_SHOVEL_RARE:
-    name: '[Netherite Shovel]'
-    lore:
     - ''
+    - '&fUsed to capture MobTech (Bees and IronGolen)'
+    - ''
+    - '&3Supreme Tools'
+  SUPREME_SHOVEL_RARE:
+    name: '&b&lRare Shovel'
+    lore:
+    - '&f&lA Rare Shovel of Thornium'
+    - ''
+    - '&3Supreme Tools'
     - '&bSoulbound'
   SUPREME_SHOVEL_LEGENDARY:
-    name: '[Netherite Shovel]'
+    name: '&6&lLegendary Shovel'
     lore:
+    - '&f&lA Legendary Shovel of Thornium'
     - ''
+    - '&3Supreme Tools'
     - '&bSoulbound'

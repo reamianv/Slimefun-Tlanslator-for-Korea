@@ -1,13 +1,12 @@
 name: Networks
 translations:
   NTW_CRAFTING_BLUEPRINT:
-    name: '&x&6&B&3&2&A&8Crafting Blueprint'
+    name: '&x&6&B&3&2&A&8Crafting Blueprint&7(제작 청사진)'
     lore:
     - ''
-    - '&7A blank blueprint that can'
-    - '&7be used to store a crafting'
-    - '&7recipe.'
-    - ''
+    - '&7비어있는 청사진으로 '
+    - '&7제작 레시피를 저장하는 데.'
+    - '사용됩니다.'
     - '&x&E&4&E&D&3&2Tool'
   NTW_REMOTE_PRISTINE:
     name: '&x&6&B&3&2&A&8Network Remote Pristine'

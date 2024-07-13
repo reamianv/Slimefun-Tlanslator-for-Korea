@@ -1,107 +1,149 @@
 name: Supreme
 translations:
   SUPREME_BOW_LEGENDARY:
-    name: '[Bow]'
+    name: '&6&lLegendary Bow'
     lore:
+    - '&f&lA Legendary Bow of Thornium'
     - ''
+    - '&3Supreme Weapons'
     - '&bSoulbound'
   SUPREME_AURUM_SWORD:
-    name: '[Diamond Sword]'
+    name: '&f&lAurum Sword'
     lore:
+    - '&f&lA Sword of Aurum'
     - ''
+    - '&3Supreme Weapons'
     - '&bSoulbound'
   SUPREME_SHIELD_SUPREME:
-    name: '[Shield]'
+    name: '&4&lSupreme Shield'
     lore:
+    - '&f&lA Supreme Shield of Thornium'
     - ''
+    - '&3Supreme Weapons'
     - '&bSoulbound'
   SUPREME_SWORD_THORNIUM:
-    name: '[Netherite Sword]'
+    name: '&f&lThornium Sword'
     lore:
+    - '&f&lA Sword of Thornium'
     - ''
+    - '&3Supreme Weapons'
     - '&bSoulbound'
   SUPREME_SHIELD_LEGENDARY:
-    name: '[Shield]'
+    name: '&6&lLegendary Shield'
     lore:
+    - '&f&lA Legendary Shield of Thornium'
     - ''
+    - '&3Supreme Weapons'
     - '&bSoulbound'
   SUPREME_BOW_RARE:
-    name: '[Bow]'
+    name: '&b&lRare Bow'
     lore:
+    - '&f&lA Rare Bow of Thornium'
     - ''
+    - '&3Supreme Weapons'
     - '&bSoulbound'
   SUPREME_SHIELD_THORNIUM:
-    name: '[Shield]'
+    name: '&f&lThornium Shield'
     lore:
+    - '&f&lA Shield of Thornium'
     - ''
+    - '&3Supreme Weapons'
     - '&bSoulbound'
   SUPREME_SWORD_LEGENDARY:
-    name: '[Netherite Sword]'
+    name: '&6&lLegendary Sword'
     lore:
+    - '&f&lA Legendary Sword of Thornium'
     - ''
+    - '&3Supreme Weapons'
     - '&bSoulbound'
   SUPREME_SHIELD_EPIC:
-    name: '[Shield]'
+    name: '&d&lEpic Shield'
     lore:
+    - '&f&lA Epic Shield of Thornium'
     - ''
+    - '&3Supreme Weapons'
     - '&bSoulbound'
   SUPREME_SWORD_SUPREME:
-    name: '[Netherite Sword]'
+    name: '&4&lSupreme Sword'
     lore:
+    - '&f&lA Supreme Sword of Thornium'
     - ''
+    - '&3Supreme Weapons'
     - '&bSoulbound'
   SUPREME_SWORD_MAGIC:
-    name: '[Netherite Sword]'
+    name: '&a&lMagic Sword'
     lore:
+    - '&f&lA Magic Sword of Thornium'
     - ''
+    - '&3Supreme Weapons'
     - '&bSoulbound'
   SUPREME_ADAMANTIUM_SWORD:
-    name: '[Diamond Sword]'
+    name: '&f&lAdamantium Sword'
     lore:
+    - '&f&lA Sword of Adamantium'
     - ''
+    - '&3Supreme Weapons'
     - '&bSoulbound'
   SUPREME_BOW_MAGIC:
-    name: '[Bow]'
+    name: '&a&lMagic Bow'
     lore:
+    - '&f&lA Magic Bow of Thornium'
     - ''
+    - '&3Supreme Weapons'
     - '&bSoulbound'
   SUPREME_SHIELD_RARE:
-    name: '[Shield]'
+    name: '&b&lRare Shield'
     lore:
+    - '&f&lA Rare Shield of Thornium'
     - ''
+    - '&3Supreme Weapons'
     - '&bSoulbound'
   SUPREME_SWORD_RARE:
-    name: '[Netherite Sword]'
+    name: '&b&lRare Sword'
     lore:
+    - '&f&lA Rare Sword of Thornium'
     - ''
+    - '&3Supreme Weapons'
     - '&bSoulbound'
   SUPREME_BOW_THORNIUM:
-    name: '[Bow]'
+    name: '&f&lThornium Bow'
     lore:
+    - '&f&lA Bow of Thornium'
     - ''
+    - '&3Supreme Weapons'
     - '&bSoulbound'
   SUPREME_BOW_EPIC:
-    name: '[Bow]'
+    name: '&d&lEpic Bow'
     lore:
+    - '&f&lA Epic Bow of Thornium'
     - ''
+    - '&3Supreme Weapons'
     - '&bSoulbound'
   SUPREME_SHIELD_MAGIC:
-    name: '[Shield]'
+    name: '&a&lMagic Shield'
     lore:
+    - '&f&lA Magic Shield of Thornium'
     - ''
+    - '&3Supreme Weapons'
     - '&bSoulbound'
   SUPREME_TITANIUM_SWORD:
-    name: '[Diamond Sword]'
+    name: '&f&lTitanium Sword'
     lore:
+    - '&f&lA Sword of Titanium'
     - ''
+    - '&3Supreme Weapons'
     - '&bSoulbound'
   SUPREME_BOW_SUPREME:
-    name: '[Bow]'
+    name: '&4&lSupreme Bow'
     lore:
+    - '&f&lA Supreme Bow of Thornium'
     - ''
+    - '&3Supreme Weapons'
     - '&bSoulbound'
   SUPREME_SWORD_EPIC:
-    name: '[Netherite Sword]'
+    name: '&d&lEpic Sword'
     lore:
+    - '&f&lA Epic Sword of Thornium'
     - ''
+    - '&3Supreme Weapons'
     - '&bSoulbound'

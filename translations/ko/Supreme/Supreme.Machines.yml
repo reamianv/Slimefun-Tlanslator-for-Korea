@@ -587,6 +587,18 @@ translations:
     - '&8⇨ &b⚡ &7500.00 J/s'
     - ''
     - '&3Supreme Machine'
+  SUPREME_ITEM_CONVERTER_MACHINE:
+    name: '&bItem Converter'
+    lore:
+    - ''
+    - '&fOriginal Converter Item by ID,'
+    - '&frestore values of name and meta item'
+    - '&fconverting to a new item'
+    - '&6Advanced Machine'
+    - '&8⇨ &b⚡ &7Speed: &b1000.0x'
+    - '&8⇨ &b⚡ &70.00 J/s'
+    - ''
+    - '&3Supreme Machine'
   SUPREME_DIAMOND_QUARRY:
     name: '&eDiamond Quarry'
     lore:

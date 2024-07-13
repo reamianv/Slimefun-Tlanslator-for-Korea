@@ -21,11 +21,11 @@ translations:
   CLT_LEAVES_TREE_PINEAPPLE:
     name: Cultivation Leaves
   CLT_RECIPE_UNLOCK:
-    name: '&x&3&2&9&5&A&8Cultivation Knowledge Script'
+    name: '&x&3&2&9&5&A&8Cultivation Knowledge Script&7(재배 기술 스크립트)'
     lore:
     - ''
-    - '&7Right click to learn a Cultivation'
-    - '&7breeding recipe.'
+    - '&7우클릭해서 Cultivation의'
+    - '&7육종할 수 있는 레시피 배웁니다..'
     - '&7'
     - '&x&E&4&E&D&3&2Unlocks: &7{0}'
     - ''

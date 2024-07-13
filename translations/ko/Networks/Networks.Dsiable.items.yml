@@ -1,10 +1,8 @@
 name: Networks
 translations:
   NTW_DEBUG_STICK:
-    name: '&x&6&B&3&2&A&8Network Debug Stick'
+    name: '&x&6&B&3&2&A&8Network Debug Stick&7(네트워크 디버그 막대기)'
     lore:
     - ''
-    - '&7Right click a Network Object to'
-    - '&7turn on debugging.'
-    - ''
+    - '&7우클릭하여 네트워크 개체의 디버깅을 켭니다.'
     - '&x&E&4&E&D&3&2Tool'
