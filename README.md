@@ -6,3 +6,7 @@ The goal is to translate everything in Slimefun (including addons) into natural 
 
 Also, I am running a Minecraft server.
 If you are willing to help, please send a friend request on Discord to lemyanv or join https://discord.gg/ynDp8ArBFS!!
+#Tlanslator Only!!
+
+If you want to join my Minecraft server, please Join https://discord.gg/bnmQmf9aW4
+#Server
